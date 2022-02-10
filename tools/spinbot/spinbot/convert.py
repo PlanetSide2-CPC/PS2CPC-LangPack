@@ -25,7 +25,7 @@ class XMLConverter(Converter):
                     continue
 
                 # 替换 br 标签
-                line = line.replace("<", "&lt;").replace(">", "&gt;").replace("&", "&amp;").strip()
+                line = line.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").strip()
 
                 # 重新处理翻译文件空行
                 if any(x in line for x in ["ucdt", "ugdt"]):
