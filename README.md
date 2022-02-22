@@ -8,7 +8,7 @@ Weblate使用指南
 
 登录成功后你应该就可以看到 LangPack 下所有的组件了。进入组件后选择你参与的语言，例如 **中文（简体）** 。
 
-![LangPackpng](https://github.com/PlanetSide2-CPC/PS2CPC-LangPack/blob/178891983f779558b250187732c8e802b130ac1c/readmepic/LangPack.png)
+![LangPackpng](https://github.com/PlanetSide2-CPC/PS2CPC-LangPack/blob/37f11b63d422be4c19aca12c0b63df18d1003094/readmepic/LangPack.png)
 
 在进入你参与的语言组件后，你可以继续进入字符串状态为橙色的分类，例如未翻译的字符串。
 
