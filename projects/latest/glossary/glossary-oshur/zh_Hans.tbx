@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Eagle Outpost</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>飞鹰哨所</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Fort Arceo</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>坚城堡</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Palaso Supply Deopt</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>锐箭补给站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Seapost J5</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>J5海哨</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Meridian Listening Post</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>子午监听站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Hopeswell Beachhead</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>霍普斯维尔滩头堡</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Anat Interlink</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>阿娜特联络站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Wellerman Watch</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>韦勒曼观察站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Sibo Interlink</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>希伯联络站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Lamplight Security</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>灯火安全点</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Gildad Cliffs</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>吉尔达悬崖</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Wavecrest Beachhead</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>波峰滩头堡</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Bago Trident</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>巴格三叉戟</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Terran Genetics Inc.</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>地球共和国基因公司</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Pommel Gardens</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>波梅尔花园</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Imbanon Interlink</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>伊姆巴农联络站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Nascent Shipping and Storage</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>远征队运贮点</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Sage R&amp;D Labs</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>贤哲研开中心</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Sirinan Trident</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>斯里南三叉戟</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Veridad Pass</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>威兰达山道</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Ligalai Station</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>利加莱驻地</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Tannae Power</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>单宁能量站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Seaside Bluffs</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>峭壁海滩</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Binusilan Interlink</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>比努斯兰联络站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Centri Import Hub</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>森特里进口中心</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Astira Hydroelectric</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>流星水电站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Wakerift Beachhead</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>维克裂谷滩头堡</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Outpost Kalis</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>卡利斯哨所</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Hunter’s Ravine</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>猎人峡谷</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>K&amp;H Tech Station</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>热能科技实验站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>High Ridge Security</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>高山安全点</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Mirror Bay Wanchtower</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>明镜湾瞭望塔</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Mirror Bay Checkpoint</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>明镜湾检查站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Viridian Decontamination</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>维瑞蒂净化站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Seapost K10</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>K10海哨</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Viridian East Terrace</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>维瑞蒂东部阶地</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>South Viridian Beachhead</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>维瑞蒂南部滩头堡</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Anlabban Trident </term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>安拉班三叉戟</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Centri Mining Operation</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>森特里采矿场</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Pilay Interlink</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>皮雷联络站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Emerald Arboretum</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>翡翠植物园</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Dekat Interlink</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>德卡特联络站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Solstice Pass</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>至日山道</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Astira Solar Station</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>流星太阳能站</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Seapost K12</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>K12海哨</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Remnant Cove</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>残破海湾</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Southpeak Meadows</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>南山草原</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Emerald Research Co.</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>翡翠研究公司</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>
