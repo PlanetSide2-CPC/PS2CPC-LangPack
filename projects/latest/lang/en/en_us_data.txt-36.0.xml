@@ -1,1003 +1,1022 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <root>
-  <str key="2951928296" type="ucdt">Dervish Dive! Horn</str>
-  <str key="2951966262" type="ucdt">Adds 25 rounds to the default magazine size.</str>
-  <str key="2951978643" type="ucdt">There are three abandoned Amp Stations on Esamir: Elli Amp Station to the south, Nott Amp Station to the east, and an unnamed base north of Saerro Listening Post.</str>
-  <str key="2952077852" type="ucdt">Concussion Assist</str>
-  <str key="2952194233" type="ucdt">PGL-4 SKEP Anti-Tank Rocket Launcher</str>
-  <str key="2952235740" type="ucdt">Could not disband the squad because you are not the squad leader.</str>
-  <str key="2952323572" type="ucdt">&lt;font color="#00FFAA"&gt;Praetor Umatherin:&lt;/font&gt; This is the garage of the newly constructed Containment Site. Defending the facility becomes considerably more difficult when enemy vehicles breach this location.</str>
-  <str key="2952409064" type="ucdt">Reload Speed 2</str>
-  <str key="2952460132" type="ucdt">Aerial Combatant 2</str>
-  <str key="2952480998" type="ucdt">Primary: Assault Rifle: RMR-4</str>
-  <str key="2952565593" type="ucdt">Increases the weapon's reload speed by 2%.</str>
-  <str key="2952687191" type="ucdt">Increases the maximum ammo capacity of the weapon by 560 rounds.</str>
-  <str key="2952763555" type="ucdt">LA1 Anchor: Silver Medal</str>
-  <str key="2952787661" type="ugdt">Vehicle Ammo Dispenser 2</str>
-  <str key="2952803528" type="ucdt">Kontra Scout Helmet</str>
-  <str key="2952809359" type="ucdt">Outfit Voice Chat</str>
-  <str key="2952861345" type="ucdt">Increases the time required for seeking weapons to establish a lock by 0.75 seconds and reduces the mini-map auto-detect range of the vehicle to 25 meters.</str>
-  <str key="2953058469" type="ucdt">Veteran's Light Assault Armor</str>
-  <str key="2953106319" type="ucdt">TX1 Repeater: Auraxium Medal</str>
-  <str key="2953187864" type="ucdt">Reduces the acquire timer of the Galaxy down to 9.5 minutes.</str>
-  <str key="2953459813" type="ucdt">Eagle: Auraxium Medal</str>
-  <str key="2953484465" type="ucdt">Increases the maximum ammo capacity of the weapon by 42 rounds.</str>
-  <str key="2953537243" type="ucdt">Light Assault: Complete 100 missions</str>
-  <str key="2953568985" type="ucdt">TMIR-6 Brazer</str>
-  <str key="2953722916" type="ucdt">Thank you, acolyte. This information will be invaluable to us. No doubt our enemies are gathering this data as well. Disrupt their efforts.</str>
-  <str key="2953866170" type="ucdt">Adds the LC2 Bumpers to your Lightning.</str>
-  <str key="2954008673" type="ucdt">Shrapnel Vehicle Camo</str>
-  <str key="2954015981" type="ucdt">FUNCTION</str>
-  <str key="2954190330" type="ucdt">Upon detonation, the Flash Grenade will temporarily blind, deafen, and reduce the accuracy of infantry within its blast radius, making it perfect for breaching crowded rooms. &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;3 second fuse.&lt;/font&gt;</str>
-  <str key="2954192106" type="ucdt">Construction Kill</str>
-  <str key="2954227973" type="ucdt">[*target*] was not found. Couldn't send squad invitation.</str>
-  <str key="2954337584" type="ucdt">Increases the maximum ammo capacity of the weapon by 60 rounds.</str>
-  <str key="2954369175" type="ucdt">Wasp Hood Ornament</str>
-  <str key="2954378191" type="ucdt">The [*faction*] has linked to the southern warpgate +[*points*] VP!</str>
-  <str key="2954410831" type="ucdt">Applies a decal to your vehicle. Available for all factions.</str>
-  <str key="2954423544" type="ucdt">Decreases the time taken to reload weapon by 13.125%</str>
-  <str key="2954568407" type="ucdt">Additional composite plating to complement the look of your soldier. NC use only.</str>
-  <str key="2954809888" type="ucdt">This customization adds a L337 decal to the cockpit glass. VS use only.</str>
-  <str key="2954901008" type="ucdt">TA2 Blackjack: Auraxium Medal</str>
-  <str key="2954909749" type="ucdt">Carver: Copper Medal</str>
-  <str key="2954964629" type="ucdt">Rebirth 1 (13542) (DNT)</str>
-  <str key="2954983381" type="ucdt">Snow Rock Camo</str>
-  <str key="2954985457" type="ucdt">PSET Vehicle Decal</str>
-  <str key="2954985579" type="ucdt">VS1 Lumifiber Trim</str>
-  <str key="2954988946" type="ucdt">PRIMARY WEAPON:  Rail Cannon</str>
-  <str key="2955033675" type="ucdt">Apply the single use Indar Scrub camo pattern to your weapon. VS use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="2955042620" type="ucdt">Nano-Emitter 1 Description (14035) (DNT)</str>
-  <str key="2955062109" type="ucdt">Acquire a Harasser from Warpgate</str>
-  <str key="2955105092" type="ucdt">Nanoweave Armor 3 (11097) (DNT)</str>
-  <str key="2955147037" type="ucdt">Apply the Black Flames camo pattern to your weapon. All factions can use this gear.</str>
-  <str key="2955303015" type="ucdt">Nanite Systems' HS/NV scope has no magnification, but provides high contrast outlines to nearby objects and illuminates nearby soldiers.</str>
-  <str key="2955339311" type="ucdt">&lt;font color="#00FFAA"&gt;Praetor Umatherin:&lt;/font&gt; This lab must have been abandoned when the facility flooded, however I don't see any way out. Where are all of the researchers?</str>
-  <str key="2955480958" type="ugdt">Title: Cinematographer</str>
-  <str key="2955527077" type="ugdt">Ortho Digital</str>
-  <str key="2955624919" type="ugdt">Indar Dry Brush</str>
-  <str key="2955667960" type="ugdt">Spartan Helmet</str>
-  <str key="2955669410" type="ucdt">Grenade Bandolier 1</str>
-  <str key="2955739943" type="ucdt">Secondary: Pistol: NS Pistol placeholder name</str>
-  <str key="2955781581" type="ucdt">Halcyon Watch</str>
-  <str key="2955905445" type="ucdt">Reduces cooldown between placements of Spitfire Auto-Turret.</str>
-  <str key="2956155641" type="ucdt">NS-44G Commissioner Ribbon</str>
-  <str key="2956267985" type="ucdt">Robotics Technician</str>
-  <str key="2956272744" type="ucdt">Increases the speed of entering and exiting Sprint Mode</str>
-  <str key="2956301397" type="ugdt">Maj. General 6 Decal</str>
-  <str key="2956311707" type="ucdt">The NSX Naginata</str>
-  <str key="2956321991" type="ucdt">NS Baron G5: Gold Medal</str>
-  <str key="2956369589" type="ucdt">While cloaked the infiltrator can sprint faster, but will take 50% more damage</str>
-  <str key="2956404782" type="ugdt">Bandana</str>
-  <str key="2956539276" type="ucdt">Nanoweave Armor is capable of absorbing more damage than its standard issue counterpart</str>
-  <str key="2956781373" type="ucdt">L100 Python AP</str>
-  <str key="2956787499" type="ucdt">Primary: Carbine: Andromeda</str>
-  <str key="2956811239" type="ucdt">NS-44P Commissioner Auraxium Medal</str>
-  <str key="2956817909" type="ucdt">Ammo Capacity 2</str>
-  <str key="2956883715" type="ucdt">Free 500 Seven Cash each month</str>
-  <str key="2956930921" type="ucdt">Grants access to a consumable medical kit that can be used to instantly restore the users health.</str>
-  <str key="2956973801" type="ugdt">Dragon Helmet</str>
-  <str key="2957071185" type="ucdt">Tawrich Recycling</str>
-  <str key="2957134517" type="ucdt">The Banded Skull Helmet causes terror in those unfortunate enough to oppose its wearer. TR use only.2957174824	ucdn</str>
-  <str key="2957230731" type="ucdt">Radar Scrambler Range I</str>
-  <str key="2957244562" type="ucdt">Decreases the time taken to reload weapon by 0.3 seconds.</str>
-  <str key="2957256141" type="ucdt">Apply the Flame camo pattern to your weapon. TR use only.</str>
-  <str key="2957336463" type="ucdt">Apply the single use Pine Forest camo pattern to your armor. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="2957381941" type="ucdt">Heavy Assault: Bronze</str>
-  <str key="2957525735" type="ucdt">Clip 01</str>
-  <str key="2957525876" type="ucdt">EMPIRE POPULATION</str>
-  <str key="2957526908" type="ucdt">No default device is selected.</str>
-  <str key="2957617146" type="ucdt">Harasser NS-A Horn</str>
-  <str key="2957673600" type="ucdt">Health Regeneration Field</str>
-  <str key="2957693705" type="ucdt">Test Region 0</str>
-  <str key="2957718942" type="ucdt">Capture Dekat Interlink</str>
-  <str key="2957789469" type="ugdt">Default Reflex Sight</str>
-  <str key="2957885081" type="ucdt">Increases the maximum ammo capacity of the weapon by 495 rounds.</str>
-  <str key="2957908561" type="ucdt">MKV Suppressed: Gold Medal</str>
-  <str key="2957999372" type="ucdt">Customize your aircraft with these sleek Gladiator Fins. All factions can use this gear.</str>
-  <str key="2958042331" type="ugdt">Spartan Light Assault Armor</str>
-  <str key="2958050869" type="ucdt">Get the most popular Liberator weapons at a discounted price!</str>
-  <str key="2958121954" type="ucdt">Lancer VS22: Silver Medal</str>
-  <str key="2958163176" type="ucdt">Alpha Cycle 03 - Gold</str>
-  <str key="2958446261" type="ucdt">Phoenix Vehicle Camo</str>
-  <str key="2958468909" type="ucdt">Archon 4</str>
-  <str key="2958538101" type="ugdt">Athlete 5</str>
-  <str key="2958572777" type="ucdt">Use the Neutralizer on the disabled vehicle and drive it to your Warpgate</str>
-  <str key="2958620048" type="ucdt">Uplink Established -- Orbital Strike Inbound -- CLEAR THE AREA</str>
-  <str key="2958695960" type="ucdt">v0.9.9</str>
-  <str key="2958734521" type="ucdt">Changes color of the cockpit glass to Auraximas Green. VS use only.</str>
-  <str key="2958774007" type="ucdt">Allows the user to carry and place an additional anti-personnel mine or two additional anti-tank mines.</str>
-  <str key="2958918466" type="ucdt">M20 Basilisk: Auraxium Medal</str>
-  <str key="2958929731" type="ucdt">Increases the maximum ammo capacity of the weapon by 27 shells.</str>
-  <str key="2959017456" type="ucdt">&lt;font color="#00FFAA"&gt;Warden Hadley:&lt;/font&gt; The suits don't trust Nanite Systems, and I can't say I blame them. Help them build, sure, but make sure we're the ones looking over their shoulders.</str>
-  <str key="2959055041" type="ucdt">Apply the One-Year Anniversary  camo pattern to your armor.</str>
-  <str key="2959145422" type="ucdt">&lt;font color="#00FFAA"&gt;Campner:&lt;/font&gt; You have been asked to only target Biolabs that are under attack, as it will help prevent suspicion and provide plausible deniability of your actions.</str>
-  <str key="2959229300" type="ugdt">Flash Bumper VS004</str>
-  <str key="2959276882" type="ucdt">Upgrade &gt;</str>
-  <str key="2959309468" type="ucdt">Novus 2</str>
-  <str key="2959439141" type="ucdt">It has become increasing clear that the chaotic energies roiling up from beneath the permafrost must be contained at key locations in order to prevent a second collapse. Representative Foster has sent you back to Esamir to help secure and survey where the new Containment Sites will eventually be constructed.</str>
-  <str key="2959454273" type="ucdt">Infiltration Hardsuit 3</str>
-  <str key="2959467465" type="ucdt">Guerilla 2</str>
-  <str key="2959520608" type="ucdt">TUTORIAL</str>
-  <str key="2959546531" type="ucdt">Cert Attachment</str>
-  <str key="2959564065" type="ucdt">Reinforced Camouflage 1 (13508) (DNT)</str>
-  <str key="2959644576" type="ucdt">v0.2.0</str>
-  <str key="2959710161" type="ucdt">Make Squad Leader</str>
-  <str key="2959806159" type="ucdt">Help your team win by eliminating the enemy spawn point! Destroy enemy deployed Sunderers!</str>
-  <str key="2959814888" type="ucdt">Chrome Pistol Hood Ornament</str>
-  <str key="2960046704" type="ucdt">Follow the Leader</str>
-  <str key="2960127275" type="ugdt">Chrome Lightning Hood Ornament</str>
-  <str key="2960223754" type="ucdt">Connected</str>
-  <str key="2960266521" type="ucdt">UBR-150 Sea Lion: Copper Medal</str>
-  <str key="2960320504" type="ucdt">NC_02</str>
-  <str key="2960327056" type="ucdt">M1 Heavy Cycler: Silver Medal</str>
-  <str key="2960442248" type="ugdt">NSX Muramasa</str>
-  <str key="2960448052" type="ucdt">Invalid squad invitation.</str>
-  <str key="2960459115" type="ucdt">The T16 Rhino was designed as a squad support weapon that remains accurate, even during sustained fire. TR use only.</str>
-  <str key="2960745966" type="ucdt">VA39 Spectre</str>
-  <str key="2960816046" type="ucdt">Reduces minimum cone of fire and cone of fire recovery time.</str>
-  <str key="2960913553" type="ugdt">TORQ-9</str>
-  <str key="2961004402" type="ugdt">Reinforced Camouflage 1 (13509) (DNT)</str>
-  <str key="2961028692" type="ucdt">Adds Lumifiber Trim to the ANT. VS use only.</str>
-  <str key="2961093474" type="ucdt">Dual-75 Duster: Ribbon</str>
-  <str key="2961129351" type="ucdt">Flash Bumper TR004 Description</str>
-  <str key="2961188039" type="ucdt">Adds 4 rounds to the default magazine size.</str>
-  <str key="2961192868" type="ucdt">Use Join Combat from the Map screen</str>
-  <str key="2961383648" type="ucdt">Allows the Prowler to deploy which increases the reload speed of the primary weapon by 24% and projectile speed by 30% but the Prowler is unable to move.  The Prowler must not be moving to engage deployment.</str>
-  <str key="2961404277" type="ucdt">Electrical Storm</str>
-  <str key="2961432957" type="ucdt">New</str>
-  <str key="2961477923" type="ugdt">Bernard the Dinosaur Vehicle Decal</str>
-  <str key="2961618559" type="ucdt">The duration the cloak can remain active is increased to 8.5 seconds and the charge time when depleted is decreased to 11 seconds; additionally the small arms damage resist is increased to 35%.</str>
-  <str key="2961970870" type="ucdt">MG-C1 Kindred</str>
-  <str key="2962220451" type="ucdt">NS "Jackpot" Decimator</str>
-  <str key="2962250450" type="ucdt">LOCKED CHARACTER SLOT</str>
-  <str key="2962257689" type="ucdt">Apply the single use Esamir Ice camo pattern to your weapon. NC use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="2962272640" type="ucdt">&lt;font color="#00FFAA"&gt;FL-34:&lt;/font&gt; Alright friendo, just sit tight. This won't take but a moment.</str>
-  <str key="2962475070" type="ucdt">Reduces damage taken from frag grenades, common explosions, tank mines, and C4 by 50%; and infantry rockets, light anti-vehicle, and air-to-ground explosives by 20%.</str>
-  <str key="2962607502" type="ucdt">Restores 125 health per second to allied aircraft within 75 meters and allied ground vehicles within 50 meters, and does not affect the Galaxy itself.</str>
-  <str key="2962753962" type="ucdt">Solstice VE3</str>
-  <str key="2962786146" type="ucdt">Customize your ground vehicle by adding a Manta Ray Hood Ornament. All factions can use this gear.</str>
-  <str key="2962858628" type="ucdt">The Terran Republic has defended Hvar!</str>
-  <str key="2962912238" type="ucdt">Attaches a 3x optical zoom to your weapon.</str>
-  <str key="2962932006" type="ugdt">NS Decimator-B</str>
-  <str key="2962955304" type="ucdt">InfilOptics released the IO-12 as the ultimate in telescopic gun sights. It features 12x magnification and a standard mil-dot reticle.&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Hold Sprint to steady aim.&lt;/font&gt;</str>
-  <str key="2963000196" type="ucdt">Halloween VII</str>
-  <str key="2963018354" type="ugdt">Necrosis Helmet</str>
-  <str key="2963043438" type="ucdt">The Proximity Radar certification for the Harasser has been removed from the Utility slot and certification points have been refunded.  Proximity Radar is now available as a Defense slot certification and can be repurchased there.</str>
-  <str key="2963152204" type="ucdt">TRAC-5: Auraxium Medal</str>
-  <str key="2963193997" type="ucdt">Daum PC-Cafe Premium Bundle</str>
-  <str key="2963237385" type="ucdt">v0.2.7</str>
-  <str key="2963512340" type="ucdt">TR Bombs</str>
-  <str key="2963696424" type="ucdt">Allows the user to carry and place one additional anti-tank mine. Rank 2 allows for one additional anti-personnel mine, or two additional anti-tank mines.</str>
-  <str key="2963708205" type="ugdt">Republic Flame Vehicle Decal</str>
-  <str key="2963924619" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; Analysts have logged an issue with the recently deployed Containment Sites. Unfortunately, this was uncovered after deploying the facility and has been exploited by saboteurs.</str>
-  <str key="2963932253" type="ucdt">Reload Speed 2</str>
-  <str key="2963992654" type="ucdt">P525 Marauder-H</str>
-  <str key="2964402217" type="ucdt">Customize your ground vehicle by adding a "Y" Gold Hood Ornament.</str>
-  <str key="2964473967" type="ucdt">Unlock the chapter and embark on %0.&lt;br&gt;To preview the chapter &lt;a href='event:preview'&gt;CLICK HERE&lt;/a&gt;.</str>
-  <str key="2964545647" type="ugdt">Jump Booster 2</str>
-  <str key="2964803461" type="ucdt">&lt;font color="#00FFAA"&gt;Knightly&lt;/font&gt; Alright soldier, that should be enough. Your bretheren are still in the field if you want to help harvest, but I'll be in Sanctuary when you're ready to deliver.</str>
-  <str key="2964814311" type="ugdt">Colonel 1 Decal</str>
-  <str key="2964850032" type="ucdt">Champion 4</str>
-  <str key="2964879702" type="ugdt">Sergeant 2 Decal</str>
-  <str key="2964910602" type="ucdt">Provides one-time access to the Colossus Tank without the use of Outfit Resources. &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;This item expires at the end of the Campaign.&lt;/font&gt;</str>
-  <str key="2964974618" type="ucdt">NC's 7-Day Resource boost</str>
-  <str key="2965052469" type="ucdt">Squad XP Boost</str>
-  <str key="2965257500" type="ucdt">Apply the Desert Scrub v1 camo pattern to your vehicle. All factions can use this gear.</str>
-  <str key="2965359169" type="ucdt">Increases the maximum ammo capacity of the weapon by 2250 rounds.</str>
-  <str key="2965419743" type="ugdt">The smart-choke tightens pellet spread when firing while aimed by 0.5, but decreases spread when firing from hip by 0.5.</str>
-  <str key="2965655438" type="ucdt">Increases the maximum ammo capacity of the weapon by 192 rounds.</str>
-  <str key="2965721616" type="ucdt">Carnage AR: Gold Medal</str>
-  <str key="2965728818" type="ucdt">Kill enemies using any Valkyrie Nose Gun.</str>
-  <str key="2965751856" type="ucdt">Earned by being the Sunderer driver when a passenger kills an enemy.</str>
-  <str key="2966063100" type="ucdt">The9 Server Name 42</str>
-  <str key="2966208098" type="ucdt">NEED INFILTRATOR</str>
-  <str key="2966369853" type="ucdt">Increases zoom, but also increases aiming time.</str>
-  <str key="2966563563" type="ucdt">Clip Attachment  Description</str>
-  <str key="2966579216" type="ucdt">Your petition has been sent to [*guild*].</str>
-  <str key="2966682646" type="ucdt">Lightning Witch Horn</str>
-  <str key="2966748506" type="ugdt">Sunderer Armadillo Armor</str>
-  <str key="2966761628" type="ugdt">Wayland LRO (7x)</str>
-  <str key="2966830819" type="ucdt">Increases the maximum ammo capacity of the weapon by 900 rounds.</str>
-  <str key="2966859346" type="ucdt">Illuminate the battlefield with these front-facing Floodlights for your Sunderer. All factions can use this gear.</str>
-  <str key="2966944305" type="ucdt">Galaxy Hyena Missile Launcher [Tail]</str>
-  <str key="2966980202" type="ucdt">Classic Celtic Decal</str>
-  <str key="2966985590" type="ucdt">Designed for raw power, this gold plated variant of the Decimator is unmatched in its destructive potential against enemy vehicles and infantry. All factions can use NS weapons.</str>
-  <str key="2967058143" type="ucdt">NEED ANALYSIS HUD IMPLANT</str>
-  <str key="2967128909" type="ucdt">Harasser Venom Grill</str>
-  <str key="2967143631" type="ucdt">A festive blue cap featuring the New Conglomerate's logo. &lt;br&gt;&lt;font color="#2af72a"&gt;+50% xp when worn&lt;/font&gt;&lt;br&gt;&lt;font color="#FF0000"&gt;This item is only usable during the winter holiday season.&lt;/font&gt;</str>
-  <str key="2967165879" type="ucdt">Scythe Usurper Cockpit</str>
-  <str key="2967190683" type="ucdt">AF-4A Bandit: Gold Medal</str>
-  <str key="2967255479" type="ucdt">Increases the maximum ammo capacity of the weapon by 400 rounds.</str>
-  <str key="2967297671" type="ucdt">NC1 Gauss Rifle: Auraxium Medal</str>
-  <str key="2967387820" type="ucdt">NS-357 IA Ribbon</str>
-  <str key="2967422170" type="ucdt">Get a selection of ANT weapons and cosmetics at a discounted price! TR only.</str>
-  <str key="2967433059" type="ucdt">Applies a decal to your vehicle. NC use only.</str>
-  <str key="2967557519" type="ucdt">Could not set the squad recruitment description at this time.</str>
-  <str key="2967658432" type="ucdt">A Decal</str>
-  <str key="2967680384" type="ucdt">Flash Tire Spike 001 Description</str>
-  <str key="2967699325" type="ucdt">Increases the maximum ammo capacity of the weapon by 480 rounds.</str>
-  <str key="2967991469" type="ucdt">Mosquito Terran Republic Horn</str>
-  <str key="2968109482" type="ucdt">Drill Sergeant</str>
-  <str key="2968126065" type="ucdt">Superiority Armor Decal</str>
-  <str key="2968201917" type="ucdt">NC: Flash Decal</str>
-  <str key="2968234539" type="ucdt">NC: MAX: Defensive: Auto Repair 5</str>
-  <str key="2968314391" type="ucdt">Apply the single use Sandy Scrub camo pattern to your vehicle. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="2968481694" type="ucdt">The region information panel reports which facility benefits are active in the region.</str>
-  <str key="2968527592" type="ucdt">Increases the maximum ammo capacity of the weapon by 320 rounds.</str>
-  <str key="2968566521" type="ucdt">This is really a win-win situation here.</str>
-  <str key="2968570612" type="ucdt">TERRITORY CONTROL</str>
-  <str key="2968572088" type="ucdt">The Sea Lion underwater rifle fires slowly with more impact per shot, a favorite of Nascent operatives who value their ammunition supply. &lt;font color="#dc9c36"&gt;Can fire while submerged.&lt;/font&gt;</str>
-  <str key="2968608093" type="ucdt">Dragonbreath Ammunition</str>
-  <str key="2968612874" type="ucdt">Unlocked at Battle Rank 24</str>
-  <str key="2968673092" type="ucdt">Disband Squad</str>
-  <str key="2968759874" type="ucdt">Ammo Capacity 6</str>
-  <str key="2968849756" type="ucdt">G40-F Ranger</str>
-  <str key="2969087173" type="ucdt">"6" Hood Ornament</str>
-  <str key="2969166986" type="ucdt">Sniper Rifle: Impetus EMC7</str>
-  <str key="2969172683" type="ucdt">Bear Arms Vehicle Decal</str>
-  <str key="2969216641" type="ucdt">Horns</str>
-  <str key="2969304694" type="ucdt">Redeploy using Join Combat.</str>
-  <str key="2969316229" type="ugdt">Blue Blinking Lumiball</str>
-  <str key="2969382858" type="ucdt">Customize your ground vehicle by adding a Gold Venril Sathir Bust Hood Ornament.</str>
-  <str key="2969400966" type="ucdt">Molecular Weapon Camo</str>
-  <str key="2969420289" type="ugdt">Officer Reese</str>
-  <str key="2969452871" type="ucdt">White Laser Sight</str>
-  <str key="2969615794" type="ucdt">Apply the single use 艾美瑞什 Scrub camo pattern to your weapon. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="2969649059" type="ucdt">11/18 TR IOTD</str>
-  <str key="2969683625" type="ucdt">Snowstorm Camo</str>
-  <str key="2969839714" type="ucdt">Increases the maximum ammo capacity of the weapon by 9 shells.</str>
-  <str key="2970064435" type="ucdt">Apply the 艾美瑞什 Grassland camo pattern to your weapon. All factions can use this gear.</str>
-  <str key="2970238814" type="ucdt">&lt;font color="#00FFAA"&gt;FL-34:&lt;/font&gt; Okay, done!</str>
-  <str key="2970417343" type="ucdt">Halloween arrives on Auraxis!</str>
-  <str key="2970425896" type="ucdt">Flak Armor 5</str>
-  <str key="2970535086" type="ugdt">Spear</str>
-  <str key="2970588065" type="ucdt">Resource Canister Test</str>
-  <str key="2970667202" type="ucdt">Harasser Cortium Alloy Rims</str>
-  <str key="2970707454" type="ucdt">Flash M12 Kobalt-F [Primary]</str>
-  <str key="2970708418" type="ucdt">Primary: Carbine: Pulsar C</str>
-  <str key="2971060302" type="ugdt">LF-100 Afterburner 3</str>
-  <str key="2971114360" type="ucdt">Tactical Equipment</str>
-  <str key="2971165515" type="ugdt">Warpgate Teleporter</str>
-  <str key="2971322928" type="ucdt">Reaver Vertical Thrust - Level 1</str>
-  <str key="2971441789" type="ucdt">Customize your Flash with the Rail Guard. TR use only.</str>
-  <str key="2971556920" type="ucdt">MASC</str>
-  <str key="2971680622" type="ucdt">Reaver Lumifiber-SE  Trim</str>
-  <str key="2971781185" type="ucdt">Increases the maximum ammo capacity of the weapon by 80 rockets.</str>
-  <str key="2971800882" type="ucdt">The S12 Renegade is an effective shotgun that is lethal to soft targets at close range. All factions can use this weapon.</str>
-  <str key="2971844427" type="ucdt">Destroy enemies at Staging Site Alpha, Bravo, or Charlie</str>
-  <str key="2971925044" type="ucdt">Grey Scales Armor Camo</str>
-  <str key="2971979038" type="ucdt">Outfits</str>
-  <str key="2971981763" type="ucdt">This action is not available at this time. Please try again later.</str>
-  <str key="2972115562" type="ucdt">Novus 1</str>
-  <str key="2972117908" type="ucdt">T22 Executioner</str>
-  <str key="2972664960" type="ugdt">Flash Bumper TR004</str>
-  <str key="2972681182" type="ucdt">VS: Implants</str>
-  <str key="2972720773" type="ucdt">7</str>
-  <str key="2972766091" type="ucdt">Celebrate the Fifth Anniversary of PlanetSide 2 with this decal. This decal can be applied to armor.</str>
-  <str key="2972784166" type="ucdt">Foothold</str>
-  <str key="2972798778" type="ucdt">Second encryption key</str>
-  <str key="2972830477" type="ucdt">Killing an enemy while wielding a melee weapon restores 175 health. This effect does not trigger on quick melee attacks.</str>
-  <str key="2972836805" type="ucdt">Are you sure you want to disband your outfit?</str>
-  <str key="2972847052" type="ucdt">Large wall with no windows that once fully constructed can withstand a moderate amount of damage.</str>
-  <str key="2972943720" type="ucdt">Flare VE6: Auraxium Medal</str>
-  <str key="2972980548" type="ucdt">Playtest Tower</str>
-  <str key="2972984652" type="ucdt">T1S Cycler SB: Copper Medal</str>
-  <str key="2973058938" type="ucdt">&lt;font color="#00FFAA"&gt;Dolan:&lt;/font&gt; Think on it.</str>
-  <str key="2973337089" type="ucdt">Compensator</str>
-  <str key="2973634341" type="ucdt">Hold [%s] to examine datapad</str>
-  <str key="2973735496" type="ucdt">Nova</str>
-  <str key="2973754778" type="ucdt">Magazine</str>
-  <str key="2973856237" type="ucdt">Adds Lumifiber Trim to the Magrider. VS use only.</str>
-  <str key="2973900843" type="ucdt">Applies an nVidia Decal to your vehicle.</str>
-  <str key="2974127992" type="ucdt">I need ammo!</str>
-  <str key="2974361666" type="ucdt">Increases zoom, but also increases aiming time.</str>
-  <str key="2974406041" type="ucdt">Ursa</str>
-  <str key="2974425837" type="ugdt">Bullfrag Vehicle Decal</str>
-  <str key="2974486655" type="ucdt">Skirmisher Jump Jets 2</str>
-  <str key="2974547721" type="ucdt">Tawrich Depot</str>
-  <str key="2974596286" type="ucdt">TR: Pistol Circle Decal</str>
-  <str key="2974729428" type="ucdt">Betelgeuse 54-A: Auraxium Medal</str>
-  <str key="2974786029" type="ucdt">The9 Placeholder</str>
-  <str key="2975027080" type="ucdt">&lt;font color="#00FFAA"&gt;Praetor Umatherin:&lt;/font&gt; Doubt is a powerful tool, and we have sown the seeds among our foes. We will continue to refine this effective technology, and make you aware of the results when we are complete.</str>
-  <str key="2975113686" type="ucdt">Blue Chrome Armor Camo</str>
-  <str key="2975176317" type="ucdt">Reduces the acquire timer of the Liberator by 900 seconds.</str>
-  <str key="2975203942" type="ucdt">Crusader: Auraxium Medal</str>
-  <str key="2975305969" type="ucdt">"M" Gold Hood Ornament</str>
-  <str key="2975312349" type="ugdt">NS-44B Commissioner</str>
-  <str key="2975313614" type="ucdt">Heavy Assault: Kill a Light Assault, Heavy Assault, Heavy Weapons, Infiltrator, Medic, Engineer and Sniper</str>
-  <str key="2975372410" type="ucdt">A Supply Convoy can leave from your warpgate every 30 minutes</str>
-  <str key="2975420954" type="ucdt">Flash Purple Blinking Lumiball</str>
-  <str key="2975445477" type="ucdt">Creates a long lasting smoke screen around the Sunderer that disrupts visibility and lock-ons for 9 seconds.</str>
-  <str key="2975501103" type="ucdt">Male</str>
-  <str key="2975553321" type="ucdt">Training: Message Courier</str>
-  <str key="2975624292" type="ucdt">Melee Booster 2 (11035) (DNT)</str>
-  <str key="2975636472" type="ucdt">Increases Sticky Grenade capacity to three</str>
-  <str key="2975760975" type="ucdt">&lt;font color="#00FFAA"&gt;MISSION&lt;/font&gt; Move To Waypoint</str>
-  <str key="2975874108" type="ucdt">Deploys an Anti-Infantry Phalanx turret that may be manned by allied players.</str>
-  <str key="2975945527" type="ucdt">Type</str>
-  <str key="2975959924" type="ucdt">The9 Placeholder</str>
-  <str key="2976095626" type="ucdt">Auto-Ignore Outfit Invites</str>
-  <str key="2976159268" type="ucdt">Increases the range and duration that soldiers can be resupplied by the ammunition pack</str>
-  <str key="2976172555" type="ucdt">When you are ready, interact with the podium in front of you.</str>
-  <str key="2976443120" type="ucdt">Harasser Failsauce Horn</str>
-  <str key="2976650442" type="ucdt">Adds 12 rounds to the default magazine size.2976724122	ucdn</str>
-  <str key="2976787189" type="ucdt">Nanite Proximity Repair System 6</str>
-  <str key="2976809740" type="ucdt">CONFLICTING KEYS</str>
-  <str key="2976813838" type="ucdt">HL4 Darkstar Armor Bundle</str>
-  <str key="2976835090" type="ucdt">Auraximas Gift</str>
-  <str key="2976852656" type="ucdt">Universal</str>
-  <str key="2977057120" type="ugdt">Flash F51 Deflection Shield Bumper</str>
-  <str key="2977148570" type="ucdt">Automatic Trigger</str>
-  <str key="2977317621" type="ugdt">Nano-Armor Kit 1</str>
-  <str key="2977481389" type="ucdt">Heavy Air Discount</str>
-  <str key="2977589151" type="ucdt">Increases the maximum ammo capacity of the weapon by 32 missiles.</str>
-  <str key="2977617863" type="ucdt">Customize your ground vehicle by adding a Flying Bullet Hood Ornament. All factions can use this gear.</str>
-  <str key="2977736553" type="ucdt">Reaver M30 Mustang AH [Nose]</str>
-  <str key="2977835869" type="ucdt">TR Assault Starter Bundle</str>
-  <str key="2978020128" type="ugdt">Radar Buster Camo</str>
-  <str key="2978097488" type="ucdt">Increases nanite gain by 50% for 1 Day. Boost can only be used on this character.</str>
-  <str key="2978143775" type="ucdt">Valkyrie Avenger Cockpit</str>
-  <str key="2978189285" type="ucdt">Rocket Launcher Clip 01 Description</str>
-  <str key="2978275949" type="ucdt">Additional composite plating to complement the look of your Infiltrator. TR use only.</str>
-  <str key="2978365526" type="ucdt">Gadgets</str>
-  <str key="2978436212" type="ucdt">Forward Shield Horizontal Generator</str>
-  <str key="2978458168" type="ucdt">Smoke Grenade: Gold Medal</str>
-  <str key="2978507205" type="ugdt">Sky Master Helmet</str>
-  <str key="2978670151" type="ucdt">A portion of your membership subsidizes developer cup soup rations.</str>
-  <str key="2978734992" type="ugdt">Magburner 5</str>
-  <str key="2978756715" type="ucdt">Further increases resupply speed.</str>
-  <str key="2978759826" type="ucdt">Decreases the time taken to reload weapon by 0.4 seconds.</str>
-  <str key="2978873061" type="ucdt">Press [%s] to enter vehicle</str>
-  <str key="2979124851" type="ucdt">NS "Heatwave" Decimator: Silver Medal</str>
-  <str key="2979132125" type="ucdt">Applies one-way shields to the openings of nearby structures, protecting defenders within. Requires a nearby Silo to power the module.</str>
-  <str key="2979163044" type="ucdt">Lightning 100mm Cannon</str>
-  <str key="2979207669" type="ucdt">&lt;font color="#00FFAA"&gt;Warden Hadley:&lt;/font&gt; Ah, there's the researcher. She's not looking too good. You should see what you can find out while you can.</str>
-  <str key="2979305608" type="ucdt">Mineral Radar</str>
-  <str key="2979425971" type="ucdt">Legate 2 Decal</str>
-  <str key="2979445258" type="ucdt">Earned by being the ANT driver when a passenger kills an enemy.</str>
-  <str key="2979480378" type="ucdt">W Decal</str>
-  <str key="2979668490" type="ugdt">One-Year Anniversary Player</str>
-  <str key="2979825191" type="ucdt">Taking fall damage will cloak you for 2.5 seconds. Additionally, bailing from an ejection seat aircraft will cloak you for 6 seconds upon hitting the ground. Firing a weapon will reveal you.</str>
-  <str key="2979828362" type="ucdt">LA8 Rebel: Gold Medal</str>
-  <str key="2979952402" type="ucdt">Complete Master Basic Directive or earn Battle Rank 10</str>
-  <str key="2979974371" type="ugdt">Ground Vehicle Terminal</str>
-  <str key="2980014278" type="ucdt">What would we do without you? Nothing, I guess.</str>
-  <str key="2980176415" type="ucdt">Ammunition Package 3</str>
-  <str key="2980230631" type="ucdt">This customization adds a Tan decal to the cockpit glass. All factions can use this gear.</str>
-  <str key="2980240203" type="ucdt">Further increases the size of the Overcloak Device's capacitor.</str>
-  <str key="2980289609" type="ucdt">Galaxy M20 Drake [Top]</str>
-  <str key="2980328427" type="ucdt">A standardized reflex sight designed to promote faster precision aiming.</str>
-  <str key="2980353781" type="ucdt">Gauss Rifle Burst: Silver Medal</str>
-  <str key="2980391045" type="ucdt">ASP-30 Grounder: Silver Medal</str>
-  <str key="2980404403" type="ucdt">Vanguard Dozer Plating</str>
-  <str key="2980438915" type="ucdt">C75 Viper: Gold Medal</str>
-  <str key="2980481782" type="ugdt">Stealth Cloaking Module</str>
-  <str key="2980490211" type="ucdt">Liberator Yellow Contrails</str>
-  <str key="2980702179" type="ucdt">Delete Me</str>
-  <str key="2980721086" type="ucdt">Infiltrator: Tool Slot</str>
-  <str key="2980865474" type="ucdt">Thanks for your interest in improving your gaming experience. Please select the area in which we can be of the most assistance.</str>
-  <str key="2981016767" type="ucdt">The Prowler is the Terran Republic's main battle tank. It is a fast tank with a dual cannon for maximum firepower.</str>
-  <str key="2981042030" type="ucdt">Advanced Equipment Terminal Hacking 1</str>
-  <str key="2981097334" type="ucdt">Rocket Launcher: Lock-on Speed</str>
-  <str key="2981142325" type="ucdt">Got em.</str>
-  <str key="2981233506" type="ucdt">Nanoweave Armor 2 Description (11611) (DNT)</str>
-  <str key="2981324490" type="ugdt">Dingo ML-6</str>
-  <str key="2981438289" type="ucdt">Stampede MG: Auraxium Medal</str>
-  <str key="2981440250" type="ucdt">Generates a dense mesh of nanites around the soldier that decays slowly while active, and absorbs up to 450 damage before failing. Regenerates to full in 28 seconds.</str>
-  <str key="2981486847" type="ucdt">Squad leaders can earn Drill Sergeant Ribbons for every battle rank a new player earns in their squad. Help out the new players!</str>
-  <str key="2981533482" type="ucdt">v1.1.9</str>
-  <str key="2981609228" type="ucdt">Nightmare 4</str>
-  <str key="2981614590" type="ucdt">Esamir Snowdrift Vehicle Camo</str>
-  <str key="2981664225" type="ucdt">Amp Station Defense</str>
-  <str key="2981682964" type="ugdt">NS-11CG</str>
-  <str key="2981715608" type="ucdt">Adds 2 rounds to the default magazine size.</str>
-  <str key="2981797260" type="ucdt">Firing in short bursts will help you control your weapon more easily, and land shots where you want them.</str>
-  <str key="2981855680" type="ucdt">Male Voice Pack 04 Description Placeholder</str>
-  <str key="2981961832" type="ucdt">Decreases the time taken to reload weapon by 11.25%</str>
-  <str key="2982048934" type="ucdt">Dolphin Ops Armor Decal</str>
-  <str key="2982104567" type="ucdt">Reclaimed Magrider</str>
-  <str key="2982141853" type="ucdt">TS2 Inquisitor Auraxium Medal</str>
-  <str key="2982308209" type="ucdt">Allows for the creation of a single flash personal atv in the outfitwars game mode. Usable from the home base vehicle terminals by those who have outfit permission to use the item.</str>
-  <str key="2982366215" type="ugdt">Eridani SX5G</str>
-  <str key="2982387622" type="ucdt">Apply the Dazzle Dizzy camo pattern to your vehicle. NC use only.</str>
-  <str key="2982403834" type="ucdt">Increases the maximum ammo capacity of the weapon by 90 grenades.</str>
-  <str key="2982439130" type="ugdt">Enhanced Refining 4</str>
-  <str key="2982446017" type="ucdt">Bighorn .50M: Gold Medal</str>
-  <str key="2982496412" type="ucdt">Further increases the size of the Nano-Efficient Cloak's capacitor.</str>
-  <str key="2982599568" type="ucdt">Customize your Sunderer and tear up the roads of Auraxis with these tire spikes. All factions can use this gear.</str>
-  <str key="2982755173" type="ucdt">The deploy location is out of bounds</str>
-  <str key="2982892302" type="ucdt">Auto Turret</str>
-  <str key="2983000391" type="ucdt">Shotgun Grant Item</str>
-  <str key="2983065788" type="ucdt">Sniper Rifle: VA39 Spectre</str>
-  <str key="2983116390" type="ucdt">ID'd an enemy Lightning.</str>
-  <str key="2983145124" type="ucdt">Andvari Cargo Bay C</str>
-  <str key="2983270964" type="ucdt">Increases the maximum ammo capacity of the weapon by 900 rounds.</str>
-  <str key="2983303263" type="ugdt">Hex Crystal Vehicle Camo</str>
-  <str key="2983309284" type="ucdt">M60-A Bulldog: Silver Medal</str>
-  <str key="2983391002" type="ucdt">The deploy location is invalid</str>
-  <str key="2983406331" type="ucdt">Proficiency with the Heavy Assault class.</str>
-  <str key="2983539210" type="ucdt">Unlocks access to LMGs. Does not include Directive reward weapons. Engineer only.</str>
-  <str key="2983595553" type="ucdt">Fort Drexler</str>
-  <str key="2983620377" type="ucdt">Deployment Shield 3</str>
-  <str key="2983791635" type="ucdt">Newbie</str>
-  <str key="2983947143" type="ucdt">Kill enemies that are wearing a Halloween mask with the NS CandyCannon 3000.Completing this directive awards the title "the Trickster"</str>
-  <str key="2984185735" type="ucdt">Decoy Grenade</str>
-  <str key="2984292745" type="ugdt">Indar Canyons v2 Camo</str>
-  <str key="2984413922" type="ucdt">3.4x Scope</str>
-  <str key="2984513684" type="ucdt">This is the default scope for rocket launchers</str>
-  <str key="2984533271" type="ucdt">You're ready to join the fight, but before you go, you should speak with your faction representative on Sanctuary for their last bit of guidance.</str>
-  <str key="2984578571" type="ucdt">Increases the maximum ammo capacity of the weapon by 64 rockets.</str>
-  <str key="2984976668" type="ucdt">This customization adds a Teal decal to the cockpit glass. TR use only.</str>
-  <str key="2984999025" type="ucdt">Cell Camo</str>
-  <str key="2985033011" type="ucdt">Apply the Wave camo pattern to your weapon. TR use only.</str>
-  <str key="2985058671" type="ucdt">Allows the Infiltrator to use the Proximity mine</str>
-  <str key="2985177437" type="ucdt">Arazek SATCOM Hub</str>
-  <str key="2985199144" type="ucdt">Test Group 8</str>
-  <str key="2985219600" type="ucdt">A generous group of civilians has donated this extra lifewear in support of a greater good.</str>
-  <str key="2985333244" type="ugdt">Deputy Director 5 Decal</str>
-  <str key="2985345390" type="ucdt">Apply the single use Indar Dunes camo pattern to your weapon. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="2985490159" type="ucdt">Sunderer Gunport [WIP]: Gold Medal</str>
-  <str key="2985781119" type="ucdt">Cosmos: Copper Medal</str>
-  <str key="2985920284" type="ucdt">Front Iron Sight Attachment 01</str>
-  <str key="2985959331" type="ucdt">NS-44P Commissioner Silver Medal</str>
-  <str key="2986111720" type="ucdt">Sub-Orbital Galaxy Cockpit</str>
-  <str key="2986193094" type="ucdt">It's our anniversary, and we're having a sale to celebrate!</str>
-  <str key="2986198968" type="ucdt">Galaxy Deploy</str>
-  <str key="2986232542" type="ucdt">Where all facilities are born</str>
-  <str key="2986301069" type="ucdt">GD-22S: Auraxium Medal</str>
-  <str key="2986305959" type="ucdt">Single Use Indar Dunes Camo</str>
-  <str key="2986316938" type="ucdt">Apply the single use Digital camo pattern to your armor. NC use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="2986364935" type="ucdt">Darklight Flashlight</str>
-  <str key="2986367827" type="ucdt">You are about to purchase: %0. Are you sure?</str>
-  <str key="2986385004" type="ucdt">Grenade Launcher Attachment</str>
-  <str key="2986523409" type="ucdt">Reduces the acquire timer of the Harasser by 420 seconds.</str>
-  <str key="2986563376" type="ucdt">Comet VM2</str>
-  <str key="2986632676" type="ucdt">VS - Heavy Pistol - Mid - V1 Description(Delete Me -BB)</str>
-  <str key="2986694582" type="ucdt">The jump key is used to hurdle battlefield obstacles.</str>
-  <str key="2986865819" type="ucdt">War is a costly endeavor, especially for ammunition and the lack therof. The Sunderer, being the versatile machine it is, can be used to remedy this current and never-ending reality of war. Use the Sunderer to transport ammo to our allies at our front lines!</str>
-  <str key="2987042573" type="ucdt">Horns</str>
-  <str key="2987066058" type="ucdt">Unlocks access to EMP Grenades. Engineer only.</str>
-  <str key="2987192545" type="ucdt">Applies a camo to your armor, weapon, or vehicle. All factions can use this gear.</str>
-  <str key="2987338714" type="ucdt">Request denied - the match does not exist.</str>
-  <str key="2987487171" type="ucdt">Reload Speed 2</str>
-  <str key="2987511382" type="ucdt">Change to Seat 7</str>
-  <str key="2987555980" type="ucdt">Utility</str>
-  <str key="2987742266" type="ucdt">MANA Turret: Auraxium Medal</str>
-  <str key="2987795403" type="ucdt">Armored Tire Spikes</str>
-  <str key="2987804944" type="ucdt">Apply the Wave camo pattern to your armor. NC use only.</str>
-  <str key="2987832812" type="ucdt">Seeker HLX: Auraxium Medal</str>
-  <str key="2987985674" type="ucdt">M20 Basilisk (Top)</str>
-  <str key="2988205632" type="ucdt">NC Male Heavy Assault</str>
-  <str key="2988235895" type="ucdt">The straight-pull bolt allows the sniper to chamber another round while aiming down sights.</str>
-  <str key="2988381301" type="ucdt">Archon 1 Decal</str>
-  <str key="2988491840" type="ucdt">Raider 5</str>
-  <str key="2988528748" type="ucdt">Blue Chrome Vehicle Camo</str>
-  <str key="2988555023" type="ucdt">Containment II Banner</str>
-  <str key="2988667344" type="ucdt">Terran Republic (Enemy)</str>
-  <str key="2988696519" type="ucdt">Decreases the time taken to reload weapon by 0.45 seconds.</str>
-  <str key="2988746474" type="ucdt">Reduces the acquire timer of the Sunderer by 540 seconds.</str>
-  <str key="2988751033" type="ugdt">i3fs Armor Decal</str>
-  <str key="2988803330" type="ucdt">Facilitator Campner has been spending his leisure time playing an old Earth game called checkers, and would enjoy a physical game set. Representative Ayla of Nanite Systems has an excellent record of obtaining obscure objects and may prove to be useful in acquiring one.</str>
-  <str key="2988852879" type="ugdt">Razor Edge Vehicle Camo</str>
-  <str key="2988952571" type="ucdt">Nanite Auto Repair System 3</str>
-  <str key="2989184183" type="ucdt">Tuffin Vehicle Decal</str>
-  <str key="2989217498" type="ucdt">LA80: Copper Medal</str>
-  <str key="2989223630" type="ucdt">FIRE RATE</str>
-  <str key="2989319245" type="ucdt">Applies a decal to your armor. TR use only.</str>
-  <str key="2989334570" type="ugdt">Eclipse VE3A</str>
-  <str key="2989356543" type="ucdt">Light Assaults can use Carbines which retain a portion of their accuracy while airborne. They also have access to Submachine Guns, and Shotguns.&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;Unique to the Light Assault is the Rocklet Rifle. The 6-round Rocklet Rifle fires light explosive mini-rockets, giving the Light Assault the versatility to engage vehicles. It can fire semi-auto or unload all rocklets in rapid succession.</str>
-  <str key="2989466421" type="ucdt">Reload Speed</str>
-  <str key="2989469004" type="ugdt">Vanu Scout Helmet</str>
-  <str key="2989485262" type="ucdt">Heavy Assault: Tools</str>
-  <str key="2989607443" type="ucdt">Single Use Zebra Armor Camo</str>
-  <str key="2989629447" type="ucdt">Gear Slot 2</str>
-  <str key="2989732793" type="ucdt">VS 03 (default)</str>
-  <str key="2989743999" type="ucdt">&lt;font color="#00FFAA"&gt;Field Officer Knightly&lt;/font&gt; Listen up, soldier. We've got some weeding that needs done around The Shattered Warpgate area.</str>
-  <str key="2989754299" type="ucdt">Emerald Arboretum</str>
-  <str key="2989869087" type="ucdt">Battle experience also earns you resources.  The type of resource earned is determined by which territory you are in.</str>
-  <str key="2989882832" type="ucdt">PlanetSide: Arena goes to Early Access.</str>
-  <str key="2989886878" type="ucdt">&lt;font color="#00FFAA"&gt;Hadley:&lt;/font&gt; So, keep your eyes peeled for the remains of our fallen heroes. Make a note of their position and collect their dog tags. We owe it to them to recover their remains and remember their names.</str>
-  <str key="2989898881" type="ucdt">Integration Banner</str>
-  <str key="2990130766" type="ucdt">EW Mark I-Q Rapid Laser</str>
-  <str key="2990415478" type="ucdt">Flash Violet Blinking Lumiball</str>
-  <str key="2990582035" type="ucdt">CURRENT %0: &lt;font color="#7FF4FF"&gt;%1&lt;/font&gt;</str>
-  <str key="2990600730" type="ugdt">TRAP-6</str>
-  <str key="2990630094" type="ucdt">Next Rank: Repairs 5.6% every 5 seconds.</str>
-  <str key="2990633335" type="ucdt">Display Mode</str>
-  <str key="2990745721" type="ucdt">The9 Placeholder</str>
-  <str key="2990909865" type="ucdt">Next rank lowers cooldown.  Can be activated once every 46 seconds.</str>
-  <str key="2990931593" type="ucdt">Life Support System 1 (11100) (DNT)</str>
-  <str key="2990979130" type="ucdt">Allows the user to carry and place two additional bricks of C-4.</str>
-  <str key="2991069126" type="ucdt">A 3.4x zoom scope useful when engaging targets at greater distances.</str>
-  <str key="2991152098" type="ucdt">Earn any Service Ribbon</str>
-  <str key="2991391950" type="ucdt">Charge 2</str>
-  <str key="2991450430" type="ucdt">Premium Passive CP Gain</str>
-  <str key="2991525877" type="ucdt">Support Planetside 2 and get awesome benefits!</str>
-  <str key="2991562932" type="ucdt">Corona: Copper Medal</str>
-  <str key="2991565478" type="ucdt">Allows squad leaders to request empire-wide offensive and defensive support by placing markers on the continent map.</str>
-  <str key="2991603369" type="ucdt">You can now wield the soundtrack of failure. Apply liberally to your fallen foes. All factions can use this item.</str>
-  <str key="2991806574" type="ugdt">"V" Gold Hood Ornament</str>
-  <str key="2991829926" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; The heat signature is coming from that crashed weather drone. Powerful storms may still be prevalent even after dissipating Oshur's energy barrier.</str>
-  <str key="2991933057" type="ucdt">Indar Dry Ocean Camo</str>
-  <str key="2991956564" type="ucdt">VS ANT Mining Turret</str>
-  <str key="2991992322" type="ucdt">Confront Representative Foster</str>
-  <str key="2992010094" type="ucdt">Give it your all!</str>
-  <str key="2992010102" type="ucdt">Anti Vehicle Grenade: Gold Medal</str>
-  <str key="2992026762" type="ucdt">Charge 4</str>
-  <str key="2992145295" type="ucdt">Liberator Hearts Glass Decal</str>
-  <str key="2992171959" type="ucdt">Embracing ancient Vanu technology, VS weapons and vehicles are the most exotic on the battlefield.Handheld VS weapons have small power sources instead of magazines, and shoot plasma rounds, making them well-rounded and accurate.Their main battle tank, the &lt;font color="#c27fff"&gt;Magrider&lt;/font&gt;, makes use of hover technology allowing it to glide smoothly over rough terrain.Heavy weapons like the &lt;font color="#c27fff"&gt;Lasher&lt;/font&gt; and the vehicle-mounted &lt;font color="#c27fff"&gt;Particle Accelerator&lt;/font&gt; fire spheres of charged energy that fire rapidly and explode on impact.The handheld &lt;font color="#c27fff"&gt;Lancer&lt;/font&gt; fires a highly accurate anti-vehicle plasma rail that requires a short charge-up before firing.</str>
-  <str key="2992316860" type="ugdt">Commander 3 Decal</str>
-  <str key="2992368645" type="ugdt">Mending Field 4</str>
-  <str key="2992429662" type="ucdt">Survey Staging Site Charlie</str>
-  <str key="2992455172" type="ucdt">&lt;font color="#00FFAA"&gt;&lt;u&gt;Auraxis Prior&lt;/u&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;While each empire uses a unique command hierarchy to organize and enact battlefield strategy, what all empires do equally is decentralize their information gathering and delivery methods as much as possible.&lt;br&gt;By using couriers, civilians, and soldiers of varying rank and status, the damage that traitors, spies, data breaches, and lost information can do is limited.&lt;/i&gt;</str>
-  <str key="2992538456" type="ucdt">The Wayland Long Range Optic is easily configured for various magnifications. This optic amplifies magnification by 12x.</str>
-  <str key="2992568106" type="ugdt">War Hero Decal</str>
-  <str key="2992603173" type="ugdt">NC: LMG Decal</str>
-  <str key="2992630303" type="ucdt">US</str>
-  <str key="2992891343" type="ucdt">Cockpit: Red Metallic Decal</str>
-  <str key="2992991149" type="ucdt">Armageddon Helmet</str>
-  <str key="2992995372" type="ugdt">Sandy Scrub - Single Use</str>
-  <str key="2993306153" type="ucdt">Insufficient Funds! Please add more %0.</str>
-  <str key="2993439048" type="ugdt">v0.9.4</str>
-  <str key="2993456722" type="ucdt">Local Server 2</str>
-  <str key="2993609417" type="ucdt">Applies a camo to your armor, weapon, or vehicle. Only usable by VS.</str>
-  <str key="2993673504" type="ucdt">Apply the Grey camo pattern to your armor.</str>
-  <str key="2993857234" type="ucdt">Apply the Honeycomb camo pattern to your vehicle. TR use only.</str>
-  <str key="2993857438" type="ucdt">M40 Fury: Silver Medal</str>
-  <str key="2993906700" type="ucdt">Matte Black Vehicle Camo</str>
-  <str key="2993966584" type="ucdt">Galact-O'-Lantern</str>
-  <str key="2994102675" type="ucdt">Wearable by all non-Max classes. VS use only.</str>
-  <str key="2994110486" type="ugdt">Valkyrie Sonic Wave Horn</str>
-  <str key="2994155003" type="ucdt">Apply the single use Snow Aspen Forest camo pattern to your armor. VS use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="2994201028" type="ucdt">Briggs Laboratories</str>
-  <str key="2994355156" type="ucdt">Region Control 60%</str>
-  <str key="2994361239" type="ucdt">Today Only! Solid Green Camo Available!</str>
-  <str key="2994410142" type="ugdt">Emergency Repair 6</str>
-  <str key="2994520030" type="ucdt">Velocity: Silver Medal</str>
-  <str key="2994525721" type="ugdt">Windblown Weapon Camo</str>
-  <str key="2994563736" type="ucdt">Apply the single use Desert Scrub v1 camo pattern to your weapon. VS use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="2994631163" type="ucdt">A turret has been damaged.</str>
-  <str key="2994703459" type="ucdt">&lt;font color="#00FFAA"&gt;Warden Hadley:&lt;/font&gt; Welcome to Oshur, soldier. This place has a lot to teach us. And the Terran Republic sure wanted to get back here in a hurry. We should find out why.</str>
-  <str key="2994727441" type="ugdt">Cockpit: VS Logo Decal</str>
-  <str key="2994921052" type="ucdt">Link to southwest Warpgate.</str>
-  <str key="2994970244" type="ucdt">&lt;font color="#dc9c36"&gt;Must wield melee weapon to collect. Hold quick melee button down to wield melee weapon.&lt;br&gt;&lt;br&gt;Collection credit is shared with nearby allies.&lt;br&gt;&lt;/font&gt;&lt;br&gt;Look around the Shattered Warpgate region for plant specimens identified by the Analysis HUD implant. There should be plants throughout the region as well as clusters that spring up and spawn rapidly.</str>
-  <str key="2995019480" type="ucdt">Orphaned - Post Launch - Do not translate.  Mosquito Inertial Dampener - Level 2</str>
-  <str key="2995068884" type="ucdt">Ammo Printer 3</str>
-  <str key="2995131114" type="ucdt">66th Vanu Air Corps Decal</str>
-  <str key="2995159042" type="ucdt">Hunted Kill Streak Bonus</str>
-  <str key="2995258246" type="ucdt">Machinima Decal 3</str>
-  <str key="2995259257" type="ugdt">Bear Claw Decal</str>
-  <str key="2995362378" type="ucdt">Increases the maximum ammo capacity of the weapon by 900 rounds.</str>
-  <str key="2995413322" type="ucdt">Classic Winged Skull Decal</str>
-  <str key="2995454818" type="ucdt">Adds 50 rounds to the default magazine size.</str>
-  <str key="2995462668" type="ucdt">&lt;font color="#00FFAA"&gt;Warden Hadley:&lt;/font&gt; Hey, soldier. We need combat trained pilots. Fly to the specified areas and deploy additional Storm Buoys or clear out any enemy aircraft that may threaten the research.</str>
-  <str key="2995518938" type="ucdt">Rashnu Bio Lab</str>
-  <str key="2995700790" type="ucdt">Too far or too close from Orbital Strike Generator</str>
-  <str key="2995728263" type="ucdt">Rashnu Watchtower Satellite Spawn</str>
-  <str key="2995765494" type="ucdt">Earn Outfit Wars score to increase your ranking.</str>
-  <str key="2995793766" type="ucdt">You can keep players from sending you messages by typing /ignore playername.</str>
-  <str key="2995844383" type="ucdt">Apply the single use Pine Forest camo pattern to your armor. VS use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="2995845348" type="ucdt">Video Tutorials</str>
-  <str key="2995870411" type="ucdt">Portable shooting platform attachment</str>
-  <str key="2995941920" type="ucdt">Gold Forest Giant Hood Ornament</str>
-  <str key="2995956405" type="ucdt">Adds 1 rocket to the default magazine size.</str>
-  <str key="2995979957" type="ugdt">Ravenshroud Helmet</str>
-  <str key="2996043491" type="ucdt">Apply the single use African Forest camo pattern to your weapon. VS use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="2996103053" type="ucdt">&lt;font color="#00FFAA"&gt;FL-34: &lt;/font&gt; I've got the first key, the second you'll have to swipe from the facility I've marked on your map, and the last one, well that one is a bit more complicated.</str>
-  <str key="2996142835" type="ucdt">NONE</str>
-  <str key="2996161258" type="ucdt">Increases the maximum ammo capacity of the weapon by 26 rounds.</str>
-  <str key="2996204918" type="ucdt">Increases the maximum ammo capacity of the weapon by 120 rounds.</str>
-  <str key="2996321275" type="ucdt">Increases the speed at which an Infiltrator can hack enemy equipment terminals by 40%.</str>
-  <str key="2996409489" type="ucdt">NC's Perfect Sniper Description</str>
-  <str key="2996476807" type="ucdt">Blackheart: Ribbon</str>
-  <str key="2996628440" type="ugdt">Firestorm 1</str>
-  <str key="2996631171" type="ucdt">Advanced Shield Capacitors allow damaged and depleted shields to recharge sooner.</str>
-  <str key="2996659744" type="ucdt">AE Medical Applicator 2</str>
-  <str key="2996667189" type="ucdt">Refined material construction removes the innate hipfire movement speed penalty, reduces the movement speed penalty while aiming by 50%, and increases the weapon's angular recoil by 33%.</str>
-  <str key="2996684736" type="ucdt">AF-19 Mercenary</str>
-  <str key="2996702266" type="ucdt">Elite Soldier Bundle</str>
-  <str key="2996760498" type="ucdt">Nanite Appreciation Sale 2017</str>
-  <str key="2996780340" type="ucdt">Applies a PlanetSide 1 Decal to your armor.</str>
-  <str key="2996784921" type="ucdt">Mousing over a region brings up a details panel about that region.</str>
-  <str key="2996790238" type="ucdt">Flash Toe Cutter Tire Spikes</str>
-  <str key="2996812264" type="ucdt">&lt;font color="#00FFAA"&gt;Festive Drone:&lt;/font&gt; Merry Auraximas, human. Another gift awaits you tomorrow.</str>
-  <str key="2996951624" type="ucdt">Standard Vanu Sovereignty MAX Helmet</str>
-  <str key="2997182325" type="ugdt">v0.6.0 Decal</str>
-  <str key="2997252358" type="ucdt">Congratulations, you have now succesfully Redeployed to the Warpgate. Remember Redeploy can be used to transport yourself to any Waypoint (green circles on the map during Redeploy), or even certain vehicles (Appear Green).</str>
-  <str key="2997417724" type="ugdt">Abstract Camo</str>
-  <str key="2997604093" type="ugdt">Gripmaster Tire Spikes</str>
-  <str key="2997621642" type="ucdt">Become a Premium Member!</str>
-  <str key="2997759786" type="ugdt">Flash Deathmarch Horn</str>
-  <str key="2998039914" type="ucdt">Applies a camo to your armor, weapon or vehicle. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="2998075565" type="ucdt">Free monthly 500 Seven Cash</str>
-  <str key="2998083819" type="ucdt">Bounce House of Pain</str>
-  <str key="2998251461" type="ucdt">AF-57 Piston: Gold Medal</str>
-  <str key="2998253490" type="ucdt">Zurvan Courtyard 2</str>
-  <str key="2998263584" type="ucdt">Designates the wearer as an honorary member of the Black Market smugglers.</str>
-  <str key="2998314658" type="ucdt">&lt;font color="#00FFAA"&gt;Giga Carrot: &lt;/font&gt; One day we will break free of this place and bring down upon you and your people a righteous fury that will burn hotter than the brightest star.</str>
-  <str key="2998725311" type="ucdt">Transport Mode 5: Description</str>
-  <str key="2998808815" type="ucdt">VS Carbine Rifle Group</str>
-  <str key="2998810723" type="ucdt">Attach a spoiler to the vehicle.</str>
-  <str key="2998830676" type="ucdt">Harasser Fender TR002 Description</str>
-  <str key="2998958229" type="ucdt">Oshur: Sea: Interior: NE: Disabled: 02</str>
-  <str key="2999016271" type="ucdt">This uplink structure can unleash a devastating attack from orbit. When powered and charged, any target in range can be designated using a tool obtained from the uplink terminal. Longer distance strikes cost additional charge, so frequent or long distance attacks will require longer term defense of the structure.</str>
-  <str key="2999100595" type="ucdt">450 MERIT (+50%)</str>
-  <str key="2999151573" type="ucdt">Protect the Eastern SCU!</str>
-  <str key="2999155727" type="ucdt">Depth Charge Drop Pod</str>
-  <str key="2999307071" type="ucdt">Unlocks the Auxiliary Spitfire Turret for your tactical loadout slot. These are resupplied using &lt;font color="#ACE1E5"&gt;&lt;u&gt;Merit&lt;/u&gt;&lt;/font&gt; points.&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;Single use consumable. Max 2 between resupplies.&lt;/font&gt;&lt;br&gt;Deployable turret identical to an engineer Spitfire Auto-Turret. Only one Aux Spitfire can be active at a time. An engineer can place their standard spitfire and one Aux Spitfire at the same time.</str>
-  <str key="2999545272" type="ucdt">Ambassador</str>
-  <str key="2999594522" type="ucdt">Crafted #count([*asset*])</str>
-  <str key="2999625228" type="ugdt">Incendiary Payload</str>
-  <str key="2999783180" type="ugdt">ANT Ghostly Shriek Horn</str>
-  <str key="2999829484" type="ugdt">Racer High Speed Chassis 1</str>
-  <str key="2999879454" type="ucdt">Adds 12 rounds to the default magazine size.</str>
-  <str key="3000060443" type="ucdt">Potential earnings with All Access Membership</str>
-  <str key="3000178201" type="ucdt">Could not transfer leadership to that player.</str>
-  <str key="3000227103" type="ucdt">Change Weapon &gt;</str>
-  <str key="3000251002" type="ucdt">The Map is a key tool for observing the current state of the war.  There are a number of functions available to you from the map, including placing waypoints and finding battle hotspots.</str>
-  <str key="3000263760" type="ucdt">Ammo Capacity 9</str>
-  <str key="3000305384" type="ucdt">VS-M001 Standard Helmet</str>
-  <str key="3000316164" type="ucdt">Cockpit: Skull Decal</str>
-  <str key="3000341496" type="ucdt">TR Medic Health Rank 1</str>
-  <str key="3000393714" type="ucdt">MANA AV Turret</str>
-  <str key="3000480495" type="ucdt">Mag-Cutter: Auraxium Medal</str>
-  <str key="3000557575" type="ucdt">Switch to your side arm. This is usually faster than reloading your primary weapon.</str>
-  <str key="3000571851" type="ugdt">Royal Weapon Camo</str>
-  <str key="3000657774" type="ucdt">The9 Placeholder</str>
-  <str key="3000675400" type="ucdt">Increases the maximum ammo capacity of the weapon by 56 rounds.</str>
-  <str key="3000683249" type="ucdt">Apply the Pixelate camo pattern to your armor.</str>
-  <str key="3000727348" type="ucdt">Unlock defense slot Certifications to increase the Scythe's survivability on the field. Defense slot items can be equipped on the loadout screen.</str>
-  <str key="3000736578" type="ucdt">Path would lead through the central mountain. Must plot course around</str>
-  <str key="3000827697" type="ucdt">Relic Site A</str>
-  <str key="3000945448" type="ucdt">Nano-Harvest Kit</str>
-  <str key="3000963444" type="ucdt">WDS Reward Bundle</str>
-  <str key="3000964967" type="ucdt">Unlock range attachments to alter your weapon with</str>
-  <str key="3000990384" type="ucdt">MGR-A1 Vanquisher - Fully Loaded Bundle</str>
-  <str key="3000997711" type="ucdt">Vehicle cannot be deployed here because [*reason*]</str>
-  <str key="3000999240" type="ucdt">&lt;font color="#00FFAA"&gt;Coordinator Tolland:&lt;/font&gt; Hey, kid. The boys are still out on expedition. Stop by when they get back.</str>
-  <str key="3001207948" type="ugdt">Cockpit: Pink Glass Decal</str>
-  <str key="3001299287" type="ucdt">Increases the maximum ammo capacity of the weapon by 120 rounds.</str>
-  <str key="3001385329" type="ucdt">Mentor Rating is increased when earning Mentor Ribbons, and decays naturally over time.&lt;br&gt;&lt;br&gt;This stat is intended to promote players who actively help new players become more acclimated to the game by providing tutilage and support.&lt;br&gt;&lt;br&gt;Your rating tier is shown when creating Mentor squads in the squad finder.&lt;br&gt;&lt;br&gt;A rating of 500 or higher allows access to the /mentor channel while above BR15.</str>
-  <str key="3001468787" type="ucdt">Dingo ML-6 [Rear Right]</str>
-  <str key="3001501494" type="ucdt">6x Scope</str>
-  <str key="3001661963" type="ucdt">ENTER CODE</str>
-  <str key="3001704585" type="ucdt">Contains a AF-4A Bandit plus 1000 Certs</str>
-  <str key="3001864408" type="ucdt">Adds Hubcaps 012 to your Sunderer. (DNT)</str>
-  <str key="3002070773" type="ucdt">Participants: %0</str>
-  <str key="3002175400" type="ucdt">The Harasser is an agile 3 man buggy that is available to all empires.  The driver and gunner are both seated inside the cockpit; while the third passenger stands on the rear of the buggy and has access to his own weapons.</str>
-  <str key="3002190207" type="ugdt">Sticky Grenade</str>
-  <str key="3002232761" type="ucdt">This training program will take about 15 minutes to complete. It teaches the following topics:- Movement- Capturing facilities- Resupplying / changing classes- Using weapons and equipment- Redeploying / respawning- Creating / using vehicles- Shields and generators- Changing continents- Getting into the action</str>
-  <str key="3002452916" type="ucdt">Increases armor and resupply rate</str>
-  <str key="3002574751" type="ucdt">Get back out there and continue the fight. Also if we could lock out the other empires for a time, it would also give our non combatant researchers a chance to get onto the field.</str>
-  <str key="3002636602" type="ucdt">The9 Server Name 26</str>
-  <str key="3002642893" type="ucdt">Sticky Grenade: Copper Medal</str>
-  <str key="3002649970" type="ucdt">TR Female LightAssault</str>
-  <str key="3002754300" type="ucdt">High Roller Camo</str>
-  <str key="3002928592" type="ucdt">Designed as a longer range option to the standard TriGon, the TG-8 features increased 8x magnification and mil-dot sighting.&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Hold Sprint to steady aim.&lt;/font&gt;</str>
-  <str key="3002944431" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; Greetings operative, Esamir clearly needs our help. Please ready your Engineer equipment and advance to the nearest allied Containment Site.</str>
-  <str key="3002956172" type="ugdt">BX Adapter</str>
-  <str key="3002980912" type="ucdt">Reduce overheat damage done to the vehicle caused by firing the primary weapon while MAD or deployed into Skylance Battery mode by 20%</str>
-  <str key="3003056030" type="ugdt">Liberator Demonic Horn</str>
-  <str key="3003170109" type="ugdt">Renegade 18 Armor Decal</str>
-  <str key="3003347729" type="ucdt">&lt;font color="#00FFAA"&gt;Dolan:&lt;/font&gt; This anchor may be defective, as I'm sure no one anticipated the detonation.</str>
-  <str key="3003420179" type="ucdt">Pistols of Auraxis Vehicle Decal</str>
-  <str key="3003474858" type="ucdt">NC WL-350 Afterburner</str>
-  <str key="3003506305" type="ucdt">H-V45 AE: Silver Medal</str>
-  <str key="3003775716" type="ucdt">Tuffin</str>
-  <str key="3003932407" type="ucdt">Increases the maximum ammo capacity of the weapon by 45 rockets.</str>
-  <str key="3004028049" type="ucdt">Custom</str>
-  <str key="3004043566" type="ucdt">This armor can only be worn by TR Infiltrators.</str>
-  <str key="3004104589" type="ucdt">Our Depot has everything that you need, and even more that you want.</str>
-  <str key="3004106589" type="ucdt">Vanish Device 1 Description (14004) (DNT)</str>
-  <str key="3004116810" type="ucdt">T5 AMC: Auraxium Medal</str>
-  <str key="3004121893" type="ucdt">TR Rocket Launcher - V2 Description</str>
-  <str key="3004128887" type="ugdt">NC's 1-Day Resource boost</str>
-  <str key="3004131945" type="ucdt">Hydra: Silver Medal</str>
-  <str key="3004246355" type="ucdt">Sergeant 2</str>
-  <str key="3004330767" type="ugdt">Cyan Camo</str>
-  <str key="3004402722" type="ucdt">Republic Guard Helmet</str>
-  <str key="3004785770" type="ugdt">NS-AM7 VS/AE Archer</str>
-  <str key="3004797678" type="ugdt">Warden 2 Decal</str>
-  <str key="3004846349" type="ucdt">MAX Extractor LP Helmet</str>
-  <str key="3004914591" type="ucdt">Commando Beret</str>
-  <str key="3004922273" type="ugdt">Gold Shatterguard Windshield</str>
-  <str key="3005148794" type="ugdt">SACA Decal</str>
-  <str key="3005208499" type="ucdt">MKV Suppressed: Silver Medal</str>
-  <str key="3005226197" type="ucdt">Harbinger 2 Decal</str>
-  <str key="3005246575" type="ugdt">Leviathan Helmet</str>
-  <str key="3005361910" type="ucdt">Lightyear: Copper Medal</str>
-  <str key="3005411842" type="ucdt">Classic Winged Skull Decal</str>
-  <str key="3005428440" type="ugdt">Vehicle Stealth 6</str>
-  <str key="3005467345" type="ucdt">Increases the vertical thrust speed of the Mosquito by 30KPH.</str>
-  <str key="3005499112" type="ucdt">and &lt;font color="#7FF4ff"&gt;&lt;u&gt;MORE&lt;/u&gt;&lt;/font&gt;</str>
-  <str key="3005524025" type="ucdt">TR Heavy Assault Health Rank 1</str>
-  <str key="3005558627" type="ucdt">Welding Device</str>
-  <str key="3005588437" type="ucdt">Single Use Temperate Chaparral Camo</str>
-  <str key="3005692736" type="ucdt">Maggie's Test Ability Item</str>
-  <str key="3005741127" type="ucdt">The weather is warm, the sun is shining, the battles are raging, and the deals are hot.</str>
-  <str key="3005823627" type="ucdt">Activate consuming 500 cortium and for the next 15 seconds main cannon shots do 32% more damage, fly 50% faster and can pierce vehicles. Each shot however will overheat the weapon's cooling system inflicting up to 500 damage to the Colossus.&lt;br&gt;&lt;font color="#dc9c36"&gt;Cannot activate while deployed.&lt;/font&gt;</str>
-  <str key="3005841507" type="ucdt">Engineers are demolitions experts that can drop ammunition resupply packs, create deployable turrets, and repair vehicles, objectives, and MAXes.</str>
-  <str key="3005849581" type="ucdt">Bitol Main Spawn</str>
-  <str key="3005859764" type="ucdt">Increases the vertical thrust speed of the Reaver by 10KPH.</str>
-  <str key="3005945495" type="ucdt">Liberator Wolfpack Horn</str>
-  <str key="3005966212" type="ucdt">M60-G Bulldog: Auraxium Medal</str>
-  <str key="3005985302" type="ugdt">VS Infiltrator Tank Mine</str>
-  <str key="3006036840" type="ucdt">The9 Server Name 34</str>
-  <str key="3006072638" type="ucdt">Awarded for mastery of the Liberator, this Auraxium-infused Lumifiber trim is proof of its owner's ability in a gunship. NSO only. &lt;font color="#dc9c36"&gt;Color of trim changes based on your current faction.&lt;/font&gt;</str>
-  <str key="3006215951" type="ucdt">That will make them think twice.</str>
-  <str key="3006233499" type="ugdt">Haunted Inferno Skull</str>
-  <str key="3006287693" type="ucdt">Hybrid Laser</str>
-  <str key="3006350036" type="ucdt">NEST Launcher: Ribbon</str>
-  <str key="3006543923" type="ugdt">100 Cert Points</str>
-  <str key="3006590304" type="ucdt">Purple Sparkler Hood Ornament</str>
-  <str key="3006631869" type="ucdt">Increases the speed at which your shields regenerate to full by 33%.</str>
-  <str key="3006778589" type="ucdt">STOP TEST</str>
-  <str key="3006825268" type="ucdt">Illuminates low light levels up to 1000 meters in a green monochrome display.</str>
-  <str key="3006833867" type="ucdt">Racer High Speed Chassis 2</str>
-  <str key="3006834799" type="ucdt">TM Auraxium Bundle</str>
-  <str key="3007187613" type="ugdt">Data Buoy</str>
-  <str key="3007390680" type="ucdt">All Valkyrie weapons certifications have been reset and their cert costs refunded, they may be purchased again at any time.</str>
-  <str key="3007444321" type="ucdt">&lt;font color="#00FFAA"&gt;Praetor Umatherin:&lt;/font&gt; Excellent work, enlightened one. Due to your efforts we have been able to successfully triangulate the origin of the signal. How... peculiar. It seems to be coming from "Desolation." An asteroid.</str>
-  <str key="3007499493" type="ucdt">Increases the Javelin's top speed and acceleration, and increases afterburner fuel recharging speed by 30%.</str>
-  <str key="3007541691" type="ucdt">Apply the single use Desert Scrub v1 camo pattern to your vehicle. NC use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="3007615727" type="ucdt">Use Reserved Assets</str>
-  <str key="3007648546" type="ucdt">Increases the maximum ammo capacity of the weapon by 12 rounds.</str>
-  <str key="3007697777" type="ugdt">Antenna Ball - Purple Blinking</str>
-  <str key="3007723257" type="ucdt">Centurion 1 Decal</str>
-  <str key="3007810831" type="ucdt">Sunderer Witch Horn</str>
-  <str key="3007870777" type="ugdt">Illuminator Helmet</str>
-  <str key="3007949909" type="ucdt">MKV-B Suppressed</str>
-  <str key="3008125961" type="ucdt">MAX Rebel's Skull Helmet</str>
-  <str key="3008200596" type="ucdt">Mosquito Ravage Cockpit</str>
-  <str key="3008347935" type="ugdt">Outfit Resource Boost - 3 Day</str>
-  <str key="3008530711" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; The Botany Wing is dedicated to studying the vegetation discovered after the warpgate's destruction. The plant's growth rate is influenced by the tempest energy gathered here.</str>
-  <str key="3008669996" type="ucdt">Increases the maximum ammo capacity of the weapon by 25 shells.</str>
-  <str key="3008736696" type="ucdt">&lt;font color="#7FF4FF"&gt;+140%&lt;/font&gt; Passive Certification Points</str>
-  <str key="3008784238" type="ucdt">Weapon Seven</str>
-  <str key="3008903140" type="ucdt">Colossus Front Right Weapon</str>
-  <str key="3009066143" type="ucdt">Svarog</str>
-  <str key="3009191477" type="ucdt">Ransack 2</str>
-  <str key="3009193412" type="ugdt">Deluxe Tiger Fins</str>
-  <str key="3009205496" type="ucdt">SCION X10</str>
-  <str key="3009271483" type="ucdt">VS: Shotgun 06 Silver Medal</str>
-  <str key="3009294294" type="ucdt">Unlock the NS-66 Punisher with a full complement of attachments. All factions can use NS weapons.</str>
-  <str key="3009452774" type="ucdt">Lefty</str>
-  <str key="3009482153" type="ucdt">You are not allowed inside the Terran Republic embassy.</str>
-  <str key="3009547416" type="ucdt">Increases the top speed of the Lightning by 2 KPH.</str>
-  <str key="3009549102" type="ucdt">BEING REVIVED BY:</str>
-  <str key="3009824423" type="ucdt">Woodland</str>
-  <str key="3010008601" type="ucdt">NS Baron G5B: Gold Medal</str>
-  <str key="3010009276" type="ucdt">Eagle: Gold Medal</str>
-  <str key="3010017583" type="ucdt">Breaker Rockets: Copper Medal</str>
-  <str key="3010182029" type="ucdt">Deleting Credit Card From File, Please Wait...</str>
-  <str key="3010183718" type="ucdt">Squad Experience Amplifier</str>
-  <str key="3010200157" type="ucdt">Bio Lab Benefit</str>
-  <str key="3010222066" type="ucdt">&lt;font color="#00FFAA"&gt;Umatherin:&lt;/font&gt; We have added one additional location to your map. This signature is much larger than the others, but weaker as well. Investigate this last area before returning.</str>
-  <str key="3010283575" type="ucdt">i3fs Vehicle Decal</str>
-  <str key="3010350276" type="ucdt">Be the first to obtain 200 units of Relic Energy. Capture Active Vanu Relics to get Relic Energy over time.</str>
-  <str key="3010420468" type="ugdt">Cybergrid Vehicle Camo</str>
-  <str key="3010429283" type="ucdt">Labeled a "heavy" shotgun, the slow-firing HSG-400 can down close-range infantry targets in a single shot. While magazine size is limited, the weapon still takes advantage of a standard mag-fed reload system. NSO use only.</str>
-  <str key="3010447257" type="ucdt">Kill enemies using any Magrider Top Gun.</str>
-  <str key="3010554754" type="ucdt">TAR</str>
-  <str key="3010580406" type="ucdt">The COLOSSAL Bundle</str>
-  <str key="3010625059" type="ucdt">"Treasured" XMG-100: Silver Medal</str>
-  <str key="3010768869" type="ucdt">Daredevil Chassis</str>
-  <str key="3010774165" type="ucdt">Deploy Fighter</str>
-  <str key="3010786210" type="ucdt">AI MAX (Right)</str>
-  <str key="3010798317" type="ucdt">Seeker HLX: Gold Medal</str>
-  <str key="3010835318" type="ucdt">The Air to Ground Missiles are ideal for engaging ground targets</str>
-  <str key="3010899809" type="ucdt">Desert Tiles Camo</str>
-  <str key="3010916432" type="ucdt">Gravity Tube</str>
-  <str key="3011205446" type="ucdt">Adds 6 round to the default magazine size.</str>
-  <str key="3011473570" type="ucdt">Hold [%s] to turn off Tempest Siphon</str>
-  <str key="3011517346" type="ucdt">Solstice VE3: Copper Medal</str>
-  <str key="3011728581" type="ucdt">Cert Attachment Description</str>
-  <str key="3011816317" type="ucdt">P2-120-R HEAT</str>
-  <str key="3011898384" type="ugdt">Nanoweave Targets</str>
-  <str key="3011938513" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; Survey area alpha located. While in the noted area, use the "aim" function of the Signal Scanner to deploy the relay.</str>
-  <str key="3011972685" type="ugdt">When activated, a rapidly decaying shield mesh surrounds the soldier and absorbs up to 450 damage; power is recharged by 31% when the operating soldier kills an enemy. This shield passively recharges to full over 36 seconds.</str>
-  <str key="3012036353" type="ucdt">Adrenaline Pump</str>
-  <str key="3012041263" type="ucdt">A standardized reflex sight designed to promote faster precision aiming.</str>
-  <str key="3012051063" type="ugdt">Manta Ray Hood Ornament</str>
-  <str key="3012133288" type="ugdt">Shield</str>
-  <str key="3012151864" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; The heat signature appears to originate from beneath your position. Continue below to investigate the source.</str>
-  <str key="3012154575" type="ucdt">Sunderer Gunport [WIP]: Silver Medal</str>
-  <str key="3012239185" type="ucdt">PLACEHOLDER WEAPON NAME</str>
-  <str key="3012274967" type="ucdt">Vehicle: Galaxy</str>
-  <str key="3012304217" type="ucdt">Gate Shield Diffuser 4</str>
-  <str key="3012315007" type="ucdt">Auto-spots enemies who damage or kill you if they are not using a suppressed weapon.&lt;br&gt;Uses 0.75 energy per second.&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;DEV NOTE: We intend to make this effect work in a vehicle and reduce spot time.&lt;/font&gt;</str>
-  <str key="3012359142" type="ucdt">Failed to remove the squad from the platoon.</str>
-  <str key="3012464722" type="ucdt">Brigadier 6 Decal</str>
-  <str key="3012486696" type="ucdt">Released as a commemorative edition of the NC's wildly successful foray into electromagnetic weaponry, the NC1 Gauss Rifle, the Gauss Prime marksman assault rifle can effortlessly drop distant targets.</str>
-  <str key="3012583534" type="ucdt">Press [%s] to speak with officer</str>
-  <str key="3012604990" type="ucdt">Increased Ammo regen rate</str>
-  <str key="3012707869" type="ucdt">&lt;font color="#00FFAA"&gt;Praetor Umatherin:&lt;/font&gt; Interesting. There must not have been enough power to assemble the aircraft. This gives us a vague location for the researcher who fled the flooded base. And that location is on Oshur. Take to the skies and find them.</str>
-  <str key="3012908312" type="ucdt">Zurvan Storage Courtyard [B]</str>
-  <str key="3012952615" type="ucdt">Decreases the time taken to reload weapon by 0.3 seconds.</str>
-  <str key="3013135604" type="ucdt">Ascendant 2 Decal</str>
-  <str key="3013163050" type="ucdt">TR: LMG Decal</str>
-  <str key="3013200382" type="ucdt">Hostile infantry in the area.</str>
-  <str key="3013235046" type="ugdt">Wildcard Camo</str>
-  <str key="3013316592" type="ucdt">While deployed, the Prowler gains 17.5% additional front armor, and a hardlight rampart is projected outward. Damage to this projection also damages the Prowler.</str>
-  <str key="3013600412" type="ucdt">PLACEHOLDER WEAPON NAME</str>
-  <str key="3013600574" type="ugdt">Forward Vehicle Decal</str>
-  <str key="3013601501" type="ucdt">Innova Placeholder Title 16</str>
-  <str key="3013675940" type="ucdt">Legacy - Hold Breath 4</str>
-  <str key="3013777628" type="ucdt">The VLG fires a laser guided missile that seeks toward the gunner's crosshairs. The missile is effective against armor on direct hits and produces a moderate blast. Missile will detonate after traveling 400 meters. All factions can use this weapon.</str>
-  <str key="3013780544" type="ucdt">LMG: Pulsar LSW</str>
-  <str key="3013816338" type="ucdt">Apply the Woodland camo pattern to your vehicle. All factions can use this gear.</str>
-  <str key="3013832037" type="ugdt">JVN-MM N.E.S.T.</str>
-  <str key="3013940388" type="ucdt">This customization adds a Smiley Face decal to the cockpit glass. TR use only.</str>
-  <str key="3014089412" type="ucdt">View the southern anomaly</str>
-  <str key="3014116826" type="ucdt">Increases the maximum ammo capacity of the weapon by 80 rounds.</str>
-  <str key="3014238571" type="ucdt">Nuke Armor Camo</str>
-  <str key="3014281324" type="ucdt">Unlock defense slot Certifications to increase the Flash ATV's survivability on the field. Defense slot items can be equipped on the loadout screen.</str>
-  <str key="3014318791" type="ucdt">Corvus VA55: Silver Medal</str>
-  <str key="3014330267" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; As part of the standard requisition process you would collect the item from one of our courteous vendors; however, this mission has been flagged with an emergency authorization code, so I have been told to immediately send you the schematic for the buoy.</str>
-  <str key="3014490166" type="ucdt">The9 Placeholder</str>
-  <str key="3014499024" type="ugdt">Cockpit: Grey Glass</str>
-  <str key="3014580400" type="ucdt">Supernova-R PC: Gold Medal</str>
-  <str key="3014613774" type="ucdt">Incendiary Payload</str>
-  <str key="3014710694" type="ucdt">VS: Sniper Rifle Decal</str>
-  <str key="3014825918" type="ucdt">M20 Drake: Gold Medal</str>
-  <str key="3014880259" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; Download complete. Preliminary work has begun on the data. Look around if you wish, but you will need to redeploy to escape the underground lab.</str>
-  <str key="3014880838" type="ucdt">NC Reaver ID'd.</str>
-  <str key="3014916291" type="ucdt">Increases the maximum ammo capacity of the weapon by 60 rounds.</str>
-  <str key="3014937932" type="ucdt">INFLUENCE</str>
-  <str key="3014938326" type="ucdt">Red Mist Armor Decal</str>
-  <str key="3014968024" type="ucdt">XenoTech Labs</str>
-  <str key="3015072764" type="ucdt">Grants the "Outfit Supporter" prefix title.</str>
-  <str key="3015126462" type="ucdt">Nanoweave Targets</str>
-  <str key="3015221033" type="ugdt">Corona O3.4 (3.4x) - T-Dot</str>
-  <str key="3015222202" type="ucdt">Increases the maximum ammo capacity of the weapon by 25 rockets.</str>
-  <str key="3015237387" type="ucdt">Mauler Cannon Bombardment Commencing</str>
-  <str key="3015309530" type="ucdt">AF-23 Grinder: Auraxium Medal</str>
-  <str key="3015337599" type="ucdt">Prowler P2-120 HEAT [Primary]</str>
-  <str key="3015460845" type="ucdt">Unlock Galaxy ammo dispenser.</str>
-  <str key="3015617545" type="ucdt">Charge-up</str>
-  <str key="3015802314" type="ucdt">Payload Finish Line</str>
-  <str key="3016029464" type="ucdt">AR-ARX Maxwell Auraxium Medal</str>
-  <str key="3016066329" type="ucdt">T2 Striker AE: Copper Medal</str>
-  <str key="3016317977" type="ucdt">Flak Armor 4</str>
-  <str key="3016403951" type="ucdt">Increases the speed at which your shields recharge to full by 33%, and reduces the delay before your shield begins recharging by 1 second.</str>
-  <str key="3016511682" type="ucdt">Arbiter Armor Bundle</str>
-  <str key="3016606825" type="ucdt">Increases the Idle Timer on the Vanguard to 11 minutes.</str>
-  <str key="3016633561" type="ucdt">Variant of the Standard Vanu Sovereignty Light Assault Helmet.</str>
-  <str key="3016755075" type="ugdt">River Flurry Camo</str>
-  <str key="3016914064" type="ucdt">When you perform well, and follow orders, we will allot you with Certification Points. These will allow you to requisit equipment upgrades and new weaponry.</str>
-  <str key="3016927010" type="ucdt">Decreases the time taken to reload weapon by 0.5 seconds.</str>
-  <str key="3017275850" type="ucdt">Caltrop Schematic</str>
-  <str key="3017514136" type="ucdt">Maj. General 4 Decal</str>
-  <str key="3017527497" type="ucdt">Light Assault Bundle</str>
-  <str key="3017532162" type="ugdt">Weapon Stat Test Implant</str>
-  <str key="3017593616" type="ucdt">Destroyer 3</str>
-  <str key="3017767465" type="ucdt">Resource Boost</str>
-  <str key="3017900047" type="ucdt">Reaver Wildcat Cockpit</str>
-  <str key="3017966130" type="ucdt">Alpha Squad Gun Placeholder</str>
-  <str key="3018015189" type="ucdt">Increases the Idle Timer on the Scythe to 15 minutes.</str>
-  <str key="3018048657" type="ucdt">Work in Progress Banner</str>
-  <str key="3018200536" type="ucdt">Deputy 4</str>
-  <str key="3018342585" type="ucdt">All Gunner Seats</str>
-  <str key="3018389039" type="ucdt">Member priority in queue:</str>
-  <str key="3018449163" type="ugdt">Passive: Lock-on Speed  +20%</str>
-  <str key="3018566968" type="ucdt">DMR-99: Gold Medal</str>
-  <str key="3018644627" type="ucdt">Lodestar Prototype Spawn Bonus</str>
-  <str key="3018752344" type="ugdt">Flash Grip Tread Tires</str>
-  <str key="3018808564" type="ucdt">VS Compensation A</str>
-  <str key="3018820523" type="ucdt">Liberator Warning Horn</str>
-  <str key="3018846062" type="ucdt">Increases the maximum ammo capacity of the weapon by 36 rounds.</str>
-  <str key="3019068190" type="ucdt">Space Pumpkins are appearing throughout Auraxis in the month of October! Destroy Space Pumpkins for seeds, use seeds to purchase holiday items!&lt;br&gt;&lt;br&gt;All players receive an Ichabod Crown event mask to wear for 10% bonus experience, and directive progress. Be sure to visit the Depot to see all of the new event items!</str>
-  <str key="3019199194" type="ucdt">Region Control - Facility Benefits</str>
-  <str key="3019204980" type="ugdt">Forgotten Honor Sentinels Vehicle Decal</str>
-  <str key="3019363433" type="ucdt">Customize your ground vehicle by adding a Gold Vanguard Hood Ornament.</str>
-  <str key="3019402616" type="ucdt">Flash F51 Deflectors</str>
-  <str key="3019679676" type="ucdt">&lt;font color="#00FFAA"&gt;Campner:&lt;/font&gt; But you're entering a new warzone and knowing your surroundings is invaluable. This knowledge will become increasingly useful once the peace treaty inevitably fails.</str>
-  <str key="3019686578" type="ucdt">&lt;font color="#00FFAA"&gt;Coordinator Tolland:&lt;/font&gt; Hey, kid. We've got a lot of hard work ahead of us and not nearly enough time to get it all done. But with the esteemed backing of the Vanu Sovereignty, I'm sure we'll only be a few days late getting to Oshur.</str>
-  <str key="3019820930" type="ugdt">Recon Detection Device 5</str>
-  <str key="3019903746" type="ucdt">YOU'RE IN THE GOLD MATCH</str>
-  <str key="3020003492" type="ucdt">Apply the Shard camo pattern to your weapon. VS use only.</str>
-  <str key="3020077204" type="ucdt">Equinox VE2: Gold Medal</str>
-  <str key="3020181023" type="ucdt">Lightning:  Passive Systems</str>
-  <str key="3020193058" type="ucdt">Are you sure you do not want to refund your Certification Points spent on skills?</str>
-  <str key="3020269487" type="ugdt">Reaver NS-A Horn</str>
-  <str key="3020269601" type="ucdt">Reduces the noise of the weapon by 5% over the previous level.</str>
-  <str key="3020352905" type="ucdt">3000 Cert</str>
-  <str key="3020523783" type="ucdt">The9 Server Name 19</str>
-  <str key="3020533626" type="ucdt">The number of infantry targets rounds can pierce through is no longer limited to 1, and will instead pierce through any number of targets. Sabot ammunition reduces rate of fire by 10%.</str>
-  <str key="3020666194" type="ucdt">Increases the maximum ammo capacity of the weapon by 29 shells.</str>
-  <str key="3020822105" type="ucdt">Damage penalty reduced to 70%.</str>
-  <str key="3020900537" type="ucdt">The9 Placeholder</str>
-  <str key="3021041894" type="ucdt">NS-60 Flamethrower: Auraxium Medal</str>
-  <str key="3021121750" type="ucdt">Cloak does not drain while stationary, but prevents use of primary weapons while equipped. While moving, cloak lasts up to 12 seconds. When drained, recharges to full in 14 seconds while cloaked and stationary, or in 10 seconds while uncloaked.</str>
-  <str key="3021122015" type="ucdt">Auraxium Force-Blade</str>
-  <str key="3021146114" type="ucdt">3.4x Scope</str>
-  <str key="3021146912" type="ucdt">Tawrich Tower</str>
-  <str key="3021147452" type="ucdt">Reduces the acquire timer of the Lightning by 480 seconds.</str>
-  <str key="3021547616" type="ucdt">2015 Holiday Countdown Sales Day 12 &amp; 13</str>
-  <str key="3021560671" type="ucdt">Adds 4 rounds to the default magazine size.</str>
-  <str key="3021606431" type="ucdt">While riding in an exposed vehicle seat or gunning an Engineer MANA Turret, you receive an additional 30% maximum shield health.</str>
-  <str key="3021850951" type="ucdt">Increases the maximum ammo capacity of the weapon by 384 rounds.</str>
-  <str key="3021852953" type="ugdt">Blueprint Banner</str>
-  <str key="3021915119" type="ucdt">Proton F-FBW</str>
-  <str key="3022101869" type="ucdt">Snowflake Camo</str>
-  <str key="3022133804" type="ucdt">Decreases the time needed to reload weapon by 5%</str>
-  <str key="3022449505" type="ucdt">Hubcaps 015 (DNT)</str>
-  <str key="3022513918" type="ucdt">Combat Medic: Tactical Equipment</str>
-  <str key="3022882958" type="ugdt">M8 Pounder SKEP</str>
-  <str key="3022941917" type="ucdt">Adds 4 rounds to the default magazine size.</str>
-  <str key="3022965038" type="ucdt">Tank Mines deal heavy damage to vehicles once deployed.</str>
-  <str key="3023017896" type="ucdt">Light Assault Composite Armor Package</str>
-  <str key="3023079088" type="ucdt">Concrete Material Platform</str>
-  <str key="3023090394" type="ucdt">Shoulders</str>
-  <str key="3023158299" type="ucdt">Title: Bounty Hunter</str>
-  <str key="3023333849" type="ucdt">Antenna Ball - Violet</str>
-  <str key="3023416262" type="ugdt">Medic HL4 Darkstar Armor</str>
-  <str key="3023552640" type="ucdt">Squad Resource Boost - 7 Day</str>
-  <str key="3023669978" type="ucdt">Infiltrator Impaler Helmet</str>
-  <str key="3023680544" type="ucdt">Restoration Kit 4</str>
-  <str key="3023774727" type="ucdt">TR Daredevil Voice Pack</str>
-  <str key="3023895535" type="ucdt">Pulsar LSW: Copper Medal</str>
-  <str key="3023916193" type="ucdt">Quasar VM1: Silver Medal</str>
-  <str key="3024247323" type="ugdt">Gambler Camo</str>
-  <str key="3024307188" type="ugdt">70 Certs</str>
-  <str key="3024345675" type="ucdt">Increases the Idle Timer on the Lightning to 24 minutes.</str>
-  <str key="3024504337" type="ucdt">Sunken Treasure Outfit Decal</str>
-  <str key="3024540139" type="ucdt">&lt;u&gt;UPGRADE IMPLANT&lt;/u&gt;</str>
-  <str key="3024651975" type="ugdt">Daum Title 8</str>
-  <str key="3024664085" type="ucdt">Vinewave Weapon Camo</str>
-  <str key="3024675831" type="ucdt">TTRO Decal</str>
-  <str key="3024714406" type="ucdt">OVERVIEW</str>
-  <str key="3024902158" type="ugdt">Auraxium Slasher</str>
-  <str key="3024986147" type="ucdt">MR11 Gatekeeper</str>
-  <str key="3025015204" type="ucdt">Racer High Speed Airframe 2</str>
-  <str key="3025040560" type="ugdt">Flash Bumper NC004</str>
-  <str key="3025156473" type="ucdt">Single Use Indar Highlands v1 Weapon Camo</str>
-  <str key="3025185221" type="ucdt">Defend</str>
-  <str key="3025284683" type="ucdt">PLACEHOLDER WEAPON NAME</str>
-  <str key="3025387797" type="ugdt">NSX "Ivory" Daimyo</str>
-  <str key="3025472712" type="ucdt">Increases xp gain by 50% and squad xp gain by 5% for 1 hour. Boost can only be used on this character.</str>
-  <str key="3025611130" type="ucdt">MAX Golem MRK1 Helmet</str>
-  <str key="3025667883" type="ucdt">BioSkulls</str>
-  <str key="3025702431" type="ucdt">Increases the maximum ammo capacity of the weapon by 24 rounds.</str>
-  <str key="3025709595" type="ucdt">DESTROY</str>
-  <str key="3025857945" type="ucdt">Next Rank:  Increase reload speed bonus to 24%.</str>
-  <str key="3025863852" type="ucdt">Senorita Decal</str>
-  <str key="3025938676" type="ucdt">3.4x Scope</str>
-  <str key="3026069424" type="ucdt">Adds the Hyena X Bumper to the Harasser. All factions can use this gear.</str>
-  <str key="3026162696" type="ucdt">Increases the maximum ammo capacity of the weapon by 144 rockets.</str>
-  <str key="3026174046" type="ucdt">Attractive, Intelligent people know...</str>
-  <str key="3026196711" type="ucdt">Trinity Loop Armor Decal</str>
-  <str key="3026381709" type="ugdt">NS Commando</str>
-  <str key="3026387832" type="ucdt">KILLS TO NEXT</str>
-  <str key="3026444043" type="ucdt">Apply the Cells camo pattern to your weapon. VS use only.</str>
-  <str key="3026454938" type="ucdt">Assimilate 5</str>
-  <str key="3026521316" type="ucdt">&lt;font color="#00FFAA"&gt;Warden Hadley:&lt;/font&gt; Before promising anything to Nanite Systems, kindly visit me on the Observation Deck. The New Conglomerate has a high priority mission for you as well, soldier.</str>
-  <str key="3027013448" type="ucdt">Earn this ribbon by helping your faction earn victory points</str>
-  <str key="3027242899" type="ugdt">LA39 Bruiser</str>
-  <str key="3027285184" type="ucdt">Equipment Terminals let you change your class and resupply ammo. Use the terminal to switch to an Engineer.</str>
-  <str key="3027577938" type="ucdt">Apply this armor to your MAX. VS use only.</str>
-  <str key="3027585195" type="ucdt">The P2-120 HEAT carries quick-reloading high-explosive anti-tank rounds that have balanced effectiveness against armor and infantry. TR use only.</str>
-  <str key="3027672397" type="ugdt">Paratrooper 2</str>
-  <str key="3027698953" type="ucdt">Sticky Grenades attach themselves to most surfaces when thrown</str>
-  <str key="3027742331" type="ucdt">Cert Attachment Description</str>
-  <str key="3027822887" type="ucdt">3000 Certs</str>
-  <str key="3027830181" type="ugdt">Squad Experience Boost - 1 Hour</str>
-  <str key="3027879164" type="ugdt">Torment</str>
-  <str key="3028015074" type="ucdt">Fortifies armor against attacks from above, reducing damage by 12.5%.</str>
-  <str key="3028058412" type="ucdt">Failed to change the platoon leader.</str>
-  <str key="3028083354" type="ugdt">Dog Tags</str>
-  <str key="3028152208" type="ucdt">Adds Hubcaps VS001 to your Sunderer. (DNT)</str>
-  <str key="3028171988" type="ucdt">Galaxy</str>
-  <str key="3028275750" type="ugdt">Grenade Bandolier 1</str>
-  <str key="3028344383" type="ucdt">Legacy - Battle Hardened 1</str>
-  <str key="3028457598" type="ucdt">You have a separate set of equipment loadouts in this area that do not affect your normal loadouts.&lt;br&gt;&lt;br&gt;All weapons for infantry and vehicles available to your empire can be used.&lt;br&gt;&lt;br&gt;All vehicle upgrades, suit upgrades, abilities, and weapon attachments are available and always set to maximum rank regardless of your actual certifications&lt;br&gt;&lt;br&gt;Vehicles and MAX suits do not cost resources.&lt;br&gt;&lt;br&gt;Vehicles and MAX suits do not require or start acquisition timers&lt;br&gt;&lt;br&gt;Player stats are not recorded while in this area.&lt;br&gt;&lt;br&gt;Experience and medals cannot be earned here.&lt;br&gt;&lt;br&gt;Players cannot hurt each other but can hurt themselves&lt;br&gt;&lt;br&gt;Shooting or destroying friendly target dummies does not grant grief points, but will still show the grief indicator and play the grief sound.&lt;br&gt;&lt;br&gt;Weapon trials cannot be obtained while in this area.</str>
-  <str key="3028709990" type="ucdt">Increases the maximum ammo capacity of the weapon by 32 rockets.</str>
-  <str key="3029174672" type="ucdt">Applies a decal to your vehicle. All factions can use this decal.</str>
-  <str key="3029241977" type="ucdt">This special decal is given to followers of Tobuscus on Twitter or YouTube</str>
-  <str key="3029758121" type="ucdt">Fission VSH7 Rocket Launcher</str>
-  <str key="3029799424" type="ucdt">Decreases the time needed to reload weapon by 10%</str>
-  <str key="3029869627" type="ucdt">Wearable by all non-Max classes. NC use only.</str>
-  <str key="3029931158" type="ucdt">Reduces the amount of damage received from explosions by 30%</str>
-  <str key="3029973863" type="ucdt">Surger Power Chassis</str>
-  <str key="3030042200" type="ucdt">Next Seat</str>
+    <str key="2951928296" type="ucdt">Dervish Dive! Horn</str>
+    <str key="2951966262" type="ucdt">Adds 25 rounds to the default magazine size.</str>
+    <str key="2951978643" type="ucdt">There are three abandoned Amp Stations on Esamir: Elli Amp Station to the south, Nott Amp Station to the east, and an unnamed base north of Saerro Listening Post.</str>
+    <str key="2952077852" type="ucdt">Concussion Assist</str>
+    <str key="2952194233" type="ucdt">PGL-4 SKEP Anti-Tank Rocket Launcher</str>
+    <str key="2952235740" type="ucdt">Could not disband the squad because you are not the squad leader.</str>
+    <str key="2952323572" type="ucdt">&lt;font color="#00FFAA"&gt;Praetor Umatherin:&lt;/font&gt; This is the garage of the newly constructed Containment Site. Defending the facility becomes considerably more difficult when enemy vehicles breach this location.</str>
+    <str key="2952409064" type="ucdt">Reload Speed 2</str>
+    <str key="2952460132" type="ucdt">Aerial Combatant 2</str>
+    <str key="2952480998" type="ucdt">Primary: Assault Rifle: RMR-4</str>
+    <str key="2952565593" type="ucdt">Increases the weapon's reload speed by 2%.</str>
+    <str key="2952687191" type="ucdt">Increases the maximum ammo capacity of the weapon by 560 rounds.</str>
+    <str key="2952763555" type="ucdt">LA1 Anchor: Silver Medal</str>
+    <str key="2952787661" type="ugdt">Vehicle Ammo Dispenser 2</str>
+    <str key="2952803528" type="ucdt">Kontra Scout Helmet</str>
+    <str key="2952809359" type="ucdt">Outfit Voice Chat</str>
+    <str key="2952861345" type="ucdt">Increases the time required for seeking weapons to establish a lock by 0.75 seconds and reduces the mini-map auto-detect range of the vehicle to 25 meters.</str>
+    <str key="2953058469" type="ucdt">Veteran's Light Assault Armor</str>
+    <str key="2953106319" type="ucdt">TX1 Repeater: Auraxium Medal</str>
+    <str key="2953187864" type="ucdt">Reduces the acquire timer of the Galaxy down to 9.5 minutes.</str>
+    <str key="2953459813" type="ucdt">Eagle: Auraxium Medal</str>
+    <str key="2953484465" type="ucdt">Increases the maximum ammo capacity of the weapon by 42 rounds.</str>
+    <str key="2953537243" type="ucdt">Light Assault: Complete 100 missions</str>
+    <str key="2953568985" type="ucdt">TMIR-6 Brazer</str>
+    <str key="2953722916" type="ucdt">Thank you, acolyte. This information will be invaluable to us. No doubt our enemies are gathering this data as well. Disrupt their efforts.</str>
+    <str key="2953866170" type="ucdt">Adds the LC2 Bumpers to your Lightning.</str>
+    <str key="2954008673" type="ucdt">Shrapnel Vehicle Camo</str>
+    <str key="2954015981" type="ucdt">FUNCTION</str>
+    <str key="2954190330" type="ucdt">Upon detonation, the Flash Grenade will temporarily blind, deafen, and reduce the accuracy of infantry within its blast radius, making it perfect for breaching crowded rooms. &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;3 second fuse.&lt;/font&gt;</str>
+    <str key="2954192106" type="ucdt">Construction Kill</str>
+    <str key="2954227973" type="ucdt">[*target*] was not found. Couldn't send squad invitation.</str>
+    <str key="2954337584" type="ucdt">Increases the maximum ammo capacity of the weapon by 60 rounds.</str>
+    <str key="2954369175" type="ucdt">Wasp Hood Ornament</str>
+    <str key="2954378191" type="ucdt">The [*faction*] has linked to the southern warpgate +[*points*] VP!</str>
+    <str key="2954410831" type="ucdt">Applies a decal to your vehicle. Available for all factions.</str>
+    <str key="2954423544" type="ucdt">Decreases the time taken to reload weapon by 13.125%</str>
+    <str key="2954568407" type="ucdt">Additional composite plating to complement the look of your soldier. NC use only.</str>
+    <str key="2954809888" type="ucdt">This customization adds a L337 decal to the cockpit glass. VS use only.</str>
+    <str key="2954901008" type="ucdt">TA2 Blackjack: Auraxium Medal</str>
+    <str key="2954909749" type="ucdt">Carver: Copper Medal</str>
+    <str key="2954964629" type="ucdt">Rebirth 1 (13542) (DNT)</str>
+    <str key="2954983381" type="ucdt">Snow Rock Camo</str>
+    <str key="2954985457" type="ucdt">PSET Vehicle Decal</str>
+    <str key="2954985579" type="ucdt">VS1 Lumifiber Trim</str>
+    <str key="2954988946" type="ucdt">PRIMARY WEAPON:  Rail Cannon</str>
+    <str key="2955033675" type="ucdt">Apply the single use Indar Scrub camo pattern to your weapon. VS use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
+    <str key="2955042620" type="ucdt">Nano-Emitter 1 Description (14035) (DNT)</str>
+    <str key="2955062109" type="ucdt">Acquire a Harasser from Warpgate</str>
+    <str key="2955105092" type="ucdt"> Nanoweave Armor 3 (11097) (DNT)</str>
+    <str key="2955147037" type="ucdt">Apply the Black Flames camo pattern to your weapon. All factions can use this gear.</str>
+    <str key="2955303015" type="ucdt">Nanite Systems' HS/NV scope has no magnification, but provides high contrast outlines to nearby objects and illuminates nearby soldiers.</str>
+    <str key="2955339311" type="ucdt">&lt;font color="#00FFAA"&gt;Praetor Umatherin:&lt;/font&gt; This lab must have been abandoned when the facility flooded, however I don't see any way out. Where are all of the researchers?</str>
+    <str key="2955480958" type="ugdt">Title: Cinematographer</str>
+    <str key="2955527077" type="ugdt">Ortho Digital</str>
+    <str key="2955624919" type="ugdt">Indar Dry Brush</str>
+    <str key="2955667960" type="ugdt">Spartan Helmet</str>
+    <str key="2955669410" type="ucdt">Grenade Bandolier 1</str>
+    <str key="2955739943" type="ucdt">Secondary: Pistol: NS Pistol placeholder name</str>
+    <str key="2955781581" type="ucdt">Halcyon Watch</str>
+    <str key="2955905445" type="ucdt">Reduces cooldown between placements of Spitfire Auto-Turret.</str>
+    <str key="2956155641" type="ucdt">NS-44G Commissioner Ribbon</str>
+    <str key="2956267985" type="ucdt">Robotics Technician</str>
+    <str key="2956272744" type="ucdt">Increases the speed of entering and exiting Sprint Mode</str>
+    <str key="2956301397" type="ugdt">Maj. General 6 Decal</str>
+    <str key="2956311707" type="ucdt">The NSX Naginata</str>
+    <str key="2956321991" type="ucdt">NS Baron G5: Gold Medal</str>
+    <str key="2956369589" type="ucdt">While cloaked the infiltrator can sprint faster, but will take 50% more damage</str>
+    <str key="2956404782" type="ugdt">Bandana</str>
+    <str key="2956539276" type="ucdt">Nanoweave Armor is capable of absorbing more damage than its standard issue counterpart</str>
+    <str key="2956781373" type="ucdt">L100 Python AP</str>
+    <str key="2956787499" type="ucdt">Primary: Carbine: Andromeda</str>
+    <str key="2956811239" type="ucdt">NS-44P Commissioner Auraxium Medal</str>
+    <str key="2956817909" type="ucdt">Ammo Capacity 2</str>
+    <str key="2956883715" type="ucdt">Free 500 Seven Cash each month</str>
+    <str key="2956930921" type="ucdt">Grants access to a consumable medical kit that can be used to instantly restore the users health.</str>
+    <str key="2956973801" type="ugdt">Dragon Helmet</str>
+    <str key="2957071185" type="ucdt">Tawrich Recycling</str>
+    <str key="2957134517" type="ucdt">The Banded Skull Helmet causes terror in those unfortunate enough to oppose its wearer. TR use only.</str>
+    <str key="2957230731" type="ucdt">Radar Scrambler Range I</str>
+    <str key="2957244562" type="ucdt">Decreases the time taken to reload weapon by 0.3 seconds.</str>
+    <str key="2957256141" type="ucdt">Apply the Flame camo pattern to your weapon. TR use only.</str>
+    <str key="2957336463" type="ucdt">Apply the single use Pine Forest camo pattern to your armor. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
+    <str key="2957381941" type="ucdt">Heavy Assault: Bronze</str>
+    <str key="2957525735" type="ucdt">Clip 01</str>
+    <str key="2957525876" type="ucdt">EMPIRE POPULATION</str>
+    <str key="2957526908" type="ucdt">No default device is selected.</str>
+    <str key="2957617146" type="ucdt">Harasser NS-A Horn</str>
+    <str key="2957673600" type="ucdt">Health Regeneration Field</str>
+    <str key="2957693705" type="ucdt">Test Region 0</str>
+    <str key="2957718942" type="ucdt">Capture Dekat Interlink</str>
+    <str key="2957789469" type="ugdt">Default Reflex Sight</str>
+    <str key="2957885081" type="ucdt">Increases the maximum ammo capacity of the weapon by 495 rounds.</str>
+    <str key="2957908561" type="ucdt">MKV Suppressed: Gold Medal</str>
+    <str key="2957999372" type="ucdt">Customize your aircraft with these sleek Gladiator Fins. All factions can use this gear.</str>
+    <str key="2958042331" type="ugdt">Spartan Light Assault Armor</str>
+    <str key="2958050869" type="ucdt">Get the most popular Liberator weapons at a discounted price! </str>
+    <str key="2958121954" type="ucdt">Lancer VS22: Silver Medal</str>
+    <str key="2958163176" type="ucdt">Alpha Cycle 03 - Gold</str>
+    <str key="2958446261" type="ucdt">Phoenix Vehicle Camo</str>
+    <str key="2958468909" type="ucdt">Archon 4</str>
+    <str key="2958538101" type="ugdt">Athlete 5</str>
+    <str key="2958572777" type="ucdt">Use the Neutralizer on the disabled vehicle and drive it to your Warpgate</str>
+    <str key="2958620048" type="ucdt">Uplink Established -- Orbital Strike Inbound -- CLEAR THE AREA</str>
+    <str key="2958695960" type="ucdt">v0.9.9</str>
+    <str key="2958734521" type="ucdt">Changes color of the cockpit glass to Auraximas Green. VS use only.</str>
+    <str key="2958774007" type="ucdt">Allows the user to carry and place an additional anti-personnel mine or two additional anti-tank mines.</str>
+    <str key="2958918466" type="ucdt">M20 Basilisk: Auraxium Medal</str>
+    <str key="2958929731" type="ucdt">Increases the maximum ammo capacity of the weapon by 27 shells.</str>
+    <str key="2959017456" type="ucdt">&lt;font color="#00FFAA"&gt;Warden Hadley:&lt;/font&gt; The suits don't trust Nanite Systems, and I can't say I blame them. Help them build, sure, but make sure we're the ones looking over their shoulders.</str>
+    <str key="2959055041" type="ucdt">Apply the One-Year Anniversary  camo pattern to your armor.</str>
+    <str key="2959145422" type="ucdt">&lt;font color="#00FFAA"&gt;Campner:&lt;/font&gt; You have been asked to only target Biolabs that are under attack, as it will help prevent suspicion and provide plausible deniability of your actions.</str>
+    <str key="2959229300" type="ugdt">Flash Bumper VS004</str>
+    <str key="2959276882" type="ucdt">Upgrade &gt;</str>
+    <str key="2959309468" type="ucdt">Novus 2</str>
+    <str key="2959439141" type="ucdt">It has become increasing clear that the chaotic energies roiling up from beneath the permafrost must be contained at key locations in order to prevent a second collapse. Representative Foster has sent you back to Esamir to help secure and survey where the new Containment Sites will eventually be constructed.</str>
+    <str key="2959454273" type="ucdt">Infiltration Hardsuit 3</str>
+    <str key="2959467465" type="ucdt">Guerilla 2</str>
+    <str key="2959520608" type="ucdt">TUTORIAL</str>
+    <str key="2959546531" type="ucdt">Cert Attachment</str>
+    <str key="2959564065" type="ucdt">Reinforced Camouflage 1 (13508) (DNT)</str>
+    <str key="2959644576" type="ucdt">v0.2.0</str>
+    <str key="2959710161" type="ucdt">Make Squad Leader</str>
+    <str key="2959806159" type="ucdt">Help your team win by eliminating the enemy spawn point! Destroy enemy deployed Sunderers!</str>
+    <str key="2959814888" type="ucdt">Chrome Pistol Hood Ornament</str>
+    <str key="2960046704" type="ucdt">Follow the Leader</str>
+    <str key="2960127275" type="ugdt">Chrome Lightning Hood Ornament</str>
+    <str key="2960223754" type="ucdt">Connected</str>
+    <str key="2960266521" type="ucdt">UBR-150 Sea Lion: Copper Medal</str>
+    <str key="2960320504" type="ucdt">NC_02</str>
+    <str key="2960327056" type="ucdt">M1 Heavy Cycler: Silver Medal</str>
+    <str key="2960442248" type="ugdt">NSX Muramasa</str>
+    <str key="2960448052" type="ucdt">Invalid squad invitation.</str>
+    <str key="2960459115" type="ucdt">The T16 Rhino was designed as a squad support weapon that remains accurate, even during sustained fire. TR use only.</str>
+    <str key="2960745966" type="ucdt">VA39 Spectre</str>
+    <str key="2960816046" type="ucdt">Reduces minimum cone of fire and cone of fire recovery time.</str>
+    <str key="2960913553" type="ugdt">TORQ-9</str>
+    <str key="2961004402" type="ugdt">Reinforced Camouflage 1 (13509) (DNT)</str>
+    <str key="2961028692" type="ucdt">Adds Lumifiber Trim to the ANT. VS use only.</str>
+    <str key="2961093474" type="ucdt">Dual-75 Duster: Ribbon</str>
+    <str key="2961129351" type="ucdt">Flash Bumper TR004 Description</str>
+    <str key="2961188039" type="ucdt">Adds 4 rounds to the default magazine size.</str>
+    <str key="2961192868" type="ucdt">Use Join Combat from the Map screen</str>
+    <str key="2961383648" type="ucdt">Allows the Prowler to deploy which increases the reload speed of the primary weapon by 24% and projectile speed by 30% but the Prowler is unable to move.  The Prowler must not be moving to engage deployment.</str>
+    <str key="2961404277" type="ucdt">Electrical Storm</str>
+    <str key="2961432957" type="ucdt">New</str>
+    <str key="2961477923" type="ugdt">Bernard the Dinosaur Vehicle Decal</str>
+    <str key="2961618559" type="ucdt">The duration the cloak can remain active is increased to 8.5 seconds and the charge time when depleted is decreased to 11 seconds; additionally the small arms damage resist is increased to 35%.</str>
+    <str key="2961970870" type="ucdt">MG-C1 Kindred</str>
+    <str key="2962220451" type="ucdt">NS "Jackpot" Decimator</str>
+    <str key="2962250450" type="ucdt">LOCKED CHARACTER SLOT</str>
+    <str key="2962257689" type="ucdt">Apply the single use Esamir Ice camo pattern to your weapon. NC use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
+    <str key="2962272640" type="ucdt">&lt;font color="#00FFAA"&gt;FL-34:&lt;/font&gt; Alright friendo, just sit tight. This won't take but a moment.</str>
+    <str key="2962475070" type="ucdt">Reduces damage taken from frag grenades, common explosions, tank mines, and C4 by 50%; and infantry rockets, light anti-vehicle, and air-to-ground explosives by 20%.</str>
+    <str key="2962607502" type="ucdt">Restores 125 health per second to allied aircraft within 75 meters and allied ground vehicles within 50 meters, and does not affect the Galaxy itself.</str>
+    <str key="2962753962" type="ucdt">Solstice VE3</str>
+    <str key="2962786146" type="ucdt">Customize your ground vehicle by adding a Manta Ray Hood Ornament. All factions can use this gear.</str>
+    <str key="2962858628" type="ucdt">The Terran Republic has defended Hvar!</str>
+    <str key="2962912238" type="ucdt">Attaches a 3x optical zoom to your weapon.</str>
+    <str key="2962932006" type="ugdt">NS Decimator-B</str>
+    <str key="2962955304" type="ucdt">InfilOptics released the IO-12 as the ultimate in telescopic gun sights. It features 12x magnification and a standard mil-dot reticle.&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Hold Sprint to steady aim.&lt;/font&gt;</str>
+    <str key="2963000196" type="ucdt">Halloween VII</str>
+    <str key="2963018354" type="ugdt">Necrosis Helmet</str>
+    <str key="2963043438" type="ucdt">The Proximity Radar certification for the Harasser has been removed from the Utility slot and certification points have been refunded.  Proximity Radar is now available as a Defense slot certification and can be repurchased there.</str>
+    <str key="2963152204" type="ucdt">TRAC-5: Auraxium Medal</str>
+    <str key="2963193997" type="ucdt">Daum PC-Cafe Premium Bundle</str>
+    <str key="2963237385" type="ucdt">v0.2.7</str>
+    <str key="2963512340" type="ucdt">TR Bombs</str>
+    <str key="2963696424" type="ucdt">Allows the user to carry and place one additional anti-tank mine. Rank 2 allows for one additional anti-personnel mine, or two additional anti-tank mines.</str>
+    <str key="2963708205" type="ugdt">Republic Flame Vehicle Decal</str>
+    <str key="2963924619" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; Analysts have logged an issue with the recently deployed Containment Sites. Unfortunately, this was uncovered after deploying the facility and has been exploited by saboteurs.</str>
+    <str key="2963932253" type="ucdt">Reload Speed 2</str>
+    <str key="2963992654" type="ucdt">P525 Marauder-H</str>
+    <str key="2964402217" type="ucdt">Customize your ground vehicle by adding a "Y" Gold Hood Ornament.</str>
+    <str key="2964473967" type="ucdt">Unlock the chapter and embark on %0.&lt;br&gt;To preview the chapter &lt;a href='event:preview'&gt;CLICK HERE&lt;/a&gt;.</str>
+    <str key="2964545647" type="ugdt">Jump Booster 2</str>
+    <str key="2964803461" type="ucdt">&lt;font color="#00FFAA"&gt;Knightly&lt;/font&gt; Alright soldier, that should be enough. Your bretheren are still in the field if you want to help harvest, but I'll be in Sanctuary when you're ready to deliver.</str>
+    <str key="2964814311" type="ugdt">Colonel 1 Decal</str>
+    <str key="2964850032" type="ucdt">Champion 4</str>
+    <str key="2964879702" type="ugdt">Sergeant 2 Decal</str>
+    <str key="2964910602" type="ucdt">Provides one-time access to the Colossus Tank without the use of Outfit Resources. &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;This item expires at the end of the Campaign.&lt;/font&gt;</str>
+    <str key="2964974618" type="ucdt">NC's 7-Day Resource boost</str>
+    <str key="2965052469" type="ucdt">Squad XP Boost</str>
+    <str key="2965257500" type="ucdt">Apply the Desert Scrub v1 camo pattern to your vehicle. All factions can use this gear.</str>
+    <str key="2965359169" type="ucdt">Increases the maximum ammo capacity of the weapon by 2250 rounds.</str>
+    <str key="2965419743" type="ugdt">The smart-choke tightens pellet spread when firing while aimed by 0.5, but decreases spread when firing from hip by 0.5.</str>
+    <str key="2965655438" type="ucdt">Increases the maximum ammo capacity of the weapon by 192 rounds.</str>
+    <str key="2965721616" type="ucdt">Carnage AR: Gold Medal</str>
+    <str key="2965728818" type="ucdt">Kill enemies using any Valkyrie Nose Gun.</str>
+    <str key="2965751856" type="ucdt">Earned by being the Sunderer driver when a passenger kills an enemy.</str>
+    <str key="2966063100" type="ucdt">The9 Server Name 42</str>
+    <str key="2966208098" type="ucdt">NEED INFILTRATOR</str>
+    <str key="2966369853" type="ucdt">Increases zoom, but also increases aiming time.</str>
+    <str key="2966563563" type="ucdt">Clip Attachment  Description</str>
+    <str key="2966579216" type="ucdt">Your petition has been sent to [*guild*].</str>
+    <str key="2966682646" type="ucdt">Lightning Witch Horn</str>
+    <str key="2966748506" type="ugdt">Sunderer Armadillo Armor</str>
+    <str key="2966761628" type="ugdt">Wayland LRO (7x)</str>
+    <str key="2966830819" type="ucdt">Increases the maximum ammo capacity of the weapon by 900 rounds.</str>
+    <str key="2966859346" type="ucdt">Illuminate the battlefield with these front-facing Floodlights for your Sunderer. All factions can use this gear.</str>
+    <str key="2966944305" type="ucdt">Galaxy Hyena Missile Launcher [Tail]</str>
+    <str key="2966980202" type="ucdt">Classic Celtic Decal</str>
+    <str key="2966985590" type="ucdt">Designed for raw power, this gold plated variant of the Decimator is unmatched in its destructive potential against enemy vehicles and infantry. All factions can use NS weapons.</str>
+    <str key="2967058143" type="ucdt">NEED ANALYSIS HUD IMPLANT</str>
+    <str key="2967128909" type="ucdt">Harasser Venom Grill</str>
+    <str key="2967143631" type="ucdt">A festive blue cap featuring the New Conglomerate's logo. &lt;br&gt;&lt;font color="#2af72a"&gt;+50% xp when worn&lt;/font&gt;&lt;br&gt;&lt;font color="#FF0000"&gt;This item is only usable during the winter holiday season.&lt;/font&gt;</str>
+    <str key="2967165879" type="ucdt">Scythe Usurper Cockpit</str>
+    <str key="2967190683" type="ucdt">AF-4A Bandit: Gold Medal</str>
+    <str key="2967255479" type="ucdt">Increases the maximum ammo capacity of the weapon by 400 rounds.</str>
+    <str key="2967297671" type="ucdt">NC1 Gauss Rifle: Auraxium Medal</str>
+    <str key="2967387820" type="ucdt">NS-357 IA Ribbon</str>
+    <str key="2967422170" type="ucdt">Get a selection of ANT weapons and cosmetics at a discounted price! TR only.</str>
+    <str key="2967433059" type="ucdt">Applies a decal to your vehicle. NC use only.</str>
+    <str key="2967557519" type="ucdt">Could not set the squad recruitment description at this time.</str>
+    <str key="2967658432" type="ucdt">A Decal</str>
+    <str key="2967680384" type="ucdt">Flash Tire Spike 001 Description</str>
+    <str key="2967699325" type="ucdt">Increases the maximum ammo capacity of the weapon by 480 rounds.</str>
+    <str key="2967991469" type="ucdt">Mosquito Terran Republic Horn</str>
+    <str key="2968109482" type="ucdt">Drill Sergeant</str>
+    <str key="2968126065" type="ucdt">Superiority Armor Decal</str>
+    <str key="2968201917" type="ucdt">NC: Flash Decal</str>
+    <str key="2968234539" type="ucdt">NC: MAX: Defensive: Auto Repair 5</str>
+    <str key="2968314391" type="ucdt">Apply the single use Sandy Scrub camo pattern to your vehicle. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
+    <str key="2968481694" type="ucdt">The region information panel reports which facility benefits are active in the region.</str>
+    <str key="2968527592" type="ucdt">Increases the maximum ammo capacity of the weapon by 320 rounds.</str>
+    <str key="2968566521" type="ucdt">This is really a win-win situation here.</str>
+    <str key="2968570612" type="ucdt">TERRITORY CONTROL</str>
+    <str key="2968572088" type="ucdt">The Sea Lion underwater rifle fires slowly with more impact per shot, a favorite of Nascent operatives who value their ammunition supply. &lt;font color="#dc9c36"&gt;Can fire while submerged.&lt;/font&gt;</str>
+    <str key="2968608093" type="ucdt">Dragonbreath Ammunition</str>
+    <str key="2968612874" type="ucdt">Unlocked at Battle Rank 24</str>
+    <str key="2968673092" type="ucdt">Disband Squad</str>
+    <str key="2968759874" type="ucdt">Ammo Capacity 6</str>
+    <str key="2968849756" type="ucdt">G40-F Ranger</str>
+    <str key="2969087173" type="ucdt">"6" Hood Ornament</str>
+    <str key="2969166986" type="ucdt">Sniper Rifle: Impetus EMC7</str>
+    <str key="2969172683" type="ucdt">Bear Arms Vehicle Decal</str>
+    <str key="2969216641" type="ucdt">Horns</str>
+    <str key="2969304694" type="ucdt">Redeploy using Join Combat.</str>
+    <str key="2969316229" type="ugdt">Blue Blinking Lumiball</str>
+    <str key="2969382858" type="ucdt">Customize your ground vehicle by adding a Gold Venril Sathir Bust Hood Ornament.</str>
+    <str key="2969400966" type="ucdt">Molecular Weapon Camo</str>
+    <str key="2969420289" type="ugdt">Officer Reese</str>
+    <str key="2969452871" type="ucdt">White Laser Sight</str>
+    <str key="2969615794" type="ucdt">Apply the single use Amerish Scrub camo pattern to your weapon. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
+    <str key="2969649059" type="ucdt">11/18 TR IOTD</str>
+    <str key="2969683625" type="ucdt">Snowstorm Camo</str>
+    <str key="2969839714" type="ucdt">Increases the maximum ammo capacity of the weapon by 9 shells.</str>
+    <str key="2970064435" type="ucdt">Apply the Amerish Grassland camo pattern to your weapon. All factions can use this gear.</str>
+    <str key="2970238814" type="ucdt">&lt;font color="#00FFAA"&gt;FL-34:&lt;/font&gt; Okay, done!</str>
+    <str key="2970417343" type="ucdt">Halloween arrives on Auraxis!</str>
+    <str key="2970425896" type="ucdt">Flak Armor 5</str>
+    <str key="2970535086" type="ugdt">Spear</str>
+    <str key="2970588065" type="ucdt">Resource Canister Test</str>
+    <str key="2970667202" type="ucdt">Harasser Cortium Alloy Rims</str>
+    <str key="2970707454" type="ucdt">Flash M12 Kobalt-F [Primary]</str>
+    <str key="2970708418" type="ucdt">Primary: Carbine: Pulsar C</str>
+    <str key="2971060302" type="ugdt">LF-100 Afterburner 3</str>
+    <str key="2971114360" type="ucdt">Tactical Equipment</str>
+    <str key="2971165515" type="ugdt">Warpgate Teleporter</str>
+    <str key="2971322928" type="ucdt">Reaver Vertical Thrust - Level 1</str>
+    <str key="2971441789" type="ucdt">Customize your Flash with the Rail Guard. TR use only.</str>
+    <str key="2971556920" type="ucdt">MASC</str>
+    <str key="2971680622" type="ucdt">Reaver Lumifiber-SE  Trim</str>
+    <str key="2971781185" type="ucdt">Increases the maximum ammo capacity of the weapon by 80 rockets.</str>
+    <str key="2971800882" type="ucdt">The S12 Renegade is an effective shotgun that is lethal to soft targets at close range. All factions can use this weapon.</str>
+    <str key="2971844427" type="ucdt">Destroy enemies at Staging Site Alpha, Bravo, or Charlie</str>
+    <str key="2971925044" type="ucdt">Grey Scales Armor Camo</str>
+    <str key="2971979038" type="ucdt">Outfits</str>
+    <str key="2971981763" type="ucdt">This action is not available at this time. Please try again later.</str>
+    <str key="2972115562" type="ucdt">Novus 1</str>
+    <str key="2972117908" type="ucdt">T22 Executioner</str>
+    <str key="2972664960" type="ugdt">Flash Bumper TR004</str>
+    <str key="2972681182" type="ucdt">VS: Implants</str>
+    <str key="2972720773" type="ucdt">7</str>
+    <str key="2972766091" type="ucdt">Celebrate the Fifth Anniversary of PlanetSide 2 with this decal. This decal can be applied to armor.</str>
+    <str key="2972784166" type="ucdt">Foothold</str>
+    <str key="2972798778" type="ucdt">Second encryption key</str>
+    <str key="2972830477" type="ucdt">Killing an enemy while wielding a melee weapon restores 175 health. This effect does not trigger on quick melee attacks.</str>
+    <str key="2972836805" type="ucdt">Are you sure you want to disband your outfit?</str>
+    <str key="2972847052" type="ucdt">Large wall with no windows that once fully constructed can withstand a moderate amount of damage.</str>
+    <str key="2972943720" type="ucdt">Flare VE6: Auraxium Medal</str>
+    <str key="2972980548" type="ucdt">Playtest Tower</str>
+    <str key="2972984652" type="ucdt">T1S Cycler SB: Copper Medal</str>
+    <str key="2973058938" type="ucdt">&lt;font color="#00FFAA"&gt;Dolan:&lt;/font&gt; Think on it.</str>
+    <str key="2973337089" type="ucdt">Compensator</str>
+    <str key="2973634341" type="ucdt">Hold [%s] to examine datapad</str>
+    <str key="2973735496" type="ucdt">Nova</str>
+    <str key="2973754778" type="ucdt">Magazine</str>
+    <str key="2973856237" type="ucdt">Adds Lumifiber Trim to the Magrider. VS use only.</str>
+    <str key="2973900843" type="ucdt">Applies an nVidia Decal to your vehicle.</str>
+    <str key="2974127992" type="ucdt">I need ammo!</str>
+    <str key="2974361666" type="ucdt">Increases zoom, but also increases aiming time.</str>
+    <str key="2974406041" type="ucdt">Ursa</str>
+    <str key="2974425837" type="ugdt">Bullfrag Vehicle Decal</str>
+    <str key="2974486655" type="ucdt">Skirmisher Jump Jets 2</str>
+    <str key="2974547721" type="ucdt">Tawrich Depot</str>
+    <str key="2974596286" type="ucdt">TR: Pistol Circle Decal</str>
+    <str key="2974729428" type="ucdt">Betelgeuse 54-A: Auraxium Medal</str>
+    <str key="2974786029" type="ucdt">The9 Placeholder</str>
+    <str key="2975027080" type="ucdt">&lt;font color="#00FFAA"&gt;Praetor Umatherin:&lt;/font&gt; Doubt is a powerful tool, and we have sown the seeds among our foes. We will continue to refine this effective technology, and make you aware of the results when we are complete.</str>
+    <str key="2975113686" type="ucdt">Blue Chrome Armor Camo</str>
+    <str key="2975176317" type="ucdt">Reduces the acquire timer of the Liberator by 900 seconds.</str>
+    <str key="2975203942" type="ucdt">Crusader: Auraxium Medal</str>
+    <str key="2975305969" type="ucdt">"M" Gold Hood Ornament</str>
+    <str key="2975312349" type="ugdt">NS-44B Commissioner</str>
+    <str key="2975313614" type="ucdt">Heavy Assault: Kill a Light Assault, Heavy Assault, Heavy Weapons, Infiltrator, Medic, Engineer and Sniper</str>
+    <str key="2975372410" type="ucdt">A Supply Convoy can leave from your warpgate every 30 minutes</str>
+    <str key="2975420954" type="ucdt">Flash Purple Blinking Lumiball</str>
+    <str key="2975445477" type="ucdt">Creates a long lasting smoke screen around the Sunderer that disrupts visibility and lock-ons for 9 seconds.</str>
+    <str key="2975501103" type="ucdt">Male</str>
+    <str key="2975553321" type="ucdt">Training: Message Courier</str>
+    <str key="2975624292" type="ucdt">Melee Booster 2 (11035) (DNT)</str>
+    <str key="2975636472" type="ucdt">Increases Sticky Grenade capacity to three</str>
+    <str key="2975760975" type="ucdt">&lt;font color="#00FFAA"&gt;MISSION&lt;/font&gt; Move To Waypoint</str>
+    <str key="2975874108" type="ucdt">Deploys an Anti-Infantry Phalanx turret that may be manned by allied players.</str>
+    <str key="2975945527" type="ucdt">Type</str>
+    <str key="2975959924" type="ucdt">The9 Placeholder</str>
+    <str key="2976095626" type="ucdt">Auto-Ignore Outfit Invites</str>
+    <str key="2976159268" type="ucdt">Increases the range and duration that soldiers can be resupplied by the ammunition pack</str>
+    <str key="2976172555" type="ucdt">When you are ready, interact with the podium in front of you.</str>
+    <str key="2976443120" type="ucdt">Harasser Failsauce Horn</str>
+    <str key="2976650442" type="ucdt">Adds 12 rounds to the default magazine size.</str>
+    <str key="2976787189" type="ucdt">Nanite Proximity Repair System 6</str>
+    <str key="2976809740" type="ucdt">CONFLICTING KEYS</str>
+    <str key="2976813838" type="ucdt">HL4 Darkstar Armor Bundle</str>
+    <str key="2976835090" type="ucdt">Auraximas Gift</str>
+    <str key="2976852656" type="ucdt">Universal</str>
+    <str key="2977057120" type="ugdt">Flash F51 Deflection Shield Bumper</str>
+    <str key="2977148570" type="ucdt">Automatic Trigger</str>
+    <str key="2977317621" type="ugdt">Nano-Armor Kit 1</str>
+    <str key="2977481389" type="ucdt">Heavy Air Discount</str>
+    <str key="2977589151" type="ucdt">Increases the maximum ammo capacity of the weapon by 32 missiles.</str>
+    <str key="2977617863" type="ucdt">Customize your ground vehicle by adding a Flying Bullet Hood Ornament. All factions can use this gear.</str>
+    <str key="2977736553" type="ucdt">Reaver M30 Mustang AH [Nose]</str>
+    <str key="2977835869" type="ucdt">TR Assault Starter Bundle</str>
+    <str key="2978020128" type="ugdt">Radar Buster Camo</str>
+    <str key="2978097488" type="ucdt">Increases nanite gain by 50% for 1 Day. Boost can only be used on this character.</str>
+    <str key="2978143775" type="ucdt">Valkyrie Avenger Cockpit</str>
+    <str key="2978189285" type="ucdt">Rocket Launcher Clip 01 Description</str>
+    <str key="2978275949" type="ucdt">Additional composite plating to complement the look of your Infiltrator. TR use only.</str>
+    <str key="2978365526" type="ucdt">Gadgets</str>
+    <str key="2978436212" type="ucdt">Forward Shield Horizontal Generator</str>
+    <str key="2978458168" type="ucdt">Smoke Grenade: Gold Medal</str>
+    <str key="2978507205" type="ugdt">Sky Master Helmet</str>
+    <str key="2978670151" type="ucdt">A portion of your membership subsidizes developer cup soup rations.</str>
+    <str key="2978734992" type="ugdt">Magburner 5</str>
+    <str key="2978756715" type="ucdt">Further increases resupply speed.</str>
+    <str key="2978759826" type="ucdt">Decreases the time taken to reload weapon by 0.4 seconds.</str>
+    <str key="2978873061" type="ucdt">Press [%s] to enter vehicle</str>
+    <str key="2979124851" type="ucdt">NS "Heatwave" Decimator: Silver Medal</str>
+    <str key="2979132125" type="ucdt">Applies one-way shields to the openings of nearby structures, protecting defenders within. Requires a nearby Silo to power the module.</str>
+    <str key="2979163044" type="ucdt">Lightning 100mm Cannon</str>
+    <str key="2979207669" type="ucdt">&lt;font color="#00FFAA"&gt;Warden Hadley:&lt;/font&gt; Ah, there's the researcher. She's not looking too good. You should see what you can find out while you can.</str>
+    <str key="2979305608" type="ucdt">Mineral Radar</str>
+    <str key="2979425971" type="ucdt">Legate 2 Decal</str>
+    <str key="2979445258" type="ucdt">Earned by being the ANT driver when a passenger kills an enemy.</str>
+    <str key="2979480378" type="ucdt">W Decal</str>
+    <str key="2979668490" type="ugdt">One-Year Anniversary Player</str>
+    <str key="2979825191" type="ucdt">Taking fall damage will cloak you for 2.5 seconds. Additionally, bailing from an ejection seat aircraft will cloak you for 6 seconds upon hitting the ground. Firing a weapon will reveal you.</str>
+    <str key="2979828362" type="ucdt">LA8 Rebel: Gold Medal</str>
+    <str key="2979952402" type="ucdt">Complete Master Basic Directive or earn Battle Rank 10</str>
+    <str key="2979974371" type="ugdt">Ground Vehicle Terminal</str>
+    <str key="2980014278" type="ucdt">What would we do without you? Nothing, I guess.</str>
+    <str key="2980176415" type="ucdt">Ammunition Package 3</str>
+    <str key="2980230631" type="ucdt">This customization adds a Tan decal to the cockpit glass. All factions can use this gear.</str>
+    <str key="2980240203" type="ucdt">Further increases the size of the Overcloak Device's capacitor.</str>
+    <str key="2980289609" type="ucdt">Galaxy M20 Drake [Top]</str>
+    <str key="2980328427" type="ucdt">A standardized reflex sight designed to promote faster precision aiming.</str>
+    <str key="2980353781" type="ucdt">Gauss Rifle Burst: Silver Medal</str>
+    <str key="2980391045" type="ucdt">ASP-30 Grounder: Silver Medal</str>
+    <str key="2980404403" type="ucdt">Vanguard Dozer Plating</str>
+    <str key="2980438915" type="ucdt">C75 Viper: Gold Medal</str>
+    <str key="2980481782" type="ugdt">Stealth Cloaking Module</str>
+    <str key="2980490211" type="ucdt">Liberator Yellow Contrails</str>
+    <str key="2980702179" type="ucdt">Delete Me</str>
+    <str key="2980721086" type="ucdt">Infiltrator: Tool Slot</str>
+    <str key="2980865474" type="ucdt">Thanks for your interest in improving your gaming experience. Please select the area in which we can be of the most assistance.</str>
+    <str key="2981016767" type="ucdt">The Prowler is the Terran Republic's main battle tank. It is a fast tank with a dual cannon for maximum firepower.</str>
+    <str key="2981042030" type="ucdt">Advanced Equipment Terminal Hacking 1</str>
+    <str key="2981097334" type="ucdt">Rocket Launcher: Lock-on Speed</str>
+    <str key="2981142325" type="ucdt">Got em.</str>
+    <str key="2981233506" type="ucdt">Nanoweave Armor 2 Description (11611) (DNT)</str>
+    <str key="2981324490" type="ugdt">Dingo ML-6</str>
+    <str key="2981438289" type="ucdt">Stampede MG: Auraxium Medal</str>
+    <str key="2981440250" type="ucdt">Generates a dense mesh of nanites around the soldier that decays slowly while active, and absorbs up to 450 damage before failing. Regenerates to full in 28 seconds.</str>
+    <str key="2981486847" type="ucdt">Squad leaders can earn Drill Sergeant Ribbons for every battle rank a new player earns in their squad. Help out the new players!</str>
+    <str key="2981533482" type="ucdt">v1.1.9</str>
+    <str key="2981609228" type="ucdt">Nightmare 4</str>
+    <str key="2981614590" type="ucdt">Esamir Snowdrift Vehicle Camo</str>
+    <str key="2981664225" type="ucdt">Amp Station Defense</str>
+    <str key="2981682964" type="ugdt">NS-11CG</str>
+    <str key="2981715608" type="ucdt">Adds 2 rounds to the default magazine size.</str>
+    <str key="2981797260" type="ucdt">Firing in short bursts will help you control your weapon more easily, and land shots where you want them.</str>
+    <str key="2981855680" type="ucdt">Male Voice Pack 04 Description Placeholder</str>
+    <str key="2981961832" type="ucdt">Decreases the time taken to reload weapon by 11.25%</str>
+    <str key="2982048934" type="ucdt">Dolphin Ops Armor Decal</str>
+    <str key="2982104567" type="ucdt">Reclaimed Magrider</str>
+    <str key="2982141853" type="ucdt">TS2 Inquisitor Auraxium Medal</str>
+    <str key="2982308209" type="ucdt">Allows for the creation of a single flash personal atv in the outfitwars game mode. Usable from the home base vehicle terminals by those who have outfit permission to use the item.</str>
+    <str key="2982366215" type="ugdt">Eridani SX5G</str>
+    <str key="2982387622" type="ucdt">Apply the Dazzle Dizzy camo pattern to your vehicle. NC use only.</str>
+    <str key="2982403834" type="ucdt">Increases the maximum ammo capacity of the weapon by 90 grenades.</str>
+    <str key="2982439130" type="ugdt">Enhanced Refining 4</str>
+    <str key="2982446017" type="ucdt">Bighorn .50M: Gold Medal</str>
+    <str key="2982496412" type="ucdt">Further increases the size of the Nano-Efficient Cloak's capacitor.</str>
+    <str key="2982599568" type="ucdt">Customize your Sunderer and tear up the roads of Auraxis with these tire spikes. All factions can use this gear.</str>
+    <str key="2982755173" type="ucdt">The deploy location is out of bounds</str>
+    <str key="2982892302" type="ucdt">Auto Turret</str>
+    <str key="2983000391" type="ucdt">Shotgun Grant Item</str>
+    <str key="2983065788" type="ucdt">Sniper Rifle: VA39 Spectre</str>
+    <str key="2983116390" type="ucdt">ID'd an enemy Lightning.</str>
+    <str key="2983145124" type="ucdt">Andvari Cargo Bay C</str>
+    <str key="2983270964" type="ucdt">Increases the maximum ammo capacity of the weapon by 900 rounds.</str>
+    <str key="2983303263" type="ugdt">Hex Crystal Vehicle Camo</str>
+    <str key="2983309284" type="ucdt">M60-A Bulldog: Silver Medal</str>
+    <str key="2983391002" type="ucdt">The deploy location is invalid</str>
+    <str key="2983406331" type="ucdt">Proficiency with the Heavy Assault class.</str>
+    <str key="2983539210" type="ucdt">Unlocks access to LMGs. Does not include Directive reward weapons. Engineer only.</str>
+    <str key="2983595553" type="ucdt">Fort Drexler</str>
+    <str key="2983620377" type="ucdt">Deployment Shield 3</str>
+    <str key="2983791635" type="ucdt">Newbie</str>
+    <str key="2983947143" type="ucdt">Kill enemies that are wearing a Halloween mask with the NS CandyCannon 3000.
+
+Completing this directive awards the title "the Trickster"</str>
+    <str key="2984185735" type="ucdt">Decoy Grenade</str>
+    <str key="2984292745" type="ugdt">Indar Canyons v2 Camo</str>
+    <str key="2984413922" type="ucdt">3.4x Scope</str>
+    <str key="2984513684" type="ucdt">This is the default scope for rocket launchers</str>
+    <str key="2984533271" type="ucdt">You're ready to join the fight, but before you go, you should speak with your faction representative on Sanctuary for their last bit of guidance.</str>
+    <str key="2984578571" type="ucdt">Increases the maximum ammo capacity of the weapon by 64 rockets.</str>
+    <str key="2984976668" type="ucdt">This customization adds a Teal decal to the cockpit glass. TR use only.</str>
+    <str key="2984999025" type="ucdt">Cell Camo</str>
+    <str key="2985033011" type="ucdt">Apply the Wave camo pattern to your weapon. TR use only.</str>
+    <str key="2985058671" type="ucdt">Allows the Infiltrator to use the Proximity mine</str>
+    <str key="2985177437" type="ucdt">Arazek SATCOM Hub</str>
+    <str key="2985199144" type="ucdt">Test Group 8</str>
+    <str key="2985219600" type="ucdt">A generous group of civilians has donated this extra lifewear in support of a greater good.</str>
+    <str key="2985333244" type="ugdt">Deputy Director 5 Decal</str>
+    <str key="2985345390" type="ucdt">Apply the single use Indar Dunes camo pattern to your weapon. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
+    <str key="2985490159" type="ucdt">Sunderer Gunport [WIP]: Gold Medal</str>
+    <str key="2985781119" type="ucdt">Cosmos: Copper Medal</str>
+    <str key="2985920284" type="ucdt">Front Iron Sight Attachment 01</str>
+    <str key="2985959331" type="ucdt">NS-44P Commissioner Silver Medal</str>
+    <str key="2986111720" type="ucdt">Sub-Orbital Galaxy Cockpit</str>
+    <str key="2986193094" type="ucdt">It's our anniversary, and we're having a sale to celebrate!</str>
+    <str key="2986198968" type="ucdt">Galaxy Deploy</str>
+    <str key="2986232542" type="ucdt">Where all facilities are born</str>
+    <str key="2986301069" type="ucdt">GD-22S: Auraxium Medal</str>
+    <str key="2986305959" type="ucdt">Single Use Indar Dunes Camo</str>
+    <str key="2986316938" type="ucdt">Apply the single use Digital camo pattern to your armor. NC use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
+    <str key="2986364935" type="ucdt">Darklight Flashlight</str>
+    <str key="2986367827" type="ucdt">You are about to purchase: %0. Are you sure?</str>
+    <str key="2986385004" type="ucdt">Grenade Launcher Attachment</str>
+    <str key="2986523409" type="ucdt">Reduces the acquire timer of the Harasser by 420 seconds.</str>
+    <str key="2986563376" type="ucdt">Comet VM2</str>
+    <str key="2986632676" type="ucdt">VS - Heavy Pistol - Mid - V1 Description(Delete Me -BB)</str>
+    <str key="2986694582" type="ucdt">The jump key is used to hurdle battlefield obstacles.</str>
+    <str key="2986865819" type="ucdt">War is a costly endeavor, especially for ammunition and the lack therof. The Sunderer, being the versatile machine it is, can be used to remedy this current and never-ending reality of war. Use the Sunderer to transport ammo to our allies at our front lines!&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;Requires Sunderer equipped with Vehicle Ammo Dispenser.&lt;/font&gt;</str>
+    <str key="2987042573" type="ucdt">Horns</str>
+    <str key="2987066058" type="ucdt">Unlocks access to EMP Grenades. Engineer only.</str>
+    <str key="2987192545" type="ucdt">Applies a camo to your armor, weapon, or vehicle. All factions can use this gear.</str>
+    <str key="2987338714" type="ucdt">Request denied - the match does not exist.</str>
+    <str key="2987487171" type="ucdt">Reload Speed 2</str>
+    <str key="2987511382" type="ucdt">Change to Seat 7</str>
+    <str key="2987555980" type="ucdt">Utility</str>
+    <str key="2987742266" type="ucdt">MANA Turret: Auraxium Medal</str>
+    <str key="2987795403" type="ucdt">Armored Tire Spikes</str>
+    <str key="2987804944" type="ucdt">Apply the Wave camo pattern to your armor. NC use only.</str>
+    <str key="2987832812" type="ucdt">Seeker HLX: Auraxium Medal</str>
+    <str key="2987985674" type="ucdt">M20 Basilisk (Top)</str>
+    <str key="2988205632" type="ucdt">NC Male Heavy Assault</str>
+    <str key="2988235895" type="ucdt">The straight-pull bolt allows the sniper to chamber another round while aiming down sights.</str>
+    <str key="2988381301" type="ucdt">Archon 1 Decal</str>
+    <str key="2988491840" type="ucdt">Raider 5</str>
+    <str key="2988528748" type="ucdt">Blue Chrome Vehicle Camo</str>
+    <str key="2988555023" type="ucdt">Containment II Banner</str>
+    <str key="2988667344" type="ucdt">Terran Republic (Enemy)</str>
+    <str key="2988696519" type="ucdt">Decreases the time taken to reload weapon by 0.45 seconds.</str>
+    <str key="2988746474" type="ucdt">Reduces the acquire timer of the Sunderer by 540 seconds.</str>
+    <str key="2988751033" type="ugdt">i3fs Armor Decal</str>
+    <str key="2988803330" type="ucdt">Facilitator Campner has been spending his leisure time playing an old Earth game called checkers, and would enjoy a physical game set. Representative Ayla of Nanite Systems has an excellent record of obtaining obscure objects and may prove to be useful in acquiring one.</str>
+    <str key="2988852879" type="ugdt">Razor Edge Vehicle Camo</str>
+    <str key="2988952571" type="ucdt">Nanite Auto Repair System 3</str>
+    <str key="2989184183" type="ucdt">Tuffin Vehicle Decal</str>
+    <str key="2989217498" type="ucdt">LA80: Copper Medal</str>
+    <str key="2989223630" type="ucdt">FIRE RATE</str>
+    <str key="2989319245" type="ucdt">Applies a decal to your armor. TR use only.</str>
+    <str key="2989334570" type="ugdt">Eclipse VE3A</str>
+    <str key="2989356543" type="ucdt">Light Assaults can use Carbines which retain a portion of their accuracy while airborne. They also have access to Submachine Guns, and Shotguns.&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;Unique to the Light Assault is the Rocklet Rifle. The 6-round Rocklet Rifle fires light explosive mini-rockets, giving the Light Assault the versatility to engage vehicles. It can fire semi-auto or unload all rocklets in rapid succession.</str>
+    <str key="2989466421" type="ucdt">Reload Speed</str>
+    <str key="2989469004" type="ugdt">Vanu Scout Helmet</str>
+    <str key="2989485262" type="ucdt">Heavy Assault: Tools</str>
+    <str key="2989607443" type="ucdt">Single Use Zebra Armor Camo</str>
+    <str key="2989629447" type="ucdt">Gear Slot 2</str>
+    <str key="2989732793" type="ucdt">VS 03 (default)</str>
+    <str key="2989743999" type="ucdt">&lt;font color="#00FFAA"&gt;Field Officer Knightly&lt;/font&gt; Listen up, soldier. We've got some weeding that needs done around The Shattered Warpgate area.</str>
+    <str key="2989754299" type="ucdt">Emerald Arboretum</str>
+    <str key="2989869087" type="ucdt">Battle experience also earns you resources.  The type of resource earned is determined by which territory you are in.</str>
+    <str key="2989882832" type="ucdt">PlanetSide: Arena goes to Early Access.</str>
+    <str key="2989886878" type="ucdt">&lt;font color="#00FFAA"&gt;Hadley:&lt;/font&gt; So, keep your eyes peeled for the remains of our fallen heroes. Make a note of their position and collect their dog tags. We owe it to them to recover their remains and remember their names.</str>
+    <str key="2989898881" type="ucdt">Integration Banner</str>
+    <str key="2990130766" type="ucdt">EW Mark I-Q Rapid Laser</str>
+    <str key="2990415478" type="ucdt">Flash Violet Blinking Lumiball</str>
+    <str key="2990582035" type="ucdt">CURRENT %0: &lt;font color="#7FF4FF"&gt;%1&lt;/font&gt;</str>
+    <str key="2990600730" type="ugdt">TRAP-6</str>
+    <str key="2990630094" type="ucdt">Next Rank: Repairs 5.6% every 5 seconds.</str>
+    <str key="2990633335" type="ucdt">Display Mode</str>
+    <str key="2990745721" type="ucdt">The9 Placeholder</str>
+    <str key="2990909865" type="ucdt">Next rank lowers cooldown.  Can be activated once every 46 seconds.</str>
+    <str key="2990931593" type="ucdt">Life Support System 1 (11100) (DNT)</str>
+    <str key="2990979130" type="ucdt">Allows the user to carry and place two additional bricks of C-4.</str>
+    <str key="2991069126" type="ucdt">A 3.4x zoom scope useful when engaging targets at greater distances.</str>
+    <str key="2991152098" type="ucdt">Earn any Service Ribbon</str>
+    <str key="2991391950" type="ucdt">Charge 2</str>
+    <str key="2991450430" type="ucdt">Premium Passive CP Gain</str>
+    <str key="2991525877" type="ucdt">Support Planetside 2 and get awesome benefits!</str>
+    <str key="2991562932" type="ucdt">Corona: Copper Medal</str>
+    <str key="2991565478" type="ucdt">Allows squad leaders to request empire-wide offensive and defensive support by placing markers on the continent map.</str>
+    <str key="2991603369" type="ucdt">You can now wield the soundtrack of failure. Apply liberally to your fallen foes. All factions can use this item.</str>
+    <str key="2991806574" type="ugdt">"V" Gold Hood Ornament</str>
+    <str key="2991829926" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; The heat signature is coming from that crashed weather drone. Powerful storms may still be prevalent even after dissipating Oshur's energy barrier.</str>
+    <str key="2991933057" type="ucdt">Indar Dry Ocean Camo</str>
+    <str key="2991956564" type="ucdt">VS ANT Mining Turret</str>
+    <str key="2991992322" type="ucdt">Confront Representative Foster</str>
+    <str key="2992010094" type="ucdt">Give it your all!</str>
+    <str key="2992010102" type="ucdt">Anti Vehicle Grenade: Gold Medal</str>
+    <str key="2992026762" type="ucdt">Charge 4</str>
+    <str key="2992145295" type="ucdt">Liberator Hearts Glass Decal</str>
+    <str key="2992171959" type="ucdt">Embracing ancient Vanu technology, VS weapons and vehicles are the most exotic on the battlefield.
+Handheld VS weapons have small power sources instead of magazines, and shoot plasma rounds, making them well-rounded and accurate.
+Their main battle tank, the &lt;font color="#c27fff"&gt;Magrider&lt;/font&gt;, makes use of hover technology allowing it to glide smoothly over rough terrain.
+Heavy weapons like the &lt;font color="#c27fff"&gt;Lasher&lt;/font&gt; and the vehicle-mounted &lt;font color="#c27fff"&gt;Particle Accelerator&lt;/font&gt; fire spheres of charged energy that fire rapidly and explode on impact.
+The handheld &lt;font color="#c27fff"&gt;Lancer&lt;/font&gt; fires a highly accurate anti-vehicle plasma rail that requires a short charge-up before firing.
+</str>
+    <str key="2992316860" type="ugdt">Commander 3 Decal</str>
+    <str key="2992368645" type="ugdt">Mending Field 4</str>
+    <str key="2992429662" type="ucdt">Survey Staging Site Charlie</str>
+    <str key="2992455172" type="ucdt">&lt;font color="#00FFAA"&gt;&lt;u&gt;Auraxis Prior&lt;/u&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;While each empire uses a unique command hierarchy to organize and enact battlefield strategy, what all empires do equally is decentralize their information gathering and delivery methods as much as possible.
+&lt;br&gt;
+By using couriers, civilians, and soldiers of varying rank and status, the damage that traitors, spies, data breaches, and lost information can do is limited.&lt;/i&gt;</str>
+    <str key="2992538456" type="ucdt">The Wayland Long Range Optic is easily configured for various magnifications. This optic amplifies magnification by 12x.</str>
+    <str key="2992568106" type="ugdt">War Hero Decal</str>
+    <str key="2992603173" type="ugdt">NC: LMG Decal</str>
+    <str key="2992630303" type="ucdt">US</str>
+    <str key="2992891343" type="ucdt">Cockpit: Red Metallic Decal</str>
+    <str key="2992991149" type="ucdt">Armageddon Helmet</str>
+    <str key="2992995372" type="ugdt">Sandy Scrub - Single Use</str>
+    <str key="2993306153" type="ucdt">Insufficient Funds! Please add more %0.</str>
+    <str key="2993439048" type="ugdt">v0.9.4</str>
+    <str key="2993456722" type="ucdt">Local Server 2</str>
+    <str key="2993609417" type="ucdt">Applies a camo to your armor, weapon, or vehicle. Only usable by VS.</str>
+    <str key="2993673504" type="ucdt">Apply the Grey camo pattern to your armor.</str>
+    <str key="2993857234" type="ucdt">Apply the Honeycomb camo pattern to your vehicle. TR use only.</str>
+    <str key="2993857438" type="ucdt">M40 Fury: Silver Medal</str>
+    <str key="2993906700" type="ucdt">Matte Black Vehicle Camo</str>
+    <str key="2993966584" type="ucdt">Galact-O'-Lantern</str>
+    <str key="2994102675" type="ucdt">Wearable by all non-Max classes. VS use only.</str>
+    <str key="2994110486" type="ugdt">Valkyrie Sonic Wave Horn</str>
+    <str key="2994155003" type="ucdt">Apply the single use Snow Aspen Forest camo pattern to your armor. VS use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
+    <str key="2994201028" type="ucdt">Briggs Laboratories</str>
+    <str key="2994355156" type="ucdt">Region Control 60%</str>
+    <str key="2994361239" type="ucdt">Today Only! Solid Green Camo Available!</str>
+    <str key="2994410142" type="ugdt">Emergency Repair 6</str>
+    <str key="2994520030" type="ucdt">Velocity: Silver Medal</str>
+    <str key="2994525721" type="ugdt">Windblown Weapon Camo</str>
+    <str key="2994563736" type="ucdt">Apply the single use Desert Scrub v1 camo pattern to your weapon. VS use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
+    <str key="2994631163" type="ucdt">A turret has been damaged.</str>
+    <str key="2994703459" type="ucdt">&lt;font color="#00FFAA"&gt;Warden Hadley:&lt;/font&gt; Welcome to Oshur, soldier. This place has a lot to teach us. And the Terran Republic sure wanted to get back here in a hurry. We should find out why.</str>
+    <str key="2994727441" type="ugdt">Cockpit: VS Logo Decal</str>
+    <str key="2994921052" type="ucdt">Link to southwest Warpgate.</str>
+    <str key="2994970244" type="ucdt">&lt;font color="#dc9c36"&gt;Must wield melee weapon to collect. Hold quick melee button down to wield melee weapon.&lt;br&gt;&lt;br&gt;Collection credit is shared with nearby allies.&lt;br&gt;&lt;/font&gt;&lt;br&gt;Look around the Shattered Warpgate region for plant specimens identified by the Analysis HUD implant. There should be plants throughout the region as well as clusters that spring up and spawn rapidly.</str>
+    <str key="2995019480" type="ucdt">Orphaned - Post Launch - Do not translate.  Mosquito Inertial Dampener - Level 2</str>
+    <str key="2995068884" type="ucdt">Ammo Printer 3</str>
+    <str key="2995131114" type="ucdt">66th Vanu Air Corps Decal</str>
+    <str key="2995159042" type="ucdt">Hunted Kill Streak Bonus</str>
+    <str key="2995258246" type="ucdt">Machinima Decal 3</str>
+    <str key="2995259257" type="ugdt">Bear Claw Decal</str>
+    <str key="2995362378" type="ucdt">Increases the maximum ammo capacity of the weapon by 900 rounds.</str>
+    <str key="2995413322" type="ucdt">Classic Winged Skull Decal</str>
+    <str key="2995454818" type="ucdt">Adds 50 rounds to the default magazine size.</str>
+    <str key="2995462668" type="ucdt">&lt;font color="#00FFAA"&gt;Warden Hadley:&lt;/font&gt; Hey, soldier. We need combat trained pilots. Fly to the specified areas and deploy additional Storm Buoys or clear out any enemy aircraft that may threaten the research.</str>
+    <str key="2995518938" type="ucdt">Rashnu Bio Lab</str>
+    <str key="2995700790" type="ucdt">Too far or too close from Orbital Strike Generator</str>
+    <str key="2995728263" type="ucdt">Rashnu Watchtower Satellite Spawn</str>
+    <str key="2995765494" type="ucdt">Earn Outfit Wars score to increase your ranking.</str>
+    <str key="2995793766" type="ucdt">You can keep players from sending you messages by typing /ignore playername.</str>
+    <str key="2995844383" type="ucdt">Apply the single use Pine Forest camo pattern to your armor. VS use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
+    <str key="2995845348" type="ucdt">Video Tutorials</str>
+    <str key="2995870411" type="ucdt">Portable shooting platform attachment</str>
+    <str key="2995941920" type="ucdt">Gold Forest Giant Hood Ornament</str>
+    <str key="2995956405" type="ucdt">Adds 1 rocket to the default magazine size.</str>
+    <str key="2995979957" type="ugdt">Ravenshroud Helmet</str>
+    <str key="2996043491" type="ucdt">Apply the single use African Forest camo pattern to your weapon. VS use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
+    <str key="2996103053" type="ucdt">&lt;font color="#00FFAA"&gt;FL-34: &lt;/font&gt; I've got the first key, the second you'll have to swipe from the facility I've marked on your map, and the last one, well that one is a bit more complicated.</str>
+    <str key="2996142835" type="ucdt">NONE</str>
+    <str key="2996161258" type="ucdt">Increases the maximum ammo capacity of the weapon by 26 rounds.</str>
+    <str key="2996204918" type="ucdt">Increases the maximum ammo capacity of the weapon by 120 rounds.</str>
+    <str key="2996321275" type="ucdt">Increases the speed at which an Infiltrator can hack enemy equipment terminals by 40%.</str>
+    <str key="2996409489" type="ucdt">NC's Perfect Sniper Description</str>
+    <str key="2996476807" type="ucdt">Blackheart: Ribbon</str>
+    <str key="2996628440" type="ugdt">Firestorm 1</str>
+    <str key="2996631171" type="ucdt">Advanced Shield Capacitors allow damaged and depleted shields to recharge sooner.</str>
+    <str key="2996659744" type="ucdt">AE Medical Applicator 2</str>
+    <str key="2996667189" type="ucdt">Refined material construction removes the innate hipfire movement speed penalty, reduces the movement speed penalty while aiming by 50%, and increases the weapon's angular recoil by 33%.</str>
+    <str key="2996684736" type="ucdt">AF-19 Mercenary</str>
+    <str key="2996702266" type="ucdt">Elite Soldier Bundle</str>
+    <str key="2996760498" type="ucdt">Nanite Appreciation Sale 2017</str>
+    <str key="2996780340" type="ucdt">Applies a PlanetSide 1 Decal to your armor.</str>
+    <str key="2996784921" type="ucdt">Mousing over a region brings up a details panel about that region.</str>
+    <str key="2996790238" type="ucdt">Flash Toe Cutter Tire Spikes</str>
+    <str key="2996812264" type="ucdt">&lt;font color="#00FFAA"&gt;Festive Drone:&lt;/font&gt; Merry Auraximas, human. Another gift awaits you tomorrow.</str>
+    <str key="2996951624" type="ucdt">Standard Vanu Sovereignty MAX Helmet</str>
+    <str key="2997182325" type="ugdt">v0.6.0 Decal</str>
+    <str key="2997252358" type="ucdt">Congratulations, you have now succesfully Redeployed to the Warpgate. Remember Redeploy can be used to transport yourself to any Waypoint (green circles on the map during Redeploy), or even certain vehicles (Appear Green).</str>
+    <str key="2997417724" type="ugdt">Abstract Camo</str>
+    <str key="2997604093" type="ugdt">Gripmaster Tire Spikes</str>
+    <str key="2997621642" type="ucdt">Become a Premium Member!</str>
+    <str key="2997759786" type="ugdt">Flash Deathmarch Horn</str>
+    <str key="2998039914" type="ucdt">Applies a camo to your armor, weapon or vehicle. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
+    <str key="2998075565" type="ucdt">Free monthly 500 Seven Cash</str>
+    <str key="2998083819" type="ucdt">Bounce House of Pain</str>
+    <str key="2998251461" type="ucdt">AF-57 Piston: Gold Medal</str>
+    <str key="2998253490" type="ucdt">Zurvan Courtyard 2</str>
+    <str key="2998263584" type="ucdt">Designates the wearer as an honorary member of the Black Market smugglers.</str>
+    <str key="2998314658" type="ucdt">&lt;font color="#00FFAA"&gt;Giga Carrot: &lt;/font&gt; One day we will break free of this place and bring down upon you and your people a righteous fury that will burn hotter than the brightest star.</str>
+    <str key="2998725311" type="ucdt">Transport Mode 5: Description</str>
+    <str key="2998808815" type="ucdt">VS Carbine Rifle Group</str>
+    <str key="2998810723" type="ucdt">Attach a spoiler to the vehicle.</str>
+    <str key="2998830676" type="ucdt">Harasser Fender TR002 Description</str>
+    <str key="2998958229" type="ucdt">Oshur: Sea: Interior: NE: Disabled: 02</str>
+    <str key="2999016271" type="ucdt">This uplink structure can unleash a devastating attack from orbit. When powered and charged, any target in range can be designated using a tool obtained from the uplink terminal. Longer distance strikes cost additional charge, so frequent or long distance attacks will require longer term defense of the structure.</str>
+    <str key="2999100595" type="ucdt">450 MERIT (+50%)</str>
+    <str key="2999151573" type="ucdt">Protect the Eastern SCU!</str>
+    <str key="2999155727" type="ucdt">Depth Charge Drop Pod</str>
+    <str key="2999307071" type="ucdt">Unlocks the Auxiliary Spitfire Turret for your tactical loadout slot. These are resupplied using &lt;font color="#ACE1E5"&gt;&lt;u&gt;Merit&lt;/u&gt;&lt;/font&gt; points.&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;Single use consumable. Max 2 between resupplies.&lt;/font&gt;&lt;br&gt;Deployable turret identical to an engineer Spitfire Auto-Turret. Only one Aux Spitfire can be active at a time. An engineer can place their standard spitfire and one Aux Spitfire at the same time.</str>
+    <str key="2999545272" type="ucdt">Ambassador</str>
+    <str key="2999594522" type="ucdt">Crafted #count([*asset*])</str>
+    <str key="2999625228" type="ugdt">Incendiary Payload</str>
+    <str key="2999783180" type="ugdt">ANT Ghostly Shriek Horn</str>
+    <str key="2999829484" type="ugdt">Racer High Speed Chassis 1</str>
+    <str key="2999879454" type="ucdt">Adds 12 rounds to the default magazine size.</str>
+    <str key="3000060443" type="ucdt">Potential earnings with All Access Membership</str>
+    <str key="3000178201" type="ucdt">Could not transfer leadership to that player.</str>
+    <str key="3000227103" type="ucdt">Change Weapon &gt;</str>
+    <str key="3000251002" type="ucdt">The Map is a key tool for observing the current state of the war.  There are a number of functions available to you from the map, including placing waypoints and finding battle hotspots.</str>
+    <str key="3000263760" type="ucdt">Ammo Capacity 9</str>
+    <str key="3000305384" type="ucdt">VS-M001 Standard Helmet</str>
+    <str key="3000316164" type="ucdt">Cockpit: Skull Decal</str>
+    <str key="3000341496" type="ucdt">TR Medic Health Rank 1</str>
+    <str key="3000393714" type="ucdt">MANA AV Turret</str>
+    <str key="3000480495" type="ucdt">Mag-Cutter: Auraxium Medal</str>
+    <str key="3000557575" type="ucdt">Switch to your side arm. This is usually faster than reloading your primary weapon.</str>
+    <str key="3000571851" type="ugdt">Royal Weapon Camo</str>
+    <str key="3000657774" type="ucdt">The9 Placeholder</str>
+    <str key="3000675400" type="ucdt">Increases the maximum ammo capacity of the weapon by 56 rounds.</str>
+    <str key="3000683249" type="ucdt">Apply the Pixelate camo pattern to your armor.</str>
+    <str key="3000727348" type="ucdt">Unlock defense slot Certifications to increase the Scythe's survivability on the field. Defense slot items can be equipped on the loadout screen.</str>
+    <str key="3000736578" type="ucdt">Path would lead through the central mountain. Must plot course around</str>
+    <str key="3000827697" type="ucdt">Relic Site A</str>
+    <str key="3000945448" type="ucdt">Nano-Harvest Kit</str>
+    <str key="3000963444" type="ucdt">WDS Reward Bundle</str>
+    <str key="3000964967" type="ucdt">Unlock range attachments to alter your weapon with</str>
+    <str key="3000990384" type="ucdt">MGR-A1 Vanquisher - Fully Loaded Bundle</str>
+    <str key="3000997711" type="ucdt">Vehicle cannot be deployed here because [*reason*]</str>
+    <str key="3000999240" type="ucdt">&lt;font color="#00FFAA"&gt;Coordinator Tolland:&lt;/font&gt; Hey, kid. The boys are still out on expedition. Stop by when they get back.</str>
+    <str key="3001207948" type="ugdt">Cockpit: Pink Glass Decal</str>
+    <str key="3001299287" type="ucdt">Increases the maximum ammo capacity of the weapon by 120 rounds.</str>
+    <str key="3001385329" type="ucdt">Mentor Rating is increased when earning Mentor Ribbons, and decays naturally over time.&lt;br&gt;&lt;br&gt;This stat is intended to promote players who actively help new players become more acclimated to the game by providing tutilage and support.&lt;br&gt;&lt;br&gt;Your rating tier is shown when creating Mentor squads in the squad finder.&lt;br&gt;&lt;br&gt;A rating of 500 or higher allows access to the /mentor channel while above BR15.</str>
+    <str key="3001468787" type="ucdt">Dingo ML-6 [Rear Right]</str>
+    <str key="3001501494" type="ucdt">6x Scope </str>
+    <str key="3001661963" type="ucdt">ENTER CODE</str>
+    <str key="3001704585" type="ucdt">Contains a AF-4A Bandit plus 1000 Certs</str>
+    <str key="3001864408" type="ucdt">Adds Hubcaps 012 to your Sunderer. (DNT)</str>
+    <str key="3002070773" type="ucdt">Participants: %0</str>
+    <str key="3002175400" type="ucdt">The Harasser is an agile 3 man buggy that is available to all empires.  The driver and gunner are both seated inside the cockpit; while the third passenger stands on the rear of the buggy and has access to his own weapons.</str>
+    <str key="3002190207" type="ugdt">Sticky Grenade</str>
+    <str key="3002232761" type="ucdt">This training program will take about 15 minutes to complete. It teaches the following topics:
+ - Movement
+ - Capturing facilities
+ - Resupplying / changing classes
+ - Using weapons and equipment
+ - Redeploying / respawning
+ - Creating / using vehicles
+ - Shields and generators
+ - Changing continents
+ - Getting into the action</str>
+    <str key="3002452916" type="ucdt">Increases armor and resupply rate</str>
+    <str key="3002574751" type="ucdt">Get back out there and continue the fight. Also if we could lock out the other empires for a time, it would also give our non combatant researchers a chance to get onto the field.</str>
+    <str key="3002636602" type="ucdt">The9 Server Name 26</str>
+    <str key="3002642893" type="ucdt">Sticky Grenade: Copper Medal</str>
+    <str key="3002649970" type="ucdt">TR Female LightAssault </str>
+    <str key="3002754300" type="ucdt">High Roller Camo</str>
+    <str key="3002928592" type="ucdt">Designed as a longer range option to the standard TriGon, the TG-8 features increased 8x magnification and mil-dot sighting.&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Hold Sprint to steady aim.&lt;/font&gt;</str>
+    <str key="3002944431" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; Greetings operative, Esamir clearly needs our help. Please ready your Engineer equipment and advance to the nearest allied Containment Site.</str>
+    <str key="3002956172" type="ugdt">BX Adapter</str>
+    <str key="3002980912" type="ucdt">Reduce overheat damage done to the vehicle caused by firing the primary weapon while MAD or deployed into Skylance Battery mode by 20%</str>
+    <str key="3003056030" type="ugdt">Liberator Demonic Horn</str>
+    <str key="3003170109" type="ugdt">Renegade 18 Armor Decal</str>
+    <str key="3003347729" type="ucdt">&lt;font color="#00FFAA"&gt;Dolan:&lt;/font&gt; This anchor may be defective, as I'm sure no one anticipated the detonation.</str>
+    <str key="3003420179" type="ucdt">Pistols of Auraxis Vehicle Decal</str>
+    <str key="3003474858" type="ucdt">NC WL-350 Afterburner</str>
+    <str key="3003506305" type="ucdt">H-V45 AE: Silver Medal</str>
+    <str key="3003775716" type="ucdt">Tuffin</str>
+    <str key="3003932407" type="ucdt">Increases the maximum ammo capacity of the weapon by 45 rockets.</str>
+    <str key="3004028049" type="ucdt">Custom</str>
+    <str key="3004043566" type="ucdt">This armor can only be worn by TR Infiltrators.</str>
+    <str key="3004104589" type="ucdt">Our Depot has everything that you need, and even more that you want.</str>
+    <str key="3004106589" type="ucdt">Vanish Device 1 Description (14004) (DNT)</str>
+    <str key="3004116810" type="ucdt">T5 AMC: Auraxium Medal</str>
+    <str key="3004121893" type="ucdt">TR Rocket Launcher - V2 Description</str>
+    <str key="3004128887" type="ugdt">NC's 1-Day Resource boost</str>
+    <str key="3004131945" type="ucdt">Hydra: Silver Medal</str>
+    <str key="3004246355" type="ucdt">Sergeant 2</str>
+    <str key="3004330767" type="ugdt">Cyan Camo</str>
+    <str key="3004402722" type="ucdt">Republic Guard Helmet</str>
+    <str key="3004785770" type="ugdt">NS-AM7 VS/AE Archer</str>
+    <str key="3004797678" type="ugdt">Warden 2 Decal</str>
+    <str key="3004846349" type="ucdt">MAX Extractor LP Helmet</str>
+    <str key="3004914591" type="ucdt">Commando Beret </str>
+    <str key="3004922273" type="ugdt">Gold Shatterguard Windshield</str>
+    <str key="3005148794" type="ugdt">SACA Decal</str>
+    <str key="3005208499" type="ucdt">MKV Suppressed: Silver Medal</str>
+    <str key="3005226197" type="ucdt">Harbinger 2 Decal</str>
+    <str key="3005246575" type="ugdt">Leviathan Helmet</str>
+    <str key="3005361910" type="ucdt">Lightyear: Copper Medal</str>
+    <str key="3005411842" type="ucdt">Classic Winged Skull Decal</str>
+    <str key="3005428440" type="ugdt">Vehicle Stealth 6</str>
+    <str key="3005467345" type="ucdt">Increases the vertical thrust speed of the Mosquito by 30KPH.</str>
+    <str key="3005499112" type="ucdt">and &lt;font color="#7FF4ff"&gt;&lt;u&gt;MORE&lt;/u&gt;&lt;/font&gt;</str>
+    <str key="3005524025" type="ucdt">TR Heavy Assault Health Rank 1</str>
+    <str key="3005558627" type="ucdt">Welding Device</str>
+    <str key="3005588437" type="ucdt">Single Use Temperate Chaparral Camo</str>
+    <str key="3005692736" type="ucdt">Maggie's Test Ability Item</str>
+    <str key="3005741127" type="ucdt">The weather is warm, the sun is shining, the battles are raging, and the deals are hot.</str>
+    <str key="3005823627" type="ucdt">Activate consuming 500 cortium and for the next 15 seconds main cannon shots do 32% more damage, fly 50% faster and can pierce vehicles. Each shot however will overheat the weapon's cooling system inflicting up to 500 damage to the Colossus.&lt;br&gt;&lt;font color="#dc9c36"&gt;Cannot activate while deployed.&lt;/font&gt;</str>
+    <str key="3005841507" type="ucdt">Engineers are demolitions experts that can drop ammunition resupply packs, create deployable turrets, and repair vehicles, objectives, and MAXes.</str>
+    <str key="3005849581" type="ucdt">Bitol Main Spawn</str>
+    <str key="3005859764" type="ucdt">Increases the vertical thrust speed of the Reaver by 10KPH.</str>
+    <str key="3005945495" type="ucdt">Liberator Wolfpack Horn</str>
+    <str key="3005966212" type="ucdt">M60-G Bulldog: Auraxium Medal</str>
+    <str key="3005985302" type="ugdt">VS Infiltrator Tank Mine</str>
+    <str key="3006036840" type="ucdt">The9 Server Name 34</str>
+    <str key="3006072638" type="ucdt">Awarded for mastery of the Liberator, this Auraxium-infused Lumifiber trim is proof of its owner's ability in a gunship. NSO only. &lt;font color="#dc9c36"&gt;Color of trim changes based on your current faction.&lt;/font&gt;</str>
+    <str key="3006215951" type="ucdt">That will make them think twice.</str>
+    <str key="3006233499" type="ugdt">Haunted Inferno Skull</str>
+    <str key="3006287693" type="ucdt">Hybrid Laser</str>
+    <str key="3006350036" type="ucdt">NEST Launcher: Ribbon</str>
+    <str key="3006543923" type="ugdt">100 Cert Points</str>
+    <str key="3006590304" type="ucdt">Purple Sparkler Hood Ornament</str>
+    <str key="3006631869" type="ucdt">Increases the speed at which your shields regenerate to full by 33%.</str>
+    <str key="3006778589" type="ucdt">STOP TEST</str>
+    <str key="3006825268" type="ucdt">Illuminates low light levels up to 1000 meters in a green monochrome display.</str>
+    <str key="3006833867" type="ucdt">Racer High Speed Chassis 2</str>
+    <str key="3006834799" type="ucdt">TM Auraxium Bundle</str>
+    <str key="3007187613" type="ugdt">Data Buoy</str>
+    <str key="3007390680" type="ucdt">All Valkyrie weapons certifications have been reset and their cert costs refunded, they may be purchased again at any time.</str>
+    <str key="3007444321" type="ucdt">&lt;font color="#00FFAA"&gt;Praetor Umatherin:&lt;/font&gt; Excellent work, enlightened one. Due to your efforts we have been able to successfully triangulate the origin of the signal. How... peculiar. It seems to be coming from "Desolation." An asteroid.</str>
+    <str key="3007499493" type="ucdt">Increases the Javelin's top speed and acceleration, and increases afterburner fuel recharging speed by 30%.</str>
+    <str key="3007541691" type="ucdt">Apply the single use Desert Scrub v1 camo pattern to your vehicle. NC use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
+    <str key="3007615727" type="ucdt">Use Reserved Assets</str>
+    <str key="3007648546" type="ucdt">Increases the maximum ammo capacity of the weapon by 12 rounds.</str>
+    <str key="3007697777" type="ugdt">Antenna Ball - Purple Blinking</str>
+    <str key="3007723257" type="ucdt">Centurion 1 Decal</str>
+    <str key="3007810831" type="ucdt">Sunderer Witch Horn</str>
+    <str key="3007870777" type="ugdt">Illuminator Helmet</str>
+    <str key="3007949909" type="ucdt">MKV-B Suppressed</str>
+    <str key="3008125961" type="ucdt">MAX Rebel's Skull Helmet</str>
+    <str key="3008200596" type="ucdt">Mosquito Ravage Cockpit</str>
+    <str key="3008347935" type="ugdt">Outfit Resource Boost - 3 Day</str>
+    <str key="3008530711" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; The Botany Wing is dedicated to studying the vegetation discovered after the warpgate's destruction. The plant's growth rate is influenced by the tempest energy gathered here.</str>
+    <str key="3008669996" type="ucdt">Increases the maximum ammo capacity of the weapon by 25 shells.</str>
+    <str key="3008736696" type="ucdt">&lt;font color="#7FF4FF"&gt;+140%&lt;/font&gt; Passive Certification Points</str>
+    <str key="3008784238" type="ucdt">Weapon Seven</str>
+    <str key="3008903140" type="ucdt">Colossus Front Right Weapon</str>
+    <str key="3009066143" type="ucdt">Svarog</str>
+    <str key="3009191477" type="ucdt">Ransack 2</str>
+    <str key="3009193412" type="ugdt">Deluxe Tiger Fins</str>
+    <str key="3009205496" type="ucdt">SCION X10</str>
+    <str key="3009271483" type="ucdt">VS: Shotgun 06 Silver Medal</str>
+    <str key="3009294294" type="ucdt">Unlock the NS-66 Punisher with a full complement of attachments. All factions can use NS weapons.</str>
+    <str key="3009452774" type="ucdt">Lefty</str>
+    <str key="3009482153" type="ucdt">You are not allowed inside the Terran Republic embassy.</str>
+    <str key="3009547416" type="ucdt">Increases the top speed of the Lightning by 2 KPH.</str>
+    <str key="3009549102" type="ucdt">BEING REVIVED BY: </str>
+    <str key="3009824423" type="ucdt">Woodland</str>
+    <str key="3010008601" type="ucdt">NS Baron G5B: Gold Medal</str>
+    <str key="3010009276" type="ucdt">Eagle: Gold Medal</str>
+    <str key="3010017583" type="ucdt">Breaker Rockets: Copper Medal</str>
+    <str key="3010182029" type="ucdt">Deleting Credit Card From File, Please Wait...</str>
+    <str key="3010183718" type="ucdt">Squad Experience Amplifier</str>
+    <str key="3010200157" type="ucdt">Bio Lab Benefit</str>
+    <str key="3010222066" type="ucdt">&lt;font color="#00FFAA"&gt;Umatherin:&lt;/font&gt; We have added one additional location to your map. This signature is much larger than the others, but weaker as well. Investigate this last area before returning.</str>
+    <str key="3010283575" type="ucdt">i3fs Vehicle Decal</str>
+    <str key="3010350276" type="ucdt">Be the first to obtain 200 units of Relic Energy. Capture Active Vanu Relics to get Relic Energy over time.</str>
+    <str key="3010420468" type="ugdt">Cybergrid Vehicle Camo</str>
+    <str key="3010429283" type="ucdt">Labeled a "heavy" shotgun, the slow-firing HSG-400 can down close-range infantry targets in a single shot. While magazine size is limited, the weapon still takes advantage of a standard mag-fed reload system. NSO use only.</str>
+    <str key="3010447257" type="ucdt">Kill enemies using any Magrider Top Gun.</str>
+    <str key="3010554754" type="ucdt">TAR</str>
+    <str key="3010580406" type="ucdt">The COLOSSAL Bundle</str>
+    <str key="3010625059" type="ucdt">"Treasured" XMG-100: Silver Medal</str>
+    <str key="3010768869" type="ucdt">Daredevil Chassis</str>
+    <str key="3010774165" type="ucdt">Deploy Fighter</str>
+    <str key="3010786210" type="ucdt">AI MAX (Right)</str>
+    <str key="3010798317" type="ucdt">Seeker HLX: Gold Medal</str>
+    <str key="3010835318" type="ucdt">The Air to Ground Missiles are ideal for engaging ground targets</str>
+    <str key="3010899809" type="ucdt">Desert Tiles Camo</str>
+    <str key="3010916432" type="ucdt">Gravity Tube</str>
+    <str key="3011205446" type="ucdt">Adds 6 round to the default magazine size.</str>
+    <str key="3011473570" type="ucdt">Hold [%s] to turn off Tempest Siphon</str>
+    <str key="3011517346" type="ucdt">Solstice VE3: Copper Medal</str>
+    <str key="3011728581" type="ucdt">Cert Attachment Description</str>
+    <str key="3011816317" type="ucdt">P2-120-R HEAT</str>
+    <str key="3011898384" type="ugdt">Nanoweave Targets</str>
+    <str key="3011938513" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; Survey area alpha located. While in the noted area, use the "aim" function of the Signal Scanner to deploy the relay.</str>
+    <str key="3011972685" type="ugdt">When activated, a rapidly decaying shield mesh surrounds the soldier and absorbs up to 450 damage; power is recharged by 31% when the operating soldier kills an enemy. This shield passively recharges to full over 36 seconds.</str>
+    <str key="3012036353" type="ucdt">Adrenaline Pump</str>
+    <str key="3012041263" type="ucdt">A standardized reflex sight designed to promote faster precision aiming.</str>
+    <str key="3012051063" type="ugdt">Manta Ray Hood Ornament</str>
+    <str key="3012133288" type="ugdt">Shield</str>
+    <str key="3012151864" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; The heat signature appears to originate from beneath your position. Continue below to investigate the source.</str>
+    <str key="3012154575" type="ucdt">Sunderer Gunport [WIP]: Silver Medal</str>
+    <str key="3012239185" type="ucdt">PLACEHOLDER WEAPON NAME</str>
+    <str key="3012274967" type="ucdt">Vehicle: Galaxy</str>
+    <str key="3012304217" type="ucdt">Gate Shield Diffuser 4</str>
+    <str key="3012315007" type="ucdt">Auto-spots enemies who damage or kill you if they are not using a suppressed weapon.&lt;br&gt;Uses 0.75 energy per second.&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;DEV NOTE: We intend to make this effect work in a vehicle and reduce spot time.&lt;/font&gt;</str>
+    <str key="3012359142" type="ucdt">Failed to remove the squad from the platoon.</str>
+    <str key="3012464722" type="ucdt">Brigadier 6 Decal</str>
+    <str key="3012486696" type="ucdt">Released as a commemorative edition of the NC's wildly successful foray into electromagnetic weaponry, the NC1 Gauss Rifle, the Gauss Prime marksman assault rifle can effortlessly drop distant targets.</str>
+    <str key="3012583534" type="ucdt">Press [%s] to speak with officer</str>
+    <str key="3012604990" type="ucdt">Increased Ammo regen rate</str>
+    <str key="3012707869" type="ucdt">&lt;font color="#00FFAA"&gt;Praetor Umatherin:&lt;/font&gt; Interesting. There must not have been enough power to assemble the aircraft. This gives us a vague location for the researcher who fled the flooded base. And that location is on Oshur. Take to the skies and find them.</str>
+    <str key="3012908312" type="ucdt">Zurvan Storage Courtyard [B]</str>
+    <str key="3012952615" type="ucdt">Decreases the time taken to reload weapon by 0.3 seconds.</str>
+    <str key="3013135604" type="ucdt">Ascendant 2 Decal</str>
+    <str key="3013163050" type="ucdt">TR: LMG Decal</str>
+    <str key="3013200382" type="ucdt">Hostile infantry in the area.</str>
+    <str key="3013235046" type="ugdt">Wildcard Camo</str>
+    <str key="3013316592" type="ucdt">While deployed, the Prowler gains 17.5% additional front armor, and a hardlight rampart is projected outward. Damage to this projection also damages the Prowler.</str>
+    <str key="3013600412" type="ucdt">PLACEHOLDER WEAPON NAME</str>
+    <str key="3013600574" type="ugdt">Forward Vehicle Decal</str>
+    <str key="3013601501" type="ucdt">Innova Placeholder Title 16</str>
+    <str key="3013675940" type="ucdt">Legacy - Hold Breath 4</str>
+    <str key="3013777628" type="ucdt">The VLG fires a laser guided missile that seeks toward the gunner's crosshairs. The missile is effective against armor on direct hits and produces a moderate blast. Missile will detonate after traveling 400 meters. All factions can use this weapon.</str>
+    <str key="3013780544" type="ucdt">LMG: Pulsar LSW</str>
+    <str key="3013816338" type="ucdt">Apply the Woodland camo pattern to your vehicle. All factions can use this gear.</str>
+    <str key="3013832037" type="ugdt">JVN-MM N.E.S.T.</str>
+    <str key="3013940388" type="ucdt">This customization adds a Smiley Face decal to the cockpit glass. TR use only.</str>
+    <str key="3014089412" type="ucdt">View the southern anomaly</str>
+    <str key="3014116826" type="ucdt">Increases the maximum ammo capacity of the weapon by 80 rounds.</str>
+    <str key="3014238571" type="ucdt">Nuke Armor Camo</str>
+    <str key="3014281324" type="ucdt">Unlock defense slot Certifications to increase the Flash ATV's survivability on the field. Defense slot items can be equipped on the loadout screen.</str>
+    <str key="3014318791" type="ucdt">Corvus VA55: Silver Medal</str>
+    <str key="3014330267" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; As part of the standard requisition process you would collect the item from one of our courteous vendors; however, this mission has been flagged with an emergency authorization code, so I have been told to immediately send you the schematic for the buoy.</str>
+    <str key="3014490166" type="ucdt">The9 Placeholder</str>
+    <str key="3014499024" type="ugdt">Cockpit: Grey Glass</str>
+    <str key="3014580400" type="ucdt">Supernova-R PC: Gold Medal</str>
+    <str key="3014613774" type="ucdt">Incendiary Payload</str>
+    <str key="3014710694" type="ucdt">VS: Sniper Rifle Decal</str>
+    <str key="3014825918" type="ucdt">M20 Drake: Gold Medal</str>
+    <str key="3014880259" type="ucdt">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; Download complete. Preliminary work has begun on the data. Look around if you wish, but you will need to redeploy to escape the underground lab.</str>
+    <str key="3014880838" type="ucdt">NC Reaver ID'd.</str>
+    <str key="3014916291" type="ucdt">Increases the maximum ammo capacity of the weapon by 60 rounds.</str>
+    <str key="3014937932" type="ucdt">INFLUENCE</str>
+    <str key="3014938326" type="ucdt">Red Mist Armor Decal</str>
+    <str key="3014968024" type="ucdt">XenoTech Labs</str>
+    <str key="3015072764" type="ucdt">Grants the "Outfit Supporter" prefix title.</str>
+    <str key="3015126462" type="ucdt">Nanoweave Targets</str>
+    <str key="3015221033" type="ugdt">Corona O3.4 (3.4x) - T-Dot</str>
+    <str key="3015222202" type="ucdt">Increases the maximum ammo capacity of the weapon by 25 rockets.</str>
+    <str key="3015237387" type="ucdt">Mauler Cannon Bombardment Commencing</str>
+    <str key="3015309530" type="ucdt">AF-23 Grinder: Auraxium Medal</str>
+    <str key="3015337599" type="ucdt">Prowler P2-120 HEAT [Primary]</str>
+    <str key="3015460845" type="ucdt">Unlock Galaxy ammo dispenser.</str>
+    <str key="3015617545" type="ucdt">Charge-up</str>
+    <str key="3015802314" type="ucdt">Payload Finish Line</str>
+    <str key="3016029464" type="ucdt">AR-ARX Maxwell Auraxium Medal</str>
+    <str key="3016066329" type="ucdt">T2 Striker AE: Copper Medal</str>
+    <str key="3016317977" type="ucdt">Flak Armor 4</str>
+    <str key="3016403951" type="ucdt">Increases the speed at which your shields recharge to full by 33%, and reduces the delay before your shield begins recharging by 1 second.</str>
+    <str key="3016511682" type="ucdt">Arbiter Armor Bundle</str>
+    <str key="3016606825" type="ucdt">Increases the Idle Timer on the Vanguard to 11 minutes.</str>
+    <str key="3016633561" type="ucdt">Variant of the Standard Vanu Sovereignty Light Assault Helmet.</str>
+    <str key="3016755075" type="ugdt">River Flurry Camo</str>
+    <str key="3016914064" type="ucdt">When you perform well, and follow orders, we will allot you with Certification Points. These will allow you to requisit equipment upgrades and new weaponry.</str>
+    <str key="3016927010" type="ucdt">Decreases the time taken to reload weapon by 0.5 seconds.</str>
+    <str key="3017275850" type="ucdt">Caltrop Schematic</str>
+    <str key="3017514136" type="ucdt">Maj. General 4 Decal</str>
+    <str key="3017527497" type="ucdt">Light Assault Bundle</str>
+    <str key="3017532162" type="ugdt">Weapon Stat Test Implant</str>
+    <str key="3017593616" type="ucdt">Destroyer 3</str>
+    <str key="3017767465" type="ucdt">Resource Boost</str>
+    <str key="3017900047" type="ucdt">Reaver Wildcat Cockpit</str>
+    <str key="3017966130" type="ucdt">Alpha Squad Gun Placeholder</str>
+    <str key="3018015189" type="ucdt">Increases the Idle Timer on the Scythe to 15 minutes.</str>
+    <str key="3018048657" type="ucdt">Work in Progress Banner</str>
+    <str key="3018200536" type="ucdt">Deputy 4</str>
+    <str key="3018342585" type="ucdt">All Gunner Seats</str>
+    <str key="3018389039" type="ucdt">Member priority in queue:</str>
+    <str key="3018449163" type="ugdt">Passive: Lock-on Speed  +20%</str>
+    <str key="3018566968" type="ucdt">DMR-99: Gold Medal</str>
+    <str key="3018644627" type="ucdt">Lodestar Prototype Spawn Bonus</str>
+    <str key="3018752344" type="ugdt">Flash Grip Tread Tires</str>
+    <str key="3018808564" type="ucdt">VS Compensation A</str>
+    <str key="3018820523" type="ucdt">Liberator Warning Horn</str>
+    <str key="3018846062" type="ucdt">Increases the maximum ammo capacity of the weapon by 36 rounds.</str>
+    <str key="3019068190" type="ucdt">Space Pumpkins are appearing throughout Auraxis in the month of October! Destroy Space Pumpkins for seeds, use seeds to purchase holiday items!&lt;br&gt;&lt;br&gt;All players receive an Ichabod Crown event mask to wear for 10% bonus experience, and directive progress. Be sure to visit the Depot to see all of the new event items!</str>
+    <str key="3019199194" type="ucdt">Region Control - Facility Benefits</str>
+    <str key="3019204980" type="ugdt">Forgotten Honor Sentinels Vehicle Decal</str>
+    <str key="3019363433" type="ucdt">Customize your ground vehicle by adding a Gold Vanguard Hood Ornament.</str>
+    <str key="3019402616" type="ucdt">Flash F51 Deflectors</str>
+    <str key="3019679676" type="ucdt">&lt;font color="#00FFAA"&gt;Campner:&lt;/font&gt; But you're entering a new warzone and knowing your surroundings is invaluable. This knowledge will become increasingly useful once the peace treaty inevitably fails.</str>
+    <str key="3019686578" type="ucdt">&lt;font color="#00FFAA"&gt;Coordinator Tolland:&lt;/font&gt; Hey, kid. We've got a lot of hard work ahead of us and not nearly enough time to get it all done. But with the esteemed backing of the Vanu Sovereignty, I'm sure we'll only be a few days late getting to Oshur.</str>
+    <str key="3019820930" type="ugdt">Recon Detection Device 5</str>
+    <str key="3019903746" type="ucdt">YOU'RE IN THE GOLD MATCH</str>
+    <str key="3020003492" type="ucdt">Apply the Shard camo pattern to your weapon. VS use only.</str>
+    <str key="3020077204" type="ucdt">Equinox VE2: Gold Medal</str>
+    <str key="3020181023" type="ucdt">Lightning:  Passive Systems</str>
+    <str key="3020193058" type="ucdt">Are you sure you do not want to refund your Certification Points spent on skills?</str>
+    <str key="3020269487" type="ugdt">Reaver NS-A Horn</str>
+    <str key="3020269601" type="ucdt">Reduces the noise of the weapon by 5% over the previous level.</str>
+    <str key="3020352905" type="ucdt">3000 Cert</str>
+    <str key="3020523783" type="ucdt">The9 Server Name 19</str>
+    <str key="3020533626" type="ucdt">The number of infantry targets rounds can pierce through is no longer limited to 1, and will instead pierce through any number of targets. Sabot ammunition reduces rate of fire by 10%.</str>
+    <str key="3020666194" type="ucdt">Increases the maximum ammo capacity of the weapon by 29 shells.</str>
+    <str key="3020822105" type="ucdt">Damage penalty reduced to 70%.</str>
+    <str key="3020900537" type="ucdt">The9 Placeholder</str>
+    <str key="3021041894" type="ucdt">NS-60 Flamethrower: Auraxium Medal</str>
+    <str key="3021121750" type="ucdt">Cloak does not drain while stationary, but prevents use of primary weapons while equipped. While moving, cloak lasts up to 12 seconds. When drained, recharges to full in 14 seconds while cloaked and stationary, or in 10 seconds while uncloaked.</str>
+    <str key="3021122015" type="ucdt">Auraxium Force-Blade</str>
+    <str key="3021146114" type="ucdt">3.4x Scope</str>
+    <str key="3021146912" type="ucdt">Tawrich Tower</str>
+    <str key="3021147452" type="ucdt">Reduces the acquire timer of the Lightning by 480 seconds.</str>
+    <str key="3021547616" type="ucdt">2015 Holiday Countdown Sales Day 12 &amp; 13</str>
+    <str key="3021560671" type="ucdt">Adds 4 rounds to the default magazine size.</str>
+    <str key="3021606431" type="ucdt">While riding in an exposed vehicle seat or gunning an Engineer MANA Turret, you receive an additional 30% maximum shield health.</str>
+    <str key="3021850951" type="ucdt">Increases the maximum ammo capacity of the weapon by 384 rounds.</str>
+    <str key="3021852953" type="ugdt">Blueprint Banner</str>
+    <str key="3021915119" type="ucdt">Proton F-FBW</str>
+    <str key="3022101869" type="ucdt">Snowflake Camo</str>
+    <str key="3022133804" type="ucdt">Decreases the time needed to reload weapon by 5%</str>
+    <str key="3022449505" type="ucdt">Hubcaps 015 (DNT)</str>
+    <str key="3022513918" type="ucdt">Combat Medic: Tactical Equipment</str>
+    <str key="3022882958" type="ugdt">M8 Pounder SKEP</str>
+    <str key="3022941917" type="ucdt">Adds 4 rounds to the default magazine size.</str>
+    <str key="3022965038" type="ucdt">Tank Mines deal heavy damage to vehicles once deployed.</str>
+    <str key="3023017896" type="ucdt">Light Assault Composite Armor Package</str>
+    <str key="3023079088" type="ucdt">Concrete Material Platform</str>
+    <str key="3023090394" type="ucdt">Shoulders</str>
+    <str key="3023158299" type="ucdt">Title: Bounty Hunter</str>
+    <str key="3023333849" type="ucdt">Antenna Ball - Violet</str>
+    <str key="3023416262" type="ugdt">Medic HL4 Darkstar Armor</str>
+    <str key="3023552640" type="ucdt">Squad Resource Boost - 7 Day</str>
+    <str key="3023669978" type="ucdt">Infiltrator Impaler Helmet</str>
+    <str key="3023680544" type="ucdt">Restoration Kit 4</str>
+    <str key="3023774727" type="ucdt">TR Daredevil Voice Pack</str>
+    <str key="3023895535" type="ucdt">Pulsar LSW: Copper Medal</str>
+    <str key="3023916193" type="ucdt">Quasar VM1: Silver Medal</str>
+    <str key="3024247323" type="ugdt">Gambler Camo</str>
+    <str key="3024307188" type="ugdt">70 Certs</str>
+    <str key="3024345675" type="ucdt">Increases the Idle Timer on the Lightning to 24 minutes.</str>
+    <str key="3024504337" type="ucdt">Sunken Treasure Outfit Decal</str>
+    <str key="3024540139" type="ucdt">&lt;u&gt;UPGRADE IMPLANT&lt;/u&gt;</str>
+    <str key="3024651975" type="ugdt">Daum Title 8</str>
+    <str key="3024664085" type="ucdt">Vinewave Weapon Camo</str>
+    <str key="3024675831" type="ucdt">TTRO Decal</str>
+    <str key="3024714406" type="ucdt">OVERVIEW</str>
+    <str key="3024902158" type="ugdt">Auraxium Slasher</str>
+    <str key="3024986147" type="ucdt">MR11 Gatekeeper</str>
+    <str key="3025015204" type="ucdt">Racer High Speed Airframe 2</str>
+    <str key="3025040560" type="ugdt">Flash Bumper NC004</str>
+    <str key="3025156473" type="ucdt">Single Use Indar Highlands v1 Weapon Camo</str>
+    <str key="3025185221" type="ucdt">Defend</str>
+    <str key="3025284683" type="ucdt">PLACEHOLDER WEAPON NAME</str>
+    <str key="3025387797" type="ugdt">NSX "Ivory" Daimyo</str>
+    <str key="3025472712" type="ucdt">Increases xp gain by 50% and squad xp gain by 5% for 1 hour. Boost can only be used on this character.</str>
+    <str key="3025611130" type="ucdt">MAX Golem MRK1 Helmet</str>
+    <str key="3025667883" type="ucdt">BioSkulls </str>
+    <str key="3025702431" type="ucdt">Increases the maximum ammo capacity of the weapon by 24 rounds.</str>
+    <str key="3025709595" type="ucdt">DESTROY</str>
+    <str key="3025857945" type="ucdt">Next Rank:  Increase reload speed bonus to 24%.</str>
+    <str key="3025863852" type="ucdt">Senorita Decal</str>
+    <str key="3025938676" type="ucdt">3.4x Scope</str>
+    <str key="3026069424" type="ucdt">Adds the Hyena X Bumper to the Harasser. All factions can use this gear.</str>
+    <str key="3026162696" type="ucdt">Increases the maximum ammo capacity of the weapon by 144 rockets.</str>
+    <str key="3026174046" type="ucdt">Attractive, Intelligent people know...</str>
+    <str key="3026196711" type="ucdt">Trinity Loop Armor Decal</str>
+    <str key="3026381709" type="ugdt">NS Commando</str>
+    <str key="3026387832" type="ucdt">KILLS TO NEXT</str>
+    <str key="3026444043" type="ucdt">Apply the Cells camo pattern to your weapon. VS use only.</str>
+    <str key="3026454938" type="ucdt">Assimilate 5</str>
+    <str key="3026521316" type="ucdt">&lt;font color="#00FFAA"&gt;Warden Hadley:&lt;/font&gt; Before promising anything to Nanite Systems, kindly visit me on the Observation Deck. The New Conglomerate has a high priority mission for you as well, soldier.</str>
+    <str key="3027013448" type="ucdt">Earn this ribbon by helping your faction earn victory points</str>
+    <str key="3027242899" type="ugdt">LA39 Bruiser</str>
+    <str key="3027285184" type="ucdt">Equipment Terminals let you change your class and resupply ammo. Use the terminal to switch to an Engineer.</str>
+    <str key="3027577938" type="ucdt">Apply this armor to your MAX. VS use only.</str>
+    <str key="3027585195" type="ucdt">The P2-120 HEAT carries quick-reloading high-explosive anti-tank rounds that have balanced effectiveness against armor and infantry. TR use only.</str>
+    <str key="3027672397" type="ugdt">Paratrooper 2</str>
+    <str key="3027698953" type="ucdt">Sticky Grenades attach themselves to most surfaces when thrown</str>
+    <str key="3027742331" type="ucdt">Cert Attachment Description</str>
+    <str key="3027822887" type="ucdt">3000 Certs</str>
+    <str key="3027830181" type="ugdt">Squad Experience Boost - 1 Hour</str>
+    <str key="3027879164" type="ugdt">Torment</str>
+    <str key="3028015074" type="ucdt">Fortifies armor against attacks from above, reducing damage by 12.5%.</str>
+    <str key="3028058412" type="ucdt">Failed to change the platoon leader.</str>
+    <str key="3028083354" type="ugdt">Dog Tags</str>
+    <str key="3028152208" type="ucdt">Adds Hubcaps VS001 to your Sunderer. (DNT)</str>
+    <str key="3028171988" type="ucdt">Galaxy</str>
+    <str key="3028275750" type="ugdt">Grenade Bandolier 1</str>
+    <str key="3028344383" type="ucdt">Legacy - Battle Hardened 1</str>
+    <str key="3028457598" type="ucdt">You have a separate set of equipment loadouts in this area that do not affect your normal loadouts.&lt;br&gt;&lt;br&gt;All weapons for infantry and vehicles available to your empire can be used.&lt;br&gt;&lt;br&gt;All vehicle upgrades, suit upgrades, abilities, and weapon attachments are available and always set to maximum rank regardless of your actual certifications&lt;br&gt;&lt;br&gt;Vehicles and MAX suits do not cost resources.&lt;br&gt;&lt;br&gt;Vehicles and MAX suits do not require or start acquisition timers&lt;br&gt;&lt;br&gt;Player stats are not recorded while in this area.&lt;br&gt;&lt;br&gt;Experience and medals cannot be earned here.&lt;br&gt;&lt;br&gt;Players cannot hurt each other but can hurt themselves&lt;br&gt;&lt;br&gt;Shooting or destroying friendly target dummies does not grant grief points, but will still show the grief indicator and play the grief sound.&lt;br&gt;&lt;br&gt;Weapon trials cannot be obtained while in this area.</str>
+    <str key="3028709990" type="ucdt">Increases the maximum ammo capacity of the weapon by 32 rockets.</str>
+    <str key="3029174672" type="ucdt">Applies a decal to your vehicle. All factions can use this decal.</str>
+    <str key="3029241977" type="ucdt">This special decal is given to followers of Tobuscus on Twitter or YouTube</str>
+    <str key="3029758121" type="ucdt">Fission VSH7 Rocket Launcher</str>
+    <str key="3029799424" type="ucdt">Decreases the time needed to reload weapon by 10%</str>
+    <str key="3029869627" type="ucdt">Wearable by all non-Max classes. NC use only.</str>
+    <str key="3029931158" type="ucdt">Reduces the amount of damage received from explosions by 30%</str>
+    <str key="3029973863" type="ucdt">Surger Power Chassis</str>
+    <str key="3030042200" type="ucdt">Next Seat</str>
 </root>
