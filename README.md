@@ -4,7 +4,7 @@
 
 ## Weblate使用指南
 
-感谢你加入我们，我们目前使用QQ群进行翻译交流：**[加入QQ群](https://jq.qq.com/?_wv=1027&k=JTHrRjzx)** 。此文档仅为解决一些翻译中遇到的问题，如果你希望系统的学习 Weblate，请访问：**[Weblate文档](https://docs.weblate.org/zh_CN/latest/index.html)** 。
+感谢你加入我们，我们目前使用QQ群进行翻译交流：**[加入QQ群](https://jq.qq.com/?_wv=1027&k=JTHrRjzx)** 。此文档仅为解决一些翻译中遇到的问题，如果你希望系统的学习 Weblate，请访问：**[Weblate文档](https://docs.weblate.org/zh_CN/latest/index.html)** ，同时也请您查看我们的翻译规范文档：**[前往 docs.ps2cpc.site](https://docs.ps2cpc.site/project-4/doc-6/)**。
 
 #### 加入我们的Weblate
 
