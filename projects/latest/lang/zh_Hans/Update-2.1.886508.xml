@@ -1,291 +1,625 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <root>
-  <str key="10493090-ucdt" type="ucdt" originalKey="10493090">生命之树橡木棍：奥星勋章</str>
-  <str key="15707196-ucdn" type="ucdn" originalKey="15707196"/>
-  <str key="31644864-ucdt" type="ucdt" originalKey="31644864">热恋的季节已开始！</str>
-  <str key="35332439-ucdt" type="ucdt" originalKey="35332439">苦行僧四叶草航迹云</str>
-  <str key="40567692-ucdt" type="ucdt" originalKey="40567692">决裂者丹尼男孩喇叭</str>
-  <str key="53398561-ucdt" type="ucdt" originalKey="53398561">突袭者丹尼男孩喇叭</str>
-  <str key="77785805-ucdn" type="ucdn" originalKey="77785805"/>
-  <str key="89432209-ucdt" type="ucdt" originalKey="89432209">改变载具的航迹云，留下一道羽毛尾迹。仅限新联邦使用。</str>
-  <str key="128966611-ucdt" type="ucdt" originalKey="128966611">和 HLX 炽天使重弩分享爱意，或者为你最爱的飞机定制绝美的新航迹云和后燃器效果。</str>
-  <str key="133735314-ucdt" type="ucdt" originalKey="133735314">镰刀战机四叶草航迹云</str>
-  <str key="190772917-ucdn" type="ucdn" originalKey="190772917"/>
-  <str key="191907113-ucdt" type="ucdt" originalKey="191907113">生命之树贴花</str>
-  <str key="192612613-ucdt" type="ucdt" originalKey="192612613">HLX 炽天使：银质勋章</str>
-  <str key="260200902-ucdn" type="ucdn" originalKey="260200902"/>
-  <str key="279778490-ucdt" type="ucdt" originalKey="279778490">HLX 炽天使</str>
-  <str key="280550601-ucdt" type="ucdt" originalKey="280550601">幸运背景横幅</str>
-  <str key="317944839-ucdn" type="ucdn" originalKey="317944839"/>
-  <str key="323005911-ucdt" type="ucdt" originalKey="323005911">生命之树橡木棍：金质勋章</str>
-  <str key="324816855-ucdt" type="ucdt" originalKey="324816855">获取“德鲁伊”头衔。</str>
-  <str key="325759751-ucdt" type="ucdt" originalKey="325759751">黑巧克力迷彩</str>
-  <str key="325825371-ucdn" type="ucdn" originalKey="325825371"/>
-  <str key="349228348-ucdn" type="ucdn" originalKey="349228348"/>
-  <str key="432593253-ucdn" type="ucdn" originalKey="432593253"/>
-  <str key="447046338-ucdn" type="ucdn" originalKey="447046338"/>
-  <str key="475983773-ucdn" type="ucdn" originalKey="475983773"/>
-  <str key="496393463-ucdn" type="ucdn" originalKey="496393463"/>
-  <str key="501632873-ucdn" type="ucdn" originalKey="501632873"/>
-  <str key="520445603-ucdn" type="ucdn" originalKey="520445603"/>
-  <str key="524674649-ucdt" type="ucdt" originalKey="524674649">银河丘比特航迹云</str>
-  <str key="530463037-ucdn" type="ucdn" originalKey="530463037"/>
-  <str key="571778054-ucdt" type="ucdt" originalKey="571778054">改变载具的航迹云，留下一道四叶草尾迹。仅限纳能特工使用。</str>
-  <str key="595146607-ucdn" type="ucdn" originalKey="595146607"/>
-  <str key="615136160-ucdt" type="ucdt" originalKey="615136160">是时候收获好运了！</str>
-  <str key="644831998-ucdt" type="ucdt" originalKey="644831998">为该载具添加绿色风格的个性化后燃器效果。仅限新联邦使用。</str>
-  <str key="652462397-ucdt" type="ucdt" originalKey="652462397">改变载具的航迹云，留下一道羽毛尾迹。仅限地球共和国使用。</str>
-  <str key="660377668-ucdn" type="ucdn" originalKey="660377668"/>
-  <str key="672447471-ucdn" type="ucdn" originalKey="672447471"/>
-  <str key="690088099-ucdt" type="ucdt" originalKey="690088099">镰刀战机粉色后燃器</str>
-  <str key="698479856-ucdt" type="ucdt" originalKey="698479856">NS-44 “头奖”军政委：奥星勋章</str>
-  <str key="748710586-ucdt" type="ucdt" originalKey="748710586">蚊式战机丹尼男孩喇叭</str>
-  <str key="796301694-ucdt" type="ucdt" originalKey="796301694">生命之树爱尔兰帽</str>
-  <str key="800920078-ucdn" type="ucdn" originalKey="800920078"/>
-  <str key="801807777-ucdn" type="ucdn" originalKey="801807777"/>
-  <str key="817124450-ucdt" type="ucdt" originalKey="817124450">IV 型水下推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;战术槽物品。在水下拿出后点击跳跃即可使用。轻型突击兵无法装备。&lt;/font&gt;</str>
-  <str key="871052343-ucdn" type="ucdn" originalKey="871052343"/>
-  <str key="882183832-ucdt" type="ucdt" originalKey="882183832">II 型水下推进器</str>
-  <str key="882655711-ucdn" type="ucdn" originalKey="882655711"/>
-  <str key="885801848-ucdt" type="ucdt" originalKey="885801848">载具点瞄</str>
-  <str key="887478468-ucdt" type="ucdt" originalKey="887478468">瓦尔基里四叶草航迹云</str>
-  <str key="890433380-ucdt" type="ucdt" originalKey="890433380">东南舰队正受到[*faction*]的攻击。</str>
-  <str key="897756071-ucdt" type="ucdt" originalKey="897756071">镰刀战机绿色后燃器</str>
-  <str key="902312644-ucdt" type="ucdt" originalKey="902312644">解放者绿色后燃器</str>
-  <str key="925124256-ucdt" type="ucdt" originalKey="925124256">使用此幸运礼包庆祝圣帕特里克节，其中包含生命之树橡木棍近战武器、头盔、贴花和“德鲁伊”头衔。所有阵营都可获得这些物品。</str>
-  <str key="938441279-ucdt" type="ucdt" originalKey="938441279">IV 型水下推进器</str>
-  <str key="941062320-ucdn" type="ucdn" originalKey="941062320"/>
-  <str key="952391195-ucdn" type="ucdn" originalKey="952391195"/>
-  <str key="969338605-ucdn" type="ucdn" originalKey="969338605"/>
-  <str key="999545349-ucdt" type="ucdt" originalKey="999545349">I 型水下推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;战术槽物品。在水下拿出后点击跳跃即可使用。轻型突击兵无法装备。&lt;/font&gt;</str>
-  <str key="1005538613-ucdn" type="ucdn" originalKey="1005538613"/>
-  <str key="1068555815-ucdt" type="ucdt" originalKey="1068555815">连接到西南舰队。</str>
-  <str key="1069158106-ucdt" type="ucdt" originalKey="1069158106">为该载具添加绿色风格的个性化后燃器效果。仅限纳能特工使用。</str>
-  <str key="1094992030-ucdt" type="ucdt" originalKey="1094992030">火花丹尼男孩喇叭</str>
-  <str key="1097773386-ucdn" type="ucdn" originalKey="1097773386"/>
-  <str key="1113816062-ucdn" type="ucdn" originalKey="1113816062"/>
-  <str key="1115059535-ucdn" type="ucdn" originalKey="1115059535"/>
-  <str key="1127420330-ucdt" type="ucdt" originalKey="1127420330">镰刀战机丘比特航迹云</str>
-  <str key="1134219765-ucdn" type="ucdn" originalKey="1134219765"/>
-  <str key="1139977467-ucdt" type="ucdt" originalKey="1139977467">改变载具的航迹云，留下一道羽毛尾迹。仅限瓦努主权国使用。</str>
-  <str key="1151352555-ucdt" type="ucdt" originalKey="1151352555">海盗战机丘比特航迹云</str>
-  <str key="1151436724-ucdt" type="ucdt" originalKey="1151436724">打开此圣帕特里克节礼包，冲击头奖。其中包含“头奖”军政委、幸运背景横幅、四叶草航迹云、绿色后燃器效果和丹尼男孩喇叭。所有阵营都可收到这些物品。</str>
-  <str key="1157069242-ucdt" type="ucdt" originalKey="1157069242">头衔：德鲁伊</str>
-  <str key="1183035751-ucdn" type="ucdn" originalKey="1183035751"/>
-  <str key="1190510765-ucdt" type="ucdt" originalKey="1190510765">改变载具的航迹云，留下一道四叶草尾迹。仅限瓦努主权国使用。</str>
-  <str key="1195471571-ucdt" type="ucdt" originalKey="1195471571">女武神丘比特航迹云</str>
-  <str key="1226403619-ucdt" type="ucdt" originalKey="1226403619">为该载具添加粉色风格的个性化后燃器效果。仅限纳能特工使用。</str>
-  <str key="1250758562-ucdn" type="ucdn" originalKey="1250758562"/>
-  <str key="1279608820-ucdn" type="ucdn" originalKey="1279608820"/>
-  <str key="1284113526-ucdn" type="ucdn" originalKey="1284113526"/>
-  <str key="1285660268-ucdt" type="ucdt" originalKey="1285660268">2022 圣帕特里克节礼包</str>
-  <str key="1288415825-ucdt" type="ucdt" originalKey="1288415825">成为会员</str>
-  <str key="1301621079-ucdn" type="ucdn" originalKey="1301621079"/>
-  <str key="1304117761-ucdt" type="ucdt" originalKey="1304117761">生命之树橡木棍：铜质勋章</str>
-  <str key="1321600973-ucdt" type="ucdt" originalKey="1321600973">海盗战机丹尼男孩喇叭</str>
-  <str key="1347977024-ucdn" type="ucdn" originalKey="1347977024"/>
-  <str key="1401833455-ucdn" type="ucdn" originalKey="1401833455"/>
-  <str key="1476703476-ucdt" type="ucdt" originalKey="1476703476">西南舰队正受到[*faction*]的攻击。</str>
-  <str key="1477377035-ucdt" type="ucdt" originalKey="1477377035">为该载具添加绿色风格的个性化后燃器效果。所有阵营都可以使用此装备。</str>
-  <str key="1482189055-ucdt" type="ucdt" originalKey="1482189055">会员专属</str>
-  <str key="1498663168-ucdt" type="ucdt" originalKey="1498663168">奥拉西斯的战场和空气中弥漫着爱恋的气息，准备好迎接属于你的浪漫。&lt;br&gt;&lt;br&gt;你的老友&lt;font size="28" color="#ACE1E5"&gt;FL-34&lt;/font&gt;又回来了，随之而来的还有每日&lt;font size="28" color="#ACE1E5"&gt;媒人任务&lt;/font&gt;，帮助他来赢得珍稀奖励，或者通过完成今年的&lt;font size="28" color="#ACE1E5"&gt;赛季成就&lt;/font&gt;来展现你对L-O-V-E的追求。人们都说，爱是娇弱的花朵，但&lt;font size="28" color="#ACE1E5"&gt;仓库&lt;/font&gt;中的&lt;font size="28" color="#ACE1E5"&gt;迷彩、武器和饰品&lt;/font&gt;却并非如此。</str>
-  <str key="1511832913-ucdt" type="ucdt" originalKey="1511832913">银河四叶草航迹云</str>
-  <str key="1523256756-ucdn" type="ucdn" originalKey="1523256756"/>
-  <str key="1534280967-ucdn" type="ucdn" originalKey="1534280967"/>
-  <str key="1571480703-ucdt" type="ucdt" originalKey="1571480703">银河丹尼男孩喇叭</str>
-  <str key="1650650298-ucdt" type="ucdt" originalKey="1650650298">本周末购买载具装备可享40%的折扣！</str>
-  <str key="1664772665-ucdt" type="ucdt" originalKey="1664772665">SKL 军团贴花</str>
-  <str key="1685174987-ucdt" type="ucdt" originalKey="1685174987">为该载具添加粉色风格的个性化后燃器效果。所有阵营都可以使用此装备。</str>
-  <str key="1686721296-ucdt" type="ucdt" originalKey="1686721296">解放者四叶草航迹云</str>
-  <str key="1727235974-ucdn" type="ucdn" originalKey="1727235974"/>
-  <str key="1742586128-ucdn" type="ucdn" originalKey="1742586128"/>
-  <str key="1774392793-ucdn" type="ucdn" originalKey="1774392793"/>
-  <str key="1813187878-ucdt" type="ucdt" originalKey="1813187878">蚊式战机粉色推进器</str>
-  <str key="1834857401-ucdt" type="ucdt" originalKey="1834857401">电磁骑士丹尼男孩喇叭</str>
-  <str key="1860256963-ucdn" type="ucdn" originalKey="1860256963"/>
-  <str key="1925826233-ucdn" type="ucdn" originalKey="1925826233"/>
-  <str key="1958258075-ucdt" type="ucdt" originalKey="1958258075">为该载具添加绿色风格的个性化后燃器效果。仅限地球共和国使用。</str>
-  <str key="1963972360-ucdt" type="ucdt" originalKey="1963972360">改变载具的航迹云，留下一道四叶草尾迹。仅限地球共和国使用。</str>
-  <str key="2015829311-ucdt" type="ucdt" originalKey="2015829311">2022 情人节</str>
-  <str key="2025975783-ucdn" type="ucdn" originalKey="2025975783"/>
-  <str key="2089808674-ucdt" type="ucdt" originalKey="2089808674">HLX 炽天使：铜质勋章</str>
-  <str key="2094624741-ucdt" type="ucdt" originalKey="2094624741">据说包含绿色和金色的锦旗可以为它的使用者带来好运。</str>
-  <str key="2114428450-ucdn" type="ucdn" originalKey="2114428450"/>
-  <str key="2183007229-ucdt" type="ucdt" originalKey="2183007229">改变载具的航迹云，留下一道四叶草尾迹。所有阵营都可以使用此装备。</str>
-  <str key="2188905982-ucdt" type="ucdt" originalKey="2188905982">奇美拉丹尼男孩喇叭</str>
-  <str key="2199544187-ucdt" type="ucdt" originalKey="2199544187">生命之树橡木棍</str>
-  <str key="2215842731-ucdn" type="ucdn" originalKey="2215842731"/>
-  <str key="2216872467-ucdt" type="ucdt" originalKey="2216872467">为爱痴狂礼包</str>
-  <str key="2221967145-ucdt" type="ucdt" originalKey="2221967145">乌克兰贴花</str>
-  <str key="2222876592-ucdt" type="ucdt" originalKey="2222876592">海盗战机四叶草航迹云</str>
-  <str key="2225166077-ucdt" type="ucdt" originalKey="2225166077">保持与一处敌方舰队的网格连接。</str>
-  <str key="2225730633-ucdn" type="ucdn" originalKey="2225730633"/>
-  <str key="2240066849-ucdt" type="ucdt" originalKey="2240066849">III 型水下推进器</str>
-  <str key="2276363407-ucdn" type="ucdn" originalKey="2276363407"/>
-  <str key="2347193681-ucdn" type="ucdn" originalKey="2347193681"/>
-  <str key="2348013374-ucdn" type="ucdn" originalKey="2348013374"/>
-  <str key="2360564595-ucdn" type="ucdn" originalKey="2360564595"/>
-  <str key="2379603236-ucdt" type="ucdt" originalKey="2379603236">徘徊者丹尼男孩喇叭</str>
-  <str key="2394648278-ucdn" type="ucdn" originalKey="2394648278"/>
-  <str key="2435173513-ucdn" type="ucdn" originalKey="2435173513"/>
-  <str key="2436884545-ucdt" type="ucdt" originalKey="2436884545">V 型水下推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;战术槽物品。在水下拿出后点击跳跃即可使用。轻型突击兵无法装备。&lt;/font&gt;</str>
-  <str key="2440006039-ucdn" type="ucdn" originalKey="2440006039"/>
-  <str key="2473223373-ucdt" type="ucdt" originalKey="2473223373">为该载具添加粉色风格的个性化后燃器效果。仅限地球共和国使用。</str>
-  <str key="2491720655-ucdn" type="ucdn" originalKey="2491720655"/>
-  <str key="2545597276-ucdt" type="ucdt" originalKey="2545597276">蚊式战机绿色后燃器</str>
-  <str key="2576736333-ucdn" type="ucdn" originalKey="2576736333"/>
-  <str key="2588493659-ucdt" type="ucdt" originalKey="2588493659">TR005 火花保险杠</str>
-  <str key="2594770231-ucdt" type="ucdt" originalKey="2594770231">改变载具的航迹云，留下一道四叶草尾迹。仅限新联邦使用。</str>
-  <str key="2601323417-ucdt" type="ucdt" originalKey="2601323417">解放者丘比特航迹云</str>
-  <str key="2622191381-ucdn" type="ucdn" originalKey="2622191381"/>
-  <str key="2649901324-ucdn" type="ucdn" originalKey="2649901324"/>
-  <str key="2660996313-ucdn" type="ucdn" originalKey="2660996313"/>
-  <str key="2698714740-ucdt" type="ucdt" originalKey="2698714740">海盗战机粉色后燃器</str>
-  <str key="2702733472-ucdt" type="ucdt" originalKey="2702733472">水下推进器</str>
-  <str key="2722555679-ucdn" type="ucdn" originalKey="2722555679"/>
-  <str key="2726206735-ucdt" type="ucdt" originalKey="2726206735">NS-44 “头奖”军政委：铜质勋章</str>
-  <str key="2730779563-ucdn" type="ucdn" originalKey="2730779563"/>
-  <str key="2741982386-ucdt" type="ucdt" originalKey="2741982386">苦行僧丹尼男孩喇叭</str>
-  <str key="2744409657-ucdt" type="ucdt" originalKey="2744409657">水下推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;战术槽物品。在水下拿出后点击跳跃即可使用。轻型突击兵无法装备。&lt;/font&gt;</str>
-  <str key="2763638211-ucdt" type="ucdt" originalKey="2763638211">获得“为爱痴狂”前缀头衔。</str>
-  <str key="2768493492-ucdt" type="ucdt" originalKey="2768493492">2022 情人节</str>
-  <str key="2779038894-ucdn" type="ucdn" originalKey="2779038894"/>
-  <str key="2828589770-ucdn" type="ucdn" originalKey="2828589770"/>
-  <str key="2828902183-ucdt" type="ucdt" originalKey="2828902183">NS-44 “头奖”军政委：金质勋章</str>
-  <str key="2857542205-ucdn" type="ucdn" originalKey="2857542205"/>
-  <str key="2889294226-ucdn" type="ucdn" originalKey="2889294226"/>
-  <str key="2900568304-ucdt" type="ucdt" originalKey="2900568304">镰刀战机丹尼男孩喇叭</str>
-  <str key="2918186315-ucdt" type="ucdt" originalKey="2918186315">北方舰队正受到[*faction*]的攻击。</str>
-  <str key="2921300109-ucdt" type="ucdt" originalKey="2921300109">苦行僧粉色后燃器</str>
-  <str key="2935515846-ucdt" type="ucdt" originalKey="2935515846">连接到东南舰队。</str>
-  <str key="2935953149-ucdt" type="ucdt" originalKey="2935953149">海盗战机绿色后燃器</str>
-  <str key="2950809067-ucdt" type="ucdt" originalKey="2950809067">造访任意战斗区域中的特定地点</str>
-  <str key="2957174824-ucdn" type="ucdn" originalKey="2957174824"/>
-  <str key="2976724122-ucdn" type="ucdn" originalKey="2976724122"/>
-  <str key="3010553364-ucdt" type="ucdt" originalKey="3010553364">NS-44 “头奖”军政委</str>
-  <str key="3066441065-ucdt" type="ucdt" originalKey="3066441065">连接到北方舰队。</str>
-  <str key="3069985116-ucdt" type="ucdt" originalKey="3069985116">女武神丹尼男孩喇叭</str>
-  <str key="3145468578-ucdn" type="ucdn" originalKey="3145468578"/>
-  <str key="3147005235-ucdn" type="ucdn" originalKey="3147005235"/>
-  <str key="3166043309-ucdn" type="ucdn" originalKey="3166043309"/>
-  <str key="3204808995-ucdt" type="ucdt" originalKey="3204808995">2022 圣帕特里克节</str>
-  <str key="3205200795-ucdt" type="ucdt" originalKey="3205200795">* 成为会员时间越长，获得的收益越高。</str>
-  <str key="3210859920-ucdt" type="ucdt" originalKey="3210859920">蚊式战机丘比特航迹云</str>
-  <str key="3221337306-ucdn" type="ucdn" originalKey="3221337306"/>
-  <str key="3239479705-ucdt" type="ucdt" originalKey="3239479705">为该载具添加粉色风格的个性化后燃器效果。仅限新联邦使用。</str>
-  <str key="3254575709-ucdt" type="ucdt" originalKey="3254575709">标枪丹尼男孩喇叭</str>
-  <str key="3305456528-ucdt" type="ucdt" originalKey="3305456528">为该载具添加粉色风格的个性化后燃器效果。仅限瓦努主权国使用。</str>
-  <str key="3307531317-ucdn" type="ucdn" originalKey="3307531317"/>
-  <str key="3312126384-ucdt" type="ucdt" originalKey="3312126384">在第三人称视角下显示载具的点瞄。（默认：开）</str>
-  <str key="3320816234-ucdn" type="ucdn" originalKey="3320816234">推进</str>
-  <str key="3326135743-ucdt" type="ucdt" originalKey="3326135743">II 型水下推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;战术槽物品。在水下拿出后点击跳跃即可使用。轻型突击兵无法装备。&lt;/font&gt;</str>
-  <str key="3330110634-ucdt" type="ucdt" originalKey="3330110634">生命之树橡木棍：银质勋章</str>
-  <str key="3331890804-ucdt" type="ucdt" originalKey="3331890804">生命之树礼包</str>
-  <str key="3339954787-ucdn" type="ucdn" originalKey="3339954787"/>
-  <str key="3435563827-ucdt" type="ucdt" originalKey="3435563827">&lt;font size="32"&gt;获取新的生命之树礼包、2022 圣帕特里克节礼包和多款返场好礼来庆祝这个全年最幸运的节日。&lt;br&gt;&lt;br&gt;马上前往&lt;font color="#ACE1E5"&gt;商城&lt;/font&gt;看看所有限时武器、迷彩和装饰物品，时间不等人哦！&lt;/font&gt;</str>
-  <str key="3443057903-ucdn" type="ucdn" originalKey="3443057903"/>
-  <str key="3452752547-ucdt" type="ucdt" originalKey="3452752547">苦行僧绿色后燃器</str>
-  <str key="3493908096-ucdt" type="ucdt" originalKey="3493908096">由于没有视野，无法部署。</str>
-  <str key="3509378271-ucdt" type="ucdt" originalKey="3509378271">苦行僧丘比特航迹云</str>
-  <str key="3510343302-ucdn" type="ucdn" originalKey="3510343302"/>
-  <str key="3510976521-ucdn" type="ucdn" originalKey="3510976521"/>
-  <str key="3516459402-ucdn" type="ucdn" originalKey="3516459402"/>
-  <str key="3519570372-ucdn" type="ucdn" originalKey="3519570372"/>
-  <str key="3523454191-ucdn" type="ucdn" originalKey="3523454191"/>
-  <str key="3524646833-ucdn" type="ucdn" originalKey="3524646833"/>
-  <str key="3533405751-ucdt" type="ucdt" originalKey="3533405751">III 型水下推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;战术槽物品。在水下拿出后点击跳跃即可使用。轻型突击兵无法装备。&lt;/font&gt;</str>
-  <str key="3560117875-ucdt" type="ucdt" originalKey="3560117875">征服欧夏尔</str>
-  <str key="3561175032-ucdt" type="ucdt" originalKey="3561175032">蚊式战机四叶草航迹云</str>
-  <str key="3562306497-ucdn" type="ucdn" originalKey="3562306497"/>
-  <str key="3581123690-ucdt" type="ucdt" originalKey="3581123690">解放者丹尼男孩喇叭</str>
-  <str key="3601077136-ucdn" type="ucdn" originalKey="3601077136"/>
-  <str key="3617841774-ucdt" type="ucdt" originalKey="3617841774">无情军团贴花</str>
-  <str key="3618738873-ucdt" type="ucdt" originalKey="3618738873">德鲁伊</str>
-  <str key="3646962286-ucdt" type="ucdt" originalKey="3646962286">先驱者丹尼男孩喇叭</str>
-  <str key="3656942022-ucdt" type="ucdt" originalKey="3656942022">改变载具的航迹云，留下一道羽毛尾迹。所有阵营都可以使用此装备。</str>
-  <str key="3691563484-ucdn" type="ucdn" originalKey="3691563484"/>
-  <str key="3695651863-ucdt" type="ucdt" originalKey="3695651863">头衔：为爱痴狂</str>
-  <str key="3703216980-ucdt" type="ucdt" originalKey="3703216980">为该载具添加绿色风格的个性化后燃器效果。仅限瓦努主权国使用。</str>
-  <str key="3727610332-ucdt" type="ucdt" originalKey="3727610332">工蚁丹尼男孩喇叭</str>
-  <str key="3728501202-ucdt" type="ucdt" originalKey="3728501202">HLX 炽天使：金质勋章</str>
-  <str key="3752123515-ucdt" type="ucdt" originalKey="3752123515">巨像门图战神装甲</str>
-  <str key="3761946151-ucdt" type="ucdt" originalKey="3761946151">V 型水下推进器</str>
-  <str key="3765944946-ucdt" type="ucdt" originalKey="3765944946">解放者粉色后燃器</str>
-  <str key="3844287033-ucdn" type="ucdn" originalKey="3844287033"/>
-  <str key="3851177472-ucdn" type="ucdn" originalKey="3851177472"/>
-  <str key="3864628050-ucdt" type="ucdt" originalKey="3864628050">闪电丹尼男孩喇叭</str>
-  <str key="3879857051-ucdt" type="ucdt" originalKey="3879857051">NS-44 “头奖”军政委：银质勋章</str>
-  <str key="3979116877-ucdt" type="ucdt" originalKey="3979116877">HLX 炽天使：奥星勋章</str>
-  <str key="3983797232-ucdn" type="ucdn" originalKey="3983797232"/>
-  <str key="3992738604-ucdn" type="ucdn" originalKey="3992738604"/>
-  <str key="4011381081-ucdt" type="ucdt" originalKey="4011381081">为爱痴狂</str>
-  <str key="4069288496-ucdt" type="ucdt" originalKey="4069288496">用这款经典近战武器，以绅士风度解决争端。所有阵营都可以使用此武器。</str>
-  <str key="4124855616-ucdt" type="ucdt" originalKey="4124855616">I 型水下推进器</str>
-  <str key="4272567999-ucdn" type="ucdn" originalKey="4272567999"/>
-  <str key="4282993724-ucdt" type="ucdt" originalKey="4282993724">改变载具的航迹云，留下一道羽毛尾迹。仅限纳能特工使用。</str>
-  <str key="358958387-ugdt" type="ugdt" originalKey="358958387">镰刀战机丘比特航迹云</str>
-  <str key="3459084120-ugdt" type="ugdt" originalKey="3459084120">突袭者丹尼男孩喇叭</str>
-  <str key="3733742516-ugdt" type="ugdt" originalKey="3733742516">SKL 军团贴花</str>
-  <str key="3792082302-ugdt" type="ugdt" originalKey="3792082302">苦行僧丹尼男孩喇叭</str>
-  <str key="4202269060-ugdt" type="ugdt" originalKey="4202269060">幸运背景横幅</str>
-  <str key="507051011-ugdt" type="ugdt" originalKey="507051011">徘徊者丹尼男孩喇叭</str>
-  <str key="575412756-ugdt" type="ugdt" originalKey="575412756">闪电丹尼男孩喇叭</str>
-  <str key="580202061-ugdt" type="ugdt" originalKey="580202061">乌克兰贴花</str>
-  <str key="734665059-ugdt" type="ugdt" originalKey="734665059">海盗战机丘比特航迹云</str>
-  <str key="754217552-ugdt" type="ugdt" originalKey="754217552">女武神丘比特航迹云</str>
-  <str key="785952969-ugdt" type="ugdt" originalKey="785952969">黑巧克力迷彩</str>
-  <str key="788521562-ugdt" type="ugdt" originalKey="788521562">HLX 炽天使</str>
-  <str key="809527153-ugdt" type="ugdt" originalKey="809527153">苦行僧丘比特航迹云</str>
-  <str key="1017496341-ugdt" type="ugdt" originalKey="1017496341">银河四叶草航迹云</str>
-  <str key="1289976797-ugdt" type="ugdt" originalKey="1289976797">解放者四叶草航迹云</str>
-  <str key="1593744716-ugdt" type="ugdt" originalKey="1593744716">决裂者丹尼男孩喇叭</str>
-  <str key="1600591881-ugdt" type="ugdt" originalKey="1600591881">NS-44 “头奖”军政委</str>
-  <str key="1635738653-ugdt" type="ugdt" originalKey="1635738653">蚊式战机四叶草航迹云</str>
-  <str key="1710091991-ugdt" type="ugdt" originalKey="1710091991">无情军团贴花</str>
-  <str key="2140286523-ugdt" type="ugdt" originalKey="2140286523">奇美拉丹尼男孩喇叭</str>
-  <str key="2243873986-ugdt" type="ugdt" originalKey="2243873986">头衔：德鲁伊</str>
-  <str key="2301286231-ugdt" type="ugdt" originalKey="2301286231">女武神四叶草航迹云</str>
-  <str key="2411586476-ugdt" type="ugdt" originalKey="2411586476">先驱者丹尼男孩喇叭</str>
-  <str key="2434048501-ugdt" type="ugdt" originalKey="2434048501">女武神丹尼男孩喇叭</str>
-  <str key="2642483890-ugdt" type="ugdt" originalKey="2642483890">蚊式战机丹尼男孩喇叭</str>
-  <str key="2642778617-ugdt" type="ugdt" originalKey="2642778617">镰刀战机丹尼男孩喇叭</str>
-  <str key="2676014300-ugdt" type="ugdt" originalKey="2676014300">解放者丹尼男孩喇叭</str>
-  <str key="2737489321-ugdt" type="ugdt" originalKey="2737489321">火花丹尼男孩喇叭</str>
-  <str key="2779182203-ugdt" type="ugdt" originalKey="2779182203">头衔：为爱痴狂</str>
-  <str key="2796773677-ugdt" type="ugdt" originalKey="2796773677">媒人成就升级</str>
-  <str key="2847498176-ugdt" type="ugdt" originalKey="2847498176">巨像门图战神装甲</str>
-  <str key="2850584468-ugdt" type="ugdt" originalKey="2850584468">蚊式战机丘比特航迹云</str>
-  <str key="2973443724-ugdt" type="ugdt" originalKey="2973443724">银河丘比特航迹云</str>
-  <str key="2980815216-ugdt" type="ugdt" originalKey="2980815216">标枪丹尼男孩喇叭</str>
-  <str key="2993135769-ugdt" type="ugdt" originalKey="2993135769">苦行僧四叶草航迹云</str>
-  <str key="3127390965-ugdt" type="ugdt" originalKey="3127390965">银河丹尼男孩喇叭</str>
-  <str key="3190707906-ugdt" type="ugdt" originalKey="3190707906">工蚁丹尼男孩喇叭</str>
-  <str key="3401066781-ugdt" type="ugdt" originalKey="3401066781">海盗战机四叶草航迹云</str>
-  <str key="3438372092-ugdt" type="ugdt" originalKey="3438372092">解放者丘比特航迹云</str>
-  <str key="1232794695-ugdt" type="ugdt" originalKey="1232794695">镰刀战机四叶草航迹云</str>
-  <str key="1473224731-ugdt" type="ugdt" originalKey="1473224731">电磁骑士丹尼男孩喇叭</str>
-  <str key="2102444288-ugdt" type="ugdt" originalKey="2102444288">海盗战机丹尼男孩喇叭</str>
-  <str key="3526453742-ugdt" type="ugdt" originalKey="3526453742">IV 型水下推进器</str>
-  <str key="3822292036-ugdt" type="ugdt" originalKey="3822292036">镰刀战机绿色后燃器</str>
-  <str key="4083830770-ugdt" type="ugdt" originalKey="4083830770">苦行僧绿色后燃器</str>
-  <str key="398993257-ugdt" type="ugdt" originalKey="398993257">生命之树贴花</str>
-  <str key="737553525-ugdt" type="ugdt" originalKey="737553525">镰刀战机粉色后燃器</str>
-  <str key="833937732-ugdt" type="ugdt" originalKey="833937732">海盗战机绿色后燃器</str>
-  <str key="991050418-ugdt" type="ugdt" originalKey="991050418">生命之树爱尔兰帽</str>
-  <str key="1649466605-ugdt" type="ugdt" originalKey="1649466605">I 型水下推进器</str>
-  <str key="1797822418-ugdt" type="ugdt" originalKey="1797822418">III 型水下推进器</str>
-  <str key="1946655414-ugdt" type="ugdt" originalKey="1946655414">苦行僧粉色后燃器</str>
-  <str key="2184324361-ugdt" type="ugdt" originalKey="2184324361">II 型水下推进器</str>
-  <str key="2457547024-ugdt" type="ugdt" originalKey="2457547024">海盗战机粉色后燃器</str>
-  <str key="2353223168-ugdt" type="ugdt" originalKey="2353223168">生命之树橡木棍</str>
-  <str key="2699218606-ugdt" type="ugdt" originalKey="2699218606">V 型水下推进器</str>
-  <str key="2902676262-ugdt" type="ugdt" originalKey="2902676262">蚊式战机粉色后燃器</str>
-  <str key="2904484844-ugdt" type="ugdt" originalKey="2904484844">解放者绿色后燃器</str>
-  <str key="3021206649-ugdt" type="ugdt" originalKey="3021206649">蚊式战机绿色后燃器</str>
-  <str key="3043177848-ugdt" type="ugdt" originalKey="3043177848">解放者粉色后燃器</str>
-  <str key="2588493659-xgdt" type="xgdt" originalKey="2588493659">火花保险杠TR005</str>
-  <str key="2588493659-xcdt" type="xcdt" originalKey="2588493659">在你的武器上添加破碎大地迷彩图案，仅供地球共和国使用。</str>
-  <str key="3320816234-ucdt" type="ucdt" originalKey="3320816234">推进</str>
-  <str key="17253394-ucdt" type="ucdt" originalKey="17253394">鸭嘴扼流圈会使弹丸在一个水平方向上的宽阔区域内分布。</str>
-  <str key="30161910-ucdt" type="ucdt" originalKey="30161910">武器能够携带的最大弹药数量增加720发。</str>
+    <str key="10493090-ucdt" type="ucdt" originalKey="10493090">生命之树橡木棍：奥星勋章</str>
+    <str key="15707196-ucdn" type="ucdn" originalKey="15707196"></str>
+    <str key="17253394-ucdt" type="ucdt" originalKey="17253394">鸭嘴扼流圈会使弹丸在一个水平方向上的宽阔区域内分布。</str>
+    <str key="30161910-ucdt" type="ucdt" originalKey="30161910">武器能够携带的最大弹药数量增加720发。</str>
+    <str key="31644864-ucdt" type="ucdt" originalKey="31644864">热恋的季节已开始！</str>
+    <str key="35332439-ucdt" type="ucdt" originalKey="35332439">苦行僧四叶草航迹云</str>
+    <str key="40567692-ucdt" type="ucdt" originalKey="40567692">决裂者丹尼男孩喇叭</str>
+    <str key="48478095-ucdt" type="ucdt" originalKey="48478095">军团中士头盔</str>
+    <str key="53398561-ucdt" type="ucdt" originalKey="53398561">突袭者丹尼男孩喇叭</str>
+    <str key="74464825-ucdt" type="ucdt" originalKey="74464825">M18 Palisade-S[前方武器]</str>
+    <str key="75487943-ucdt" type="ucdt" originalKey="75487943">Javelin是一种能够悬浮的实验型载具，可快速穿越各种地形。与Flash类似，Javelin的开放无篷座位可以携带一名乘客。该乘客可以正常使用自己的装备和技能。&lt;br&gt;&lt;br&gt;阵营：NS Operatives&lt;br&gt;尺寸：小型&lt;br&gt;类别：运输&lt;br&gt;移动方式：悬浮</str>
+    <str key="77207167-ucdt" type="ucdt" originalKey="77207167">M18 Palisade：银质勋章</str>
+    <str key="77785805-ucdn" type="ucdn" originalKey="77785805"></str>
+    <str key="80507239-ucdt" type="ucdt" originalKey="80507239">枪口医疗弹发射器会为受到影响的友军提供持续治疗，并在命中目标时净化其大部分状态效果。装备此附件会令武器的装备时间增加0.25秒。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;按下装备栏1的快捷键可以启动此附件。&lt;/font&gt;</str>
+    <str key="89432209-ucdt" type="ucdt" originalKey="89432209">改变载具的航迹云，留下一道羽毛尾迹。仅限新联邦使用。</str>
+    <str key="90189900-ucdt" type="ucdt" originalKey="90189900">为NS工程兵解锁Havoc地雷。</str>
+    <str key="96280112-ucdt" type="ucdt" originalKey="96280112">狡猾</str>
+    <str key="98388070-ucdt" type="ucdt" originalKey="98388070">军团下士头盔</str>
+    <str key="99597458-ucdt" type="ucdt" originalKey="99597458">穿甲炮</str>
+    <str key="102834217-ucdt" type="ucdt" originalKey="102834217">Prowler是Terran Republic特有的坦克，用途非常广泛。它有着更高的峰值速度，同时双管火炮杀伤敌人的速度也比其他各种坦克更快。Prowler通常作为炮火支援载具使用，可部署为固定模式，以更轻易地对快速移动的载具或距离较远的目标造成杀伤。&lt;br&gt;&lt;br&gt;阵营：Terran Republic&lt;br&gt;尺寸：中型&lt;br&gt;类别：MBT&lt;br&gt;移动方式：坦克</str>
+    <str key="109823086-ucdt" type="ucdt" originalKey="109823086">直接击中现可移除敌人10%的最大护盾生命值和最大技能能量，同时对小型可部署物造成大量伤害，但所有距离的总伤害降低20%。</str>
+    <str key="110255281-ucdt" type="ucdt" originalKey="110255281">M18 Palisade-S: 金质勋章</str>
+    <str key="128966611-ucdt" type="ucdt" originalKey="128966611">和 HLX 炽天使重弩分享爱意，或者为你最爱的飞机定制绝美的新航迹云和后燃器效果。</str>
+    <str key="133735314-ucdt" type="ucdt" originalKey="133735314">镰刀战机四叶草航迹云</str>
+    <str key="161353871-ucdt" type="ucdt" originalKey="161353871">FL-34声称这是限量版Punisher的复制品，而原件在拍卖过程中于纳能科技集团的陈列室中被盗。除了外表好看之外，其没有任何特殊功能。所有阵营均可使用NS武器。</str>
+    <str key="169919082-ucdt" type="ucdt" originalKey="169919082">N30 Trawler-S：金质勋章</str>
+    <str key="175574243-ucdt" type="ucdt" originalKey="175574243">Flash是一种四轮全地形载具，可迅速将驾驶员和一名乘客送往前线。后座上的乘客可以使用自己的各种装备。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：小型&lt;br&gt;类别：运输&lt;br&gt;移动方式：轮式</str>
+    <str key="177059701-ucdt" type="ucdt" originalKey="177059701">稳定器</str>
+    <str key="183799874-ucdt" type="ucdt" originalKey="183799874">为VS Infiltrator解锁闪爆地雷。</str>
+    <str key="184690798-ucdt" type="ucdt" originalKey="184690798">头衔：狡猾</str>
+    <str key="190671702-ucdt" type="ucdt" originalKey="190671702">为VS工程兵解锁闪爆地雷。</str>
+    <str key="190772917-ucdn" type="ucdn" originalKey="190772917"></str>
+    <str key="191294294-ucdt" type="ucdt" originalKey="191294294">大陆</str>
+    <str key="191368639-ucdt" type="ucdt" originalKey="191368639">N30 Trawler：铜质勋章</str>
+    <str key="191907113-ucdt" type="ucdt" originalKey="191907113">生命之树贴花</str>
+    <str key="192612613-ucdt" type="ucdt" originalKey="192612613">HLX 炽天使：银质勋章</str>
+    <str key="225464039-ucdt" type="ucdt" originalKey="225464039">武器能够携带的最大弹药数量增加130发。</str>
+    <str key="255451986-ucdt" type="ucdt" originalKey="255451986">战斗医疗兵军团装甲</str>
+    <str key="256440234-ucdt" type="ucdt" originalKey="256440234">KCAP弹药可移除腿部中弹伤害惩罚，令腿部中弹的伤害提升20%，但爆头伤害会降低50%。</str>
+    <str key="259003444-ucdt" type="ucdt" originalKey="259003444">炮手武器：H2-20 HCG</str>
+    <str key="260200902-ucdn" type="ucdn" originalKey="260200902"></str>
+    <str key="270058807-ucdt" type="ucdt" originalKey="270058807">V42 Pariah-H</str>
+    <str key="271274690-ucdt" type="ucdt" originalKey="271274690">每个弹夹的装弹数量增加14发。装备及卸下武器的时间延长15%。</str>
+    <str key="275819897-ucdt" type="ucdt" originalKey="275819897">闪爆地雷的携带量增加1枚。</str>
+    <str key="276084991-ucdt" type="ucdt" originalKey="276084991">N30 Trawler-H：金质勋章</str>
+    <str key="279778490-ucdt" type="ucdt" originalKey="279778490">HLX 炽天使</str>
+    <str key="280550601-ucdt" type="ucdt" originalKey="280550601">幸运背景横幅</str>
+    <str key="280975648-ucdt" type="ucdt" originalKey="280975648">“自由战胜压迫”&lt;br&gt;&lt;br&gt;是背叛者，是自由斗士，还是恐怖分子？New Conglomerate是一个由不同政见者组成的松散组织，他们坚定地反对Terran Republic对Auraxis的压迫。New Conglomerate的领导人是一群不同寻常的流浪者、行业巨头、海盗和前军事领袖，他们坚持组织的愿景毫不动摇，并愿意以任何必要的方式达成自己的目标。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;步兵招牌武器：&lt;/li&gt;&lt;/ul&gt;重击武器&lt;br&gt;专属载具：&lt;br&gt;&lt;ul&gt;&lt;li&gt;Vanguard&lt;/li&gt;&lt;li&gt;Reaver&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="294570559-ucdt" type="ucdt" originalKey="294570559">获取这个军团步兵头盔套装。仅限Terran Republic阵营使用。</str>
+    <str key="317944839-ucdn" type="ucdn" originalKey="317944839"></str>
+    <str key="323005911-ucdt" type="ucdt" originalKey="323005911">生命之树橡木棍：金质勋章</str>
+    <str key="323470211-ucdt" type="ucdt" originalKey="323470211">为TR Infiltrator解锁震爆地雷。</str>
+    <str key="324092835-ucdt" type="ucdt" originalKey="324092835">阵营</str>
+    <str key="324816855-ucdt" type="ucdt" originalKey="324816855">获取“德鲁伊”头衔。</str>
+    <str key="325759751-ucdt" type="ucdt" originalKey="325759751">黑巧克力迷彩</str>
+    <str key="325825371-ucdn" type="ucdn" originalKey="325825371"></str>
+    <str key="328707125-ucdt" type="ucdt" originalKey="328707125">N30 Trawler-H：铜质勋章</str>
+    <str key="349228348-ucdn" type="ucdn" originalKey="349228348"></str>
+    <str key="358958387-ugdt" type="ugdt" originalKey="358958387">镰刀战机丘比特航迹云</str>
+    <str key="392130824-ucdt" type="ucdt" originalKey="392130824">军团工程兵头盔</str>
+    <str key="398993257-ugdt" type="ugdt" originalKey="398993257">生命之树贴花</str>
+    <str key="432593253-ucdn" type="ucdn" originalKey="432593253"></str>
+    <str key="435838281-ucdt" type="ucdt" originalKey="435838281">榴弹发射器</str>
+    <str key="447046338-ucdn" type="ucdn" originalKey="447046338"></str>
+    <str key="475983773-ucdn" type="ucdn" originalKey="475983773"></str>
+    <str key="495223153-ucdt" type="ucdt" originalKey="495223153">重型突击兵可穿戴。仅限Terran Republic阵营使用。</str>
+    <str key="496393463-ucdn" type="ucdn" originalKey="496393463"></str>
+    <str key="501632873-ucdn" type="ucdn" originalKey="501632873"></str>
+    <str key="507051011-ugdt" type="ugdt" originalKey="507051011">徘徊者丹尼男孩喇叭</str>
+    <str key="507267352-ucdt" type="ucdt" originalKey="507267352">M18 Palisade-S</str>
+    <str key="514767861-ucdt" type="ucdt" originalKey="514767861">Scythe是Vanu Sovereignty独有的单人飞行器，性能超群，采用了Vanu Sovereignty科技，在悬停和减速时更加稳定。Scythe独一无二的轮廓使其在面对面缠斗中变得极为棘手，但其非常容易遭受来自上方和下方的攻击。&lt;br&gt;&lt;br&gt;阵营：Vanu Sovereignty&lt;br&gt;尺寸：大型&lt;br&gt;类别：ESF&lt;br&gt;移动方式：飞行</str>
+    <str key="520445603-ucdn" type="ucdn" originalKey="520445603"></str>
+    <str key="524674649-ucdt" type="ucdt" originalKey="524674649">银河丘比特航迹云</str>
+    <str key="525083217-ucdt" type="ucdt" originalKey="525083217">Cerberus弹药会将武器的伤害分布在三颗弹丸上，扫射时弹丸会水平散布，精确瞄准时会竖直散布。</str>
+    <str key="528019702-ucdt" type="ucdt" originalKey="528019702">Shattered Warpgate：灾难</str>
+    <str key="530206023-ucdt" type="ucdt" originalKey="530206023">EMP地雷</str>
+    <str key="530463037-ucdn" type="ucdn" originalKey="530463037"></str>
+    <str key="531501520-ucdt" type="ucdt" originalKey="531501520">H2-20 HCG：银质勋章</str>
+    <str key="539276978-ucdt" type="ucdt" originalKey="539276978">军团士兵头盔</str>
+    <str key="548616920-ucdt" type="ucdt" originalKey="548616920">EMP地雷的携带量增加1枚。</str>
+    <str key="553101800-ucdt" type="ucdt" originalKey="553101800">N30 Trawler-A：Auraxium勋章</str>
+    <str key="568712171-ucdt" type="ucdt" originalKey="568712171">V42 Pariah-A：铜质勋章</str>
+    <str key="569445231-ucdt" type="ucdt" originalKey="569445231">武器能够携带的最大弹药数量增加195发。</str>
+    <str key="570304376-ucdt" type="ucdt" originalKey="570304376">北极星模块1</str>
+    <str key="571778054-ucdt" type="ucdt" originalKey="571778054">改变载具的航迹云，留下一道四叶草尾迹。仅限纳能特工使用。</str>
+    <str key="572984021-ucdt" type="ucdt" originalKey="572984021">下一等级：受到伤害后开始恢复护盾的时间缩短到7秒。</str>
+    <str key="575412756-ugdt" type="ugdt" originalKey="575412756">闪电丹尼男孩喇叭</str>
+    <str key="580202061-ugdt" type="ugdt" originalKey="580202061">乌克兰贴花</str>
+    <str key="595146607-ucdn" type="ucdn" originalKey="595146607"></str>
+    <str key="615136160-ucdt" type="ucdt" originalKey="615136160">是时候收获好运了！</str>
+    <str key="642713217-ucdt" type="ucdt" originalKey="642713217">遥远海岸：海妖的呼唤</str>
+    <str key="643612411-ucdt" type="ucdt" originalKey="643612411">2022愚人节</str>
+    <str key="644831998-ucdt" type="ucdt" originalKey="644831998">为该载具添加绿色风格的个性化后燃器效果。仅限新联邦使用。</str>
+    <str key="652462397-ucdt" type="ucdt" originalKey="652462397">改变载具的航迹云，留下一道羽毛尾迹。仅限地球共和国使用。</str>
+    <str key="658955363-ucdt" type="ucdt" originalKey="658955363">N30 Trawler-S：银质勋章</str>
+    <str key="660377668-ucdn" type="ucdn" originalKey="660377668"></str>
+    <str key="672447471-ucdn" type="ucdn" originalKey="672447471"></str>
+    <str key="679490818-ucdt" type="ucdt" originalKey="679490818">炮手武器：V-42 Pariah</str>
+    <str key="689360307-ucdt" type="ucdt" originalKey="689360307">SPRK-33 Stomper</str>
+    <str key="690088099-ucdt" type="ucdt" originalKey="690088099">镰刀战机粉色后燃器</str>
+    <str key="690633990-ucdt" type="ucdt" originalKey="690633990">S2-20 HCG：铜质勋章</str>
+    <str key="693473639-ucdt" type="ucdt" originalKey="693473639">侦测到敌军的移动后爆炸，生成一个破坏力场，干扰机械目标，使其最多6秒内无法被修复。</str>
+    <str key="698479856-ucdt" type="ucdt" originalKey="698479856">NS-44 “头奖”军政委：奥星勋章</str>
+    <str key="734665059-ugdt" type="ugdt" originalKey="734665059">海盗战机丘比特航迹云</str>
+    <str key="737553525-ugdt" type="ugdt" originalKey="737553525">镰刀战机粉色后燃器</str>
+    <str key="747180867-ucdt" type="ucdt" originalKey="747180867">运送者模块2</str>
+    <str key="748710586-ucdt" type="ucdt" originalKey="748710586">蚊式战机丹尼男孩喇叭</str>
+    <str key="754217552-ugdt" type="ugdt" originalKey="754217552">女武神丘比特航迹云</str>
+    <str key="785312867-ucdt" type="ucdt" originalKey="785312867">“现金还是刷卡？”&lt;br&gt;&lt;br&gt;是机器，是雇佣兵，还是终极机器人霸主？NS Operatives是纳能科技集团麾下的自由军事组织，而你在战场上最爱的多款武器也是这家公司的手笔。无止境的忠诚（在你的合约期限内），这些机械化的战争武器能够为实现大规模生产军力优势提供最新的灵活设计方案。&lt;br&gt;&lt;br&gt;步兵招牌武器：&lt;br&gt;&lt;ul&gt;&lt;li&gt;范围伤害下降减免&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;专属载具：&lt;br&gt;&lt;ul&gt;&lt;li&gt;Chimera&lt;/li&gt;&lt;li&gt;Dervish&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="785952969-ugdt" type="ugdt" originalKey="785952969">黑巧克力迷彩</str>
+    <str key="788521562-ugdt" type="ugdt" originalKey="788521562">HLX 炽天使</str>
+    <str key="796301694-ucdt" type="ucdt" originalKey="796301694">生命之树爱尔兰帽</str>
+    <str key="800920078-ucdn" type="ucdn" originalKey="800920078"></str>
+    <str key="801807777-ucdn" type="ucdn" originalKey="801807777"></str>
+    <str key="806014074-ucdt" type="ucdt" originalKey="806014074">可释放穿透墙壁的脉冲波，摧毁或破坏敌方可部署物、去除步兵护盾并扰乱HUD。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;点燃引线3秒后爆炸。&lt;/font&gt;</str>
+    <str key="808368363-ucdt" type="ucdt" originalKey="808368363">N30 Trawler-A：铜质勋章</str>
+    <str key="809527153-ugdt" type="ugdt" originalKey="809527153">苦行僧丘比特航迹云</str>
+    <str key="811848707-ucdt" type="ucdt" originalKey="811848707">侦测到敌军的移动后爆炸，令爆炸范围内的步兵将暂时失明、失聪，射击准确度也会降低。</str>
+    <str key="817124450-ucdt" type="ucdt" originalKey="817124450">IV 型水下推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;战术槽物品。在水下拿出后点击跳跃即可使用。轻型突击兵无法装备。&lt;/font&gt;</str>
+    <str key="833405460-ucdt" type="ucdt" originalKey="833405460">军团专员头盔</str>
+    <str key="833937732-ugdt" type="ugdt" originalKey="833937732">海盗战机绿色后燃器</str>
+    <str key="837398666-ucdt" type="ucdt" originalKey="837398666">V42 Pariah-S：Auraxium勋章</str>
+    <str key="837928114-ucdt" type="ucdt" originalKey="837928114">用飞镖箭弹替代大号子弹，最大和最小伤害散布范围将变为三倍，但每颗子弹的弹丸数量减少3。</str>
+    <str key="838761284-ucdt" type="ucdt" originalKey="838761284">运送者模块4</str>
+    <str key="868672560-ucdt" type="ucdt" originalKey="868672560">入场</str>
+    <str key="871052343-ucdn" type="ucdn" originalKey="871052343"></str>
+    <str key="882183832-ucdt" type="ucdt" originalKey="882183832">II 型水下推进器</str>
+    <str key="882611735-ucdt" type="ucdt" originalKey="882611735">震爆地雷</str>
+    <str key="882655711-ucdn" type="ucdn" originalKey="882655711"></str>
+    <str key="884600914-ucdt" type="ucdt" originalKey="884600914">M18 Palisade-H：银质勋章</str>
+    <str key="885801848-ucdt" type="ucdt" originalKey="885801848">载具点瞄</str>
+    <str key="887478468-ucdt" type="ucdt" originalKey="887478468">瓦尔基里四叶草航迹云</str>
+    <str key="889068070-ucdt" type="ucdt" originalKey="889068070">V42 Pariah-H：金质勋章</str>
+    <str key="890433380-ucdt" type="ucdt" originalKey="890433380">东南舰队正受到[*faction*]的攻击。</str>
+    <str key="894670082-ucdt" type="ucdt" originalKey="894670082">Reaver是New Conglomerate独有的单人战斗机。它配备有强劲的引擎，推进器的容量很高，是各阵营的专有战斗机中飞行速度最快的。尽管该战斗机前端轮廓是各型之中最大的，但Reaver凭借强大的攻击火力和卓越的悬浮机动性弥补了这一缺陷。&lt;br&gt;&lt;br&gt;阵营：New Conglomerate&lt;br&gt;尺寸：大型&lt;br&gt;类别：ESF&lt;br&gt;移动方式：飞行</str>
+    <str key="897756071-ucdt" type="ucdt" originalKey="897756071">镰刀战机绿色后燃器</str>
+    <str key="902312644-ucdt" type="ucdt" originalKey="902312644">解放者绿色后燃器</str>
+    <str key="925124256-ucdt" type="ucdt" originalKey="925124256">使用此幸运礼包庆祝圣帕特里克节，其中包含生命之树橡木棍近战武器、头盔、贴花和“德鲁伊”头衔。所有阵营都可获得这些物品。</str>
+    <str key="937575942-ucdt" type="ucdt" originalKey="937575942">V42 Pariah：铜质勋章</str>
+    <str key="938441279-ucdt" type="ucdt" originalKey="938441279">IV 型水下推进器</str>
+    <str key="941062320-ucdn" type="ucdn" originalKey="941062320"></str>
+    <str key="952391195-ucdn" type="ucdn" originalKey="952391195"></str>
+    <str key="969338605-ucdn" type="ucdn" originalKey="969338605"></str>
+    <str key="991050418-ugdt" type="ugdt" originalKey="991050418">生命之树爱尔兰帽</str>
+    <str key="992274439-ucdt" type="ucdt" originalKey="992274439">战斗医疗兵是一个多用途兵种，可以治疗和复活队友。这些步兵部队不仅仅能够提供支援；他们还可使用突击步枪这种适应性极高的武器在中长距离消灭敌方步兵的威胁。&lt;br&gt;&lt;br&gt;武器：&lt;br&gt;&lt;ul&gt;&lt;li&gt;突击步枪&lt;/li&gt;&lt;li&gt;霰弹枪&lt;/li&gt;&lt;li&gt;冲锋枪&lt;/li&gt;&lt;li&gt;侦察步枪&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;技能：&lt;br&gt;&lt;ul&gt;&lt;li&gt;纳能重生装置（默认）——激活后，你和你周围的队友会快速恢复生命值，能够有效让你吸收死前的一两次攻击所带来的伤害。等级越高，治疗速度越快。&lt;/li&gt;&lt;li&gt;护盾重新充能场——部署一个设备，可发射一个力场为附近的队友重新充能护盾。等级越高，重新充能的速度越快，有效半径也越大。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;工具：&lt;br&gt;&lt;ul&gt;&lt;li&gt;医疗枪——用于治疗或复活队友。等级越高，治疗和复活速度越快。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;提示：&lt;br&gt;&lt;ul&gt;&lt;li&gt;建议尽早将医疗枪工具提升至等级5以使工程兵充分发挥作用。&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="999545349-ucdt" type="ucdt" originalKey="999545349">I 型水下推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;战术槽物品。在水下拿出后点击跳跃即可使用。轻型突击兵无法装备。&lt;/font&gt;</str>
+    <str key="1005538613-ucdn" type="ucdn" originalKey="1005538613"></str>
+    <str key="1016621272-ucdt" type="ucdt" originalKey="1016621272">N30 Trawler-A</str>
+    <str key="1016871790-ucdt" type="ucdt" originalKey="1016871790">V42 Pariah-S：银质勋章</str>
+    <str key="1017194661-ucdt" type="ucdt" originalKey="1017194661">闪爆地雷</str>
+    <str key="1017496341-ugdt" type="ugdt" originalKey="1017496341">银河四叶草航迹云</str>
+    <str key="1068555815-ucdt" type="ucdt" originalKey="1068555815">连接到西南舰队。</str>
+    <str key="1069158106-ucdt" type="ucdt" originalKey="1069158106">为该载具添加绿色风格的个性化后燃器效果。仅限纳能特工使用。</str>
+    <str key="1092741473-ucdt" type="ucdt" originalKey="1092741473">为NSO Infiltrator解锁Havoc地雷。</str>
+    <str key="1094992030-ucdt" type="ucdt" originalKey="1094992030">火花丹尼男孩喇叭</str>
+    <str key="1097209011-ucdt" type="ucdt" originalKey="1097209011">武器能够携带的最大弹药数量增加450发。</str>
+    <str key="1097773386-ucdn" type="ucdn" originalKey="1097773386"></str>
+    <str key="1104424310-ucdt" type="ucdt" originalKey="1104424310">N30 Trawler-S[前方武器]</str>
+    <str key="1113816062-ucdn" type="ucdn" originalKey="1113816062"></str>
+    <str key="1115059535-ucdn" type="ucdn" originalKey="1115059535"></str>
+    <str key="1122479464-ucdt" type="ucdt" originalKey="1122479464">A2-20 HCG：银质勋章</str>
+    <str key="1125871084-ucdt" type="ucdt" originalKey="1125871084">黑名单</str>
+    <str key="1127420330-ucdt" type="ucdt" originalKey="1127420330">镰刀战机丘比特航迹云</str>
+    <str key="1131833401-ucdt" type="ucdt" originalKey="1131833401">为了应对其他阵营所拥有的MAX单位，纳能集团将背叛者的双武器系统更换为了装载式手雷打印机，并强化了近战能力。&lt;br&gt;&lt;br&gt;武器：&lt;br&gt;&lt;ul&gt;&lt;li&gt;背叛者重武器&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;技能：&lt;br&gt;&lt;ul&gt;&lt;li&gt;定时炸弹（默认）——安装后，你的武器将不再发热，且受到的伤害减少，但会在数秒后引爆，对附近所有步兵和载具造成伤害，并在此过程中杀死单位。等级越高，伤害减免越高。&lt;/li&gt;&lt;li&gt;炽天使护盾——激活后，将在周围生成一个巨大的护盾，将收到的所有伤害全部引向背叛者单位，使护盾内的其他人免受伤害，并降低背叛者在此期间所受到的伤害。等级越高，持续时间越长，冷却时间越短。&lt;/li&gt;&lt;li&gt;紧急修复——激活后，背叛者将在12秒内恢复其最大生命值的20%。等级越高，冷却时间越短。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;提示：&lt;br&gt;&lt;ul&gt;&lt;li&gt;背叛者可以访问MAX单位可用的任何插件。&lt;/li&gt;&lt;li&gt;当你装备了定时炸弹技能后，请注意你的技能按键。&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="1134219765-ucdn" type="ucdn" originalKey="1134219765"></str>
+    <str key="1139977467-ucdt" type="ucdt" originalKey="1139977467">改变载具的航迹云，留下一道羽毛尾迹。仅限瓦努主权国使用。</str>
+    <str key="1143834542-ucdt" type="ucdt" originalKey="1143834542">脉冲发射器</str>
+    <str key="1144434538-ucdt" type="ucdt" originalKey="1144434538">A2-20 HCG：金质勋章</str>
+    <str key="1151352555-ucdt" type="ucdt" originalKey="1151352555">海盗战机丘比特航迹云</str>
+    <str key="1151436724-ucdt" type="ucdt" originalKey="1151436724">打开此圣帕特里克节礼包，冲击头奖。其中包含“头奖”军政委、幸运背景横幅、四叶草航迹云、绿色后燃器效果和丹尼男孩喇叭。所有阵营都可收到这些物品。</str>
+    <str key="1157069242-ucdt" type="ucdt" originalKey="1157069242">头衔：德鲁伊</str>
+    <str key="1183035751-ucdn" type="ucdn" originalKey="1183035751"></str>
+    <str key="1186033597-ucdt" type="ucdt" originalKey="1186033597">种类</str>
+    <str key="1187376348-ucdt" type="ucdt" originalKey="1187376348">H2-20 HCG：铜质勋章</str>
+    <str key="1190510765-ucdt" type="ucdt" originalKey="1190510765">改变载具的航迹云，留下一道四叶草尾迹。仅限瓦努主权国使用。</str>
+    <str key="1193037276-ucdt" type="ucdt" originalKey="1193037276">战役</str>
+    <str key="1194987005-ucdt" type="ucdt" originalKey="1194987005">Cerberus弹药</str>
+    <str key="1195471571-ucdt" type="ucdt" originalKey="1195471571">女武神丘比特航迹云</str>
+    <str key="1201935859-ucdt" type="ucdt" originalKey="1201935859">N30 Trawler-S[尾部武器]</str>
+    <str key="1209922124-ucdt" type="ucdt" originalKey="1209922124">炮手武器：V-42 Pariah-S</str>
+    <str key="1214114252-ucdt" type="ucdt" originalKey="1214114252">入场信息</str>
+    <str key="1216561660-ucdt" type="ucdt" originalKey="1216561660">军团装甲</str>
+    <str key="1226403619-ucdt" type="ucdt" originalKey="1226403619">为该载具添加粉色风格的个性化后燃器效果。仅限纳能特工使用。</str>
+    <str key="1226491762-ucdt" type="ucdt" originalKey="1226491762">医疗弹发射器</str>
+    <str key="1232794695-ugdt" type="ugdt" originalKey="1232794695">镰刀战机四叶草航迹云</str>
+    <str key="1247936345-ucdt" type="ucdt" originalKey="1247936345">N30 Trawler-S：Auraxium勋章</str>
+    <str key="1250758562-ucdn" type="ucdn" originalKey="1250758562"></str>
+    <str key="1253180434-ucdt" type="ucdt" originalKey="1253180434">释放出一道力场脉冲，同时击退敌人和武器持有者。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;接触后引爆。&lt;/font&gt;</str>
+    <str key="1259298188-ucdt" type="ucdt" originalKey="1259298188">Sunderer两栖涂装</str>
+    <str key="1268500289-ucdt" type="ucdt" originalKey="1268500289">&lt;font size="32"&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;全新以及改良的步兵武器&lt;/li&gt;&lt;li&gt;全新以及改良的载具武器&lt;/li&gt;&lt;li&gt;全新以及改良的武器配件&lt;/li&gt;&lt;li&gt;改良的步兵套装、能力和插件&lt;/li&gt;&lt;li&gt;包括新的防御插槽选项在内的载具调整&lt;/li&gt;&lt;li&gt;新的各个阵营的地雷&lt;/li&gt;&lt;li&gt;新的各个职业的手雷。&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;</str>
+    <str key="1279608820-ucdn" type="ucdn" originalKey="1279608820"></str>
+    <str key="1284113526-ucdn" type="ucdn" originalKey="1284113526"></str>
+    <str key="1284122897-ucdt" type="ucdt" originalKey="1284122897">N30 Trawler</str>
+    <str key="1285207852-ucdt" type="ucdt" originalKey="1285207852">Genudine大幅改装过的Guardian步枪最初用于对在高地或掩体中埋伏的重型突击步兵进行远程支援。其在远距离上有着致命的杀伤力，精准的射击可以用有限的子弹击杀目标。</str>
+    <str key="1285660268-ucdt" type="ucdt" originalKey="1285660268">2022 圣帕特里克节礼包</str>
+    <str key="1288415825-ucdt" type="ucdt" originalKey="1288415825">成为会员</str>
+    <str key="1289976797-ugdt" type="ugdt" originalKey="1289976797">解放者四叶草航迹云</str>
+    <str key="1291975503-ucdt" type="ucdt" originalKey="1291975503">为14米内的友军载具补给弹药，同时小队成员可以直接在载具中重生。允许部署ANT并将其作为步兵重生点。</str>
+    <str key="1295767641-ucdt" type="ucdt" originalKey="1295767641">机械化外骨骼装甲，简称MAX单位，是装备了载具级动力装甲的步兵。这种装甲提供了卓越的抗伤害能力，并为专门的MAX武器提供能源。和载具一样，MAX装甲需要花费纳能来获得。&lt;br&gt;&lt;br&gt;武器：&lt;br&gt;&lt;ul&gt;&lt;li&gt;反步兵MAX&lt;/li&gt;&lt;li&gt;反装甲MAX&lt;/li&gt;&lt;li&gt;防空MAX&lt;/li&gt;&lt;br&gt;技能：&lt;br&gt;&lt;ul&gt;&lt;li&gt;紧急修复——激活后，会随着时间按百分比修复MAX的总生命值。等级越高，冷却时间越短。&lt;/li&gt;&lt;li&gt;动力装甲——MAX单位拥有更大的生命池，但没有像其他步兵那样的个人护盾。其受到伤害后必须像载具一样进行修复。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;提示：&lt;br&gt;&lt;ul&gt;&lt;li&gt;工程兵的工具可以维修MAX，而倒下的MAX必须由战斗医疗兵来复生。&lt;/li&gt;&lt;li&gt;外骨骼装甲很笨重，令机动性大幅受限，也使得MAX无法乘坐许多非专用运输工具。&lt;/li&gt;&lt;li&gt;与标准步兵不同，MAX无法影响控制点。&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="1301621079-ucdn" type="ucdn" originalKey="1301621079"></str>
+    <str key="1302970962-ucdt" type="ucdt" originalKey="1302970962">KCAP弹药</str>
+    <str key="1303278605-ucdt" type="ucdt" originalKey="1303278605">炮手武器：A2-20 HCG</str>
+    <str key="1304117761-ucdt" type="ucdt" originalKey="1304117761">生命之树橡木棍：铜质勋章</str>
+    <str key="1305282162-ucdt" type="ucdt" originalKey="1305282162">随机滚动轮胎痕迹</str>
+    <str key="1306710653-ucdt" type="ucdt" originalKey="1306710653">军团医疗兵头盔</str>
+    <str key="1306765709-ucdt" type="ucdt" originalKey="1306765709">弹夹容量增加3发，同时使扫射的准星范围增加20%。</str>
+    <str key="1314497326-ucdt" type="ucdt" originalKey="1314497326">为武器添加1.25倍变焦瞄具。</str>
+    <str key="1321600973-ucdt" type="ucdt" originalKey="1321600973">海盗战机丹尼男孩喇叭</str>
+    <str key="1347977024-ucdn" type="ucdn" originalKey="1347977024"></str>
+    <str key="1362042630-ucdt" type="ucdt" originalKey="1362042630">Havoc发射器</str>
+    <str key="1401833455-ucdn" type="ucdn" originalKey="1401833455"></str>
+    <str key="1417880655-ucdt" type="ucdt" originalKey="1417880655">可以将Galaxy部署为带有护盾的高级移动基站，护盾可以吸收一定数量的伤害，但需要时间恢复。高级移动基站可作为友方士兵的重生点。一旦护盾受到伤害，其恢复时间就将延迟8秒。</str>
+    <str key="1431120201-ucdt" type="ucdt" originalKey="1431120201">允许轻型突击兵使用脉冲手雷。</str>
+    <str key="1454507111-ucdt" type="ucdt" originalKey="1454507111">北极星模块2</str>
+    <str key="1473224731-ugdt" type="ugdt" originalKey="1473224731">电磁骑士丹尼男孩喇叭</str>
+    <str key="1476703476-ucdt" type="ucdt" originalKey="1476703476">西南舰队正受到[*faction*]的攻击。</str>
+    <str key="1477377035-ucdt" type="ucdt" originalKey="1477377035">为该载具添加绿色风格的个性化后燃器效果。所有阵营都可以使用此装备。</str>
+    <str key="1482189055-ucdt" type="ucdt" originalKey="1482189055">会员专属</str>
+    <str key="1488011314-ucdt" type="ucdt" originalKey="1488011314">EMP地雷</str>
+    <str key="1498663168-ucdt" type="ucdt" originalKey="1498663168">奥拉西斯的战场和空气中弥漫着爱恋的气息，准备好迎接属于你的浪漫。&lt;br&gt;&lt;br&gt;你的老友&lt;font size="28" color="#ACE1E5"&gt;FL-34&lt;/font&gt;又回来了，随之而来的还有每日&lt;font size="28" color="#ACE1E5"&gt;媒人任务&lt;/font&gt;，帮助他来赢得珍稀奖励，或者通过完成今年的&lt;font size="28" color="#ACE1E5"&gt;赛季成就&lt;/font&gt;来展现你对L-O-V-E的追求。人们都说，爱是娇弱的花朵，但&lt;font size="28" color="#ACE1E5"&gt;仓库&lt;/font&gt;中的&lt;font size="28" color="#ACE1E5"&gt;迷彩、武器和饰品&lt;/font&gt;却并非如此。</str>
+    <str key="1510279271-ucdt" type="ucdt" originalKey="1510279271">Dervish失败喇叭</str>
+    <str key="1511832913-ucdt" type="ucdt" originalKey="1511832913">银河四叶草航迹云</str>
+    <str key="1512166443-ucdt" type="ucdt" originalKey="1512166443">运送者模块</str>
+    <str key="1512854941-ucdt" type="ucdt" originalKey="1512854941">M18 Palisade：金质勋章</str>
+    <str key="1513255301-ucdt" type="ucdt" originalKey="1513255301">Liberator是一种能供三人乘坐的武装直升机。它配置有打击地面目标的轰炸武器以及能够削弱地面目标和吓阻敌方战斗机的机首炮和机尾炮。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：大型&lt;br&gt;类别：武装直升机&lt;br&gt;移动方式：飞行</str>
+    <str key="1513559222-ucdt" type="ucdt" originalKey="1513559222">定时EMP手雷</str>
+    <str key="1516182236-ucdt" type="ucdt" originalKey="1516182236">炮手武器：M18 Palisade-A</str>
+    <str key="1523256756-ucdn" type="ucdn" originalKey="1523256756"></str>
+    <str key="1524692055-ucdt" type="ucdt" originalKey="1524692055">V42 Pariah-H：铜质勋章</str>
+    <str key="1532066225-ucdt" type="ucdt" originalKey="1532066225">N30 Trawler-S</str>
+    <str key="1532605881-ucdt" type="ucdt" originalKey="1532605881">Harlequin面具</str>
+    <str key="1532807673-ucdt" type="ucdt" originalKey="1532807673">重型枪管会令开镜瞄准时的准星范围缩小20%，但开镜瞄准时的移动速度会降低20％。</str>
+    <str key="1533177287-ucdt" type="ucdt" originalKey="1533177287">升级你的武器库！</str>
+    <str key="1534280967-ucdn" type="ucdn" originalKey="1534280967"></str>
+    <str key="1553097332-ucdt" type="ucdt" originalKey="1553097332">选择阵营将会永久将你的军团指派到VS、NC或TR。你军团中的特工将会将该阵营作为自己的“初始阵营”。一旦选择，你的军团即可招募该阵营的玩家及指派到该初始阵营的NS特工。</str>
+    <str key="1571480703-ucdt" type="ucdt" originalKey="1571480703">银河丹尼男孩喇叭</str>
+    <str key="1593744716-ugdt" type="ugdt" originalKey="1593744716">决裂者丹尼男孩喇叭</str>
+    <str key="1600591881-ugdt" type="ugdt" originalKey="1600591881">NS-44 “头奖”军政委</str>
+    <str key="1618902697-ucdt" type="ucdt" originalKey="1618902697">&lt;font color="#dc9c36"&gt;你军团中的特工必须拥有成员身份才能持续获得初始阵营指派的任务，丧失成员身份的特工将进入无阵营状态，但其不会被踢出军团。无阵营特工将始终被指派到大陆中人数最少的阵营。当特工代表敌对阵营战斗时，将无法使用军团内通讯及其他相关功能。&lt;/font&gt;</str>
+    <str key="1634628763-ucdt" type="ucdt" originalKey="1634628763">%0将宣誓永远效忠%1，所有军团成员都将以1%作为他们的“初始阵营”。你确定吗？</str>
+    <str key="1635738653-ugdt" type="ugdt" originalKey="1635738653">蚊式战机四叶草航迹云</str>
+    <str key="1635868952-ucdt" type="ucdt" originalKey="1635868952">炮手武器：N30 Trawler-H</str>
+    <str key="1637044443-ucdt" type="ucdt" originalKey="1637044443">运送者模块5</str>
+    <str key="1638491282-ucdt" type="ucdt" originalKey="1638491282">Havoc手雷</str>
+    <str key="1649466605-ugdt" type="ugdt" originalKey="1649466605">I 型水下推进器</str>
+    <str key="1650650298-ucdt" type="ucdt" originalKey="1650650298">本周末购买载具装备可享40%的折扣！</str>
+    <str key="1656417957-ucdt" type="ucdt" originalKey="1656417957">Harasser是一种轻便的三人越野车，可用于运输和小型冲突战术。司机和炮手都位于驾驶舱内，而第三乘客则就坐于越野车的后方，可以操控其个人武器。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：中型&lt;br&gt;类别：运输&lt;br&gt;移动方式：轮式</str>
+    <str key="1660489984-ucdt" type="ucdt" originalKey="1660489984">Manticore弹药</str>
+    <str key="1661290607-ucdt" type="ucdt" originalKey="1661290607">M18 Palisade-S: Auraxium勋章</str>
+    <str key="1664445177-ucdt" type="ucdt" originalKey="1664445177">为TR工程兵解锁震爆地雷。</str>
+    <str key="1664772665-ucdt" type="ucdt" originalKey="1664772665">SKL 军团贴花</str>
+    <str key="1679018956-ucdt" type="ucdt" originalKey="1679018956">Colossus是一种重型坦克，装有一台“猛犸”炮主武器和四种用于防御的次要武器。另外，Colossus可部署为防空skylance battery模式，其周围将围绕由Cortium提供能量的轰炸护盾，并标注出1000米内的Bastion据点。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：大型&lt;br&gt;类别：装甲&lt;br&gt;移动方式：坦克</str>
+    <str key="1684786978-ucdt" type="ucdt" originalKey="1684786978">M18 Palisade：Auraxium勋章</str>
+    <str key="1685174987-ucdt" type="ucdt" originalKey="1685174987">为该载具添加粉色风格的个性化后燃器效果。所有阵营都可以使用此装备。</str>
+    <str key="1685714744-ucdt" type="ucdt" originalKey="1685714744">Lightning是一种轻便的单人坦克，可以加装各种类型的炮塔，执行防空或反装甲任务。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：中型&lt;br&gt;类别：轻型装甲&lt;br&gt;移动方式：坦克</str>
+    <str key="1686721296-ucdt" type="ucdt" originalKey="1686721296">解放者四叶草航迹云</str>
+    <str key="1699281970-ucdt" type="ucdt" originalKey="1699281970">为16米内的友军载具补给弹药，同时小队成员可以直接在载具中重生。允许部署ANT并将其作为步兵重生点。</str>
+    <str key="1702670551-ucdt" type="ucdt" originalKey="1702670551">用这些自定义轮胎痕迹来预测骰子的随机滚动点数吧。仅限NSO使用。</str>
+    <str key="1710091991-ugdt" type="ugdt" originalKey="1710091991">无情军团贴花</str>
+    <str key="1727235974-ucdn" type="ucdn" originalKey="1727235974"></str>
+    <str key="1732992553-ucdt" type="ucdt" originalKey="1732992553">小队Havoc助攻</str>
+    <str key="1742586128-ucdn" type="ucdn" originalKey="1742586128"></str>
+    <str key="1748641935-ucdt" type="ucdt" originalKey="1748641935">去看看最新款的战争武器吧！</str>
+    <str key="1752119771-ucdt" type="ucdt" originalKey="1752119771">NS-66 Bumblebee</str>
+    <str key="1754863898-ucdt" type="ucdt" originalKey="1754863898">可以将Galaxy部署为带有护盾的高级移动基站，护盾可以吸收一定数量的伤害，但需要时间恢复。高级移动基站可作为友方士兵的重生点。一旦护盾受到伤害，其恢复时间就将延迟10秒。</str>
+    <str key="1774392793-ucdn" type="ucdn" originalKey="1774392793"></str>
+    <str key="1774644715-ucdt" type="ucdt" originalKey="1774644715">TR军团装甲套装礼包</str>
+    <str key="1785161370-ucdt" type="ucdt" originalKey="1785161370">“技术就是力量”&lt;br&gt;&lt;br&gt;是科学家，是高等文明还是邪教徒？Vanu Sovereignty凭借自己对外星技术的理解将人类提升到下一个存在阶段，以期完成对全体人类的改善。他们的唯一目标就是揭开散布在Auraxis地表各处的Vanu文物下所隐藏的秘密，对于任何胆敢妨碍他们的人，Vanu Sovereignty绝不会手下留情。&lt;br&gt;&lt;br&gt;步兵招牌武器：&lt;br&gt;&lt;ul&gt;&lt;li&gt;没有子弹的能量武器&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;专属载具：&lt;br&gt;&lt;ul&gt;&lt;li&gt;Magrider&lt;/li&gt;&lt;li&gt;Scythe&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="1797822418-ugdt" type="ugdt" originalKey="1797822418">III 型水下推进器</str>
+    <str key="1813187878-ucdt" type="ucdt" originalKey="1813187878">蚊式战机粉色推进器</str>
+    <str key="1813563850-ucdt" type="ucdt" originalKey="1813563850">斜角前方把手</str>
+    <str key="1813753232-ucdt" type="ucdt" originalKey="1813753232">Havoc地雷</str>
+    <str key="1834857401-ucdt" type="ucdt" originalKey="1834857401">电磁骑士丹尼男孩喇叭</str>
+    <str key="1836271217-ucdt" type="ucdt" originalKey="1836271217">H2-20 HCG：金质勋章</str>
+    <str key="1836660663-ucdt" type="ucdt" originalKey="1836660663">Shattered Warpgate：适应和克服</str>
+    <str key="1840524183-ucdt" type="ucdt" originalKey="1840524183">轻型突击兵军团装甲</str>
+    <str key="1860256963-ucdn" type="ucdn" originalKey="1860256963"></str>
+    <str key="1925826233-ucdn" type="ucdn" originalKey="1925826233"></str>
+    <str key="1946655414-ugdt" type="ugdt" originalKey="1946655414">苦行僧粉色后燃器</str>
+    <str key="1950374468-ucdt" type="ucdt" originalKey="1950374468">荷枪实弹</str>
+    <str key="1958258075-ucdt" type="ucdt" originalKey="1958258075">为该载具添加绿色风格的个性化后燃器效果。仅限地球共和国使用。</str>
+    <str key="1963972360-ucdt" type="ucdt" originalKey="1963972360">改变载具的航迹云，留下一道四叶草尾迹。仅限地球共和国使用。</str>
+    <str key="1979832041-ucdt" type="ucdt" originalKey="1979832041">Valkyrie是一种可供六人乘坐的载具，用于近距离空中支援与运输。机组成员包括一名飞行员、一名前方炮手，已经机舱中的四位乘客。机舱中的乘客在飞行过程中可以使用各自的单人装备。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：大型&lt;br&gt;类别：运输&lt;br&gt;移动方式：飞行</str>
+    <str key="1986140454-ucdt" type="ucdt" originalKey="1986140454">轻型突击兵军团装甲</str>
+    <str key="1988181636-ucdt" type="ucdt" originalKey="1988181636">%0</str>
+    <str key="2001740444-ucdt" type="ucdt" originalKey="2001740444">军团上尉头盔</str>
+    <str key="2002173692-ucdt" type="ucdt" originalKey="2002173692">使用此武器完成协助击杀即可赚取这份奖励。</str>
+    <str key="2015829311-ucdt" type="ucdt" originalKey="2015829311">2022 情人节</str>
+    <str key="2025975783-ucdn" type="ucdn" originalKey="2025975783"></str>
+    <str key="2060220899-ucdt" type="ucdt" originalKey="2060220899">Flash两栖涂装</str>
+    <str key="2089808674-ucdt" type="ucdt" originalKey="2089808674">HLX 炽天使：铜质勋章</str>
+    <str key="2094508919-ucdt" type="ucdt" originalKey="2094508919">N30 Trawler-H：Auraxium勋章</str>
+    <str key="2094624741-ucdt" type="ucdt" originalKey="2094624741">据说包含绿色和金色的锦旗可以为它的使用者带来好运。</str>
+    <str key="2102444288-ugdt" type="ugdt" originalKey="2102444288">海盗战机丹尼男孩喇叭</str>
+    <str key="2106848048-ucdt" type="ucdt" originalKey="2106848048">V42 Pariah-S[尾部武器]</str>
+    <str key="2107445949-ucdt" type="ucdt" originalKey="2107445949">净化手雷会释放出纳能波，为目标持续提供治疗并立即清除大部分状态效果。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;接触后引爆。&lt;/font&gt;</str>
+    <str key="2110136049-ucdt" type="ucdt" originalKey="2110136049">Havoc地雷的携带量增加1枚。</str>
+    <str key="2114428450-ucdn" type="ucdn" originalKey="2114428450"></str>
+    <str key="2121395866-ucdt" type="ucdt" originalKey="2121395866">S2-20 HCG：Auraxium勋章</str>
+    <str key="2140286523-ugdt" type="ugdt" originalKey="2140286523">奇美拉丹尼男孩喇叭</str>
+    <str key="2157189581-ucdt" type="ucdt" originalKey="2157189581">Sunderer装甲运兵车可以搭乘十二名士兵，包括一名司机、两名炮手和九名乘客。同时它还可以配备多种支援功能，比如移动重生站、为临近载具提供弹药，或维修临近载具。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：中型&lt;br&gt;类别：运输&lt;br&gt;移动方式：轮式</str>
+    <str key="2183007229-ucdt" type="ucdt" originalKey="2183007229">改变载具的航迹云，留下一道四叶草尾迹。所有阵营都可以使用此装备。</str>
+    <str key="2184324361-ugdt" type="ugdt" originalKey="2184324361">II 型水下推进器</str>
+    <str key="2188868073-ucdt" type="ucdt" originalKey="2188868073">该武器发射精度高、速度快的单枚弹头，可造成475点伤害；若处于武器的最小伤害范围，则伤害降至300点。</str>
+    <str key="2188905982-ucdt" type="ucdt" originalKey="2188905982">奇美拉丹尼男孩喇叭</str>
+    <str key="2199544187-ucdt" type="ucdt" originalKey="2199544187">生命之树橡木棍</str>
+    <str key="2210692660-ucdt" type="ucdt" originalKey="2210692660">M18 Palisade-S: 银质勋章</str>
+    <str key="2214362123-ucdt" type="ucdt" originalKey="2214362123">枪炮升级</str>
+    <str key="2215842731-ucdn" type="ucdn" originalKey="2215842731"></str>
+    <str key="2216872467-ucdt" type="ucdt" originalKey="2216872467">为爱痴狂礼包</str>
+    <str key="2221967145-ucdt" type="ucdt" originalKey="2221967145">乌克兰贴花</str>
+    <str key="2222316420-ucdt" type="ucdt" originalKey="2222316420">Mosquito是Terran Republic独有的、性能超群的单人飞行器。数十年的不断改进，造就了这款速度最灵敏。最便捷的阵营专属飞行器。而相对轻盈的机身让其更难从上下两个方向被击中。&lt;br&gt;&lt;br&gt;阵营：Terran Republic&lt;br&gt;尺寸：大型&lt;br&gt;类别：ESF&lt;br&gt;移动方式：飞行</str>
+    <str key="2222876592-ucdt" type="ucdt" originalKey="2222876592">海盗战机四叶草航迹云</str>
+    <str key="2225166077-ucdt" type="ucdt" originalKey="2225166077">保持与一处敌方舰队的网格连接。</str>
+    <str key="2225730633-ucdn" type="ucdn" originalKey="2225730633"></str>
+    <str key="2236301468-ucdt" type="ucdt" originalKey="2236301468">发挥你的幽默感</str>
+    <str key="2238786353-ucdt" type="ucdt" originalKey="2238786353">震爆地雷</str>
+    <str key="2240066849-ucdt" type="ucdt" originalKey="2240066849">III 型水下推进器</str>
+    <str key="2242364400-ucdt" type="ucdt" originalKey="2242364400">Harasser两栖涂装</str>
+    <str key="2243873986-ugdt" type="ugdt" originalKey="2243873986">头衔：德鲁伊</str>
+    <str key="2251673860-ucdt" type="ucdt" originalKey="2251673860">炮手武器：M18 Palisade-S</str>
+    <str key="2251986267-ucdt" type="ucdt" originalKey="2251986267">Havoc助攻</str>
+    <str key="2276363407-ucdn" type="ucdn" originalKey="2276363407"></str>
+    <str key="2301286231-ugdt" type="ugdt" originalKey="2301286231">女武神四叶草航迹云</str>
+    <str key="2347193681-ucdn" type="ucdn" originalKey="2347193681"></str>
+    <str key="2348013374-ucdn" type="ucdn" originalKey="2348013374"></str>
+    <str key="2353223168-ugdt" type="ugdt" originalKey="2353223168">生命之树橡木棍</str>
+    <str key="2360564595-ucdn" type="ucdn" originalKey="2360564595"></str>
+    <str key="2363974934-ucdt" type="ucdt" originalKey="2363974934">下一等级：受到伤害后开始恢复护盾的时间缩短到6秒。</str>
+    <str key="2364628193-ucdt" type="ucdt" originalKey="2364628193">短枪管</str>
+    <str key="2366664004-ucdt" type="ucdt" originalKey="2366664004">在扣住扳机的情况下，Palisade重机枪的射击速度会在一秒内逐渐提升，对装甲、飞行单位和步兵有着非常好的杀伤效果。仅限Terran Republic阵营使用。</str>
+    <str key="2379603236-ucdt" type="ucdt" originalKey="2379603236">徘徊者丹尼男孩喇叭</str>
+    <str key="2383606548-ucdt" type="ucdt" originalKey="2383606548">通过简化弹药装填，弹夹容量可增加20发，但装弹用时延长0.325秒。</str>
+    <str key="2394648278-ucdn" type="ucdn" originalKey="2394648278"></str>
+    <str key="2411586476-ugdt" type="ugdt" originalKey="2411586476">先驱者丹尼男孩喇叭</str>
+    <str key="2420140860-ucdt" type="ucdt" originalKey="2420140860">运送者模块3</str>
+    <str key="2421001914-ucdt" type="ucdt" originalKey="2421001914">用这些自定义轮胎痕迹来预测骰子的随机滚动点数吧。所有阵营都可以使用此装备。</str>
+    <str key="2434048501-ugdt" type="ugdt" originalKey="2434048501">女武神丹尼男孩喇叭</str>
+    <str key="2435173513-ucdn" type="ucdn" originalKey="2435173513"></str>
+    <str key="2436884545-ucdt" type="ucdt" originalKey="2436884545">V 型水下推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;战术槽物品。在水下拿出后点击跳跃即可使用。轻型突击兵无法装备。&lt;/font&gt;</str>
+    <str key="2440006039-ucdn" type="ucdn" originalKey="2440006039"></str>
+    <str key="2441216814-ucdt" type="ucdt" originalKey="2441216814">闪爆地雷</str>
+    <str key="2457547024-ugdt" type="ugdt" originalKey="2457547024">海盗战机粉色后燃器</str>
+    <str key="2472990801-ucdt" type="ucdt" originalKey="2472990801">工程兵可穿戴。仅限Terran Republic阵营使用。</str>
+    <str key="2473223373-ucdt" type="ucdt" originalKey="2473223373">为该载具添加粉色风格的个性化后燃器效果。仅限地球共和国使用。</str>
+    <str key="2491720655-ucdn" type="ucdn" originalKey="2491720655"></str>
+    <str key="2495181009-ucdt" type="ucdt" originalKey="2495181009">弹药容量5</str>
+    <str key="2511632942-ucdt" type="ucdt" originalKey="2511632942">V42 Pariah-A：Auraxium勋章</str>
+    <str key="2545597276-ucdt" type="ucdt" originalKey="2545597276">蚊式战机绿色后燃器</str>
+    <str key="2546900698-ucdt" type="ucdt" originalKey="2546900698">法典</str>
+    <str key="2574189554-ucdt" type="ucdt" originalKey="2574189554">用你所在阵营的原定配色定制的一面华丽钻石旗帜。</str>
+    <str key="2576736333-ucdn" type="ucdn" originalKey="2576736333"></str>
+    <str key="2576968383-ucdt" type="ucdt" originalKey="2576968383">军团少校头盔</str>
+    <str key="2588493659-xcdt" type="xcdt" originalKey="2588493659">在你的武器上添加破碎大地迷彩图案，仅供地球共和国使用。</str>
+    <str key="2588493659-xgdt" type="xgdt" originalKey="2588493659">火花保险杠TR005</str>
+    <str key="2588493659-ucdt" type="ucdt" originalKey="2588493659">TR005 火花保险杠</str>
+    <str key="2592110032-ucdt" type="ucdt" originalKey="2592110032">A2-20 HCG：Auraxium勋章</str>
+    <str key="2593634352-ucdt" type="ucdt" originalKey="2593634352">Vanguard是New Conglomerate的中型坦克，其有着最厚实的正面装甲以及一门火力强大的主炮，但也付出了移动速度上的代价。Vanguard的前护盾让其防御力得到了进一步的提升，激活后可大幅降低来自前方和侧面的伤害。&lt;br&gt;&lt;br&gt;阵营：New Conglomerate&lt;br&gt;尺寸：中型&lt;br&gt;类别：MBT&lt;br&gt;移动方式：坦克</str>
+    <str key="2594770231-ucdt" type="ucdt" originalKey="2594770231">改变载具的航迹云，留下一道四叶草尾迹。仅限新联邦使用。</str>
+    <str key="2601323417-ucdt" type="ucdt" originalKey="2601323417">解放者丘比特航迹云</str>
+    <str key="2610577258-ucdt" type="ucdt" originalKey="2610577258">这款枪口脉冲发射器可以发射出非致命的手雷，并同时击退使用者和命中的敌方步兵。装备此附件会令武器的装备时间增加0.25秒。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;按下装备栏1的快捷键可以启用此附件。&lt;/font&gt;</str>
+    <str key="2622191381-ucdn" type="ucdn" originalKey="2622191381"></str>
+    <str key="2642483890-ugdt" type="ugdt" originalKey="2642483890">蚊式战机丹尼男孩喇叭</str>
+    <str key="2642778617-ugdt" type="ugdt" originalKey="2642778617">镰刀战机丹尼男孩喇叭</str>
+    <str key="2649901324-ucdn" type="ucdn" originalKey="2649901324"></str>
+    <str key="2660996313-ucdn" type="ucdn" originalKey="2660996313"></str>
+    <str key="2675215140-ucdt" type="ucdt" originalKey="2675215140">V42 Pariah-A：银质勋章</str>
+    <str key="2676014300-ugdt" type="ugdt" originalKey="2676014300">解放者丹尼男孩喇叭</str>
+    <str key="2680401784-ucdt" type="ucdt" originalKey="2680401784">可以将Galaxy部署为带有护盾的高级移动基站，护盾可以吸收一定数量的伤害，但需要时间恢复。高级移动基站可作为友方士兵的重生点。一旦护盾受到伤害，其恢复时间就将延迟9秒。</str>
+    <str key="2693595010-ucdt" type="ucdt" originalKey="2693595010">选择阵营将会永久将你的军团指派到VS、NC或TR。你军团中的特工将会将该阵营作为自己的“初始阵营”。一旦选择，你的军团即可招募该阵营的玩家及指派到该初始阵营的NS特工。&lt;br&gt;&lt;br&gt;&lt;font color="#FFA055"&gt;你军团中的特工必须拥有成员身份才能持续获得初始阵营指派的任务，丧失成员身份的探员将进入无阵营状态，但其不会被踢出军团。无阵营特工将始终被指派到大陆中人数最少的阵营。当特工代表敌对阵营战斗时，将无法使用军团内通讯及其他相关功能。&lt;/font&gt;</str>
+    <str key="2697038334-ucdt" type="ucdt" originalKey="2697038334">脉冲手雷</str>
+    <str key="2698291992-ucdt" type="ucdt" originalKey="2698291992">斜角前方把手能够降低连发过程中第一枪垂直方向的后座力降低80%，但会将武器水平方向的后座力提高10%。</str>
+    <str key="2698714740-ucdt" type="ucdt" originalKey="2698714740">海盗战机粉色后燃器</str>
+    <str key="2698783514-ucdt" type="ucdt" originalKey="2698783514">选择</str>
+    <str key="2699218606-ugdt" type="ugdt" originalKey="2699218606">V 型水下推进器</str>
+    <str key="2700338595-ucdt" type="ucdt" originalKey="2700338595">侦测到敌军的移动后爆炸，释放出一阵眩光，暂时模糊敌人的视野并扰乱运动操控。</str>
+    <str key="2700496527-ucdt" type="ucdt" originalKey="2700496527">武器能够携带的最大弹药数量增加260发。</str>
+    <str key="2701243868-ucdt" type="ucdt" originalKey="2701243868">A2-20 HCG</str>
+    <str key="2702733472-ucdt" type="ucdt" originalKey="2702733472">水下推进器</str>
+    <str key="2705292929-ucdt" type="ucdt" originalKey="2705292929">按[%s]查看军团合同</str>
+    <str key="2716808398-ucdt" type="ucdt" originalKey="2716808398">V42 Pariah-S：铜质勋章</str>
+    <str key="2718996966-ucdt" type="ucdt" originalKey="2718996966">轻型突击兵可穿戴。仅限Terran Republic阵营使用。</str>
+    <str key="2719851460-ucdt" type="ucdt" originalKey="2719851460">V42 Pariah-H：银质勋章</str>
+    <str key="2721894827-ucdt" type="ucdt" originalKey="2721894827">允许医疗兵使用净化手雷。</str>
+    <str key="2722555679-ucdn" type="ucdn" originalKey="2722555679"></str>
+    <str key="2723498336-ucdt" type="ucdt" originalKey="2723498336">北极星模块</str>
+    <str key="2726206735-ucdt" type="ucdt" originalKey="2726206735">NS-44 “头奖”军政委：铜质勋章</str>
+    <str key="2728193831-ucdt" type="ucdt" originalKey="2728193831">H2-20 HCG：Auraxium勋章</str>
+    <str key="2728275736-ucdt" type="ucdt" originalKey="2728275736">侦测敌军的移动后爆炸，释放出一道脉冲波，摧毁或破坏敌方可部署物、去除步兵护盾并扰乱其抬头显示。</str>
+    <str key="2728964699-ucdt" type="ucdt" originalKey="2728964699">Shattered Warpgate：控制协议</str>
+    <str key="2730779563-ucdn" type="ucdn" originalKey="2730779563"></str>
+    <str key="2734630091-ucdt" type="ucdt" originalKey="2734630091">M18 Palisade</str>
+    <str key="2735283971-ucdt" type="ucdt" originalKey="2735283971">Bastion舰队航母是一款多用途飞艇，可为军团所用，并配备战斗机起飞台、士兵重生能力以及各种手动和自动武器系统。每一艘航母都需要消耗大量时间和资源来建造和部署，并且每个阵营在各个大陆上只能部署一艘航母。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：大型&lt;br&gt;类别：旗舰&lt;br&gt;移动方式：飞行</str>
+    <str key="2737136536-ucdt" type="ucdt" originalKey="2737136536">M18 Palisade-A：银质勋章</str>
+    <str key="2737489321-ugdt" type="ugdt" originalKey="2737489321">火花丹尼男孩喇叭</str>
+    <str key="2741982386-ucdt" type="ucdt" originalKey="2741982386">苦行僧丹尼男孩喇叭</str>
+    <str key="2744409657-ucdt" type="ucdt" originalKey="2744409657">水下推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;战术槽物品。在水下拿出后点击跳跃即可使用。轻型突击兵无法装备。&lt;/font&gt;</str>
+    <str key="2744791292-ucdt" type="ucdt" originalKey="2744791292">渗透者是一个侦察单位，具有短时隐身能力，并配备侦察工具，可以入侵敌方终端和设备，使其转而加入你的阵营。与其他步兵单位相比，渗透者的护盾容量稍小。&lt;br&gt;&lt;br&gt;武器：&lt;br&gt;&lt;ul&gt;&lt;li&gt;狙击步枪&lt;/li&gt;&lt;li&gt;侦察兵步枪&lt;/li&gt;&lt;li&gt;冲锋枪&lt;/li&gt;&lt;br&gt;技能：&lt;br&gt;&lt;ul&gt;&lt;li&gt;隐身——激活后，渗透者可以融入周遭的环境之中，近乎不可见。静止不动时的隐身效果会更好，而匍匐前进时则能使隐身技能发挥最大作用。使用Darklight战术手电可发现隐身的目标（许多武器上都装有此配件）。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;工具：&lt;br&gt;&lt;ul&gt;&lt;li&gt;侦察探测装置（默认）——发射一道脉冲，每数秒检测一次位置附近快速移动的敌人，包括隐身的渗透者。等级越高，扫描的速率越快，范围越广，且脉冲的持续时间越长。&lt;/li&gt;&lt;li&gt;监视传感器——部署后可定期向全体队友分享附近敌人的位置信息，并向渗透者提供实时位置更新。等级越高，位置范围越广，更新频率越高，传感器存在的时间越长，可携带的数量也越多。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;提示：&lt;br&gt;&lt;ul&gt;&lt;li&gt;在隐身状态下，你并非完全不可见，善于观察的玩家会发现你的身影，尤其是当距离较近和你在移动时。&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="2748024460-ucdt" type="ucdt" originalKey="2748024460">%0已在%1服役。</str>
+    <str key="2758034770-ucdt" type="ucdt" originalKey="2758034770">M18 Palisade-H：Auraxium勋章</str>
+    <str key="2763638211-ucdt" type="ucdt" originalKey="2763638211">获得“为爱痴狂”前缀头衔。</str>
+    <str key="2768493492-ucdt" type="ucdt" originalKey="2768493492">2022 情人节</str>
+    <str key="2774707981-ucdt" type="ucdt" originalKey="2774707981">M18 Palisade：铜质勋章</str>
+    <str key="2779038894-ucdn" type="ucdn" originalKey="2779038894"></str>
+    <str key="2779182203-ugdt" type="ugdt" originalKey="2779182203">头衔：为爱痴狂</str>
+    <str key="2796773677-ugdt" type="ugdt" originalKey="2796773677">媒人成就升级</str>
+    <str key="2814164255-ucdt" type="ucdt" originalKey="2814164255">你的军团正处于无阵营状态。处于无阵营状态时，你的军团不可招募其他的成员。你的成员将始终被指派至大陆中人数最少的阵营。当你处于无阵营状态时，若为敌对阵营执行任务，则军团内通讯和其他相关功能都将被禁用。</str>
+    <str key="2826254129-ucdt" type="ucdt" originalKey="2826254129">为12米内的友军载具补给弹药，同时小队成员可以直接在载具中重生。允许部署ANT并将其作为步兵重生点。</str>
+    <str key="2828122898-ucdt" type="ucdt" originalKey="2828122898">要是有疑问，就拿这把吱吱作响的巨锤往脑袋上砸。所有阵营都可以使用此武器。</str>
+    <str key="2828589770-ucdn" type="ucdn" originalKey="2828589770"></str>
+    <str key="2828902183-ucdt" type="ucdt" originalKey="2828902183">NS-44 “头奖”军政委：金质勋章</str>
+    <str key="2839687209-ucdt" type="ucdt" originalKey="2839687209">N30 Trawler-A：金质勋章</str>
+    <str key="2847498176-ugdt" type="ugdt" originalKey="2847498176">巨像门图战神装甲</str>
+    <str key="2850584468-ugdt" type="ugdt" originalKey="2850584468">蚊式战机丘比特航迹云</str>
+    <str key="2857542205-ucdn" type="ucdn" originalKey="2857542205"></str>
+    <str key="2862476598-ucdt" type="ucdt" originalKey="2862476598">用飞镖箭弹替代大号子弹，最大和最小伤害散布范围将变为三倍，但每颗子弹的弹丸数量减少2。</str>
+    <str key="2868485849-ucdt" type="ucdt" originalKey="2868485849">为18米内的友军载具补给弹药，同时小队成员可以直接在载具中重生。允许部署ANT并将其作为步兵重生点。</str>
+    <str key="2889294226-ucdn" type="ucdn" originalKey="2889294226"></str>
+    <str key="2894620143-ucdt" type="ucdt" originalKey="2894620143">Duckbill喉缩</str>
+    <str key="2899896767-ucdt" type="ucdt" originalKey="2899896767">V42 Pariah：银质勋章</str>
+    <str key="2900568304-ucdt" type="ucdt" originalKey="2900568304">镰刀战机丹尼男孩喇叭</str>
+    <str key="2902676262-ugdt" type="ugdt" originalKey="2902676262">蚊式战机粉色后燃器</str>
+    <str key="2904484844-ugdt" type="ugdt" originalKey="2904484844">解放者绿色后燃器</str>
+    <str key="2918186315-ucdt" type="ucdt" originalKey="2918186315">北方舰队正受到[*faction*]的攻击。</str>
+    <str key="2918500792-ucdt" type="ucdt" originalKey="2918500792">小丑迷彩</str>
+    <str key="2921300109-ucdt" type="ucdt" originalKey="2921300109">苦行僧粉色后燃器</str>
+    <str key="2935515846-ucdt" type="ucdt" originalKey="2935515846">连接到东南舰队。</str>
+    <str key="2935953149-ucdt" type="ucdt" originalKey="2935953149">海盗战机绿色后燃器</str>
+    <str key="2946375181-ucdt" type="ucdt" originalKey="2946375181">施放出一波纳能扰频器，阻止机械目标被修复。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;接触后引爆。&lt;/font&gt;</str>
+    <str key="2950802539-ucdt" type="ucdt" originalKey="2950802539">高级纳能运输载具(ANT)专为开采和运输Cortium而打造，这种矿物是玩家建造建筑和模块的原料，同时也是其能量来源。Cortium还能为诸如屏障和涡轮发动机等ANT强化技能提供燃料。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：中型&lt;br&gt;类别：运输&lt;br&gt;移动方式：轮式</str>
+    <str key="2950809067-ucdt" type="ucdt" originalKey="2950809067">造访任意战斗区域中的特定地点</str>
+    <str key="2953246729-ucdt" type="ucdt" originalKey="2953246729">S2-20 HCG[尾部武器]</str>
+    <str key="2957174824-ucdn" type="ucdn" originalKey="2957174824"></str>
+    <str key="2973443724-ugdt" type="ugdt" originalKey="2973443724">银河丘比特航迹云</str>
+    <str key="2976724122-ucdn" type="ucdn" originalKey="2976724122"></str>
+    <str key="2980815216-ugdt" type="ugdt" originalKey="2980815216">标枪丹尼男孩喇叭</str>
+    <str key="2993135769-ugdt" type="ugdt" originalKey="2993135769">苦行僧四叶草航迹云</str>
+    <str key="3010553364-ucdt" type="ucdt" originalKey="3010553364">NS-44 “头奖”军政委</str>
+    <str key="3021206649-ugdt" type="ugdt" originalKey="3021206649">蚊式战机绿色后燃器</str>
+    <str key="3040056949-ucdt" type="ucdt" originalKey="3040056949">净化手雷</str>
+    <str key="3043177848-ugdt" type="ugdt" originalKey="3043177848">解放者粉色后燃器</str>
+    <str key="3043566054-ucdt" type="ucdt" originalKey="3043566054">北极星模块5</str>
+    <str key="3050731149-ucdt" type="ucdt" originalKey="3050731149">武器能够携带的最大弹药数量增加65发。</str>
+    <str key="3062176150-ucdt" type="ucdt" originalKey="3062176150">V42 Pariah-S</str>
+    <str key="3062375830-ucdt" type="ucdt" originalKey="3062375830">下一等级：受到伤害后开始恢复护盾的时间缩短到8秒。</str>
+    <str key="3065117622-ucdt" type="ucdt" originalKey="3065117622">V42 Pariah-A：金质勋章</str>
+    <str key="3066441065-ucdt" type="ucdt" originalKey="3066441065">连接到北方舰队。</str>
+    <str key="3069985116-ucdt" type="ucdt" originalKey="3069985116">女武神丹尼男孩喇叭</str>
+    <str key="3070755233-ucdt" type="ucdt" originalKey="3070755233">S2-20 HCG：金质勋章</str>
+    <str key="3071419731-ucdt" type="ucdt" originalKey="3071419731">榴弹发射器</str>
+    <str key="3083131061-ucdt" type="ucdt" originalKey="3083131061">武器能够携带的最大弹药数量增加325发。</str>
+    <str key="3085576422-ucdt" type="ucdt" originalKey="3085576422">改短的枪管会令扫射时的准星范围缩小40%，令开镜瞄准时的垂直后座力提升20％。</str>
+    <str key="3127390965-ugdt" type="ugdt" originalKey="3127390965">银河丹尼男孩喇叭</str>
+    <str key="3145468578-ucdn" type="ucdn" originalKey="3145468578"></str>
+    <str key="3147005235-ucdn" type="ucdn" originalKey="3147005235"></str>
+    <str key="3166043309-ucdn" type="ucdn" originalKey="3166043309"></str>
+    <str key="3190707906-ugdt" type="ugdt" originalKey="3190707906">工蚁丹尼男孩喇叭</str>
+    <str key="3204808995-ucdt" type="ucdt" originalKey="3204808995">2022 圣帕特里克节</str>
+    <str key="3205200795-ucdt" type="ucdt" originalKey="3205200795">* 成为会员时间越长，获得的收益越高。</str>
+    <str key="3208740815-ucdt" type="ucdt" originalKey="3208740815">榴弹发射器</str>
+    <str key="3210859920-ucdt" type="ucdt" originalKey="3210859920">蚊式战机丘比特航迹云</str>
+    <str key="3214065782-ucdt" type="ucdt" originalKey="3214065782">ANT两栖涂装</str>
+    <str key="3220842650-ucdt" type="ucdt" originalKey="3220842650">北极星模块3</str>
+    <str key="3221337306-ucdn" type="ucdn" originalKey="3221337306"></str>
+    <str key="3234400702-ucdt" type="ucdt" originalKey="3234400702">A2-20 HCG：铜质勋章</str>
+    <str key="3235895991-ucdt" type="ucdt" originalKey="3235895991">Manticore弹药可以令敌方步兵的移动速度在2秒内降低20%，但该武器的射弹速度始终降低40%。</str>
+    <str key="3239035389-ucdt" type="ucdt" originalKey="3239035389">M18 Palisade-S[尾部武器]</str>
+    <str key="3239305289-ucdt" type="ucdt" originalKey="3239305289">榴弹发射器</str>
+    <str key="3239479705-ucdt" type="ucdt" originalKey="3239479705">为该载具添加粉色风格的个性化后燃器效果。仅限新联邦使用。</str>
+    <str key="3254575709-ucdt" type="ucdt" originalKey="3254575709">标枪丹尼男孩喇叭</str>
+    <str key="3259080928-ucdt" type="ucdt" originalKey="3259080928">&lt;font size="32"&gt;4月1日至4月3日期间所有阵营双倍经验！&lt;br&gt;戴上&lt;font color="#ACE1E5"&gt; 大鼻子&lt;/font&gt;还可获取更多奖励经验！&lt;br&gt;&lt;br&gt;千万不要错过&lt;font color="#ACE1E5"&gt;仓库&lt;/font&gt;中的限时礼包，其中包括大受欢迎的载具喇叭及收纳了 &lt;font color="#ACE1E5"&gt;NS SQU-34K&lt;/font&gt;锤子、&lt;font color="#ACE1E5"&gt;随机滚动轮胎痕迹&lt;/font&gt;、旗帜等精彩内容的全新&lt;font color="#ACE1E5"&gt;小丑礼包&lt;/font&gt;。</str>
+    <str key="3268388750-ucdt" type="ucdt" originalKey="3268388750">这款枪口Havoc发射器可以发射出非致命手雷，以防止机械目标得到修复。装备此附件会令武器装备时间增加0.25秒。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;按下装备栏1的快捷键可以启用此附件。&lt;/font&gt;</str>
+    <str key="3305456528-ucdt" type="ucdt" originalKey="3305456528">为该载具添加粉色风格的个性化后燃器效果。仅限瓦努主权国使用。</str>
+    <str key="3307531317-ucdn" type="ucdn" originalKey="3307531317"></str>
+    <str key="3310522739-ucdt" type="ucdt" originalKey="3310522739">武器能够携带的最大弹药数量增加810发。</str>
+    <str key="3311223180-ucdt" type="ucdt" originalKey="3311223180">Dervish是一架重型战斗机。飞行员操控前向轻型武器，第二机枪手操控一架顶部炮塔，阻挡敌人的飞行器，并对进攻目标施加额外压力。&lt;br&gt;&lt;br&gt;阵营：NS Operatives&lt;br&gt;尺寸：大型&lt;br&gt;类别：ESF&lt;br&gt;移动方式：飞行</str>
+    <str key="3312059473-ucdt" type="ucdt" originalKey="3312059473">工程兵可以在战场上提供支持。他们能修复机械装置、给友方补充弹药以及部署各种战场物品。工程兵还能以比其他步兵单位更快的速度恢复护盾，并从内部被动维修特定载具。&lt;br&gt;&lt;br&gt;武器：&lt;br&gt;&lt;ul&gt;&lt;li&gt;卡宾枪&lt;/li&gt;&lt;li&gt;冲锋枪&lt;/li&gt;&lt;li&gt;霰弹枪&lt;/li&gt;&lt;li&gt;侦察步枪&lt;/li&gt;&lt;li&gt;反物质步枪&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;技能：&lt;br&gt;&lt;ul&gt;&lt;li&gt;弹药包——向地上发射一个弹药包，可为附近的步兵补充弹药。等级越高，弹药包的持续时间越长。&lt;/li&gt;&lt;li&gt;反步兵MANA炮塔——建造一架机枪，可有效对抗敌方步兵。机枪装备了防弹护盾，可保护机枪手免遭来自前方威胁的伤害。等级越高，机枪因持续射击而导致过热的时间也会越长。&lt;/li&gt;&lt;li&gt;反载具MANA炮塔——MANA炮塔的反载具版本。&lt;/li&gt;&lt;li&gt;Spitfire自动炮塔——部署一座Spitfire自动炮塔，可以自动朝附近的敌方步兵开火。每次只能激活一座Spitfire。等级越高，放置炮塔所需的冷却时间越短。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;工具：&lt;br&gt;&lt;ul&gt;&lt;li&gt;纳米装甲包——用于维修友方载具、MAX、可部署装置和终端。还可用于解除敌人武装。等级越高，维修速度越快，过热时限越长。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;提示：&lt;br&gt;&lt;ul&gt;&lt;li&gt;建议尽早将纳米装甲包提升到等级5以使工程兵充分发挥作用。&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="3312126384-ucdt" type="ucdt" originalKey="3312126384">在第三人称视角下显示载具的点瞄。（默认：开）</str>
+    <str key="3317752302-ucdt" type="ucdt" originalKey="3317752302">N30 Trawler-H</str>
+    <str key="3320816234-ucdt" type="ucdt" originalKey="3320816234">推进</str>
+    <str key="3320816234-ucdn" type="ucdn" originalKey="3320816234">推进</str>
+    <str key="3323473427-ucdt" type="ucdt" originalKey="3323473427">V42 Pariah-S：金质勋章</str>
+    <str key="3324128519-ucdt" type="ucdt" originalKey="3324128519">侦测到敌军的移动后爆炸，释放出一阵眩光，暂时模糊敌人的视野并扰乱运动操控。</str>
+    <str key="3324252569-ucdt" type="ucdt" originalKey="3324252569">V42 Pariah：金质勋章</str>
+    <str key="3326135743-ucdt" type="ucdt" originalKey="3326135743">II 型水下推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;战术槽物品。在水下拿出后点击跳跃即可使用。轻型突击兵无法装备。&lt;/font&gt;</str>
+    <str key="3326348760-ucdt" type="ucdt" originalKey="3326348760">V42 Pariah-A</str>
+    <str key="3326476769-ucdt" type="ucdt" originalKey="3326476769">侦测到敌军的移动后爆炸，令爆炸范围内的步兵将暂时失明、失聪，射击准确度也会降低。</str>
+    <str key="3330110634-ucdt" type="ucdt" originalKey="3330110634">生命之树橡木棍：银质勋章</str>
+    <str key="3331890804-ucdt" type="ucdt" originalKey="3331890804">生命之树礼包</str>
+    <str key="3338462123-ucdt" type="ucdt" originalKey="3338462123">炮手武器：V-42 Pariah-A</str>
+    <str key="3338906644-ucdt" type="ucdt" originalKey="3338906644">炮手武器：S2-20 HCG</str>
+    <str key="3339954787-ucdn" type="ucdn" originalKey="3339954787"></str>
+    <str key="3347525969-ucdt" type="ucdt" originalKey="3347525969">过载</str>
+    <str key="3361212335-ucdt" type="ucdt" originalKey="3361212335">M18 Palisade-H：铜质勋章</str>
+    <str key="3365808865-ucdt" type="ucdt" originalKey="3365808865">M18 Palisade-H：金质勋章</str>
+    <str key="3398600808-ucdt" type="ucdt" originalKey="3398600808">为NC工程兵解锁EMP地雷。</str>
+    <str key="3401066781-ugdt" type="ugdt" originalKey="3401066781">海盗战机四叶草航迹云</str>
+    <str key="3402102789-ucdt" type="ucdt" originalKey="3402102789">授予“狡猾”前缀头衔。</str>
+    <str key="3435563827-ucdt" type="ucdt" originalKey="3435563827">&lt;font size="32"&gt;获取新的生命之树礼包、2022 圣帕特里克节礼包和多款返场好礼来庆祝这个全年最幸运的节日。&lt;br&gt;&lt;br&gt;马上前往&lt;font color="#ACE1E5"&gt;商城&lt;/font&gt;看看所有限时武器、迷彩和装饰物品，时间不等人哦！&lt;/font&gt;</str>
+    <str key="3438372092-ugdt" type="ugdt" originalKey="3438372092">解放者丘比特航迹云</str>
+    <str key="3443057903-ucdn" type="ucdn" originalKey="3443057903"></str>
+    <str key="3452752547-ucdt" type="ucdt" originalKey="3452752547">苦行僧绿色后燃器</str>
+    <str key="3456714685-ucdt" type="ucdt" originalKey="3456714685">北极星模块4</str>
+    <str key="3457310429-ucdt" type="ucdt" originalKey="3457310429">炮手武器：V-42 Pariah-H</str>
+    <str key="3459084120-ugdt" type="ugdt" originalKey="3459084120">突袭者丹尼男孩喇叭</str>
+    <str key="3493908096-ucdt" type="ucdt" originalKey="3493908096">由于没有视野，无法部署。</str>
+    <str key="3505940162-ucdt" type="ucdt" originalKey="3505940162">N30 Trawler：Auraxium勋章</str>
+    <str key="3508825361-ucdt" type="ucdt" originalKey="3508825361">Havoc地雷</str>
+    <str key="3509378271-ucdt" type="ucdt" originalKey="3509378271">苦行僧丘比特航迹云</str>
+    <str key="3510343302-ucdn" type="ucdn" originalKey="3510343302"></str>
+    <str key="3510976521-ucdn" type="ucdn" originalKey="3510976521"></str>
+    <str key="3516459402-ucdn" type="ucdn" originalKey="3516459402"></str>
+    <str key="3517612168-ucdt" type="ucdt" originalKey="3517612168">V42 Pariah-S[前方武器]</str>
+    <str key="3519570372-ucdn" type="ucdn" originalKey="3519570372"></str>
+    <str key="3523454191-ucdn" type="ucdn" originalKey="3523454191"></str>
+    <str key="3524646833-ucdn" type="ucdn" originalKey="3524646833"></str>
+    <str key="3526453742-ugdt" type="ugdt" originalKey="3526453742">IV 型水下推进器</str>
+    <str key="3533405751-ucdt" type="ucdt" originalKey="3533405751">III 型水下推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;战术槽物品。在水下拿出后点击跳跃即可使用。轻型突击兵无法装备。&lt;/font&gt;</str>
+    <str key="3537835679-ucdt" type="ucdt" originalKey="3537835679">重型突击兵可以携带反载具火箭发射器和轻机枪，并装备有改进型纳能护盾，可以比其他步兵职业吸收更多的伤害。&lt;br&gt;&lt;br&gt;武器：&lt;br&gt;&lt;ul&gt;&lt;li&gt;轻机枪&lt;/li&gt;&lt;li&gt;霰弹枪&lt;/li&gt;&lt;li&gt;冲锋枪&lt;/li&gt;&lt;li&gt;侦察兵步枪&lt;/li&gt;&lt;li&gt;重武器&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;技能：&lt;br&gt;&lt;ul&gt;&lt;li&gt;改良纳能护盾——激活后，这个会在短时间内生效的护盾能够吸收稍多一些的伤害，并提升你在面对步兵和载具时的存活几率。这些护盾在激活后会延缓重型突击兵的移动速度。等级越高，技能的有效时间越长。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;工具：&lt;br&gt;&lt;ul&gt;&lt;li&gt;火箭发射器——从众多发射器中选出，用于对抗装甲地面载具或空中载具。某些发射器专用于打击特定载具类型或拥有锁定目标等功能。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;提示：&lt;br&gt;&lt;ul&gt;&lt;li&gt;尽管重型突击步兵比其他职业更加抗揍，但并不是无敌的。发动突击时记得与你的团队待在一起，以尽可能地提升你的存活率。&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="3539690785-ucdt" type="ucdt" originalKey="3539690785">M18 Palisade-S：铜质勋章</str>
+    <str key="3539849551-ucdt" type="ucdt" originalKey="3539849551">Magrider是Vanu Sovereignty特有的悬浮式坦克。悬浮技术可以让它在其他坦克无法同行的地表进行转向或爬坡，从而躲避来袭的坦克炮弹或步兵火箭。&lt;br&gt;&lt;br&gt;阵营：Vanu Sovereignty&lt;br&gt;尺寸：中型&lt;br&gt;类别：MBT&lt;br&gt;移动方式：悬浮</str>
+    <str key="3541318897-ucdt" type="ucdt" originalKey="3541318897">武器能够携带的最大弹药数量增加900发。</str>
+    <str key="3543167950-ucdt" type="ucdt" originalKey="3543167950">M18 Palisade-A</str>
+    <str key="3543477169-ucdt" type="ucdt" originalKey="3543477169">闪爆地雷</str>
+    <str key="3543553593-ucdt" type="ucdt" originalKey="3543553593">S2-20 HCG[前方武器]</str>
+    <str key="3546952207-ucdt" type="ucdt" originalKey="3546952207">榴弹发射器</str>
+    <str key="3560117875-ucdt" type="ucdt" originalKey="3560117875">征服欧夏尔</str>
+    <str key="3561175032-ucdt" type="ucdt" originalKey="3561175032">蚊式战机四叶草航迹云</str>
+    <str key="3562306497-ucdn" type="ucdn" originalKey="3562306497"></str>
+    <str key="3581123690-ucdt" type="ucdt" originalKey="3581123690">解放者丹尼男孩喇叭</str>
+    <str key="3601077136-ucdn" type="ucdn" originalKey="3601077136"></str>
+    <str key="3617841774-ucdt" type="ucdt" originalKey="3617841774">无情军团贴花</str>
+    <str key="3618738873-ucdt" type="ucdt" originalKey="3618738873">德鲁伊</str>
+    <str key="3620500452-ucdt" type="ucdt" originalKey="3620500452">V42 Pariah：Auraxium勋章</str>
+    <str key="3625431436-ucdt" type="ucdt" originalKey="3625431436">榴弹发射器</str>
+    <str key="3631854521-ucdt" type="ucdt" originalKey="3631854521">N30 Trawler-H：银质勋章</str>
+    <str key="3646962286-ucdt" type="ucdt" originalKey="3646962286">先驱者丹尼男孩喇叭</str>
+    <str key="3656942022-ucdt" type="ucdt" originalKey="3656942022">改变载具的航迹云，留下一道羽毛尾迹。所有阵营都可以使用此装备。</str>
+    <str key="3691563484-ucdn" type="ucdn" originalKey="3691563484"></str>
+    <str key="3694962462-ucdt" type="ucdt" originalKey="3694962462">遥远海岸：地图之外</str>
+    <str key="3695651863-ucdt" type="ucdt" originalKey="3695651863">头衔：为爱痴狂</str>
+    <str key="3696220599-ucdt" type="ucdt" originalKey="3696220599">高级纳能运输载具(ANT)专为开采和运输Cortium而打造，这种矿物可为诸如屏障和涡轮发动机等ANT强化技能提供燃料。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：中型&lt;br&gt;类别：运输&lt;br&gt;移动方式：轮式</str>
+    <str key="3696527380-ucdt" type="ucdt" originalKey="3696527380">Pariah是一个性能可靠的速射平台，它可以发射粒子弹，对装甲、飞行单位和步兵目标有着非常好的杀伤效果。仅限Vanu Sovereignty阵营使用。</str>
+    <str key="3696692142-ucdt" type="ucdt" originalKey="3696692142">重型枪管</str>
+    <str key="3696774134-ucdt" type="ucdt" originalKey="3696774134">下一等级：受到伤害后开始恢复护盾的时间缩短到9秒。</str>
+    <str key="3703216980-ucdt" type="ucdt" originalKey="3703216980">为该载具添加绿色风格的个性化后燃器效果。仅限瓦努主权国使用。</str>
+    <str key="3703453303-ucdt" type="ucdt" originalKey="3703453303">M18 Palisade-A：铜质勋章</str>
+    <str key="3709825024-ucdt" type="ucdt" originalKey="3709825024">震爆地雷</str>
+    <str key="3713231890-ucdt" type="ucdt" originalKey="3713231890">可以将Galaxy部署为带有护盾的高级移动基站，护盾可以吸收一定数量的伤害，但需要时间恢复。高级移动基站可作为友方士兵的重生点。一旦护盾受到伤害，其恢复时间就将延迟7秒。</str>
+    <str key="3727610332-ucdt" type="ucdt" originalKey="3727610332">工蚁丹尼男孩喇叭</str>
+    <str key="3728501202-ucdt" type="ucdt" originalKey="3728501202">HLX 炽天使：金质勋章</str>
+    <str key="3731430795-ucdt" type="ucdt" originalKey="3731430795">N30 Trawler：银质勋章</str>
+    <str key="3733742516-ugdt" type="ugdt" originalKey="3733742516">SKL 军团贴花</str>
+    <str key="3752123515-ucdt" type="ucdt" originalKey="3752123515">巨像门图战神装甲</str>
+    <str key="3753504373-ucdt" type="ucdt" originalKey="3753504373">炮手武器：N30 Trawler-A</str>
+    <str key="3754434706-ucdt" type="ucdt" originalKey="3754434706">H2-20 HCG</str>
+    <str key="3754794816-ucdt" type="ucdt" originalKey="3754794816">震爆地雷</str>
+    <str key="3758677336-ucdt" type="ucdt" originalKey="3758677336">你的军团正处于无阵营状态。处于无阵营状态时，你的军团不可招募其他的成员。你的成员将始终被指派至大陆中人数最少的阵营。当你处于无阵营状态时，若为敌对阵营执行任务，则军团内通讯和其他相关功能都将被禁用。</str>
+    <str key="3761946151-ucdt" type="ucdt" originalKey="3761946151">V 型水下推进器</str>
+    <str key="3762282099-ucdt" type="ucdt" originalKey="3762282099">震爆地雷</str>
+    <str key="3765222625-ucdt" type="ucdt" originalKey="3765222625">V42 Pariah-H：Auraxium勋章</str>
+    <str key="3765944946-ucdt" type="ucdt" originalKey="3765944946">解放者粉色后燃器</str>
+    <str key="3772987344-ucdt" type="ucdt" originalKey="3772987344">作为Thumper的重量级改进版，这款武器能够发射反载具脱壳穿甲弹，可从中距离撕开敌人的装甲。所有阵营均可使用这一武器。</str>
+    <str key="3788721380-ucdt" type="ucdt" originalKey="3788721380">N30 Trawler-A：银质勋章</str>
+    <str key="3792082302-ugdt" type="ugdt" originalKey="3792082302">苦行僧丹尼男孩喇叭</str>
+    <str key="3799685754-ucdt" type="ucdt" originalKey="3799685754">军团服役对象为</str>
+    <str key="3805597737-ucdt" type="ucdt" originalKey="3805597737">炮手武器：N30 Trawler-S</str>
+    <str key="3815260378-ucdt" type="ucdt" originalKey="3815260378">S2-20 HCG：银质勋章</str>
+    <str key="3822292036-ugdt" type="ugdt" originalKey="3822292036">镰刀战机绿色后燃器</str>
+    <str key="3844287033-ucdn" type="ucdn" originalKey="3844287033"></str>
+    <str key="3851177472-ucdn" type="ucdn" originalKey="3851177472"></str>
+    <str key="3864628050-ucdt" type="ucdt" originalKey="3864628050">闪电丹尼男孩喇叭</str>
+    <str key="3867555648-ucdt" type="ucdt" originalKey="3867555648">“忠诚至死，团结一致”&lt;br&gt;&lt;br&gt;是士兵，是统一者，还是独裁的压迫者？Terran Republic是一支结构森严、资金雄厚的军事战斗部队，致力于维护共和国内居民的安全和保障。有人认为Terran Republic的人都有着极强的控制欲和强迫症，他们一心想要维持法律和秩序，直到能够统一各大阵营，并找到返回地球的方法。&lt;br&gt;&lt;br&gt;步兵招牌武器：&lt;br&gt;&lt;ul&gt;&lt;li&gt;高射速武器&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;专属载具：&lt;br&gt;&lt;ul&gt;&lt;li&gt;Prowler&lt;/li&gt;&lt;li&gt;Mosquito&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="3869070141-ucdt" type="ucdt" originalKey="3869070141">为20米内的友军载具补给弹药，同时小队成员可以直接在载具中重生。允许部署ANT并将其作为步兵重生点。</str>
+    <str key="3870060468-ucdt" type="ucdt" originalKey="3870060468">允许重型突击兵使用Havoc手雷。</str>
+    <str key="3870496622-ucdt" type="ucdt" originalKey="3870496622">武器能够携带的最大弹药数量增加630发。</str>
+    <str key="3871759331-ucdt" type="ucdt" originalKey="3871759331">Chimera失败喇叭</str>
+    <str key="3873188586-ucdt" type="ucdt" originalKey="3873188586">炮手武器：M18 Palisade</str>
+    <str key="3879484396-ucdt" type="ucdt" originalKey="3879484396">NS SQU-34K</str>
+    <str key="3879857051-ucdt" type="ucdt" originalKey="3879857051">NS-44 “头奖”军政委：银质勋章</str>
+    <str key="3920111153-ucdt" type="ucdt" originalKey="3920111153">填充钻石旗帜</str>
+    <str key="3925127810-ucdt" type="ucdt" originalKey="3925127810">M18 Palisade-H</str>
+    <str key="3939542710-ucdt" type="ucdt" originalKey="3939542710">工程兵军团装甲</str>
+    <str key="3967397916-ucdt" type="ucdt" originalKey="3967397916">运送者模块1</str>
+    <str key="3979116877-ucdt" type="ucdt" originalKey="3979116877">HLX 炽天使：奥星勋章</str>
+    <str key="3982653710-ucdt" type="ucdt" originalKey="3982653710">EMP地雷的携带量增加1枚。</str>
+    <str key="3982765216-ucdt" type="ucdt" originalKey="3982765216">N30 Trawler：金质勋章</str>
+    <str key="3983558935-ucdt" type="ucdt" originalKey="3983558935">M18 Palisade-A：Auraxium勋章</str>
+    <str key="3983797232-ucdn" type="ucdn" originalKey="3983797232"></str>
+    <str key="3992738604-ucdn" type="ucdn" originalKey="3992738604"></str>
+    <str key="3998230394-ucdt" type="ucdt" originalKey="3998230394">M18 Palisade-A：金质勋章</str>
+    <str key="4011381081-ucdt" type="ucdt" originalKey="4011381081">为爱痴狂</str>
+    <str key="4014215799-ucdt" type="ucdt" originalKey="4014215799">Chimera以运动车轮取代履带，提升了通过崎岖低端的机动性。最多可额外搭载四名无篷座位乘客，并配有驾驶员操控的主炮和前向副炮塔。&lt;br&gt;&lt;br&gt;阵营：NS Operatives&lt;br&gt;尺寸：中型&lt;br&gt;类别：MBT&lt;br&gt;移动方式：轮式</str>
+    <str key="4019008758-ucdt" type="ucdt" originalKey="4019008758">该武器发射精度高、速度快的单枚弹头，可造成650点伤害；若处于武器的最小伤害范围，则伤害降至500点。</str>
+    <str key="4029321097-ucdt" type="ucdt" originalKey="4029321097">这款20毫米口径的多用途重型链式机炮可以有效消灭装甲、飞行单位和步兵等目标。仅限NSO使用。</str>
+    <str key="4031323958-ucdt" type="ucdt" originalKey="4031323958">小丑牌军团涂装</str>
+    <str key="4069288496-ucdt" type="ucdt" originalKey="4069288496">用这款经典近战武器，以绅士风度解决争端。所有阵营都可以使用此武器。</str>
+    <str key="4083830770-ugdt" type="ugdt" originalKey="4083830770">苦行僧绿色后燃器</str>
+    <str key="4124855616-ucdt" type="ucdt" originalKey="4124855616">I 型水下推进器</str>
+    <str key="4126239099-ucdt" type="ucdt" originalKey="4126239099">Jester礼包</str>
+    <str key="4126911831-ucdt" type="ucdt" originalKey="4126911831">Trawler是一款30口径的低射速重机枪，对装甲、飞行单位和步兵有着非常好的杀伤效果。仅限New Conglomerate阵营使用。</str>
+    <str key="4128207200-ucdt" type="ucdt" originalKey="4128207200">震爆地雷的携带量增加1枚。</str>
+    <str key="4134356451-ucdt" type="ucdt" originalKey="4134356451">Galaxy是一种空中运输单位，可用于空投最多11名士兵。它有四个炮位，可用于自身防御，也可装备成为武装炮舰。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：大型&lt;br&gt;类别：运输&lt;br&gt;移动方式：飞行</str>
+    <str key="4156433427-ucdt" type="ucdt" originalKey="4156433427">侦测到敌军的移动后爆炸，释放出一阵眩光，暂时模糊敌人的视野并扰乱运动操控。</str>
+    <str key="4157610949-ucdt" type="ucdt" originalKey="4157610949">可以将Galaxy部署为带有护盾的高级移动基站，护盾可以吸收一定数量的伤害，但需要时间恢复。高级移动基站可作为友方士兵的重生点。一旦护盾受到伤害，其恢复时间就将延迟6秒。</str>
+    <str key="4164328736-ucdt" type="ucdt" originalKey="4164328736">V42 Pariah</str>
+    <str key="4166049453-ucdt" type="ucdt" originalKey="4166049453">轻型突击兵在近距离和中距离的冲突中更有优势，他们的喷气背包提供了极强的机动性，可以迅速绕到敌人侧面进行攻击。&lt;br&gt;&lt;br&gt;武器：&lt;br&gt;&lt;ul&gt;&lt;li&gt;卡宾枪&lt;/li&gt;&lt;li&gt;冲锋枪&lt;/li&gt;&lt;li&gt;霰弹枪&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;技能：&lt;br&gt;&lt;ul&gt;&lt;li&gt;喷气背包——轻型突击兵携带了多种喷气背包，可跨越更高的障碍物、短暂在空中停留，也可突然加速缩短与目标的距离。轻型突击兵可以在飞行时开火，但精准度会受到影响。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;工具：&lt;br&gt;&lt;ul&gt;&lt;li&gt;Rocklet步枪——拥有六发弹药，可发射轻型爆炸迷你火箭。这款步枪可以半自动的形式击发，也可以一次性倾斜所有火箭弹。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;提示：&lt;br&gt;&lt;ul&gt;&lt;li&gt;在空中飞行时，使用卡宾枪仍具有一定的精准度，有助于让首次接触轻型突击兵的玩家快速熟悉这个兵种。&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="4177939136-ucdt" type="ucdt" originalKey="4177939136">从太空轨道上投放的空投舱可以迅速将部队部署到战场上。空投舱中的士兵可以控制空投舱的方向，在某些情况下可以将它作为强大的武器使用，对着陆地点的目标造成伤害。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：小型&lt;br&gt;类别：运输&lt;br&gt;移动方式：空投舱</str>
+    <str key="4202269060-ugdt" type="ugdt" originalKey="4202269060">幸运背景横幅</str>
+    <str key="4211724989-ucdt" type="ucdt" originalKey="4211724989">使用Jester礼包逗弄朋友和敌人。内含NS SQU-34K近战武器、小丑面具、标志旗帜以及小丑涂装。所有阵营都可收到这些物品。</str>
+    <str key="4213224785-ucdt" type="ucdt" originalKey="4213224785">S2-20 HCG</str>
+    <str key="4253209885-ucdt" type="ucdt" originalKey="4253209885">N30 Trawler-S：铜质勋章</str>
+    <str key="4258503005-ucdt" type="ucdt" originalKey="4258503005">侦测到敌军的移动后爆炸，令爆炸范围内的步兵将暂时失明、失聪，射击准确度也会降低。</str>
+    <str key="4272567999-ucdn" type="ucdn" originalKey="4272567999"></str>
+    <str key="4273397034-ucdt" type="ucdt" originalKey="4273397034">允许Infiltrator使用定时EMP手雷。</str>
+    <str key="4273798641-ucdt" type="ucdt" originalKey="4273798641">为范围内的友军载具补给弹药。允许部署ANT并将其作为步兵重生点。</str>
+    <str key="4274033576-ucdt" type="ucdt" originalKey="4274033576">炮手武器：M18 Palisade-H</str>
+    <str key="4280164850-ucdt" type="ucdt" originalKey="4280164850">闪爆地雷</str>
+    <str key="4280949933-ucdt" type="ucdt" originalKey="4280949933">为NC Infiltrator解锁EMP地雷</str>
+    <str key="4282993724-ucdt" type="ucdt" originalKey="4282993724">改变载具的航迹云，留下一道羽毛尾迹。仅限纳能特工使用。</str>
+    <str key="4293577422-ucdt" type="ucdt" originalKey="4293577422">炮手武器：N30 Trawler</str>
 </root>
