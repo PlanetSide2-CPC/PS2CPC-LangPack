@@ -48,7 +48,7 @@
     <str key="1726534977-ugdt" type="ugdt" originalKey="1726534977">ANT A51 Luminous Deflectors</str>
     <str key="1726608737-ucdt" type="ucdt" originalKey="1726608737">Increases melee recovery speed</str>
     <str key="1726646695-ucdt" type="ucdt" originalKey="1726646695">Tawrich Main Spawn Room</str>
-    <str key="1726742247-ucdt" type="ucdt" originalKey="1726742247">Equinox VE2 Burst: Gold Medal</str>
+    <str key="1726742247-ucdt" type="ucdt" originalKey="1726742247">Pulsar Burst: Gold Medal</str>
     <str key="1726825131-ucdt" type="ucdt" originalKey="1726825131">&lt;font color="#00FFAA"&gt;Praetor Umatherin:&lt;/font&gt; Good, you've made it to the facility. These facilities syphon an immense amount of power from the atmosphere, but it goes to waste. We intend to use that power to help us reach the off-world relic. Our technicians have marked several power circuits that will need to be calibrated to provide the power they require. Proceed with all due haste.</str>
     <str key="1726865500-ucdt" type="ucdt" originalKey="1726865500">Operative Decal</str>
     <str key="1726875089-ucdt" type="ucdt" originalKey="1726875089">Cavalier 1</str>
@@ -138,7 +138,7 @@
     <str key="1735308854-ucdt" type="ucdt" originalKey="1735308854">Decreases the time taken to reload weapon by 0.375 seconds.</str>
     <str key="1735315000-ucdt" type="ucdt" originalKey="1735315000">The Python HEAT carries quick-reloading high-explosive anti-tank rounds that have balanced effectiveness against armor and infantry. All factions can use this weapon.</str>
     <str key="1735402159-ucdt" type="ucdt" originalKey="1735402159">Salamander Decal</str>
-    <str key="1735446308-ucdt" type="ucdt" originalKey="1735446308">The mobile prediction laser reduces the hipfire pellet spread of the weapon by 0.25.</str>
+    <str key="1735446308-ucdt" type="ucdt" originalKey="1735446308">The mobile prediction laser reduces vertical and horizontal recoil when fired from the hip by 60%.</str>
     <str key="1735529725-ucdt" type="ucdt" originalKey="1735529725">Sunderer MR12 Siegebreaker [Rear]</str>
     <str key="1735592525-ucdt" type="ucdt" originalKey="1735592525">Apply the single use Temperate Chaparral camo pattern to your armor. NC use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
     <str key="1735922192-ucdt" type="ucdt" originalKey="1735922192">The weapon's muzzle flash and noise generation is reduced, and the player no longer appears on the minimap when firing. In exchange, the weapon's damage falls off 20 meters sooner, and bullet velocity is reduced by 15%.</str>
@@ -619,7 +619,7 @@ When you are ready to move on, follow your waypoint to the teleporter.</str>
     <str key="1775909789-ugdt" type="ugdt" originalKey="1775909789">Sly Bomber Armor Decal</str>
     <str key="1776208879-ucdt" type="ucdt" originalKey="1776208879">Test Harvest</str>
     <str key="1776225556-ucdt" type="ucdt" originalKey="1776225556">Sol Flashlight Decal</str>
-    <str key="1776309701-ucdt" type="ucdt" originalKey="1776309701">Equinox VE2 Burst: Auraxium Medal</str>
+    <str key="1776309701-ucdt" type="ucdt" originalKey="1776309701">Pulsar Burst: Auraxium Medal</str>
     <str key="1776317165-ucdt" type="ucdt" originalKey="1776317165">Create Platoon</str>
     <str key="1776330552-ucdt" type="ucdt" originalKey="1776330552">Configuration Beta</str>
     <str key="1776532700-ucdt" type="ucdt" originalKey="1776532700">Grants the "Matchmaker" prefix title.</str>
@@ -751,7 +751,7 @@ When you are ready to move on, follow your waypoint to the teleporter.</str>
     <str key="1790685519-ucdt" type="ucdt" originalKey="1790685519">Decreases the time taken to reload weapon by 0.2 seconds.</str>
     <str key="1790766144-ucdt" type="ucdt" originalKey="1790766144">Nanite Systems' Tetra scope gives its users a significant advantage at target acquisition at mid to long ranges thanks to its triple chevron reticule and 4x magnification.</str>
     <str key="1790771549-ugdt" type="ugdt" originalKey="1790771549">FAC.SCURoomShield.Bio2</str>
-    <str key="1790771961-ucdt" type="ucdt" originalKey="1790771961">Decreases the time taken to reload weapon by 0.3 seconds.</str>
+    <str key="1790771961-ucdt" type="ucdt" originalKey="1790771961">Decreases the time taken to reload weapon by 17%.</str>
     <str key="1790787811-ucdt" type="ucdt" originalKey="1790787811">&lt;font color="#ACE1E5"&gt;&lt;u&gt;USE&lt;/u&gt;&lt;/font&gt;&lt;br&gt;Claim rewards from Coordinator Tolland on Sanctuary.&lt;br&gt;&lt;br&gt;&lt;font color="#ACE1E5"&gt;&lt;u&gt;DESCRIPTION&lt;/u&gt;&lt;/font&gt;&lt;br&gt;Requires Expedition Asset crafting permissions. &lt;br&gt;&lt;br&gt;Charter an expedition to gather &lt;font color="#5CA8DD"&gt;35 Synthium&lt;/font&gt; for your Outfit Armory.&lt;font color="#CC200D"&gt;&lt;br&gt;&lt;br&gt;Only ONE resource expedition may be active at a time.&lt;/font&gt;</str>
     <str key="1790858050-ucdt" type="ucdt" originalKey="1790858050">Overseer 1</str>
     <str key="1790907334-ugdt" type="ugdt" originalKey="1790907334">Tiger Teeth Glass Decal</str>
@@ -819,7 +819,7 @@ When you are ready to move on, follow your waypoint to the teleporter.</str>
     <str key="1796293410-ucdt" type="ucdt" originalKey="1796293410">Increases the ammo capacity of the weapon to 1005 rounds.</str>
     <str key="1796372450-ucdt" type="ucdt" originalKey="1796372450">Applies a camo to your weapon. All factions can use this gear.</str>
     <str key="1796374546-ucdt" type="ucdt" originalKey="1796374546">Scales Weapon Camo</str>
-    <str key="1796451179-ucdt" type="ucdt" originalKey="1796451179">Carbine: Gauss Compact Burst</str>
+    <str key="1796451179-ucdt" type="ucdt" originalKey="1796451179">Carbine: AF-20 Rogue</str>
     <str key="1796479654-ucdt" type="ucdt" originalKey="1796479654">VA39 Spectre: Gold Medal</str>
     <str key="1796513077-ucdt" type="ucdt" originalKey="1796513077">Unlocks a profile banner for your character.</str>
     <str key="1796621043-ugdt" type="ugdt" originalKey="1796621043">Conqueror 5 Decal</str>
@@ -854,7 +854,7 @@ When you are ready to move on, follow your waypoint to the teleporter.</str>
     <str key="1799442970-ugdt" type="ugdt" originalKey="1799442970">100 Pumpkin Seeds</str>
     <str key="1799527948-ucdt" type="ucdt" originalKey="1799527948">Cycler</str>
     <str key="1799550480-ucdt" type="ucdt" originalKey="1799550480">T9 CARV-P: Copper Medal</str>
-    <str key="1799589755-ucdt" type="ucdt" originalKey="1799589755">Gauss Compact Burst: Auraxium Medal</str>
+    <str key="1799589755-ucdt" type="ucdt" originalKey="1799589755">AF-20 Rogue: Auraxium Medal</str>
     <str key="1799685704-ucdt" type="ucdt" originalKey="1799685704">Nanite Mesh Generator 1 Description (14055) (DNT)</str>
     <str key="1799698075-ucdt" type="ucdt" originalKey="1799698075">Zebra Camo</str>
     <str key="1799742064-ucdt" type="ucdt" originalKey="1799742064">Construction Site Alpha</str>
@@ -926,7 +926,7 @@ When you are ready to move on, follow your waypoint to the teleporter.</str>
     <str key="1804104186-ucdt" type="ucdt" originalKey="1804104186">NS-60 Flamethrower: Gold Medal</str>
     <str key="1804120523-ucdt" type="ucdt" originalKey="1804120523">Move to Fireteam</str>
     <str key="1804122073-ucdt" type="ucdt" originalKey="1804122073">Enhanced Limb Servos</str>
-    <str key="1804165688-ucdt" type="ucdt" originalKey="1804165688">Equinox VE2 Burst: Silver Medal</str>
+    <str key="1804165688-ucdt" type="ucdt" originalKey="1804165688">Pulsar Burst: Silver Medal</str>
     <str key="1804262540-ucdt" type="ucdt" originalKey="1804262540">Onatha North Gate</str>
     <str key="1804317882-ugdt" type="ugdt" originalKey="1804317882">RedMist Armor Decal</str>
     <str key="1804384630-ucdt" type="ucdt" originalKey="1804384630">Apply the Circuit Board pattern to your weapon.</str>

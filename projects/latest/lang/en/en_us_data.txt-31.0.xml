@@ -184,7 +184,7 @@
     <str key="2568318888-ugdt" type="ugdt" originalKey="2568318888">Stripe Armor Camo</str>
     <str key="2568424747-ucdt" type="ucdt" originalKey="2568424747">Damaging enemies now automatically spots them for you and allies, while kills from greater than 125 meters will clear spot checks on you and prevent new ones from being applied for one second. &lt;font color="#dc9c36"&gt;Does not clear spot checks on vehicles.&lt;/font&gt;</str>
     <str key="2568513506-ucdt" type="ucdt" originalKey="2568513506">Decreases the time taken to reload weapon by 6.25%</str>
-    <str key="2568949015-ucdt" type="ucdt" originalKey="2568949015">The Gauss Rifle S possesses a select fire option that allows for further adaptability on the battlefield. NC use only.</str>
+    <str key="2568949015-ucdt" type="ucdt" originalKey="2568949015">The controllable Gauss Rifle S was developed as a highly adaptable combat platform, allowing engineers to tinker with their attachment options based on battlefield conditions. NC use only.</str>
     <str key="2569052482-ucdt" type="ucdt" originalKey="2569052482">Promote</str>
     <str key="2569083218-ucdt" type="ucdt" originalKey="2569083218">Retrieve Campner's gift from under the tree</str>
     <str key="2569086979-ugdt" type="ugdt" originalKey="2569086979">War Hero Banner</str>
@@ -471,7 +471,7 @@ If you stick with your team you can also get revived by a combat medic.</str>
     <str key="2595489485-ucdt" type="ucdt" originalKey="2595489485">Aerial Combatant 4</str>
     <str key="2595489543-ucdt" type="ucdt" originalKey="2595489543">Solstice VE3: Copper Medal</str>
     <str key="2595646688-ucdt" type="ucdt" originalKey="2595646688">Regeneration Field</str>
-    <str key="2595714223-ucdt" type="ucdt" originalKey="2595714223">Primary: Assault Rifle: Equinox VE2 Burst</str>
+    <str key="2595714223-ucdt" type="ucdt" originalKey="2595714223">Primary: Assault Rifle: Pulsar Burst</str>
     <str key="2595764730-ugdt" type="ugdt" originalKey="2595764730">NC: Customization - Repair Tool Promo</str>
     <str key="2595775651-ugdt" type="ugdt" originalKey="2595775651">TR Engineer</str>
     <str key="2595854816-ucdt" type="ucdt" originalKey="2595854816">Repairs 7.5% every 5 seconds.</str>
@@ -578,7 +578,7 @@ If you stick with your team you can also get revived by a combat medic.</str>
     <str key="2604006532-ugdt" type="ugdt" originalKey="2604006532">Lt. Colonel 5 Decal</str>
     <str key="2604119767-ucdt" type="ucdt" originalKey="2604119767">DIGT Armor Decal</str>
     <str key="2604152749-ucdt" type="ucdt" originalKey="2604152749">END CONTRACT</str>
-    <str key="2604167288-ucdt" type="ucdt" originalKey="2604167288">Increases projectile velocity by 25%, reduces minimum cone of fire by 20%, but drastically increases vertical recoil.</str>
+    <str key="2604167288-ucdt" type="ucdt" originalKey="2604167288">Increases projectile velocity by 25%, reduces cone of fire by 20%, but drastically increases vertical recoil.</str>
     <str key="2604327373-ucdt" type="ucdt" originalKey="2604327373">Foremost fighter pad has been damaged</str>
     <str key="2604389202-ucdt" type="ucdt" originalKey="2604389202">Horn</str>
     <str key="2604468029-ucdt" type="ucdt" originalKey="2604468029">Attachment for medic armor</str>
@@ -1003,5 +1003,5 @@ If you stick with your team you can also get revived by a combat medic.</str>
     <str key="2638153692-ucdt" type="ucdt" originalKey="2638153692">AXN Armor Decal</str>
     <str key="2638270279-ugdt" type="ugdt" originalKey="2638270279">A.S.P. Refund Token</str>
     <str key="2638271265-ucdt" type="ucdt" originalKey="2638271265">Ammunition Belt 1</str>
-    <str key="2638385350-ucdt" type="ucdt" originalKey="2638385350">While your personal shield is active, receiving small arms damage now heals 50 health immediately. This effect may only trigger once every 8 seconds.</str>
+    <str key="2638385350-ucdt" type="ucdt" originalKey="2638385350">While your personal shield is active, receiving small arms damage now heals 125 health immediately. This effect may only trigger once every 8 seconds.</str>
 </root>

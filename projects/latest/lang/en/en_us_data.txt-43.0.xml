@@ -46,7 +46,7 @@
     <str key="3530872801-ucdt" type="ucdt" originalKey="3530872801">Nomad Stealth Armor</str>
     <str key="3530924784-ugdt" type="ugdt" originalKey="3530924784">Fortress MAX Armor</str>
     <str key="3531106807-ucdt" type="ucdt" originalKey="3531106807">Increases the time it takes to lock-on to the vehicle by 1 second and prevents the vehicle from automatically appearing to hostiles based on proximity or radar detection.</str>
-    <str key="3531162117-ucdt" type="ucdt" originalKey="3531162117">The Cortium Turbo Engine grants powerful thrust by converting stored minerals into fuel. The C300 consumes 175 Cortium per second.</str>
+    <str key="3531162117-ucdt" type="ucdt" originalKey="3531162117">The Cortium Turbo Engine grants powerful thrust by converting stored minerals into fuel. Consumes 175 Cortium per second.</str>
     <str key="3531254292-ucdt" type="ucdt" originalKey="3531254292">The9 Placeholder</str>
     <str key="3531366417-ucdt" type="ucdt" originalKey="3531366417">This base is ours! Well done, soldier.</str>
     <str key="3531372897-ucdt" type="ucdt" originalKey="3531372897">Unlocks all available optics for the NSX Naginata.</str>
@@ -378,7 +378,7 @@
     <str key="3559680031-ucdt" type="ucdt" originalKey="3559680031">When detonated, the grenade creates a field that repairs nearby mechanical targets for 50 health per second. This grenade can stick to vehicles and MAX units. &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Lasts for 10 seconds.&lt;/font&gt;</str>
     <str key="3559715518-ucdt" type="ucdt" originalKey="3559715518">ABLE 3.4 YELLOW</str>
     <str key="3559750146-ugdt" type="ugdt" originalKey="3559750146">Parasite Weapon Camo</str>
-    <str key="3559822500-ucdt" type="ucdt" originalKey="3559822500">A single-shot grenade launcher attachment; increases the equip time of the attached weapon.  &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Pressing Gear Slot 1 hotkey will toggle the attachment.&lt;/font&gt;</str>
+    <str key="3559822500-ucdt" type="ucdt" originalKey="3559822500">A single-shot grenade launcher attachment; increases the equip time of the attached weapon by 0.25 seconds.  &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Pressing Gear Slot 1 hotkey will toggle the attachment.&lt;/font&gt;</str>
     <str key="3559850351-ugdt" type="ugdt" originalKey="3559850351">VS Tough Voice Pack</str>
     <str key="3559881367-ugdt" type="ugdt" originalKey="3559881367">Gold Prowler Hood Ornament</str>
     <str key="3559919097-ucdt" type="ucdt" originalKey="3559919097">Customize your ground vehicle by adding a Chrome Prowler Hood Ornament.</str>
@@ -762,7 +762,7 @@
     <str key="3589020386-ucdt" type="ucdt" originalKey="3589020386">Mosquito Hearts Glass Decal</str>
     <str key="3589119358-ucdt" type="ucdt" originalKey="3589119358">Light Assault Composite Helmet</str>
     <str key="3589140760-ucdt" type="ucdt" originalKey="3589140760">2015 Holiday Countdown Sales Day 1</str>
-    <str key="3589170684-ucdt" type="ucdt" originalKey="3589170684">The TS2 Inquisitor features an extended magazine capable of outlasting the enemy even in the most drawn out firefights. TR use only.</str>
+    <str key="3589170684-ucdt" type="ucdt" originalKey="3589170684">The TS2 Inquisitor features two-round burst or semi-auto firemodes, with an extended magazine capable of outlasting the enemy even in the most drawn out firefights. TR use only.</str>
     <str key="3589227631-ucdt" type="ucdt" originalKey="3589227631">Improves thruster efficiency, increasing total air time by 4 seconds.</str>
     <str key="3589305945-ucdt" type="ucdt" originalKey="3589305945">%0 OFF</str>
     <str key="3589342005-ugdt" type="ugdt" originalKey="3589342005">Squad Waypoint</str>
@@ -812,7 +812,7 @@
     <str key="3592126588-ucdt" type="ucdt" originalKey="3592126588">Sunderer Gunport [WIP]: Auraxium Medal</str>
     <str key="3592247768-ucdt" type="ucdt" originalKey="3592247768">Vanu Sovereignty Auraxium Holiday Hat. &lt;br&gt;&lt;font color="#2af72a"&gt;+50% xp when worn&lt;/font&gt;&lt;br&gt;&lt;font color="#FF0000"&gt;This item is only usable during the winter holiday season.&lt;/font&gt;</str>
     <str key="3592258060-ucdt" type="ucdt" originalKey="3592258060">Second Lt. 1 Decal</str>
-    <str key="3592352682-ucdt" type="ucdt" originalKey="3592352682">Reduces damage taken from small arms and heavy machine guns by 20%. &lt;font color="#dc9c36"&gt;Reduces base movement speed by 10%.&lt;/font&gt;</str>
+    <str key="3592352682-ucdt" type="ucdt" originalKey="3592352682">This woven armor mesh reduces the bodyshot damage taken from sniper rifles and heavy machine guns by 20%.</str>
     <str key="3592361087-ucdt" type="ucdt" originalKey="3592361087">Decreases the time taken to reload weapon by 0.5 seconds.</str>
     <str key="3592413639-ucdt" type="ucdt" originalKey="3592413639">Austria Vehicle Decal</str>
     <str key="3592492196-ucdt" type="ucdt" originalKey="3592492196">Increases the maximum ammo capacity of the weapon by 15 shells.</str>

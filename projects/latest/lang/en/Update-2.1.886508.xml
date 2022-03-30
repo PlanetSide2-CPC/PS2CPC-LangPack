@@ -1,287 +1,712 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <root>
-  <str key="10493090-ucdt" type="ucdt" originalKey="10493090">Wyrdwood Shillelagh: Auraxium Medal</str>
-  <str key="15707196-ucdn" type="ucdn" originalKey="15707196"/>
-  <str key="31644864-ucdt" type="ucdt" originalKey="31644864">The Season of Love has begun!</str>
-  <str key="35332439-ucdt" type="ucdt" originalKey="35332439">Dervish Shamrock Contrails</str>
-  <str key="40567692-ucdt" type="ucdt" originalKey="40567692">Sunderer Danny Boy Horn</str>
-  <str key="53398561-ucdt" type="ucdt" originalKey="53398561">Harasser Danny Boy Horn</str>
-  <str key="77785805-ucdn" type="ucdn" originalKey="77785805"/>
-  <str key="89432209-ucdt" type="ucdt" originalKey="89432209">Changes the vehicle's contrails to leave a trail of feathers. NC use only.</str>
-  <str key="128966611-ucdt" type="ucdt" originalKey="128966611">Share the love with your Seraphim HLX heavy crossbow or customize your favorite aircraft with heart-stopping new contrail and afterburner effects.</str>
-  <str key="133735314-ucdt" type="ucdt" originalKey="133735314">Scythe Shamrock Contrails</str>
-  <str key="190772917-ucdn" type="ucdn" originalKey="190772917"/>
-  <str key="191907113-ucdt" type="ucdt" originalKey="191907113">Wyrdwood Decal</str>
-  <str key="192612613-ucdt" type="ucdt" originalKey="192612613">Seraphim HLX: Silver Medal</str>
-  <str key="260200902-ucdn" type="ucdn" originalKey="260200902"/>
-  <str key="279778490-ucdt" type="ucdt" originalKey="279778490">Seraphim HLX</str>
-  <str key="280550601-ucdt" type="ucdt" originalKey="280550601">Lucky Banner</str>
-  <str key="317944839-ucdn" type="ucdn" originalKey="317944839"/>
-  <str key="323005911-ucdt" type="ucdt" originalKey="323005911">Wyrdwood Shillelagh: Gold Medal</str>
-  <str key="324816855-ucdt" type="ucdt" originalKey="324816855">Grants the "Druid" prefix title.</str>
-  <str key="325759751-ucdt" type="ucdt" originalKey="325759751">Dark Chocolate Camo</str>
-  <str key="325825371-ucdn" type="ucdn" originalKey="325825371"/>
-  <str key="349228348-ucdn" type="ucdn" originalKey="349228348"/>
-  <str key="358958387-ugdt" type="ugdt" originalKey="358958387">Scythe Cupid Contrails</str>
-  <str key="398993257-ugdt" type="ugdt" originalKey="398993257">Wyrdwood Decal</str>
-  <str key="432593253-ucdn" type="ucdn" originalKey="432593253"/>
-  <str key="447046338-ucdn" type="ucdn" originalKey="447046338"/>
-  <str key="475983773-ucdn" type="ucdn" originalKey="475983773"/>
-  <str key="496393463-ucdn" type="ucdn" originalKey="496393463"/>
-  <str key="501632873-ucdn" type="ucdn" originalKey="501632873"/>
-  <str key="507051011-ugdt" type="ugdt" originalKey="507051011">Prowler Danny Boy Horn</str>
-  <str key="520445603-ucdn" type="ucdn" originalKey="520445603"/>
-  <str key="524674649-ucdt" type="ucdt" originalKey="524674649">Galaxy Cupid Contrails</str>
-  <str key="530463037-ucdn" type="ucdn" originalKey="530463037"/>
-  <str key="571778054-ucdt" type="ucdt" originalKey="571778054">Changes the vehicle's contrails to leave a trail of shamrocks. NSO use only.</str>
-  <str key="575412756-ugdt" type="ugdt" originalKey="575412756">Lightning Danny Boy Horn</str>
-  <str key="580202061-ugdt" type="ugdt" originalKey="580202061">Ukraine Decal</str>
-  <str key="595146607-ucdn" type="ucdn" originalKey="595146607"/>
-  <str key="615136160-ucdt" type="ucdt" originalKey="615136160">It's Time to Get Lucky!</str>
-  <str key="644831998-ucdt" type="ucdt" originalKey="644831998">Adds green cosmetic afterburner effect to this vehicle. NC use only.</str>
-  <str key="652462397-ucdt" type="ucdt" originalKey="652462397">Changes the vehicle's contrails to leave a trail of feathers. TR use only.</str>
-  <str key="660377668-ucdn" type="ucdn" originalKey="660377668"/>
-  <str key="672447471-ucdn" type="ucdn" originalKey="672447471"/>
-  <str key="690088099-ucdt" type="ucdt" originalKey="690088099">Scythe Pink Afterburner</str>
-  <str key="698479856-ucdt" type="ucdt" originalKey="698479856">NS-44 "Jackpot" Commissioner: Auraxium Medal</str>
-  <str key="734665059-ugdt" type="ugdt" originalKey="734665059">Reaver Cupid Contrails</str>
-  <str key="737553525-ugdt" type="ugdt" originalKey="737553525">Scythe Pink Afterburner</str>
-  <str key="748710586-ucdt" type="ucdt" originalKey="748710586">Mosquito Danny Boy Horn</str>
-  <str key="754217552-ugdt" type="ugdt" originalKey="754217552">Valkyrie Cupid Contrails</str>
-  <str key="785952969-ugdt" type="ugdt" originalKey="785952969">Dark Chocolate Camo</str>
-  <str key="788521562-ugdt" type="ugdt" originalKey="788521562">Seraphim HLX</str>
-  <str key="796301694-ucdt" type="ucdt" originalKey="796301694">Wyrdwood Caubeen</str>
-  <str key="800920078-ucdn" type="ucdn" originalKey="800920078"/>
-  <str key="801807777-ucdn" type="ucdn" originalKey="801807777"/>
-  <str key="809527153-ugdt" type="ugdt" originalKey="809527153">Dervish Cupid Contrails</str>
-  <str key="817124450-ucdt" type="ucdt" originalKey="817124450">Underwater Thrusters Mk IV allow the user to glide along the ocean's floor at an accelerated rate. &lt;font color="#dc9c36"&gt;Tactical slot item. Press Jump when wielded underwater to use. Cannot be equipped by Light Assault.&lt;/font&gt;</str>
-  <str key="833937732-ugdt" type="ugdt" originalKey="833937732">Reaver Green Afterburner</str>
-  <str key="871052343-ucdn" type="ucdn" originalKey="871052343"/>
-  <str key="882183832-ucdt" type="ucdt" originalKey="882183832">Underwater Thrusters Mk II</str>
-  <str key="882655711-ucdn" type="ucdn" originalKey="882655711"/>
-  <str key="885801848-ucdt" type="ucdt" originalKey="885801848">Vehicle Dot Reticle</str>
-  <str key="887478468-ucdt" type="ucdt" originalKey="887478468">Valkyrie Shamrock Contrails</str>
-  <str key="890433380-ucdt" type="ucdt" originalKey="890433380">Southeast Flotilla under assault by [*faction*].</str>
-  <str key="897756071-ucdt" type="ucdt" originalKey="897756071">Scythe Green Afterburner</str>
-  <str key="902312644-ucdt" type="ucdt" originalKey="902312644">Liberator Green Afterburner</str>
-  <str key="925124256-ucdt" type="ucdt" originalKey="925124256">Celebrate Saint Patrick's Day with this lucky bundle. Comes with the Wyrdwood Shillelagh melee weapon, helmet, decal, and "Druid" title. All factions receive these items.</str>
-  <str key="938441279-ucdt" type="ucdt" originalKey="938441279">Underwater Thrusters Mk IV</str>
-  <str key="941062320-ucdn" type="ucdn" originalKey="941062320"/>
-  <str key="952391195-ucdn" type="ucdn" originalKey="952391195"/>
-  <str key="969338605-ucdn" type="ucdn" originalKey="969338605"/>
-  <str key="991050418-ugdt" type="ugdt" originalKey="991050418">Wyrdwood Caubeen</str>
-  <str key="999545349-ucdt" type="ucdt" originalKey="999545349">Underwater Thrusters Mk I allow the user to glide along the ocean's floor at an accelerated rate. &lt;font color="#dc9c36"&gt;Tactical slot item. Press Jump when wielded underwater to use. Cannot be equipped by Light Assault.&lt;/font&gt;</str>
-  <str key="1005538613-ucdn" type="ucdn" originalKey="1005538613"/>
-  <str key="1017496341-ugdt" type="ugdt" originalKey="1017496341">Galaxy Shamrock Contrails</str>
-  <str key="1068555815-ucdt" type="ucdt" originalKey="1068555815">Link to Southwest Flotilla.</str>
-  <str key="1069158106-ucdt" type="ucdt" originalKey="1069158106">Adds green cosmetic afterburner effect to this vehicle. NSO use only.</str>
-  <str key="1094992030-ucdt" type="ucdt" originalKey="1094992030">Flash Danny Boy Horn</str>
-  <str key="1097773386-ucdn" type="ucdn" originalKey="1097773386"/>
-  <str key="1113816062-ucdn" type="ucdn" originalKey="1113816062"/>
-  <str key="1115059535-ucdn" type="ucdn" originalKey="1115059535"/>
-  <str key="1127420330-ucdt" type="ucdt" originalKey="1127420330">Scythe Cupid Contrails</str>
-  <str key="1134219765-ucdn" type="ucdn" originalKey="1134219765"/>
-  <str key="1139977467-ucdt" type="ucdt" originalKey="1139977467">Changes the vehicle's contrails to leave a trail of feathers. VS use only.</str>
-  <str key="1151352555-ucdt" type="ucdt" originalKey="1151352555">Reaver Cupid Contrails</str>
-  <str key="1151436724-ucdt" type="ucdt" originalKey="1151436724">Hit the jackpot with this Saint Patrick's Day bundle. Comes with the "Jackpot" Commissioner, lucky banner, shamrock contrails, green afterburner effects, and Danny Boy horns. All factions receive these items.</str>
-  <str key="1157069242-ucdt" type="ucdt" originalKey="1157069242">Title: Druid</str>
-  <str key="1183035751-ucdn" type="ucdn" originalKey="1183035751"/>
-  <str key="1190510765-ucdt" type="ucdt" originalKey="1190510765">Changes the vehicle's contrails to leave a trail of shamrocks. VS use only.</str>
-  <str key="1195471571-ucdt" type="ucdt" originalKey="1195471571">Valkyrie Cupid Contrails</str>
-  <str key="1226403619-ucdt" type="ucdt" originalKey="1226403619">Adds pink cosmetic afterburner effect to this vehicle. NSO use only.</str>
-  <str key="1232794695-ugdt" type="ugdt" originalKey="1232794695">Scythe Shamrock Contrails</str>
-  <str key="1250758562-ucdn" type="ucdn" originalKey="1250758562"/>
-  <str key="1279608820-ucdn" type="ucdn" originalKey="1279608820"/>
-  <str key="1284113526-ucdn" type="ucdn" originalKey="1284113526"/>
-  <str key="1285660268-ucdt" type="ucdt" originalKey="1285660268">2022 Saint Patrick's Day Bundle</str>
-  <str key="1288415825-ucdt" type="ucdt" originalKey="1288415825">Become a Member</str>
-  <str key="1289976797-ugdt" type="ugdt" originalKey="1289976797">Liberator Shamrock Contrails</str>
-  <str key="1301621079-ucdn" type="ucdn" originalKey="1301621079"/>
-  <str key="1304117761-ucdt" type="ucdt" originalKey="1304117761">Wyrdwood Shillelagh: Copper Medal</str>
-  <str key="1321600973-ucdt" type="ucdt" originalKey="1321600973">Reaver Danny Boy Horn</str>
-  <str key="1347977024-ucdn" type="ucdn" originalKey="1347977024"/>
-  <str key="1401833455-ucdn" type="ucdn" originalKey="1401833455"/>
-  <str key="1473224731-ugdt" type="ugdt" originalKey="1473224731">Magrider Danny Boy Horn</str>
-  <str key="1476703476-ucdt" type="ucdt" originalKey="1476703476">Southwest Flotilla under assault by [*faction*].</str>
-  <str key="1477377035-ucdt" type="ucdt" originalKey="1477377035">Adds green cosmetic afterburner effect to this vehicle. All factions can use this gear.</str>
-  <str key="1482189055-ucdt" type="ucdt" originalKey="1482189055">MEMBERS ONLY</str>
-  <str key="1498663168-ucdt" type="ucdt" originalKey="1498663168">Ready yourself for romance as love fills the air and battlefields of Auraxis.&lt;br&gt;&lt;br&gt;Your old friend &lt;font size="28" color="#ACE1E5"&gt;FL-34&lt;/font&gt; is back at it again with daily &lt;font size="28" color="#ACE1E5"&gt;Matchmaking Missions&lt;/font&gt;, so give him a hand with his schemes to earn valuable rewards or show your dedication to L-O-V-E by completing this year's &lt;font size="28" color="#ACE1E5"&gt;Seasonal Directive&lt;/font&gt;. Love, as they say, is a fragile blossom, but the limited-time &lt;font size="28" color="#ACE1E5"&gt;camos, weapons, and cosmetics&lt;/font&gt; found in the &lt;font size="28" color="#ACE1E5"&gt;Depot&lt;/font&gt; are not.</str>
-  <str key="1511832913-ucdt" type="ucdt" originalKey="1511832913">Galaxy Shamrock Contrails</str>
-  <str key="1523256756-ucdn" type="ucdn" originalKey="1523256756"/>
-  <str key="1534280967-ucdn" type="ucdn" originalKey="1534280967"/>
-  <str key="1571480703-ucdt" type="ucdt" originalKey="1571480703">Galaxy Danny Boy Horn</str>
-  <str key="1593744716-ugdt" type="ugdt" originalKey="1593744716">Sunderer Danny Boy Horn</str>
-  <str key="1600591881-ugdt" type="ugdt" originalKey="1600591881">NS-44 "Jackpot" Commissioner</str>
-  <str key="1635738653-ugdt" type="ugdt" originalKey="1635738653">Mosquito Shamrock Contrails</str>
-  <str key="1649466605-ugdt" type="ugdt" originalKey="1649466605">Underwater Thrusters Mk I</str>
-  <str key="1650650298-ucdt" type="ucdt" originalKey="1650650298">40% off vehicle gear this weekend!</str>
-  <str key="1664772665-ucdt" type="ucdt" originalKey="1664772665">SKL Outfit Decal</str>
-  <str key="1685174987-ucdt" type="ucdt" originalKey="1685174987">Adds pink cosmetic afterburner effect to this vehicle. All factions can use this gear.</str>
-  <str key="1686721296-ucdt" type="ucdt" originalKey="1686721296">Liberator Shamrock Contrails</str>
-  <str key="1710091991-ugdt" type="ugdt" originalKey="1710091991">Heartless Outfit Decal</str>
-  <str key="1727235974-ucdn" type="ucdn" originalKey="1727235974"/>
-  <str key="1742586128-ucdn" type="ucdn" originalKey="1742586128"/>
-  <str key="1774392793-ucdn" type="ucdn" originalKey="1774392793"/>
-  <str key="1797822418-ugdt" type="ugdt" originalKey="1797822418">Underwater Thrusters Mk III</str>
-  <str key="1813187878-ucdt" type="ucdt" originalKey="1813187878">Mosquito Pink Afterburner</str>
-  <str key="1834857401-ucdt" type="ucdt" originalKey="1834857401">Magrider Danny Boy Horn</str>
-  <str key="1860256963-ucdn" type="ucdn" originalKey="1860256963"/>
-  <str key="1925826233-ucdn" type="ucdn" originalKey="1925826233"/>
-  <str key="1946655414-ugdt" type="ugdt" originalKey="1946655414">Dervish Pink Afterburner</str>
-  <str key="1958258075-ucdt" type="ucdt" originalKey="1958258075">Adds green cosmetic afterburner effect to this vehicle. TR use only.</str>
-  <str key="1963972360-ucdt" type="ucdt" originalKey="1963972360">Changes the vehicle's contrails to leave a trail of shamrocks. TR use only.</str>
-  <str key="2015829311-ucdt" type="ucdt" originalKey="2015829311">Valentine's Day 2022</str>
-  <str key="2025975783-ucdn" type="ucdn" originalKey="2025975783"/>
-  <str key="2089808674-ucdt" type="ucdt" originalKey="2089808674">Seraphim HLX: Copper Medal</str>
-  <str key="2094624741-ucdt" type="ucdt" originalKey="2094624741">An ornate banner of green and gold said to bring good fortune to those who use it.</str>
-  <str key="2102444288-ugdt" type="ugdt" originalKey="2102444288">Reaver Danny Boy Horn</str>
-  <str key="2114428450-ucdn" type="ucdn" originalKey="2114428450"/>
-  <str key="2140286523-ugdt" type="ugdt" originalKey="2140286523">Chimera Danny Boy Horn</str>
-  <str key="2183007229-ucdt" type="ucdt" originalKey="2183007229">Changes the vehicle's contrails to leave a trail of shamrocks. All factions can use this gear.</str>
-  <str key="2184324361-ugdt" type="ugdt" originalKey="2184324361">Underwater Thrusters Mk II</str>
-  <str key="2188905982-ucdt" type="ucdt" originalKey="2188905982">Chimera Danny Boy Horn</str>
-  <str key="2199544187-ucdt" type="ucdt" originalKey="2199544187">Wyrdwood Shillelagh</str>
-  <str key="2215842731-ucdn" type="ucdn" originalKey="2215842731"/>
-  <str key="2216872467-ucdt" type="ucdt" originalKey="2216872467">Lovestruck Bundle</str>
-  <str key="2221967145-ucdt" type="ucdt" originalKey="2221967145">Ukraine Decal</str>
-  <str key="2222876592-ucdt" type="ucdt" originalKey="2222876592">Reaver Shamrock Contrails</str>
-  <str key="2225166077-ucdt" type="ucdt" originalKey="2225166077">Maintain lattice connection to an enemy Flotilla.</str>
-  <str key="2225730633-ucdn" type="ucdn" originalKey="2225730633"/>
-  <str key="2240066849-ucdt" type="ucdt" originalKey="2240066849">Underwater Thrusters Mk III</str>
-  <str key="2243873986-ugdt" type="ugdt" originalKey="2243873986">Title: Druid</str>
-  <str key="2276363407-ucdn" type="ucdn" originalKey="2276363407"/>
-  <str key="2301286231-ugdt" type="ugdt" originalKey="2301286231">Valkyrie Shamrock Contrails</str>
-  <str key="2347193681-ucdn" type="ucdn" originalKey="2347193681"/>
-  <str key="2348013374-ucdn" type="ucdn" originalKey="2348013374"/>
-  <str key="2353223168-ugdt" type="ugdt" originalKey="2353223168">Wyrdwood Shillelagh</str>
-  <str key="2360564595-ucdn" type="ucdn" originalKey="2360564595"/>
-  <str key="2379603236-ucdt" type="ucdt" originalKey="2379603236">Prowler Danny Boy Horn</str>
-  <str key="2394648278-ucdn" type="ucdn" originalKey="2394648278"/>
-  <str key="2411586476-ugdt" type="ugdt" originalKey="2411586476">Vanguard Danny Boy Horn</str>
-  <str key="2434048501-ugdt" type="ugdt" originalKey="2434048501">Valkyrie Danny Boy Horn</str>
-  <str key="2435173513-ucdn" type="ucdn" originalKey="2435173513"/>
-  <str key="2436884545-ucdt" type="ucdt" originalKey="2436884545">Underwater Thrusters Mk V allow the user to glide along the ocean's floor at an accelerated rate. &lt;font color="#dc9c36"&gt;Tactical slot item. Press Jump when wielded underwater to use. Cannot be equipped by Light Assault.&lt;/font&gt;</str>
-  <str key="2440006039-ucdn" type="ucdn" originalKey="2440006039"/>
-  <str key="2457547024-ugdt" type="ugdt" originalKey="2457547024">Reaver Pink Afterburner</str>
-  <str key="2473223373-ucdt" type="ucdt" originalKey="2473223373">Adds pink cosmetic afterburner effect to this vehicle. TR use only.</str>
-  <str key="2491720655-ucdn" type="ucdn" originalKey="2491720655"/>
-  <str key="2545597276-ucdt" type="ucdt" originalKey="2545597276">Mosquito Green Afterburner</str>
-  <str key="2576736333-ucdn" type="ucdn" originalKey="2576736333"/>
-  <str key="2588493659-xgdt" type="xgdt" originalKey="2588493659">Flash Bumper TR005</str>
-  <str key="2588493659-xcdt" type="xcdt" originalKey="2588493659">Apply the Cracked Earth camo pattern to your weapon. TR use only.</str>
-  <str key="2594770231-ucdt" type="ucdt" originalKey="2594770231">Changes the vehicle's contrails to leave a trail of shamrocks. NC use only.</str>
-  <str key="2601323417-ucdt" type="ucdt" originalKey="2601323417">Liberator Cupid Contrails</str>
-  <str key="2622191381-ucdn" type="ucdn" originalKey="2622191381"/>
-  <str key="2642483890-ugdt" type="ugdt" originalKey="2642483890">Mosquito Danny Boy Horn</str>
-  <str key="2642778617-ugdt" type="ugdt" originalKey="2642778617">Scythe Danny Boy Horn</str>
-  <str key="2649901324-ucdn" type="ucdn" originalKey="2649901324"/>
-  <str key="2660996313-ucdn" type="ucdn" originalKey="2660996313"/>
-  <str key="2676014300-ugdt" type="ugdt" originalKey="2676014300">Liberator Danny Boy Horn</str>
-  <str key="2698714740-ucdt" type="ucdt" originalKey="2698714740">Reaver Pink Afterburner</str>
-  <str key="2699218606-ugdt" type="ugdt" originalKey="2699218606">Underwater Thrusters Mk V</str>
-  <str key="2702733472-ucdt" type="ucdt" originalKey="2702733472">Underwater Thrusters</str>
-  <str key="2722555679-ucdn" type="ucdn" originalKey="2722555679"/>
-  <str key="2726206735-ucdt" type="ucdt" originalKey="2726206735">NS-44 "Jackpot" Commissioner: Copper Medal</str>
-  <str key="2730779563-ucdn" type="ucdn" originalKey="2730779563"/>
-  <str key="2737489321-ugdt" type="ugdt" originalKey="2737489321">Flash Danny Boy Horn</str>
-  <str key="2741982386-ucdt" type="ucdt" originalKey="2741982386">Dervish Danny Boy Horn</str>
-  <str key="2744409657-ucdt" type="ucdt" originalKey="2744409657">Underwater Thrusters allow the user to glide along the ocean's floor at an accelerated rate. &lt;font color="#dc9c36"&gt;Tactical slot item. Press Jump when wielded underwater to use. Cannot be equipped by Light Assault.&lt;/font&gt;</str>
-  <str key="2763638211-ucdt" type="ucdt" originalKey="2763638211">Grants the "Lovestruck" prefix title.</str>
-  <str key="2768493492-ucdt" type="ucdt" originalKey="2768493492">Valentine's Day 2022</str>
-  <str key="2779038894-ucdn" type="ucdn" originalKey="2779038894"/>
-  <str key="2779182203-ugdt" type="ugdt" originalKey="2779182203">Title: Lovestruck</str>
-  <str key="2796773677-ugdt" type="ugdt" originalKey="2796773677">Matchmaker Directive Update</str>
-  <str key="2828589770-ucdn" type="ucdn" originalKey="2828589770"/>
-  <str key="2828902183-ucdt" type="ucdt" originalKey="2828902183">NS-44 "Jackpot" Commissioner: Gold Medal</str>
-  <str key="2847498176-ugdt" type="ugdt" originalKey="2847498176">Colossus Montu Armor</str>
-  <str key="2850584468-ugdt" type="ugdt" originalKey="2850584468">Mosquito Cupid Contrails</str>
-  <str key="2857542205-ucdn" type="ucdn" originalKey="2857542205"/>
-  <str key="2889294226-ucdn" type="ucdn" originalKey="2889294226"/>
-  <str key="2900568304-ucdt" type="ucdt" originalKey="2900568304">Scythe Danny Boy Horn</str>
-  <str key="2902676262-ugdt" type="ugdt" originalKey="2902676262">Mosquito Pink Afterburner</str>
-  <str key="2904484844-ugdt" type="ugdt" originalKey="2904484844">Liberator Green Afterburner</str>
-  <str key="2918186315-ucdt" type="ucdt" originalKey="2918186315">Northern Flotilla under assault by [*faction*].</str>
-  <str key="2921300109-ucdt" type="ucdt" originalKey="2921300109">Dervish Pink Afterburner</str>
-  <str key="2935515846-ucdt" type="ucdt" originalKey="2935515846">Link to Southeast Flotilla.</str>
-  <str key="2935953149-ucdt" type="ucdt" originalKey="2935953149">Reaver Green Afterburner</str>
-  <str key="2950809067-ucdt" type="ucdt" originalKey="2950809067">Visit the location specified in any combat zone</str>
-  <str key="2957174824-ucdn" type="ucdn" originalKey="2957174824"/>
-  <str key="2973443724-ugdt" type="ugdt" originalKey="2973443724">Galaxy Cupid Contrails</str>
-  <str key="2976724122-ucdn" type="ucdn" originalKey="2976724122"/>
-  <str key="2980815216-ugdt" type="ugdt" originalKey="2980815216">Javelin Danny Boy Horn</str>
-  <str key="2993135769-ugdt" type="ugdt" originalKey="2993135769">Dervish Shamrock Contrails</str>
-  <str key="3010553364-ucdt" type="ucdt" originalKey="3010553364">NS-44 "Jackpot" Commissioner</str>
-  <str key="3021206649-ugdt" type="ugdt" originalKey="3021206649">Mosquito Green Afterburner</str>
-  <str key="3043177848-ugdt" type="ugdt" originalKey="3043177848">Liberator Pink Afterburner</str>
-  <str key="3066441065-ucdt" type="ucdt" originalKey="3066441065">Link to Northern Flotilla.</str>
-  <str key="3069985116-ucdt" type="ucdt" originalKey="3069985116">Valkyrie Danny Boy Horn</str>
-  <str key="3127390965-ugdt" type="ugdt" originalKey="3127390965">Galaxy Danny Boy Horn</str>
-  <str key="3145468578-ucdn" type="ucdn" originalKey="3145468578"/>
-  <str key="3147005235-ucdn" type="ucdn" originalKey="3147005235"/>
-  <str key="3166043309-ucdn" type="ucdn" originalKey="3166043309"/>
-  <str key="3190707906-ugdt" type="ugdt" originalKey="3190707906">ANT Danny Boy Horn</str>
-  <str key="3204808995-ucdt" type="ucdt" originalKey="3204808995">St. Patrick's Day 2022</str>
-  <str key="3205200795-ucdn" type="ucdn" originalKey="3205200795"/>
-  <str key="3210859920-ucdt" type="ucdt" originalKey="3210859920">Mosquito Cupid Contrails</str>
-  <str key="3221337306-ucdn" type="ucdn" originalKey="3221337306"/>
-  <str key="3239479705-ucdt" type="ucdt" originalKey="3239479705">Adds pink cosmetic afterburner effect to this vehicle. NC use only.</str>
-  <str key="3254575709-ucdt" type="ucdt" originalKey="3254575709">Javelin Danny Boy Horn</str>
-  <str key="3305456528-ucdt" type="ucdt" originalKey="3305456528">Adds pink cosmetic afterburner effect to this vehicle. VS use only.</str>
-  <str key="3307531317-ucdn" type="ucdn" originalKey="3307531317"/>
-  <str key="3312126384-ucdt" type="ucdt" originalKey="3312126384">Displays a dot reticle for vehicles while in third person. (Default: On)</str>
-  <str key="3320816234-ucdt" type="ucdt" originalKey="3320816234">Thrust</str>
-  <str key="3326135743-ucdt" type="ucdt" originalKey="3326135743">Underwater Thrusters Mk II allow the user to glide along the ocean's floor at an accelerated rate. &lt;font color="#dc9c36"&gt;Tactical slot item. Press Jump when wielded underwater to use. Cannot be equipped by Light Assault.&lt;/font&gt;</str>
-  <str key="3330110634-ucdt" type="ucdt" originalKey="3330110634">Wyrdwood Shillelagh: Silver Medal</str>
-  <str key="3331890804-ucdt" type="ucdt" originalKey="3331890804">Wyrdwood Bundle</str>
-  <str key="3339954787-ucdn" type="ucdn" originalKey="3339954787"/>
-  <str key="3401066781-ugdt" type="ugdt" originalKey="3401066781">Reaver Shamrock Contrails</str>
-  <str key="3435563827-ucdt" type="ucdt" originalKey="3435563827">&lt;font size="32"&gt;Celebrate the luckiest holiday of the year with the new Wyrdwood Bundle, the 2022 Saint Patrick's Day Bundle, and an assortment of returning favorites.&lt;br&gt;&lt;br&gt;Check out the &lt;font color="#ACE1E5"&gt;Depot&lt;/font&gt; for all of the limited time weapons, camo, and cosmetics before they're gone!&lt;/font&gt;</str>
-  <str key="3438372092-ugdt" type="ugdt" originalKey="3438372092">Liberator Cupid Contrails</str>
-  <str key="3443057903-ucdn" type="ucdn" originalKey="3443057903"/>
-  <str key="3452752547-ucdt" type="ucdt" originalKey="3452752547">Dervish Green Afterburner</str>
-  <str key="3459084120-ugdt" type="ugdt" originalKey="3459084120">Harasser Danny Boy Horn</str>
-  <str key="3493908096-ucdt" type="ucdt" originalKey="3493908096">because there is no line of sight to the deployable.</str>
-  <str key="3509378271-ucdt" type="ucdt" originalKey="3509378271">Dervish Cupid Contrails</str>
-  <str key="3510343302-ucdn" type="ucdn" originalKey="3510343302"/>
-  <str key="3510976521-ucdn" type="ucdn" originalKey="3510976521"/>
-  <str key="3516459402-ucdn" type="ucdn" originalKey="3516459402"/>
-  <str key="3519570372-ucdn" type="ucdn" originalKey="3519570372"/>
-  <str key="3523454191-ucdn" type="ucdn" originalKey="3523454191"/>
-  <str key="3524646833-ucdn" type="ucdn" originalKey="3524646833"/>
-  <str key="3526453742-ugdt" type="ugdt" originalKey="3526453742">Underwater Thrusters Mk IV</str>
-  <str key="3533405751-ucdt" type="ucdt" originalKey="3533405751">Underwater Thrusters Mk III allow the user to glide along the ocean's floor at an accelerated rate. &lt;font color="#dc9c36"&gt;Tactical slot item. Press Jump when wielded underwater to use. Cannot be equipped by Light Assault.&lt;/font&gt;</str>
-  <str key="3560117875-ucdt" type="ucdt" originalKey="3560117875">Oshur Conquest</str>
-  <str key="3561175032-ucdt" type="ucdt" originalKey="3561175032">Mosquito Shamrock Contrails</str>
-  <str key="3562306497-ucdn" type="ucdn" originalKey="3562306497"/>
-  <str key="3581123690-ucdt" type="ucdt" originalKey="3581123690">Liberator Danny Boy Horn</str>
-  <str key="3601077136-ucdn" type="ucdn" originalKey="3601077136"/>
-  <str key="3617841774-ucdt" type="ucdt" originalKey="3617841774">Heartless Outfit Decal</str>
-  <str key="3618738873-ucdt" type="ucdt" originalKey="3618738873">Druid</str>
-  <str key="3646962286-ucdt" type="ucdt" originalKey="3646962286">Vanguard Danny Boy Horn</str>
-  <str key="3656942022-ucdt" type="ucdt" originalKey="3656942022">Changes the vehicle's contrails to leave a trail of feathers. All factions can use this gear.</str>
-  <str key="3691563484-ucdn" type="ucdn" originalKey="3691563484"/>
-  <str key="3695651863-ucdt" type="ucdt" originalKey="3695651863">Title: Lovestruck</str>
-  <str key="3703216980-ucdt" type="ucdt" originalKey="3703216980">Adds green cosmetic afterburner effect to this vehicle. VS use only.</str>
-  <str key="3727610332-ucdt" type="ucdt" originalKey="3727610332">ANT Danny Boy Horn</str>
-  <str key="3728501202-ucdt" type="ucdt" originalKey="3728501202">Seraphim HLX: Gold Medal</str>
-  <str key="3733742516-ugdt" type="ugdt" originalKey="3733742516">SKL Outfit Decal</str>
-  <str key="3752123515-ucdt" type="ucdt" originalKey="3752123515">Colossus Montu Armor</str>
-  <str key="3761946151-ucdt" type="ucdt" originalKey="3761946151">Underwater Thrusters Mk V</str>
-  <str key="3765944946-ucdt" type="ucdt" originalKey="3765944946">Liberator Pink Afterburner</str>
-  <str key="3792082302-ugdt" type="ugdt" originalKey="3792082302">Dervish Danny Boy Horn</str>
-  <str key="3822292036-ugdt" type="ugdt" originalKey="3822292036">Scythe Green Afterburner</str>
-  <str key="3844287033-ucdn" type="ucdn" originalKey="3844287033"/>
-  <str key="3851177472-ucdn" type="ucdn" originalKey="3851177472"/>
-  <str key="3864628050-ucdt" type="ucdt" originalKey="3864628050">Lightning Danny Boy Horn</str>
-  <str key="3879857051-ucdt" type="ucdt" originalKey="3879857051">NS-44 "Jackpot" Commissioner: Silver Medal</str>
-  <str key="3979116877-ucdt" type="ucdt" originalKey="3979116877">Seraphim HLX: Auraxium Medal</str>
-  <str key="3983797232-ucdn" type="ucdn" originalKey="3983797232"/>
-  <str key="3992738604-ucdn" type="ucdn" originalKey="3992738604"/>
-  <str key="4011381081-ucdt" type="ucdt" originalKey="4011381081">Lovestruck</str>
-  <str key="4069288496-ucdt" type="ucdt" originalKey="4069288496">Settle your disputes in a gentlemanly manner with this modern take on the classic melee weapon. All factions can use this weapon.</str>
-  <str key="4083830770-ugdt" type="ugdt" originalKey="4083830770">Dervish Green Afterburner</str>
-  <str key="4124855616-ucdt" type="ucdt" originalKey="4124855616">Underwater Thrusters Mk I</str>
-  <str key="4202269060-ugdt" type="ugdt" originalKey="4202269060">Lucky Banner</str>
-  <str key="4272567999-ucdn" type="ucdn" originalKey="4272567999"/>
-  <str key="4282993724-ucdt" type="ucdt" originalKey="4282993724">Changes the vehicle's contrails to leave a trail of feathers. NSO use only.</str>
+    <str key="10493090-ucdt" type="ucdt" originalKey="10493090">Wyrdwood Shillelagh: Auraxium Medal</str>
+    <str key="15351632-ugdt" type="ugdt" originalKey="15351632">Lodestar Module 2</str>
+    <str key="15707196-ucdn" type="ucdn" originalKey="15707196"></str>
+    <str key="17253394-ucdt" type="ucdt" originalKey="17253394">A duckbill choke causes pellets to spread in a wide, horizontal pattern.</str>
+    <str key="17883473-ugdt" type="ugdt" originalKey="17883473">Lodestar Module 1</str>
+    <str key="30161910-ucdt" type="ucdt" originalKey="30161910">Increases the maximum ammo capacity of the weapon by 720.</str>
+    <str key="31644864-ucdt" type="ucdt" originalKey="31644864">The Season of Love has begun!</str>
+    <str key="35332439-ucdt" type="ucdt" originalKey="35332439">Dervish Shamrock Contrails</str>
+    <str key="40567692-ucdt" type="ucdt" originalKey="40567692">Sunderer Danny Boy Horn</str>
+    <str key="48478095-ucdt" type="ucdt" originalKey="48478095">Legion Sergeant Helmet</str>
+    <str key="53398561-ucdt" type="ucdt" originalKey="53398561">Harasser Danny Boy Horn</str>
+    <str key="74464825-ucdt" type="ucdt" originalKey="74464825">M18 Palisade-S [Front]</str>
+    <str key="75487943-ucdt" type="ucdt" originalKey="75487943">The Javelin is an experimental recon vehicle with hover capabilities, allowing it to quickly traverse all types of terrain. Like the Flash, the Javelin can carry a single passenger in an exposed rumble seat. This passenger can use their equipment and abilities as normal.&lt;br&gt;&lt;br&gt;Faction: NS Operatives&lt;br&gt;Size: Small&lt;br&gt;Type: Transport&lt;br&gt;Movement: Hover</str>
+    <str key="77207167-ucdt" type="ucdt" originalKey="77207167">M18 Palisade: Silver Medal</str>
+    <str key="77785805-ucdn" type="ucdn" originalKey="77785805"></str>
+    <str key="80507239-ucdt" type="ucdt" originalKey="80507239">The underbarrel Cure Launcher heals affected allies over time, and cleanses most status effects on impact. Equipping this attachment increases the equip time of the weapon by 0.25 seconds. &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Pressing Gear Slot 1 hotkey will toggle the attachment.&lt;/font&gt;</str>
+    <str key="89432209-ucdt" type="ucdt" originalKey="89432209">Changes the vehicle's contrails to leave a trail of feathers. NC use only.</str>
+    <str key="90189900-ucdt" type="ucdt" originalKey="90189900">Unlocks the Havoc Mine for NS Engineers.</str>
+    <str key="96280112-ucdt" type="ucdt" originalKey="96280112">Tricky</str>
+    <str key="98388070-ucdt" type="ucdt" originalKey="98388070">Legion Corporal Helmet</str>
+    <str key="99597458-ucdt" type="ucdt" originalKey="99597458">AP</str>
+    <str key="102834217-ucdt" type="ucdt" originalKey="102834217">The Prowler is a versatile tank used exclusively by the Terran Republic. It boasts a higher top speed than other tanks and comes equipped with twin barrel cannons that are capable of quickly inflicting damage. The Prowler finds use as an artillery vehicle, able to deploy to Anchored Mode to easily deal damage to faster moving vehicles or those at longer ranges.&lt;br&gt;&lt;br&gt;Faction: Terran Republic&lt;br&gt;Size: Medium&lt;br&gt;Type: MBT&lt;br&gt;Movement: Tank</str>
+    <str key="109823086-ucdt" type="ucdt" originalKey="109823086">Direct hits now strip 10% maximum shield health and ability energy from enemies, and will deal high damage to small deployables, but reduces your total damage by 20% at all ranges.</str>
+    <str key="110255281-ucdt" type="ucdt" originalKey="110255281">M18 Palisade-S: Gold Medal</str>
+    <str key="115745618-ugdt" type="ugdt" originalKey="115745618">M18 Palisade-H</str>
+    <str key="128966611-ucdt" type="ucdt" originalKey="128966611">Share the love with your Seraphim HLX heavy crossbow or customize your favorite aircraft with heart-stopping new contrail and afterburner effects.</str>
+    <str key="133121440-ugdt" type="ugdt" originalKey="133121440">Joker Card Outfit Decal</str>
+    <str key="133735314-ucdt" type="ucdt" originalKey="133735314">Scythe Shamrock Contrails</str>
+    <str key="161353871-ucdt" type="ucdt" originalKey="161353871">FL-34 claims this is a replica of a limited-edition Punisher stolen from a Nanite Systems showroom while it was in the process of being auctioned off. It has no unique functionality aside from looking pretty. All factions can use NS weapons.</str>
+    <str key="169919082-ucdt" type="ucdt" originalKey="169919082">N30 Trawler-S: Gold Medal</str>
+    <str key="175574243-ucdt" type="ucdt" originalKey="175574243">The Flash is a light four-wheeled all-terrain vehicle capable of quickly getting the driver and one passenger to the front lines. The passenger can use most of their personal equipment while riding on the back.&lt;br&gt;&lt;br&gt;Faction: Common Pool&lt;br&gt;Size: Small&lt;br&gt;Type: Transport&lt;br&gt;Movement: Wheeled</str>
+    <str key="177059701-ucdt" type="ucdt" originalKey="177059701">Stabilization</str>
+    <str key="183799874-ucdt" type="ucdt" originalKey="183799874">Unlocks the Flashbang Mine for use by the VS Infiltrator.</str>
+    <str key="184690798-ucdt" type="ucdt" originalKey="184690798">Title: Tricky</str>
+    <str key="190671702-ucdt" type="ucdt" originalKey="190671702">Unlocks the Flashbang Mine for the VS Engineer.</str>
+    <str key="190772917-ucdn" type="ucdn" originalKey="190772917"></str>
+    <str key="191294294-ucdt" type="ucdt" originalKey="191294294">Continents</str>
+    <str key="191368639-ucdt" type="ucdt" originalKey="191368639">N30 Trawler: Copper Medal</str>
+    <str key="191907113-ucdt" type="ucdt" originalKey="191907113">Wyrdwood Decal</str>
+    <str key="192612613-ucdt" type="ucdt" originalKey="192612613">Seraphim HLX: Silver Medal</str>
+    <str key="225464039-ucdt" type="ucdt" originalKey="225464039">Increases the maximum ammo capacity of the weapon by 130 rounds.</str>
+    <str key="233080366-ugdt" type="ugdt" originalKey="233080366">Cerberus Ammunition</str>
+    <str key="255451986-ucdt" type="ucdt" originalKey="255451986">Combat Medic Legion Armor</str>
+    <str key="256440234-ucdt" type="ucdt" originalKey="256440234">KCAP ammunition removes the legshot damage penalty, and increases damage to the leg area by 20%, but decreases headshot damage by 50%.</str>
+    <str key="259003444-ucdt" type="ucdt" originalKey="259003444">GUNNER WEAPON: H2-20 HCG</str>
+    <str key="260200902-ucdn" type="ucdn" originalKey="260200902"></str>
+    <str key="270058807-ucdt" type="ucdt" originalKey="270058807">V42 Pariah-H</str>
+    <str key="271274690-ucdt" type="ucdt" originalKey="271274690">Increases the amount of ammunition in each magazine by 14 rounds, and the weapon takes 15% longer to equip and unequip.</str>
+    <str key="275819897-ucdt" type="ucdt" originalKey="275819897">Increases Flashbang Mine capacity by 1.</str>
+    <str key="276084991-ucdt" type="ucdt" originalKey="276084991">N30 Trawler-H: Gold Medal</str>
+    <str key="279778490-ucdt" type="ucdt" originalKey="279778490">Seraphim HLX</str>
+    <str key="280550601-ucdt" type="ucdt" originalKey="280550601">Lucky Banner</str>
+    <str key="280975648-ucdt" type="ucdt" originalKey="280975648">"Freedom Over Oppression"&lt;br&gt;&lt;br&gt;Rebels, freedom fighters, or terrorists? The New Conglomerate operates as a loosely organized band of dissidents, vehemently opposed to the stranglehold that the Terran Republic has on Auraxis. Led by an unusual band of outcasts, industry titans, pirates, and former military leaders, the New Conglomerate is unwavering in its vision and prepared to achieve their goals by any means necessary.&lt;br&gt;&lt;br&gt;Infantry Weapon Signature:&lt;ul&gt;&lt;li&gt;Hard hitting weapons&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Exclusive Vehicles:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Vanguard&lt;/li&gt;&lt;li&gt;Reaver&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="290213860-ucdt" type="ucdt" originalKey="290213860">Adds 4 rounds to the default magazine size.</str>
+    <str key="294570559-ucdt" type="ucdt" originalKey="294570559">Get this bundled set of Legion infantry helmets and armors. For TR use only.</str>
+    <str key="317944839-ucdn" type="ucdn" originalKey="317944839"></str>
+    <str key="323005911-ucdt" type="ucdt" originalKey="323005911">Wyrdwood Shillelagh: Gold Medal</str>
+    <str key="323470211-ucdt" type="ucdt" originalKey="323470211">Unlocks the Concussion Mine for the TR Infiltrator.</str>
+    <str key="324092835-ucdt" type="ucdt" originalKey="324092835">Factions</str>
+    <str key="324816855-ucdt" type="ucdt" originalKey="324816855">Grants the "Druid" prefix title.</str>
+    <str key="325759751-ucdt" type="ucdt" originalKey="325759751">Dark Chocolate Camo</str>
+    <str key="325825371-ucdn" type="ucdn" originalKey="325825371"></str>
+    <str key="328707125-ucdt" type="ucdt" originalKey="328707125">N30 Trawler-H: Copper Medal</str>
+    <str key="332854164-ucdt" type="ucdt" originalKey="332854164">Magazine Size 3</str>
+    <str key="339256393-ugdt" type="ugdt" originalKey="339256393">KCAP Ammunition</str>
+    <str key="349228348-ucdn" type="ucdn" originalKey="349228348"></str>
+    <str key="358958387-ugdt" type="ugdt" originalKey="358958387">Scythe Cupid Contrails</str>
+    <str key="369870207-ugdt" type="ugdt" originalKey="369870207">Duckbill Choke</str>
+    <str key="392130824-ucdt" type="ucdt" originalKey="392130824">Legion Engineer Helmet</str>
+    <str key="398993257-ugdt" type="ugdt" originalKey="398993257">Wyrdwood Decal</str>
+    <str key="432593253-ucdn" type="ucdn" originalKey="432593253"></str>
+    <str key="435838281-ucdt" type="ucdt" originalKey="435838281">Grenade Launcher</str>
+    <str key="447046338-ucdn" type="ucdn" originalKey="447046338"></str>
+    <str key="464207421-ucdt" type="ucdt" originalKey="464207421">Magazine Size 4</str>
+    <str key="475983773-ucdn" type="ucdn" originalKey="475983773"></str>
+    <str key="486774648-ugdt" type="ugdt" originalKey="486774648">Havoc Mine</str>
+    <str key="495223153-ucdt" type="ucdt" originalKey="495223153">Wearable by Heavy Assault. TR use only.</str>
+    <str key="496393463-ucdn" type="ucdn" originalKey="496393463"></str>
+    <str key="501632873-ucdn" type="ucdn" originalKey="501632873"></str>
+    <str key="507051011-ugdt" type="ugdt" originalKey="507051011">Prowler Danny Boy Horn</str>
+    <str key="507267352-ucdt" type="ucdt" originalKey="507267352">M18 Palisade-S</str>
+    <str key="514767861-ucdt" type="ucdt" originalKey="514767861">The Scythe is a one-man air superiority fighter in use exclusively by the Vanu Sovereignty. Vanu technology allows the Scythe to be a more stable aircraft when hovering and decelerating. The unique silhouette of the Scythe makes it difficult to hit in a face-to-face firefight, but exceedingly vulnerable to attacks from above or below.&lt;br&gt;&lt;br&gt;Faction: Vanu Sovereignty&lt;br&gt;Size: Large&lt;br&gt;Type: ESF&lt;br&gt;Movement: Aircraft</str>
+    <str key="520445603-ucdn" type="ucdn" originalKey="520445603"></str>
+    <str key="524674649-ucdt" type="ucdt" originalKey="524674649">Galaxy Cupid Contrails</str>
+    <str key="525083217-ucdt" type="ucdt" originalKey="525083217">Cerberus Ammunition divides the weapon's damage into three separate pellets that spread horizontally when fired from the hip, and vertically when fired while aiming.</str>
+    <str key="528019702-ucdt" type="ucdt" originalKey="528019702">Shattered Warpgate: Calamity</str>
+    <str key="530206023-ucdt" type="ucdt" originalKey="530206023">EMP Mine</str>
+    <str key="530463037-ucdn" type="ucdn" originalKey="530463037"></str>
+    <str key="531501520-ucdt" type="ucdt" originalKey="531501520">H2-20 HCG: Silver Medal</str>
+    <str key="539276978-ucdt" type="ucdt" originalKey="539276978">Legion Soldier Helmet</str>
+    <str key="547000166-ugdt" type="ugdt" originalKey="547000166">Timed EMP Grenade</str>
+    <str key="548616920-ucdt" type="ucdt" originalKey="548616920">Increases EMP Mine capacity by 1.</str>
+    <str key="553101800-ucdt" type="ucdt" originalKey="553101800">N30 Trawler-A: Auraxium Medal</str>
+    <str key="568712171-ucdt" type="ucdt" originalKey="568712171">V42 Pariah-A: Copper Medal</str>
+    <str key="569445231-ucdt" type="ucdt" originalKey="569445231">Increases the maximum ammo capacity of the weapon by 195 rounds.</str>
+    <str key="570304376-ucdt" type="ucdt" originalKey="570304376">Lodestar Module 1</str>
+    <str key="571778054-ucdt" type="ucdt" originalKey="571778054">Changes the vehicle's contrails to leave a trail of shamrocks. NSO use only.</str>
+    <str key="572984021-ucdt" type="ucdt" originalKey="572984021">Next Rank: Regeneration delay caused by damage lowered to 7 seconds.</str>
+    <str key="575412756-ugdt" type="ugdt" originalKey="575412756">Lightning Danny Boy Horn</str>
+    <str key="580202061-ugdt" type="ugdt" originalKey="580202061">Ukraine Decal</str>
+    <str key="595146607-ucdn" type="ucdn" originalKey="595146607"></str>
+    <str key="615136160-ucdt" type="ucdt" originalKey="615136160">It's Time to Get Lucky!</str>
+    <str key="638334393-ugdt" type="ugdt" originalKey="638334393">Flash Amphibious Plating</str>
+    <str key="642713217-ucdt" type="ucdt" originalKey="642713217">Distant Shores: Siren's Call</str>
+    <str key="643612411-ucdt" type="ucdt" originalKey="643612411">April Fools Day 2022</str>
+    <str key="644831998-ucdt" type="ucdt" originalKey="644831998">Adds green cosmetic afterburner effect to this vehicle. NC use only.</str>
+    <str key="652355299-ugdt" type="ugdt" originalKey="652355299">A2-20 HCG</str>
+    <str key="652462397-ucdt" type="ucdt" originalKey="652462397">Changes the vehicle's contrails to leave a trail of feathers. TR use only.</str>
+    <str key="658955363-ucdt" type="ucdt" originalKey="658955363">N30 Trawler-S: Silver Medal</str>
+    <str key="660377668-ucdn" type="ucdn" originalKey="660377668"></str>
+    <str key="665260571-ugdt" type="ugdt" originalKey="665260571">SPRK-33's Stomper</str>
+    <str key="672447471-ucdn" type="ucdn" originalKey="672447471"></str>
+    <str key="679490818-ucdt" type="ucdt" originalKey="679490818">GUNNER WEAPON: V-42 Pariah</str>
+    <str key="689360307-ucdt" type="ucdt" originalKey="689360307">SPRK-33's Stomper</str>
+    <str key="690088099-ucdt" type="ucdt" originalKey="690088099">Scythe Pink Afterburner</str>
+    <str key="690633990-ucdt" type="ucdt" originalKey="690633990">S2-20 HCG: Copper Medal</str>
+    <str key="692981070-ugdt" type="ugdt" originalKey="692981070">Short Barrel</str>
+    <str key="693473639-ucdt" type="ucdt" originalKey="693473639">Detonates on enemy movement releasing a destabilizing field that affects mechanical targets and prevents them from being repaired for up to 6 seconds.</str>
+    <str key="698479856-ucdt" type="ucdt" originalKey="698479856">NS-44 "Jackpot" Commissioner: Auraxium Medal</str>
+    <str key="734665059-ugdt" type="ugdt" originalKey="734665059">Reaver Cupid Contrails</str>
+    <str key="737553525-ugdt" type="ugdt" originalKey="737553525">Scythe Pink Afterburner</str>
+    <str key="747180867-ucdt" type="ucdt" originalKey="747180867">Deliverer Module 2</str>
+    <str key="748710586-ucdt" type="ucdt" originalKey="748710586">Mosquito Danny Boy Horn</str>
+    <str key="754217552-ugdt" type="ugdt" originalKey="754217552">Valkyrie Cupid Contrails</str>
+    <str key="785312867-ucdt" type="ucdt" originalKey="785312867">"Cash or Credit?"&lt;br&gt;&lt;br&gt;Machines, mercenaries, or our eventual robot overlords? The NS Operatives are the freelance military arm of Nanite Systems, the same company that manufactures and markets most of your favorite weapons of war. Unendingly loyal (for the duration of your contract), these mechanized weapons of war offer the latest flexible design in mass-produced military dominance.&lt;br&gt;&lt;br&gt;Infantry Weapon Signature:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Reduced damage dropoff at range&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Exclusive Vehicles:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Chimera&lt;/li&gt;&lt;li&gt;Dervish&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="785952969-ugdt" type="ugdt" originalKey="785952969">Dark Chocolate Camo</str>
+    <str key="788521562-ugdt" type="ugdt" originalKey="788521562">Seraphim HLX</str>
+    <str key="796301694-ucdt" type="ucdt" originalKey="796301694">Wyrdwood Caubeen</str>
+    <str key="800920078-ucdn" type="ucdn" originalKey="800920078"></str>
+    <str key="801807777-ucdn" type="ucdn" originalKey="801807777"></str>
+    <str key="806014074-ucdt" type="ucdt" originalKey="806014074">Releases a wall-penetrating pulse wave that destroys or disables enemy deployables, resets infantry shields, and scrambles the HUD. &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;3 second fuse.&lt;/font&gt;</str>
+    <str key="808368363-ucdt" type="ucdt" originalKey="808368363">N30 Trawler-A: Copper Medal</str>
+    <str key="809527153-ugdt" type="ugdt" originalKey="809527153">Dervish Cupid Contrails</str>
+    <str key="811848707-ucdt" type="ucdt" originalKey="811848707">Detonates on enemy movement and will temporarily blind, deafen, and reduce the accuracy of infantry within its blast radius.</str>
+    <str key="817124450-ucdt" type="ucdt" originalKey="817124450">Underwater Thrusters Mk IV allow the user to glide along the ocean's floor at an accelerated rate. &lt;font color="#dc9c36"&gt;Tactical slot item. Press Jump when wielded underwater to use. Cannot be equipped by Light Assault.&lt;/font&gt;</str>
+    <str key="822148101-ugdt" type="ugdt" originalKey="822148101">Deliverer Module 2</str>
+    <str key="833405460-ucdt" type="ucdt" originalKey="833405460">Legion Specialist Helmet</str>
+    <str key="833937732-ugdt" type="ugdt" originalKey="833937732">Reaver Green Afterburner</str>
+    <str key="837398666-ucdt" type="ucdt" originalKey="837398666">V42 Pariah-S: Auraxium Medal</str>
+    <str key="837928114-ucdt" type="ucdt" originalKey="837928114">Replaces the standard buckshot with dart-like flechettes that triple the maximum and minimum damage falloff range, but reduce the number of pellets fired per shot by 3.</str>
+    <str key="838761284-ucdt" type="ucdt" originalKey="838761284">Deliverer Module 4</str>
+    <str key="868672560-ucdt" type="ucdt" originalKey="868672560">Entry</str>
+    <str key="871052343-ucdn" type="ucdn" originalKey="871052343"></str>
+    <str key="882183832-ucdt" type="ucdt" originalKey="882183832">Underwater Thrusters Mk II</str>
+    <str key="882611735-ucdt" type="ucdt" originalKey="882611735">Concussion Mine</str>
+    <str key="882655711-ucdn" type="ucdn" originalKey="882655711"></str>
+    <str key="884600914-ucdt" type="ucdt" originalKey="884600914">M18 Palisade-H: Silver Medal</str>
+    <str key="885801848-ucdt" type="ucdt" originalKey="885801848">Vehicle Dot Reticle</str>
+    <str key="887478468-ucdt" type="ucdt" originalKey="887478468">Valkyrie Shamrock Contrails</str>
+    <str key="889068070-ucdt" type="ucdt" originalKey="889068070">V42 Pariah-H: Gold Medal</str>
+    <str key="890433380-ucdt" type="ucdt" originalKey="890433380">Southeast Flotilla under assault by [*faction*].</str>
+    <str key="894670082-ucdt" type="ucdt" originalKey="894670082">The Reaver is a one-man air superiority fighter in use exclusively by the New Conglomerate. Its high-capacity engines combined with extended afterburner capacity make this aircraft the fastest empire specific fighter in the skies. With the largest front silhouette of the fighters, the Reaver makes up for it with harder hitting firepower and superior hovering mobility.&lt;br&gt;&lt;br&gt;Faction: New Conglomerate&lt;br&gt;Size: Large&lt;br&gt;Type: ESF&lt;br&gt;Movement: Aircraft</str>
+    <str key="897756071-ucdt" type="ucdt" originalKey="897756071">Scythe Green Afterburner</str>
+    <str key="902312644-ucdt" type="ucdt" originalKey="902312644">Liberator Green Afterburner</str>
+    <str key="925124256-ucdt" type="ucdt" originalKey="925124256">Celebrate Saint Patrick's Day with this lucky bundle. Comes with the Wyrdwood Shillelagh melee weapon, helmet, decal, and "Druid" title. All factions receive these items.</str>
+    <str key="937575942-ucdt" type="ucdt" originalKey="937575942">V42 Pariah: Copper Medal</str>
+    <str key="938441279-ucdt" type="ucdt" originalKey="938441279">Underwater Thrusters Mk IV</str>
+    <str key="941062320-ucdn" type="ucdn" originalKey="941062320"></str>
+    <str key="942846917-ugdt" type="ugdt" originalKey="942846917">Legion Major Helmet</str>
+    <str key="952391195-ucdn" type="ucdn" originalKey="952391195"></str>
+    <str key="969338605-ucdn" type="ucdn" originalKey="969338605"></str>
+    <str key="973121975-ugdt" type="ugdt" originalKey="973121975">EMP Mine</str>
+    <str key="991050418-ugdt" type="ugdt" originalKey="991050418">Wyrdwood Caubeen</str>
+    <str key="992274439-ucdt" type="ucdt" originalKey="992274439">Combat Medics are a versatile class capable of healing and reviving allies. These infantry troops can do more than simply provide support; they can also use the Assault Rifle, one of the most adaptable firearm categories,to eliminate infantry threats at medium to long range.&lt;br&gt;&lt;br&gt;Weapons:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Assault Rifle&lt;/li&gt;&lt;li&gt;Shotguns&lt;/li&gt;&lt;li&gt;Submachine Guns&lt;/li&gt;&lt;li&gt;Scout Rifles&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Abilities:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Nano-Regen Device (default) - While active, you and your surrounding allies rapidly regenerate health, effectively letting you to absorb one or two more hits before dying. Higher ranks increase the healing rate.&lt;/li&gt;&lt;li&gt;Shield Recharging Field - Deploys a device that emits a field that recharges the shields of nearby allies. Higher ranks increase the regeneration rate and effect radius.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Tool:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Medical Applicator - Used to heal or revive allies. Higher ranks enhance both healing and revive speeds.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Tips:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Consider upgrading the Medical Applicator tool to rank 5 early to get the most out of the Engineer class.&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="992598772-ugdt" type="ugdt" originalKey="992598772">Legion Soldier Helmet</str>
+    <str key="999545349-ucdt" type="ucdt" originalKey="999545349">Underwater Thrusters Mk I allow the user to glide along the ocean's floor at an accelerated rate. &lt;font color="#dc9c36"&gt;Tactical slot item. Press Jump when wielded underwater to use. Cannot be equipped by Light Assault.&lt;/font&gt;</str>
+    <str key="1005538613-ucdn" type="ucdn" originalKey="1005538613"></str>
+    <str key="1016621272-ucdt" type="ucdt" originalKey="1016621272">N30 Trawler-A</str>
+    <str key="1016871790-ucdt" type="ucdt" originalKey="1016871790">V42 Pariah-S: Silver Medal</str>
+    <str key="1017194661-ucdt" type="ucdt" originalKey="1017194661">Flashbang Mine</str>
+    <str key="1017496341-ugdt" type="ugdt" originalKey="1017496341">Galaxy Shamrock Contrails</str>
+    <str key="1036542579-ugdt" type="ugdt" originalKey="1036542579">N30 Trawler-H</str>
+    <str key="1063131253-ugdt" type="ugdt" originalKey="1063131253">Sunderer Amphibious Plating</str>
+    <str key="1068555815-ucdt" type="ucdt" originalKey="1068555815">Link to Southwest Flotilla.</str>
+    <str key="1069158106-ucdt" type="ucdt" originalKey="1069158106">Adds green cosmetic afterburner effect to this vehicle. NSO use only.</str>
+    <str key="1092741473-ucdt" type="ucdt" originalKey="1092741473">Unlocks the Havoc Mine for NSO Infiltrators.</str>
+    <str key="1094992030-ucdt" type="ucdt" originalKey="1094992030">Flash Danny Boy Horn</str>
+    <str key="1097209011-ucdt" type="ucdt" originalKey="1097209011">Increases the maximum ammo capacity of the weapon by 450.</str>
+    <str key="1097773386-ucdn" type="ucdn" originalKey="1097773386"></str>
+    <str key="1104424310-ucdt" type="ucdt" originalKey="1104424310">N30 Trawler-S [Front]</str>
+    <str key="1113816062-ucdn" type="ucdn" originalKey="1113816062"></str>
+    <str key="1115059535-ucdn" type="ucdn" originalKey="1115059535"></str>
+    <str key="1122479464-ucdt" type="ucdt" originalKey="1122479464">A2-20 HCG: Silver Medal</str>
+    <str key="1125871084-ucdt" type="ucdt" originalKey="1125871084">Blacklist</str>
+    <str key="1127420330-ucdt" type="ucdt" originalKey="1127420330">Scythe Cupid Contrails</str>
+    <str key="1131833401-ucdt" type="ucdt" originalKey="1131833401">Nanite Systems' answer to the MAX units available to other empires, the Defector trades dual weapon systems for a mounted grenade printer and enhanced melee capabilities.&lt;br&gt;&lt;br&gt;Weapons:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Defector Heavy Weapon&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Abilities:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Time Bomb (default) - When armed your weapons no longer generate heat and you take less damage but will detonate after several seconds inflicting damage on all nearby infantry and vehicles, killing the unit in the process. Higher ranks increase the damage reduction.&lt;/li&gt;&lt;li&gt;Seraph Shield - When activated will create a large shield around itself which directs all damage taken to the Defector unit, preventing damage from harming others in the shield, and reducing the damage taken by the Defector for the duration. Higher ranks increase duration and reduce cooldown time.&lt;/li&gt;&lt;li&gt;Emergency Repair - When activated, the Defector will repair 20% of its max health over the next 12 seconds. Higher ranks reduce the cooldown time.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Tips:&lt;br&gt;&lt;ul&gt;&lt;li&gt;The Defector has access to any implants usable by the MAX class.&lt;/li&gt;&lt;li&gt;Be mindful of your ability key when you have the Time Bomb ability equipped.&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="1134219765-ucdn" type="ucdn" originalKey="1134219765"></str>
+    <str key="1139977467-ucdt" type="ucdt" originalKey="1139977467">Changes the vehicle's contrails to leave a trail of feathers. VS use only.</str>
+    <str key="1143834542-ucdt" type="ucdt" originalKey="1143834542">Impulse Launcher</str>
+    <str key="1144434538-ucdt" type="ucdt" originalKey="1144434538">A2-20 HCG: Gold Medal</str>
+    <str key="1151352555-ucdt" type="ucdt" originalKey="1151352555">Reaver Cupid Contrails</str>
+    <str key="1151436724-ucdt" type="ucdt" originalKey="1151436724">Hit the jackpot with this Saint Patrick's Day bundle. Comes with the "Jackpot" Commissioner, lucky banner, shamrock contrails, green afterburner effects, and Danny Boy horns. All factions receive these items.</str>
+    <str key="1157069242-ucdt" type="ucdt" originalKey="1157069242">Title: Druid</str>
+    <str key="1183035751-ucdn" type="ucdn" originalKey="1183035751"></str>
+    <str key="1186033597-ucdt" type="ucdt" originalKey="1186033597">Category</str>
+    <str key="1187376348-ucdt" type="ucdt" originalKey="1187376348">H2-20 HCG: Copper Medal</str>
+    <str key="1190510765-ucdt" type="ucdt" originalKey="1190510765">Changes the vehicle's contrails to leave a trail of shamrocks. VS use only.</str>
+    <str key="1193037276-ucdt" type="ucdt" originalKey="1193037276">Campaigns</str>
+    <str key="1193326681-ugdt" type="ugdt" originalKey="1193326681">Magazine Size 5</str>
+    <str key="1194987005-ucdt" type="ucdt" originalKey="1194987005">Cerberus Ammunition</str>
+    <str key="1195471571-ucdt" type="ucdt" originalKey="1195471571">Valkyrie Cupid Contrails</str>
+    <str key="1201935859-ucdt" type="ucdt" originalKey="1201935859">N30 Trawler-S [Rear]</str>
+    <str key="1209922124-ucdt" type="ucdt" originalKey="1209922124">GUNNER WEAPON: V-42 Pariah-S</str>
+    <str key="1214114252-ucdt" type="ucdt" originalKey="1214114252">Entry Info</str>
+    <str key="1216561660-ucdt" type="ucdt" originalKey="1216561660">Legion Armor</str>
+    <str key="1226403619-ucdt" type="ucdt" originalKey="1226403619">Adds pink cosmetic afterburner effect to this vehicle. NSO use only.</str>
+    <str key="1226491762-ucdt" type="ucdt" originalKey="1226491762">Cure Launcher</str>
+    <str key="1232794695-ugdt" type="ugdt" originalKey="1232794695">Scythe Shamrock Contrails</str>
+    <str key="1247936345-ucdt" type="ucdt" originalKey="1247936345">N30 Trawler-S: Auraxium Medal</str>
+    <str key="1250758562-ucdn" type="ucdn" originalKey="1250758562"></str>
+    <str key="1251173225-ugdt" type="ugdt" originalKey="1251173225">Harasser Amphibious Plating</str>
+    <str key="1253180434-ucdt" type="ucdt" originalKey="1253180434">Releases a pulse of force that knocks back both enemies and the wielder. &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Detonates on impact.&lt;/font&gt;</str>
+    <str key="1259298188-ucdt" type="ucdt" originalKey="1259298188">Sunderer Amphibious Plating</str>
+    <str key="1259713540-ugdt" type="ugdt" originalKey="1259713540">V42 Pariah-A</str>
+    <str key="1268500289-ucdt" type="ucdt" originalKey="1268500289">&lt;font size="32"&gt;&lt;i&gt;Heya slick. This new update brings loads of changes and expansions to your existing arsenal, on top of balance tune-ups, new equipment, and a new Black Market Directive.&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size="24"&gt;&lt;ul&gt;&lt;li&gt;New and updated Infantry Weapons&lt;/li&gt;&lt;li&gt;New and updated Vehicle Weapons&lt;/li&gt;&lt;li&gt;New and updated Weapon Attachments&lt;/li&gt;&lt;li&gt;Updated Infantry Suit, Ability, and Implants&lt;/li&gt;&lt;li&gt;Vehicle adjustments including new Defense slot options&lt;/li&gt;&lt;li&gt;New faction-specific mines&lt;/li&gt;&lt;li&gt;New class-specific grenades&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;</str>
+    <str key="1279608820-ucdn" type="ucdn" originalKey="1279608820"></str>
+    <str key="1282671913-ucdt" type="ucdt" originalKey="1282671913">Magazine Size 2</str>
+    <str key="1284113526-ucdn" type="ucdn" originalKey="1284113526"></str>
+    <str key="1284122897-ucdt" type="ucdt" originalKey="1284122897">N30 Trawler</str>
+    <str key="1285207852-ucdt" type="ucdt" originalKey="1285207852">Genudine's heavily modified Guardian rifle was initially designed for long-range support for Heavy Assault soldiers ambushing from on high or in cover. Deadly from even long distances, the accurate Guardian can drop targets from afar with ammo to spare.</str>
+    <str key="1285660268-ucdt" type="ucdt" originalKey="1285660268">2022 Saint Patrick's Day Bundle</str>
+    <str key="1288415825-ucdt" type="ucdt" originalKey="1288415825">Become a Member</str>
+    <str key="1289976797-ugdt" type="ugdt" originalKey="1289976797">Liberator Shamrock Contrails</str>
+    <str key="1291975503-ucdt" type="ucdt" originalKey="1291975503">Dispenses ammo to allied vehicles within 14m and squad members may spawn directly into your vehicle. Allows the ANT to deploy and act as an infantry spawn point.</str>
+    <str key="1295767641-ucdt" type="ucdt" originalKey="1295767641">Mechanized Exo-Suit or simply MAX units are infantry in vehicle-class power armor. This armor provides superior resistance to damage and provides support for specialized MAX weaponry. Equipping a MAX suit costs Nanites like a vehicle.&lt;br&gt;&lt;br&gt;Weapons:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Anti-Infantry MAX&lt;/li&gt;&lt;li&gt;Anti-Armor MAX&lt;/li&gt;&lt;li&gt;Anti-Aircraft MAX&lt;/li&gt;&lt;br&gt;Abilities:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Emergency Repairs - When activated, repairs a percentage of the MAX's total health over time. Higher ranks reduce the cooldown time.&lt;/li&gt;&lt;li&gt;Power Armor - MAX units have increased health pools, but do not have personal shields like other infantry. Damage sustained must be repaired like a vehicle. &lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Tips:&lt;br&gt;&lt;ul&gt;&lt;li&gt;The Engineer's tools can repair the MAX, while a downed MAX must be revived by a Combat Medic.&lt;/li&gt;&lt;li&gt;The exo-suit is bulky, which hinders mobility and prevents the MAX from riding in most vehicles that aren't dedicated transports.&lt;/li&gt;&lt;li&gt;Unlike standard infantry, the MAX is unable to influence control points.&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="1301621079-ucdn" type="ucdn" originalKey="1301621079"></str>
+    <str key="1302970962-ucdt" type="ucdt" originalKey="1302970962">KCAP Ammunition</str>
+    <str key="1303278605-ucdt" type="ucdt" originalKey="1303278605">GUNNER WEAPON: A2-20 HCG</str>
+    <str key="1303792910-ugdt" type="ugdt" originalKey="1303792910">Impulse Launcher</str>
+    <str key="1304117761-ucdt" type="ucdt" originalKey="1304117761">Wyrdwood Shillelagh: Copper Medal</str>
+    <str key="1305282162-ucdt" type="ucdt" originalKey="1305282162">Random Roll Tire Trails</str>
+    <str key="1306710653-ucdt" type="ucdt" originalKey="1306710653">Legion Medic Helmet</str>
+    <str key="1306765709-ucdt" type="ucdt" originalKey="1306765709">Increases magazine size by 3 rounds, but increases hipfire cone of fire by 20%.</str>
+    <str key="1311081824-ugdt" type="ugdt" originalKey="1311081824">Random Roll Tire Trails</str>
+    <str key="1314497326-ucdt" type="ucdt" originalKey="1314497326">Attaches a 1.25x optical zoom to your weapon.</str>
+    <str key="1321600973-ucdt" type="ucdt" originalKey="1321600973">Reaver Danny Boy Horn</str>
+    <str key="1347977024-ucdn" type="ucdn" originalKey="1347977024"></str>
+    <str key="1362042630-ucdt" type="ucdt" originalKey="1362042630">Havoc Launcher</str>
+    <str key="1401833455-ucdn" type="ucdn" originalKey="1401833455"></str>
+    <str key="1417880655-ucdt" type="ucdt" originalKey="1417880655">Enables the Galaxy to deploy into an Advanced Mobile Station with a shield that will absorb up to a certain amount of damage, but will regenerate over time. The AMS acts as a respawn point for friendly soldiers. Damage done to the shield will delay the shield's regeneration for 8 seconds.</str>
+    <str key="1431120201-ucdt" type="ucdt" originalKey="1431120201">Allows the Light Assault to use Impulse grenades.</str>
+    <str key="1454507111-ucdt" type="ucdt" originalKey="1454507111">Lodestar Module 2</str>
+    <str key="1456997892-ugdt" type="ugdt" originalKey="1456997892">M18 Palisade</str>
+    <str key="1473224731-ugdt" type="ugdt" originalKey="1473224731">Magrider Danny Boy Horn</str>
+    <str key="1476703476-ucdt" type="ucdt" originalKey="1476703476">Southwest Flotilla under assault by [*faction*].</str>
+    <str key="1477377035-ucdt" type="ucdt" originalKey="1477377035">Adds green cosmetic afterburner effect to this vehicle. All factions can use this gear.</str>
+    <str key="1482189055-ucdt" type="ucdt" originalKey="1482189055">MEMBERS ONLY</str>
+    <str key="1488011314-ucdt" type="ucdt" originalKey="1488011314">EMP Mine</str>
+    <str key="1498663168-ucdt" type="ucdt" originalKey="1498663168">Ready yourself for romance as love fills the air and battlefields of Auraxis.&lt;br&gt;&lt;br&gt;Your old friend &lt;font size="28" color="#ACE1E5"&gt;FL-34&lt;/font&gt; is back at it again with daily &lt;font size="28" color="#ACE1E5"&gt;Matchmaking Missions&lt;/font&gt;, so give him a hand with his schemes to earn valuable rewards or show your dedication to L-O-V-E by completing this year's &lt;font size="28" color="#ACE1E5"&gt;Seasonal Directive&lt;/font&gt;. Love, as they say, is a fragile blossom, but the limited-time &lt;font size="28" color="#ACE1E5"&gt;camos, weapons, and cosmetics&lt;/font&gt; found in the &lt;font size="28" color="#ACE1E5"&gt;Depot&lt;/font&gt; are not.</str>
+    <str key="1510279271-ucdt" type="ucdt" originalKey="1510279271">Dervish Failsauce Horn</str>
+    <str key="1511832913-ucdt" type="ucdt" originalKey="1511832913">Galaxy Shamrock Contrails</str>
+    <str key="1512166443-ucdt" type="ucdt" originalKey="1512166443">Deliverer Module</str>
+    <str key="1512854941-ucdt" type="ucdt" originalKey="1512854941">M18 Palisade: Gold Medal</str>
+    <str key="1513255301-ucdt" type="ucdt" originalKey="1513255301">The Liberator is a three-man gunship with access to bombardier weapons that can devastate ground targets as well as nose and tail guns that soften ground targets or act as deterrents to enemy fighters.&lt;br&gt;&lt;br&gt;Faction: Common Pool&lt;br&gt;Size: Large&lt;br&gt;Type: Gunship&lt;br&gt;Movement: Aircraft</str>
+    <str key="1513559222-ucdt" type="ucdt" originalKey="1513559222">Timed EMP Grenade</str>
+    <str key="1515766950-ugdt" type="ugdt" originalKey="1515766950">Cure Launcher</str>
+    <str key="1516182236-ucdt" type="ucdt" originalKey="1516182236">GUNNER WEAPON: M18 Palisade-A</str>
+    <str key="1523256756-ucdn" type="ucdn" originalKey="1523256756"></str>
+    <str key="1524692055-ucdt" type="ucdt" originalKey="1524692055">V42 Pariah-H: Copper Medal</str>
+    <str key="1532066225-ucdt" type="ucdt" originalKey="1532066225">N30 Trawler-S</str>
+    <str key="1532424227-ugdt" type="ugdt" originalKey="1532424227">H2-20 HCG</str>
+    <str key="1532605881-ucdt" type="ucdt" originalKey="1532605881">Harlequin Mask</str>
+    <str key="1532807673-ucdt" type="ucdt" originalKey="1532807673">A heavy barrel reduces cone of fire bloom by 20% while aiming down sights, but reduces aim down sights movement speed by 20%.</str>
+    <str key="1533177287-ucdt" type="ucdt" originalKey="1533177287">Upgrade your arsenal!</str>
+    <str key="1534280967-ucdn" type="ucdn" originalKey="1534280967"></str>
+    <str key="1553097332-ucdt" type="ucdt" originalKey="1553097332">Choosing a faction will permanently align your outfit with the VS, NC, or TR. The operatives of your outfit will receive that faction as their "Home Faction." Once chosen, players of that faction and NS Operatives assigned to that Home Faction can be recruited into your outfit.</str>
+    <str key="1571480703-ucdt" type="ucdt" originalKey="1571480703">Galaxy Danny Boy Horn</str>
+    <str key="1593744716-ugdt" type="ugdt" originalKey="1593744716">Sunderer Danny Boy Horn</str>
+    <str key="1600591881-ugdt" type="ugdt" originalKey="1600591881">NS-44 "Jackpot" Commissioner</str>
+    <str key="1618902697-ucdt" type="ucdt" originalKey="1618902697">&lt;font color="#dc9c36"&gt;Membership is required for an operative in your outfit to maintain the Home Faction assignment and dropped Memberships will place that operative into a freelance state, but will not kick them from the outfit. Freelance operatives will always be assigned to the lowest populated faction on a continent. Outfit communication and other outfit-related features will be disabled for that operative while fighting for an opposing faction.&lt;/font&gt;</str>
+    <str key="1634628763-ucdt" type="ucdt" originalKey="1634628763">%0 will permanently swear alliegiance to the %1 and all outfit members will gain %1 as their "home faction." Are you sure?</str>
+    <str key="1635738653-ugdt" type="ugdt" originalKey="1635738653">Mosquito Shamrock Contrails</str>
+    <str key="1635868952-ucdt" type="ucdt" originalKey="1635868952">GUNNER WEAPON: N30 Trawler-H</str>
+    <str key="1637044443-ucdt" type="ucdt" originalKey="1637044443">Deliverer Module 5</str>
+    <str key="1638491282-ucdt" type="ucdt" originalKey="1638491282">Havoc Grenade</str>
+    <str key="1649466605-ugdt" type="ugdt" originalKey="1649466605">Underwater Thrusters Mk I</str>
+    <str key="1650650298-ucdt" type="ucdt" originalKey="1650650298">40% off vehicle gear this weekend!</str>
+    <str key="1656417957-ucdt" type="ucdt" originalKey="1656417957">The Harasser is an agile three-man buggy designed for transit and skirmish tactics. The driver and gunner are both seated inside the cockpit, while the third passenger stands on the rear of the buggy and has access to his own weapons.&lt;br&gt;&lt;br&gt;Faction: Common Pool&lt;br&gt;Size: Medium&lt;br&gt;Type: Transport&lt;br&gt;Movement: Wheeled</str>
+    <str key="1660489984-ucdt" type="ucdt" originalKey="1660489984">Manticore Ammunition</str>
+    <str key="1661290607-ucdt" type="ucdt" originalKey="1661290607">M18 Palisade-S: Auraxium Medal</str>
+    <str key="1661780693-ugdt" type="ugdt" originalKey="1661780693">Deliverer Module 5</str>
+    <str key="1664445177-ucdt" type="ucdt" originalKey="1664445177">Unlocks the Concussion Mine for the TR Engineer.</str>
+    <str key="1664772665-ucdt" type="ucdt" originalKey="1664772665">SKL Outfit Decal</str>
+    <str key="1679018956-ucdt" type="ucdt" originalKey="1679018956">The Colossus is a heavy tank armed with a dynamic Mammoth Cannon primary weapon and four secondary weapons for defense. In addition, the Colossus can deploy into an anti-air skylance battery, surrounding itself with a cortium-powered bombardment shield, and highlighting Bastion hardpoints within 1000 meters.&lt;br&gt;&lt;br&gt;Faction: Common Pool&lt;br&gt;Size: Large&lt;br&gt;Type: Armor&lt;br&gt;Movement: Tank</str>
+    <str key="1684786978-ucdt" type="ucdt" originalKey="1684786978">M18 Palisade: Auraxium Medal</str>
+    <str key="1685174987-ucdt" type="ucdt" originalKey="1685174987">Adds pink cosmetic afterburner effect to this vehicle. All factions can use this gear.</str>
+    <str key="1685714744-ucdt" type="ucdt" originalKey="1685714744">The Lightning is a light one-man tank that can be outfitted with various types of turrets allowing it to fill anti-air or anti-armor roles.&lt;br&gt;&lt;br&gt;Faction: Common Pool&lt;br&gt;Size: Medium&lt;br&gt;Type: Light Armor&lt;br&gt;Movement: Tank</str>
+    <str key="1686721296-ucdt" type="ucdt" originalKey="1686721296">Liberator Shamrock Contrails</str>
+    <str key="1693230993-ugdt" type="ugdt" originalKey="1693230993">Heavy Barrel</str>
+    <str key="1695993597-ugdt" type="ugdt" originalKey="1695993597">NC2 Gauss Compact</str>
+    <str key="1699281970-ucdt" type="ucdt" originalKey="1699281970">Dispenses ammo to allied vehicles within 16m and squad members may spawn directly into your vehicle. Allows the ANT to deploy and act as an infantry spawn point.</str>
+    <str key="1702670551-ucdt" type="ucdt" originalKey="1702670551">Anticipate the random roll of the dice with these custom tire trails. NSO use only.</str>
+    <str key="1710091991-ugdt" type="ugdt" originalKey="1710091991">Heartless Outfit Decal</str>
+    <str key="1727235974-ucdn" type="ucdn" originalKey="1727235974"></str>
+    <str key="1732992553-ucdt" type="ucdt" originalKey="1732992553">Squad Havoc Assist</str>
+    <str key="1742586128-ucdn" type="ucdn" originalKey="1742586128"></str>
+    <str key="1748641935-ucdt" type="ucdt" originalKey="1748641935">Check out the latest weapons of war!</str>
+    <str key="1752119771-ucdt" type="ucdt" originalKey="1752119771">NS-66 Bumblebee</str>
+    <str key="1754863898-ucdt" type="ucdt" originalKey="1754863898">Enables the Galaxy to deploy into an Advanced Mobile Station with a shield that will absorb up to a certain amount of damage, but will regenerate over time. The AMS acts as a respawn point for friendly soldiers. Damage done to the shield will delay the shield's regeneration for 10 seconds.</str>
+    <str key="1756777957-ugdt" type="ugdt" originalKey="1756777957">N30 Trawler</str>
+    <str key="1774392793-ucdn" type="ucdn" originalKey="1774392793"></str>
+    <str key="1774644715-ucdt" type="ucdt" originalKey="1774644715">TR Legion Armor Set Bundle</str>
+    <str key="1785161370-ucdt" type="ucdt" originalKey="1785161370">"Technology Equals Might"&lt;br&gt;&lt;br&gt;Scientists, enlightened, or cultists? The Vanu Sovereignty seeks the betterment of all by elevating humanity to the next state of existence through the understanding and exploitation of alien technology. Their singular purpose is to uncover the secrets hidden in the Vanu artifacts scattered over the surface of Auraxis, and they will annihilate anyone who stands in their way.&lt;br&gt;&lt;br&gt;Infantry Weapon Signature:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Energy weapons with no bullet drop&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Exclusive Vehicles:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Magrider&lt;/li&gt;&lt;li&gt;Scythe&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="1787419279-ugdt" type="ugdt" originalKey="1787419279">Lodestar Module 5</str>
+    <str key="1787586139-ugdt" type="ugdt" originalKey="1787586139">Lodestar Module 3</str>
+    <str key="1788392066-ugdt" type="ugdt" originalKey="1788392066">Lodestar Module 4</str>
+    <str key="1797822418-ugdt" type="ugdt" originalKey="1797822418">Underwater Thrusters Mk III</str>
+    <str key="1807464080-ugdt" type="ugdt" originalKey="1807464080">Impulse Grenade</str>
+    <str key="1813187878-ucdt" type="ucdt" originalKey="1813187878">Mosquito Pink Afterburner</str>
+    <str key="1813563850-ucdt" type="ucdt" originalKey="1813563850">Angled Forward Grip</str>
+    <str key="1813753232-ucdt" type="ucdt" originalKey="1813753232">Havoc Mine</str>
+    <str key="1834857401-ucdt" type="ucdt" originalKey="1834857401">Magrider Danny Boy Horn</str>
+    <str key="1836271217-ucdt" type="ucdt" originalKey="1836271217">H2-20 HCG: Gold Medal</str>
+    <str key="1836660663-ucdt" type="ucdt" originalKey="1836660663">Shattered Warpgate: Adapt and Overcome</str>
+    <str key="1838263716-ugdt" type="ugdt" originalKey="1838263716">Deliverer Module 3</str>
+    <str key="1840524183-ucdt" type="ucdt" originalKey="1840524183">Heavy Assault Legion Armor</str>
+    <str key="1847969226-ugdt" type="ugdt" originalKey="1847969226">V42 Pariah-H</str>
+    <str key="1860256963-ucdn" type="ucdn" originalKey="1860256963"></str>
+    <str key="1925826233-ucdn" type="ucdn" originalKey="1925826233"></str>
+    <str key="1946655414-ugdt" type="ugdt" originalKey="1946655414">Dervish Pink Afterburner</str>
+    <str key="1950374468-ucdt" type="ucdt" originalKey="1950374468">Lock and Load</str>
+    <str key="1958258075-ucdt" type="ucdt" originalKey="1958258075">Adds green cosmetic afterburner effect to this vehicle. TR use only.</str>
+    <str key="1963972360-ucdt" type="ucdt" originalKey="1963972360">Changes the vehicle's contrails to leave a trail of shamrocks. TR use only.</str>
+    <str key="1979832041-ucdt" type="ucdt" originalKey="1979832041">The Valkyrie is a six person aircraft used for close air support and transportation. It is crewed by a pilot and a forward gunner with room for four passengers that can use their personal equipment while in flight.&lt;br&gt;&lt;br&gt;Faction: Common Pool&lt;br&gt;Size: Large&lt;br&gt;Type: Transport&lt;br&gt;Movement: Aircraft</str>
+    <str key="1986140454-ucdt" type="ucdt" originalKey="1986140454">Light Assault Legion Armor</str>
+    <str key="1988181636-ucdt" type="ucdt" originalKey="1988181636">THE %0</str>
+    <str key="2001740444-ucdt" type="ucdt" originalKey="2001740444">Legion Captain Helmet</str>
+    <str key="2002173692-ucdt" type="ucdt" originalKey="2002173692">Earn this reward through an assited kill using this weapon.</str>
+    <str key="2015829311-ucdt" type="ucdt" originalKey="2015829311">Valentine's Day 2022</str>
+    <str key="2018845606-ugdt" type="ugdt" originalKey="2018845606">Legion Captain Helmet</str>
+    <str key="2025410999-ugdt" type="ugdt" originalKey="2025410999">Prominence VE4</str>
+    <str key="2025557674-ugdt" type="ugdt" originalKey="2025557674">A smart-choke tightens pellet spread by 40% when firing while aimed, but widens pellet spread by 20% when firing from the hip.</str>
+    <str key="2025975783-ucdn" type="ucdn" originalKey="2025975783"></str>
+    <str key="2060220899-ucdt" type="ucdt" originalKey="2060220899">Flash Amphibious Plating</str>
+    <str key="2089808674-ucdt" type="ucdt" originalKey="2089808674">Seraphim HLX: Copper Medal</str>
+    <str key="2094508919-ucdt" type="ucdt" originalKey="2094508919">N30 Trawler-H: Auraxium Medal</str>
+    <str key="2094624741-ucdt" type="ucdt" originalKey="2094624741">An ornate banner of green and gold said to bring good fortune to those who use it.</str>
+    <str key="2095754104-ucdt" type="ucdt" originalKey="2095754104">Adds 8 rounds to the default magazine size.</str>
+    <str key="2102444288-ugdt" type="ugdt" originalKey="2102444288">Reaver Danny Boy Horn</str>
+    <str key="2106848048-ucdt" type="ucdt" originalKey="2106848048">V42 Pariah-S [Rear]</str>
+    <str key="2107445949-ucdt" type="ucdt" originalKey="2107445949">The Cleansing Grenade releases a wave of nanites that heal allied infantry over time and immediately clears most status effects. &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Detonates on impact.&lt;/font&gt;</str>
+    <str key="2110136049-ucdt" type="ucdt" originalKey="2110136049">Increases Havoc Mine capacity by 1.</str>
+    <str key="2114428450-ucdn" type="ucdn" originalKey="2114428450"></str>
+    <str key="2121395866-ucdt" type="ucdt" originalKey="2121395866">S2-20 HCG: Auraxium Medal</str>
+    <str key="2140286523-ugdt" type="ugdt" originalKey="2140286523">Chimera Danny Boy Horn</str>
+    <str key="2157189581-ucdt" type="ucdt" originalKey="2157189581">The Sunderer is an armored personnel carrier capable of holding twelve soldiers: a driver, two gunners, and nine passengers.  It can be outfitted with several support functions such as a mobile respawn station, proximity vehicle ammo resupply, or proximity vehicle repair.&lt;br&gt;&lt;br&gt;Faction: Common Pool&lt;br&gt;Size: Medium&lt;br&gt;Type: Transport&lt;br&gt;Movement: Wheeled</str>
+    <str key="2183007229-ucdt" type="ucdt" originalKey="2183007229">Changes the vehicle's contrails to leave a trail of shamrocks. All factions can use this gear.</str>
+    <str key="2184324361-ugdt" type="ugdt" originalKey="2184324361">Underwater Thrusters Mk II</str>
+    <str key="2188868073-ucdt" type="ucdt" originalKey="2188868073">The weapon now fires an accurate, high-velocity slug dealing 475 damage, falling off to 300 at the weapon's minimum damage range.</str>
+    <str key="2188905982-ucdt" type="ucdt" originalKey="2188905982">Chimera Danny Boy Horn</str>
+    <str key="2199544187-ucdt" type="ucdt" originalKey="2199544187">Wyrdwood Shillelagh</str>
+    <str key="2210692660-ucdt" type="ucdt" originalKey="2210692660">M18 Palisade-S: Silver Medal</str>
+    <str key="2214362123-ucdt" type="ucdt" originalKey="2214362123">Arsenal Update</str>
+    <str key="2215842731-ucdn" type="ucdn" originalKey="2215842731"></str>
+    <str key="2216872467-ucdt" type="ucdt" originalKey="2216872467">Lovestruck Bundle</str>
+    <str key="2221967145-ucdt" type="ucdt" originalKey="2221967145">Ukraine Decal</str>
+    <str key="2222316420-ucdt" type="ucdt" originalKey="2222316420">The Mosquito is a one-man air superiority fighter in use exclusively by the Terran Republic. Decades of refinement have made this aircraft the quickest and most agile of all the empire-specific aircrafts and its relatively thin airframe make it more difficult to hit from above or below.&lt;br&gt;&lt;br&gt;Faction: Terran Republic&lt;br&gt;Size: Large&lt;br&gt;Type: ESF&lt;br&gt;Movement: Aircraft</str>
+    <str key="2222876592-ucdt" type="ucdt" originalKey="2222876592">Reaver Shamrock Contrails</str>
+    <str key="2223296435-ugdt" type="ugdt" originalKey="2223296435">Angled Forward Grip</str>
+    <str key="2225166077-ucdt" type="ucdt" originalKey="2225166077">Maintain lattice connection to an enemy Flotilla.</str>
+    <str key="2225730633-ucdn" type="ucdn" originalKey="2225730633"></str>
+    <str key="2236301468-ucdt" type="ucdt" originalKey="2236301468">Tickle Your Funnybone</str>
+    <str key="2238786353-ucdt" type="ucdt" originalKey="2238786353">Concussion Mine</str>
+    <str key="2240066849-ucdt" type="ucdt" originalKey="2240066849">Underwater Thrusters Mk III</str>
+    <str key="2242364400-ucdt" type="ucdt" originalKey="2242364400">Harasser Amphibious Plating</str>
+    <str key="2243873986-ugdt" type="ugdt" originalKey="2243873986">Title: Druid</str>
+    <str key="2251673860-ucdt" type="ucdt" originalKey="2251673860">GUNNER WEAPON: M18 Palisade-S</str>
+    <str key="2251986267-ucdt" type="ucdt" originalKey="2251986267">Havoc Assist</str>
+    <str key="2276363407-ucdn" type="ucdn" originalKey="2276363407"></str>
+    <str key="2287478916-ugdt" type="ugdt" originalKey="2287478916">When activated, a rapidly decaying shield mesh surrounds the soldier and absorbs up to 450 damage; power is recharged by 15% when the operating soldier kills an enemy. This shield passively recharges to full over 36 seconds.</str>
+    <str key="2289334482-ucdt" type="ucdt" originalKey="2289334482">Adds 2 rounds to the default magazine size.</str>
+    <str key="2301286231-ugdt" type="ugdt" originalKey="2301286231">Valkyrie Shamrock Contrails</str>
+    <str key="2347193681-ucdn" type="ucdn" originalKey="2347193681"></str>
+    <str key="2348013374-ucdn" type="ucdn" originalKey="2348013374"></str>
+    <str key="2353223168-ugdt" type="ugdt" originalKey="2353223168">Wyrdwood Shillelagh</str>
+    <str key="2360564595-ucdn" type="ucdn" originalKey="2360564595"></str>
+    <str key="2363974934-ucdt" type="ucdt" originalKey="2363974934">Next Rank: Regeneration delay caused by damage lowered to 6 seconds.</str>
+    <str key="2364628193-ucdt" type="ucdt" originalKey="2364628193">Short Barrel</str>
+    <str key="2366664004-ucdt" type="ucdt" originalKey="2366664004">The Palisade heavy machine gun increases in rate of fire over one second while the trigger is held, and is effective against armor, air, and infantry. TR use only.</str>
+    <str key="2379603236-ucdt" type="ucdt" originalKey="2379603236">Prowler Danny Boy Horn</str>
+    <str key="2383606548-ucdt" type="ucdt" originalKey="2383606548">Increases magazine size by 20 rounds by streamlining the ammunition placement and feeding, and slows your reload speed by 0.325 seconds.</str>
+    <str key="2394648278-ucdn" type="ucdn" originalKey="2394648278"></str>
+    <str key="2397639968-ugdt" type="ugdt" originalKey="2397639968">Cleansing Grenade</str>
+    <str key="2411586476-ugdt" type="ugdt" originalKey="2411586476">Vanguard Danny Boy Horn</str>
+    <str key="2416725384-ugdt" type="ugdt" originalKey="2416725384">Flashbang Mine</str>
+    <str key="2420140860-ucdt" type="ucdt" originalKey="2420140860">Deliverer Module 3</str>
+    <str key="2421001914-ucdt" type="ucdt" originalKey="2421001914">Anticipate the random roll of the dice with these custom tire trails. All factions can use this gear.</str>
+    <str key="2434048501-ugdt" type="ugdt" originalKey="2434048501">Valkyrie Danny Boy Horn</str>
+    <str key="2435173513-ucdn" type="ucdn" originalKey="2435173513"></str>
+    <str key="2436884545-ucdt" type="ucdt" originalKey="2436884545">Underwater Thrusters Mk V allow the user to glide along the ocean's floor at an accelerated rate. &lt;font color="#dc9c36"&gt;Tactical slot item. Press Jump when wielded underwater to use. Cannot be equipped by Light Assault.&lt;/font&gt;</str>
+    <str key="2440006039-ucdn" type="ucdn" originalKey="2440006039"></str>
+    <str key="2441216814-ucdt" type="ucdt" originalKey="2441216814">Flashbang Mine</str>
+    <str key="2457547024-ugdt" type="ugdt" originalKey="2457547024">Reaver Pink Afterburner</str>
+    <str key="2472990801-ucdt" type="ucdt" originalKey="2472990801">Wearable by Engineer. TR use only.</str>
+    <str key="2473223373-ucdt" type="ucdt" originalKey="2473223373">Adds pink cosmetic afterburner effect to this vehicle. TR use only.</str>
+    <str key="2491720655-ucdn" type="ucdn" originalKey="2491720655"></str>
+    <str key="2495181009-ucdt" type="ucdt" originalKey="2495181009">Magazine Size 5</str>
+    <str key="2511632942-ucdt" type="ucdt" originalKey="2511632942">V42 Pariah-A: Auraxium Medal</str>
+    <str key="2512363224-ugdt" type="ugdt" originalKey="2512363224">M18 Palisade-A</str>
+    <str key="2545597276-ucdt" type="ucdt" originalKey="2545597276">Mosquito Green Afterburner</str>
+    <str key="2546900698-ucdt" type="ucdt" originalKey="2546900698">Codex</str>
+    <str key="2551843418-ugdt" type="ugdt" originalKey="2551843418">When activated, a rapidly decaying shield mesh surrounds the soldier and absorbs up to 450 damage; power is recharged by 25% when the operating soldier kills an enemy. This shield passively recharges to full over 36 seconds.</str>
+    <str key="2574189554-ucdt" type="ucdt" originalKey="2574189554">An opulent banner of stylized diamonds customized with your faction's primary color.</str>
+    <str key="2576736333-ucdn" type="ucdn" originalKey="2576736333"></str>
+    <str key="2576968383-ucdt" type="ucdt" originalKey="2576968383">Legion Major Helmet</str>
+    <str key="2588493659-xcdt" type="xcdt" originalKey="2588493659">Apply the Cracked Earth camo pattern to your weapon. TR use only.</str>
+    <str key="2588493659-xgdt" type="xgdt" originalKey="2588493659">Flash Bumper TR005</str>
+    <str key="2592110032-ucdt" type="ucdt" originalKey="2592110032">A2-20 HCG: Auraxium Medal</str>
+    <str key="2593634352-ucdt" type="ucdt" originalKey="2593634352">The Vanguard is a sturdy tank used exclusively by the New Conglomerate. It favors heavy front armor and a large main cannon at the cost of speed. The Vanguard's defenses are further enhanced by its Forward Vanguard Shield, which massively reduces incoming damage from the front and sides while active.&lt;br&gt;&lt;br&gt;Faction: New Conglomerate&lt;br&gt;Size: Medium&lt;br&gt;Type: MBT&lt;br&gt;Movement: Tank</str>
+    <str key="2594770231-ucdt" type="ucdt" originalKey="2594770231">Changes the vehicle's contrails to leave a trail of shamrocks. NC use only.</str>
+    <str key="2599164908-ugdt" type="ugdt" originalKey="2599164908">Havoc Grenade</str>
+    <str key="2601323417-ucdt" type="ucdt" originalKey="2601323417">Liberator Cupid Contrails</str>
+    <str key="2610577258-ucdt" type="ucdt" originalKey="2610577258">This underbarrel Impulse Launcher fires a non-lethal grenade that knocks back the user and enemy infantry on impact. Increases the equip time of the attached weapon by 0.25 seconds. &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Pressing Gear Slot 1 hotkey will toggle the attachment.&lt;/font&gt;</str>
+    <str key="2622191381-ucdn" type="ucdn" originalKey="2622191381"></str>
+    <str key="2642483890-ugdt" type="ugdt" originalKey="2642483890">Mosquito Danny Boy Horn</str>
+    <str key="2642778617-ugdt" type="ugdt" originalKey="2642778617">Scythe Danny Boy Horn</str>
+    <str key="2649901324-ucdn" type="ucdn" originalKey="2649901324"></str>
+    <str key="2652829205-ugdt" type="ugdt" originalKey="2652829205">S2-20 HCG</str>
+    <str key="2660996313-ucdn" type="ucdn" originalKey="2660996313"></str>
+    <str key="2675215140-ucdt" type="ucdt" originalKey="2675215140">V42 Pariah-A: Silver Medal</str>
+    <str key="2676014300-ugdt" type="ugdt" originalKey="2676014300">Liberator Danny Boy Horn</str>
+    <str key="2680401784-ucdt" type="ucdt" originalKey="2680401784">Enables the Galaxy to deploy into an Advanced Mobile Station with a shield that will absorb up to a certain amount of damage, but will regenerate over time. The AMS acts as a respawn point for friendly soldiers. Damage done to the shield will delay the shield's regeneration for 9 seconds.</str>
+    <str key="2693595010-ucdt" type="ucdt" originalKey="2693595010">Choosing a faction will permanently align your Outfit with the VS, NC, or TR. The operatives of your Outfit will receive that faction as their "Home Faction." Once chosen, players of that faction and NS Operatives assigned to that Home Faction can be recruited into your Outfit.&lt;br&gt;&lt;br&gt;&lt;font color="#FFA055"&gt;Membership is required for an operative in your outfit to maintain the Home Faction assignment, and dropped Memberships will place that operative into a Freelance state, but will not kick them from the Outfit. Freelance operatives will always be assigned to the lowest populated faction on a continent. Outfit communication and other Outfit-related features will be disabled for that operative while fighting for an opposing faction.&lt;/font&gt;</str>
+    <str key="2697038334-ucdt" type="ucdt" originalKey="2697038334">Impulse Grenade</str>
+    <str key="2698291992-ucdt" type="ucdt" originalKey="2698291992">An angled forward grip reduces the vertical recoil of the first shot in a burst by 60%, but increases the side to side recoil of a weapon by 10%.</str>
+    <str key="2698714740-ucdt" type="ucdt" originalKey="2698714740">Reaver Pink Afterburner</str>
+    <str key="2698783514-ucdt" type="ucdt" originalKey="2698783514">CHOOSE</str>
+    <str key="2699218606-ugdt" type="ugdt" originalKey="2699218606">Underwater Thrusters Mk V</str>
+    <str key="2700338595-ucdt" type="ucdt" originalKey="2700338595">Detonates after detecting enemy movement releasing a disorienting blast that temporarily blurs enemy vision while disrupting movement control.</str>
+    <str key="2700496527-ucdt" type="ucdt" originalKey="2700496527">Increases the maximum ammo capacity of the weapon by 260 rounds.</str>
+    <str key="2701243868-ucdt" type="ucdt" originalKey="2701243868">A2-20 HCG</str>
+    <str key="2702733472-ucdt" type="ucdt" originalKey="2702733472">Underwater Thrusters</str>
+    <str key="2705292929-ucdt" type="ucdt" originalKey="2705292929">Press [%s] to view outfit contracts</str>
+    <str key="2716808398-ucdt" type="ucdt" originalKey="2716808398">V42 Pariah-S: Copper Medal</str>
+    <str key="2718996966-ucdt" type="ucdt" originalKey="2718996966">Wearable by Light Assault. TR use only.</str>
+    <str key="2719851460-ucdt" type="ucdt" originalKey="2719851460">V42 Pariah-H: Silver Medal</str>
+    <str key="2721894827-ucdt" type="ucdt" originalKey="2721894827">Allows the Medic to use Cleansing grenades.</str>
+    <str key="2722555679-ucdn" type="ucdn" originalKey="2722555679"></str>
+    <str key="2723498336-ucdt" type="ucdt" originalKey="2723498336">Lodestar Module</str>
+    <str key="2726206735-ucdt" type="ucdt" originalKey="2726206735">NS-44 "Jackpot" Commissioner: Copper Medal</str>
+    <str key="2728193831-ucdt" type="ucdt" originalKey="2728193831">H2-20 HCG: Auraxium Medal</str>
+    <str key="2728275736-ucdt" type="ucdt" originalKey="2728275736">Detects enemy movement and detonates releasing a pulse wave that destroys or disables enemy deployables, reduces infantry shields, and scrambles heads up displays. </str>
+    <str key="2728964699-ucdt" type="ucdt" originalKey="2728964699">Shattered Warpgate: Containment Protocol</str>
+    <str key="2730779563-ucdn" type="ucdn" originalKey="2730779563"></str>
+    <str key="2734630091-ucdt" type="ucdt" originalKey="2734630091">M18 Palisade</str>
+    <str key="2735283971-ucdt" type="ucdt" originalKey="2735283971">The Bastion Fleet Carrier is a multi-purpose airship available to outfits and comes equipped with fighter launch pads, soldier respawn capabilities, and multiple manned and automated weapon systems. Each carrier requires a significant time and resource investment to build and deploy, and each faction can only be represented by a single carrier on each continent.&lt;br&gt;&lt;br&gt;Faction: Common Pool&lt;br&gt;Size: Large&lt;br&gt;Type: Flagship&lt;br&gt;Movement: Aircraft</str>
+    <str key="2736088984-ucdt" type="ucdt" originalKey="2736088984">Magazine Size 1</str>
+    <str key="2737136536-ucdt" type="ucdt" originalKey="2737136536">M18 Palisade-A: Silver Medal</str>
+    <str key="2737489321-ugdt" type="ugdt" originalKey="2737489321">Flash Danny Boy Horn</str>
+    <str key="2741982386-ucdt" type="ucdt" originalKey="2741982386">Dervish Danny Boy Horn</str>
+    <str key="2744409657-ucdt" type="ucdt" originalKey="2744409657">Underwater Thrusters allow the user to glide along the ocean's floor at an accelerated rate. &lt;font color="#dc9c36"&gt;Tactical slot item. Press Jump when wielded underwater to use. Cannot be equipped by Light Assault.&lt;/font&gt;</str>
+    <str key="2744791292-ucdt" type="ucdt" originalKey="2744791292">The Infiltrator is a recon unit with a short duration cloaking ability, spotting tools, and the ability to hack enemy terminals and devices converting them to your empire. Infiltrators have slightly reduced shield capacity when compared to other infantry classes.&lt;br&gt;&lt;br&gt;Weapons:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Sniper Rifle&lt;/li&gt;&lt;li&gt;Scout Rifle&lt;/li&gt;&lt;li&gt;Submachine Gun&lt;/li&gt;&lt;br&gt;Abilities:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Cloaking - While active, Infiltrators will blend into their surroundings and become nearly invisible. The cloak is more effective while motionless and most effective while crouching. Cloaked targets can be revealed when lit with a Darklight Flashlight (an attachment found on many weapons).&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Tools:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Recon Detection Device (default) - Fires a dart which pulses every few seconds to detect the location of nearby fast-moving enemies, including cloaked infiltrators. Higher ranks improve the scanning rate, extend the range, and increases the lifespan of the dart.&lt;/li&gt;&lt;li&gt;Motion Spotter - While deployed, periodically shares the locations of nearby enemies to all allies and provides real time positional updates to the Infiltrator. Higher ranks increase the location range, improves the update frequency, increases the duration of the spotter, and increases the quantity that can be carried.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Tips:&lt;br&gt;&lt;ul&gt;&lt;li&gt;You're not completely invisible while cloaked and can be seen by observant players, especially at close range or when you're moving.&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="2748024460-ucdt" type="ucdt" originalKey="2748024460">%0 has been aligned with the %1.</str>
+    <str key="2758034770-ucdt" type="ucdt" originalKey="2758034770">M18 Palisade-H: Auraxium Medal</str>
+    <str key="2763638211-ucdt" type="ucdt" originalKey="2763638211">Grants the "Lovestruck" prefix title.</str>
+    <str key="2768493492-ucdt" type="ucdt" originalKey="2768493492">Valentine's Day 2022</str>
+    <str key="2774707981-ucdt" type="ucdt" originalKey="2774707981">M18 Palisade: Copper Medal</str>
+    <str key="2779038894-ucdn" type="ucdn" originalKey="2779038894"></str>
+    <str key="2779182203-ugdt" type="ugdt" originalKey="2779182203">Title: Lovestruck</str>
+    <str key="2796773677-ugdt" type="ugdt" originalKey="2796773677">Matchmaker Directive Update</str>
+    <str key="2798908172-ugdt" type="ugdt" originalKey="2798908172">Legion Engineer Helmet</str>
+    <str key="2814164255-ucdt" type="ucdt" originalKey="2814164255">Your outfit is currently freelancing. While freelancing your outfit cannot recruit additional members. Your members will always be assigned to the lowest population faction on a continent. Outfit communication and other outfit-related features will be disabled when Freelancing for an opposing faction.</str>
+    <str key="2826254129-ucdt" type="ucdt" originalKey="2826254129">Dispenses ammo to allied vehicles within 12m and squad members may spawn directly into your vehicle. Allows the ANT to deploy and act as an infantry spawn point.</str>
+    <str key="2828122898-ucdt" type="ucdt" originalKey="2828122898">When in doubt, bonk it over the head with this giant, squeaky hammer. All factions can use this weapon.</str>
+    <str key="2828589770-ucdn" type="ucdn" originalKey="2828589770"></str>
+    <str key="2828902183-ucdt" type="ucdt" originalKey="2828902183">NS-44 "Jackpot" Commissioner: Gold Medal</str>
+    <str key="2835038672-ugdt" type="ugdt" originalKey="2835038672">When activated, a rapidly decaying shield mesh surrounds the soldier and absorbs up to 450 damage; power is recharged by 21% when the operating soldier kills an enemy. This shield passively recharges to full over 36 seconds.</str>
+    <str key="2839687209-ucdt" type="ucdt" originalKey="2839687209">N30 Trawler-A: Gold Medal</str>
+    <str key="2847498176-ugdt" type="ugdt" originalKey="2847498176">Colossus Montu Armor</str>
+    <str key="2850584468-ugdt" type="ugdt" originalKey="2850584468">Mosquito Cupid Contrails</str>
+    <str key="2857542205-ucdn" type="ucdn" originalKey="2857542205"></str>
+    <str key="2862476598-ucdt" type="ucdt" originalKey="2862476598">Replaces the standard buckshot with dart-like flechettes that triple the maximum and minimum damage falloff range, but reduce the number of pellets fired per shot by 2.</str>
+    <str key="2868485849-ucdt" type="ucdt" originalKey="2868485849">Dispenses ammo to allied vehicles within 18m and squad members may spawn directly into your vehicle. Allows the ANT to deploy and act as an infantry spawn point.</str>
+    <str key="2872836778-ugdt" type="ugdt" originalKey="2872836778">Concussion Mine</str>
+    <str key="2877386147-ugdt" type="ugdt" originalKey="2877386147">Title: Tricky</str>
+    <str key="2889294226-ucdn" type="ucdn" originalKey="2889294226"></str>
+    <str key="2894620143-ucdt" type="ucdt" originalKey="2894620143">Duckbill Choke</str>
+    <str key="2898305191-ugdt" type="ugdt" originalKey="2898305191">Nano-Regen Grenade</str>
+    <str key="2899896767-ucdt" type="ucdt" originalKey="2899896767">V42 Pariah: Silver Medal</str>
+    <str key="2900568304-ucdt" type="ucdt" originalKey="2900568304">Scythe Danny Boy Horn</str>
+    <str key="2902676262-ugdt" type="ugdt" originalKey="2902676262">Mosquito Pink Afterburner</str>
+    <str key="2904484844-ugdt" type="ugdt" originalKey="2904484844">Liberator Green Afterburner</str>
+    <str key="2918186315-ucdt" type="ucdt" originalKey="2918186315">Northern Flotilla under assault by [*faction*].</str>
+    <str key="2918500792-ucdt" type="ucdt" originalKey="2918500792">Harlequin Camo</str>
+    <str key="2921300109-ucdt" type="ucdt" originalKey="2921300109">Dervish Pink Afterburner</str>
+    <str key="2928595037-ugdt" type="ugdt" originalKey="2928595037">Pulsar Burst</str>
+    <str key="2935515846-ucdt" type="ucdt" originalKey="2935515846">Link to Southeast Flotilla.</str>
+    <str key="2935953149-ucdt" type="ucdt" originalKey="2935953149">Reaver Green Afterburner</str>
+    <str key="2946375181-ucdt" type="ucdt" originalKey="2946375181">Releases a wave of nanite scramblers that prevents mechanical targets from being repaired. &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Detonates on impact.&lt;/font&gt;</str>
+    <str key="2950802539-ucdt" type="ucdt" originalKey="2950802539">The Advanced Nanite Transport (ANT) is built for the mining and transport of Cortium, a mineral able to construct and power various player-made buildings and modules. Cortium is also able to fuel a variety of ANT enhancements such as barriers and turbo.&lt;br&gt;&lt;br&gt;Faction: Common Pool&lt;br&gt;Size: Medium&lt;br&gt;Type: Transport&lt;br&gt;Movement: Wheeled</str>
+    <str key="2950809067-ucdt" type="ucdt" originalKey="2950809067">Visit the location specified in any combat zone</str>
+    <str key="2953246729-ucdt" type="ucdt" originalKey="2953246729">S2-20 HCG [Rear]</str>
+    <str key="2957174824-ucdn" type="ucdn" originalKey="2957174824"></str>
+    <str key="2973443724-ugdt" type="ugdt" originalKey="2973443724">Galaxy Cupid Contrails</str>
+    <str key="2976724122-ucdn" type="ucdn" originalKey="2976724122"></str>
+    <str key="2980815216-ugdt" type="ugdt" originalKey="2980815216">Javelin Danny Boy Horn</str>
+    <str key="2993135769-ugdt" type="ugdt" originalKey="2993135769">Dervish Shamrock Contrails</str>
+    <str key="3010553364-ucdt" type="ucdt" originalKey="3010553364">NS-44 "Jackpot" Commissioner</str>
+    <str key="3021206649-ugdt" type="ugdt" originalKey="3021206649">Mosquito Green Afterburner</str>
+    <str key="3040056949-ucdt" type="ucdt" originalKey="3040056949">Cleansing Grenade</str>
+    <str key="3043177848-ugdt" type="ugdt" originalKey="3043177848">Liberator Pink Afterburner</str>
+    <str key="3043566054-ucdt" type="ucdt" originalKey="3043566054">Lodestar Module 5</str>
+    <str key="3050731149-ucdt" type="ucdt" originalKey="3050731149">Increases the maximum ammo capacity of the weapon by 65 rounds.</str>
+    <str key="3062176150-ucdt" type="ucdt" originalKey="3062176150">V42 Pariah-S</str>
+    <str key="3062375830-ucdt" type="ucdt" originalKey="3062375830">Next Rank: Regeneration delay caused by damage lowered to 8 seconds.</str>
+    <str key="3065117622-ucdt" type="ucdt" originalKey="3065117622">V42 Pariah-A: Gold Medal</str>
+    <str key="3066441065-ucdt" type="ucdt" originalKey="3066441065">Link to Northern Flotilla.</str>
+    <str key="3069985116-ucdt" type="ucdt" originalKey="3069985116">Valkyrie Danny Boy Horn</str>
+    <str key="3070755233-ucdt" type="ucdt" originalKey="3070755233">S2-20 HCG: Gold Medal</str>
+    <str key="3071419731-ucdt" type="ucdt" originalKey="3071419731">Grenade Launcher</str>
+    <str key="3072179353-ugdt" type="ugdt" originalKey="3072179353">Chimera Failsauce Horn</str>
+    <str key="3083131061-ucdt" type="ucdt" originalKey="3083131061">Increases the maximum ammo capacity of the weapon by 325 rounds.</str>
+    <str key="3085576422-ucdt" type="ucdt" originalKey="3085576422">This shortened barrel reduces cone of fire bloom by 40% when firing from the hip, and increases vertical recoil by 20% while aiming down sights.</str>
+    <str key="3101568197-ugdt" type="ugdt" originalKey="3101568197">Harlequin Mask</str>
+    <str key="3127390965-ugdt" type="ugdt" originalKey="3127390965">Galaxy Danny Boy Horn</str>
+    <str key="3145468578-ucdn" type="ucdn" originalKey="3145468578"></str>
+    <str key="3147005235-ucdn" type="ucdn" originalKey="3147005235"></str>
+    <str key="3166043309-ucdn" type="ucdn" originalKey="3166043309"></str>
+    <str key="3189810871-ugdt" type="ugdt" originalKey="3189810871">BAR-A50</str>
+    <str key="3190707906-ugdt" type="ugdt" originalKey="3190707906">ANT Danny Boy Horn</str>
+    <str key="3204808995-ucdt" type="ucdt" originalKey="3204808995">St. Patrick's Day 2022</str>
+    <str key="3205200795-ucdn" type="ucdn" originalKey="3205200795"></str>
+    <str key="3208740815-ucdt" type="ucdt" originalKey="3208740815">Grenade Launcher</str>
+    <str key="3210859920-ucdt" type="ucdt" originalKey="3210859920">Mosquito Cupid Contrails</str>
+    <str key="3214065782-ucdt" type="ucdt" originalKey="3214065782">ANT Amphibious Plating</str>
+    <str key="3220842650-ucdt" type="ucdt" originalKey="3220842650">Lodestar Module 3</str>
+    <str key="3221337306-ucdn" type="ucdn" originalKey="3221337306"></str>
+    <str key="3234400702-ucdt" type="ucdt" originalKey="3234400702">A2-20 HCG: Copper Medal</str>
+    <str key="3235895991-ucdt" type="ucdt" originalKey="3235895991">Manticore Ammunition reduces the movement speed of enemy infantry by 20% for 2 seconds, but reduces the weapon's projectile velocity by 40% at all times.</str>
+    <str key="3236882899-ugdt" type="ugdt" originalKey="3236882899">Legion Armor</str>
+    <str key="3239035389-ucdt" type="ucdt" originalKey="3239035389">M18 Palisade-S [Rear]</str>
+    <str key="3239305289-ucdt" type="ucdt" originalKey="3239305289">Grenade Launcher</str>
+    <str key="3239479705-ucdt" type="ucdt" originalKey="3239479705">Adds pink cosmetic afterburner effect to this vehicle. NC use only.</str>
+    <str key="3254575709-ucdt" type="ucdt" originalKey="3254575709">Javelin Danny Boy Horn</str>
+    <str key="3259080928-ucdt" type="ucdt" originalKey="3259080928">&lt;font size="32"&gt;DOUBLE EXPERIENCE for ALL from April 1 through April 3!&lt;br&gt;Wear &lt;font color="#ACE1E5"&gt;The Schnoz&lt;/font&gt; for even more bonus experience!&lt;br&gt;&lt;br&gt;Don't miss out on the &lt;font color="#ACE1E5"&gt;DEPOT&lt;/font&gt;'s limited-time bundles, including the return of fan favorite vehicle horns as well as the all-new &lt;font color="#ACE1E5"&gt;Jester's Bundle&lt;/font&gt;, which contains the &lt;font color="#ACE1E5"&gt;NS SQU-34K&lt;/font&gt; hammer, &lt;font color="#ACE1E5"&gt;Random Roll Tire Trails&lt;/font&gt;, banners, and more.</str>
+    <str key="3268388750-ucdt" type="ucdt" originalKey="3268388750">This underbarrel Havoc Launcher fires a non-lethal grenade that prevents mechanical targets from being repaired. Increases the equip time of the attached weapon by 0.25 seconds. &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Pressing Gear Slot 1 hotkey will toggle the attachment.&lt;/font&gt;</str>
+    <str key="3305456528-ucdt" type="ucdt" originalKey="3305456528">Adds pink cosmetic afterburner effect to this vehicle. VS use only.</str>
+    <str key="3307531317-ucdn" type="ucdn" originalKey="3307531317"></str>
+    <str key="3310522739-ucdt" type="ucdt" originalKey="3310522739">Increases the maximum ammo capacity of the weapon by 810.</str>
+    <str key="3311223180-ucdt" type="ucdt" originalKey="3311223180">The Dervish is an airborne, heavy fighter. The pilot commands light forward-facing weaponry while a secondary gunner operates a top turret that can ward off enemy air vehicles and apply additional pressure to attack targets.&lt;br&gt;&lt;br&gt;Faction: NS Operatives&lt;br&gt;Size: Large&lt;br&gt;Type: ESF&lt;br&gt;Movement: Aircraft</str>
+    <str key="3312059473-ucdt" type="ucdt" originalKey="3312059473">Engineers provide support on the battlefield by repairing mechanical objects, resupplying their allies with ammunition, and deploying a variety of battlefield objects. Engineers also recover shields faster than other infantry classes and passively repair certain vehicles from within.&lt;br&gt;&lt;br&gt;Weapons:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Carbine&lt;/li&gt;&lt;li&gt;Submachine Gun&lt;/li&gt;&lt;li&gt;Shotgun&lt;/li&gt;&lt;li&gt;Scout Rifle&lt;/li&gt;&lt;li&gt;Anti-Material Rifle&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Abilities:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Ammunition Package - Toss an ammo pack on the ground that can resupply ammo to nearby infantry. Higher ranks increase the duration of the ammo pack.&lt;/li&gt;&lt;li&gt;Anti-Infantry MANA Turret - Construct a machine gun turret that is highly effective against infantry. Equipped with a projectile shield that protects the operator from forward facing threats. Higher ranks increase the amount of time it takes for the turret to overheat from sustained fire. &lt;/li&gt;&lt;li&gt;Anti-Vehicle MANA Turret - An anti-vehicle version of the MANA turret.&lt;/li&gt;&lt;li&gt;Spitfire Auto-Turret - Deploys a Spitfire Auto-Turret that automatically engages nearby hostile infantry. Only one spitfire can be active at a time. Higher ranks decrease the cooldown time between placements.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Tools:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Nano-Armor Kit - Used to repair friendly vehicles, MAXes, deployables, and terminals. Can also be used to disarm some enemy ordinance. Higher ranks improve repair speed and overheat threshold. &lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Tips:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Consider upgrading the Nano-Armor Kit tool to rank 5 early to greatly improve your repair rate (you can save rank 6 for later).&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="3312126384-ucdt" type="ucdt" originalKey="3312126384">Displays a dot reticle for vehicles while in third person. (Default: On)</str>
+    <str key="3317752302-ucdt" type="ucdt" originalKey="3317752302">N30 Trawler-H</str>
+    <str key="3320816234-ucdt" type="ucdt" originalKey="3320816234">Thrust</str>
+    <str key="3323473427-ucdt" type="ucdt" originalKey="3323473427">V42 Pariah-S: Gold Medal</str>
+    <str key="3324094283-ugdt" type="ugdt" originalKey="3324094283">Legion Corporal Helmet</str>
+    <str key="3324128519-ucdt" type="ucdt" originalKey="3324128519">Detonates after detecting enemy movement releasing a disorienting blast that temporarily blurs enemy vision while disrupting movement control.</str>
+    <str key="3324252569-ucdt" type="ucdt" originalKey="3324252569">V42 Pariah: Gold Medal</str>
+    <str key="3326135743-ucdt" type="ucdt" originalKey="3326135743">Underwater Thrusters Mk II allow the user to glide along the ocean's floor at an accelerated rate. &lt;font color="#dc9c36"&gt;Tactical slot item. Press Jump when wielded underwater to use. Cannot be equipped by Light Assault.&lt;/font&gt;</str>
+    <str key="3326348760-ucdt" type="ucdt" originalKey="3326348760">V42 Pariah-A</str>
+    <str key="3326476769-ucdt" type="ucdt" originalKey="3326476769">Detonates on enemy movement and will temporarily blind, deafen, and reduce the accuracy of infantry within its blast radius.</str>
+    <str key="3330110634-ucdt" type="ucdt" originalKey="3330110634">Wyrdwood Shillelagh: Silver Medal</str>
+    <str key="3331890804-ucdt" type="ucdt" originalKey="3331890804">Wyrdwood Bundle</str>
+    <str key="3338462123-ucdt" type="ucdt" originalKey="3338462123">GUNNER WEAPON: V-42 Pariah-A</str>
+    <str key="3338906644-ucdt" type="ucdt" originalKey="3338906644">GUNNER WEAPON: S2-20 HCG</str>
+    <str key="3339454990-ugdt" type="ugdt" originalKey="3339454990">Legion Sergeant Helmet</str>
+    <str key="3339954787-ucdn" type="ucdn" originalKey="3339954787"></str>
+    <str key="3347525969-ucdt" type="ucdt" originalKey="3347525969">Overload</str>
+    <str key="3361212335-ucdt" type="ucdt" originalKey="3361212335">M18 Palisade-H: Copper Medal</str>
+    <str key="3365808865-ucdt" type="ucdt" originalKey="3365808865">M18 Palisade-H: Gold Medal</str>
+    <str key="3398600808-ucdt" type="ucdt" originalKey="3398600808">Unlocks the EMP Mine for the NC Engineer.</str>
+    <str key="3401066781-ugdt" type="ugdt" originalKey="3401066781">Reaver Shamrock Contrails</str>
+    <str key="3402102789-ucdt" type="ucdt" originalKey="3402102789">Grants the "Tricky" prefix title.</str>
+    <str key="3435563827-ucdt" type="ucdt" originalKey="3435563827">&lt;font size="32"&gt;Celebrate the luckiest holiday of the year with the new Wyrdwood Bundle, the 2022 Saint Patrick's Day Bundle, and an assortment of returning favorites.&lt;br&gt;&lt;br&gt;Check out the &lt;font color="#ACE1E5"&gt;Depot&lt;/font&gt; for all of the limited time weapons, camo, and cosmetics before they're gone!&lt;/font&gt;</str>
+    <str key="3438372092-ugdt" type="ugdt" originalKey="3438372092">Liberator Cupid Contrails</str>
+    <str key="3443057903-ucdn" type="ucdn" originalKey="3443057903"></str>
+    <str key="3452752547-ucdt" type="ucdt" originalKey="3452752547">Dervish Green Afterburner</str>
+    <str key="3455984630-ugdt" type="ugdt" originalKey="3455984630">Manticore Ammunition</str>
+    <str key="3456714685-ucdt" type="ucdt" originalKey="3456714685">Lodestar Module 4</str>
+    <str key="3457310429-ucdt" type="ucdt" originalKey="3457310429">GUNNER WEAPON: V-42 Pariah-H</str>
+    <str key="3459084120-ugdt" type="ugdt" originalKey="3459084120">Harasser Danny Boy Horn</str>
+    <str key="3460180501-ugdt" type="ugdt" originalKey="3460180501">Deliverer Module 4</str>
+    <str key="3493908096-ucdt" type="ucdt" originalKey="3493908096">because there is no line of sight to the deployable.</str>
+    <str key="3505940162-ucdt" type="ucdt" originalKey="3505940162">N30 Trawler: Auraxium Medal</str>
+    <str key="3508825361-ucdt" type="ucdt" originalKey="3508825361">Havoc Mine</str>
+    <str key="3509378271-ucdt" type="ucdt" originalKey="3509378271">Dervish Cupid Contrails</str>
+    <str key="3510343302-ucdn" type="ucdn" originalKey="3510343302"></str>
+    <str key="3510976521-ucdn" type="ucdn" originalKey="3510976521"></str>
+    <str key="3516459402-ucdn" type="ucdn" originalKey="3516459402"></str>
+    <str key="3517612168-ucdt" type="ucdt" originalKey="3517612168">V42 Pariah-S [Front]</str>
+    <str key="3519570372-ucdn" type="ucdn" originalKey="3519570372"></str>
+    <str key="3523454191-ucdn" type="ucdn" originalKey="3523454191"></str>
+    <str key="3524646833-ucdn" type="ucdn" originalKey="3524646833"></str>
+    <str key="3526453742-ugdt" type="ugdt" originalKey="3526453742">Underwater Thrusters Mk IV</str>
+    <str key="3532183001-ugdt" type="ugdt" originalKey="3532183001">Harlequin Camo</str>
+    <str key="3532327905-ugdt" type="ugdt" originalKey="3532327905">V42 Pariah-S</str>
+    <str key="3533405751-ucdt" type="ucdt" originalKey="3533405751">Underwater Thrusters Mk III allow the user to glide along the ocean's floor at an accelerated rate. &lt;font color="#dc9c36"&gt;Tactical slot item. Press Jump when wielded underwater to use. Cannot be equipped by Light Assault.&lt;/font&gt;</str>
+    <str key="3537835679-ucdt" type="ucdt" originalKey="3537835679">Heavy Assault infantry carry anti-vehicle rocket launchers, light machineguns, and have an improved nanite shield for absorbing more damage than other infantry classes.&lt;br&gt;&lt;br&gt;Weapons:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Light Machinegun&lt;/li&gt;&lt;li&gt;Shotgun&lt;/li&gt;&lt;li&gt;Submachine Gun&lt;/li&gt;&lt;li&gt;Scout Rifle&lt;/li&gt;&lt;li&gt;Heavy Weapons&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Abilities:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Improved Nanite Shields - While active, this short-duration shield will absorb a little more damage and increase your chances of survival against infantry and vehicles. These shields will slow the Heavy's movement while active. Higher ranks will increase the uptime for the ability.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Tools:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Rocket Launchers - Choose from a variety of launchers to combat armored vehicles or aircraft. Some specialize in a particular vehicle type or offer features such as lock-on targeting.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Tips:&lt;br&gt;&lt;ul&gt;&lt;li&gt;While more durable than other classes, you're not invincible. Press the assault but don't leave your teammates behind to live longer.&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="3539690785-ucdt" type="ucdt" originalKey="3539690785">M18 Palisade-S: Copper Medal</str>
+    <str key="3539849551-ucdt" type="ucdt" originalKey="3539849551">The Magrider is a hover tank used exclusively by the Vanu Sovereignty. Its hover capabilities allow it to climb terrain better than other tanks as well as move sideways to evade incoming tank shells and infantry-fired rockets.&lt;br&gt;&lt;br&gt;Faction: Vanu Sovereignty&lt;br&gt;Size: Medium&lt;br&gt;Type: MBT&lt;br&gt;Movement: Hover</str>
+    <str key="3541318897-ucdt" type="ucdt" originalKey="3541318897">Increases the maximum ammo capacity of the weapon by 900.</str>
+    <str key="3543167950-ucdt" type="ucdt" originalKey="3543167950">M18 Palisade-A</str>
+    <str key="3543477169-ucdt" type="ucdt" originalKey="3543477169">Flashbang Mine</str>
+    <str key="3543553593-ucdt" type="ucdt" originalKey="3543553593">S2-20 HCG [Front]</str>
+    <str key="3546952207-ucdt" type="ucdt" originalKey="3546952207">Grenade Launcher</str>
+    <str key="3549106594-ucdt" type="ucdt" originalKey="3549106594">Magazine Size 5</str>
+    <str key="3560117875-ucdt" type="ucdt" originalKey="3560117875">Oshur Conquest</str>
+    <str key="3561175032-ucdt" type="ucdt" originalKey="3561175032">Mosquito Shamrock Contrails</str>
+    <str key="3562306497-ucdn" type="ucdn" originalKey="3562306497"></str>
+    <str key="3581123690-ucdt" type="ucdt" originalKey="3581123690">Liberator Danny Boy Horn</str>
+    <str key="3601077136-ucdn" type="ucdn" originalKey="3601077136"></str>
+    <str key="3610936190-ugdt" type="ugdt" originalKey="3610936190">NS-66 Bumblebee</str>
+    <str key="3617841774-ucdt" type="ucdt" originalKey="3617841774">Heartless Outfit Decal</str>
+    <str key="3618738873-ucdt" type="ucdt" originalKey="3618738873">Druid</str>
+    <str key="3620500452-ucdt" type="ucdt" originalKey="3620500452">V42 Pariah: Auraxium Medal</str>
+    <str key="3624424766-ucdt" type="ucdt" originalKey="3624424766">Adds 6 rounds to the default magazine size.</str>
+    <str key="3625431436-ucdt" type="ucdt" originalKey="3625431436">Grenade Launcher</str>
+    <str key="3631854521-ucdt" type="ucdt" originalKey="3631854521">N30 Trawler-H: Silver Medal</str>
+    <str key="3646962286-ucdt" type="ucdt" originalKey="3646962286">Vanguard Danny Boy Horn</str>
+    <str key="3656942022-ucdt" type="ucdt" originalKey="3656942022">Changes the vehicle's contrails to leave a trail of feathers. All factions can use this gear.</str>
+    <str key="3661094177-ugdt" type="ugdt" originalKey="3661094177">Legion Medic Helmet</str>
+    <str key="3691563484-ucdn" type="ucdn" originalKey="3691563484"></str>
+    <str key="3694962462-ucdt" type="ucdt" originalKey="3694962462">Distant Shores: Off the Map</str>
+    <str key="3695651863-ucdt" type="ucdt" originalKey="3695651863">Title: Lovestruck</str>
+    <str key="3696220599-ucdt" type="ucdt" originalKey="3696220599">The Advanced Nanite Transport (ANT) is built for the mining and transport of Cortium, a mineral able to power a variety of ANT enhancements such as barriers and turbo.&lt;br&gt;&lt;br&gt;Faction: Common Pool&lt;br&gt;Size: Medium&lt;br&gt;Type: Transport&lt;br&gt;Movement: Wheeled</str>
+    <str key="3696527380-ucdt" type="ucdt" originalKey="3696527380">The Pariah is a stable, rapid fire platform with plasma projectiles effective against armor, air, and infantry targets. VS use only.</str>
+    <str key="3696692142-ucdt" type="ucdt" originalKey="3696692142">Heavy Barrel</str>
+    <str key="3696774134-ucdt" type="ucdt" originalKey="3696774134">Next Rank: Regeneration delay caused by damage lowered to 9 seconds.</str>
+    <str key="3703216980-ucdt" type="ucdt" originalKey="3703216980">Adds green cosmetic afterburner effect to this vehicle. VS use only.</str>
+    <str key="3703453303-ucdt" type="ucdt" originalKey="3703453303">M18 Palisade-A: Copper Medal</str>
+    <str key="3709825024-ucdt" type="ucdt" originalKey="3709825024">Concussion Mine</str>
+    <str key="3713231890-ucdt" type="ucdt" originalKey="3713231890">Enables the Galaxy to deploy into an Advanced Mobile Station with a shield that will absorb up to a certain amount of damage, but will regenerate over time. The AMS acts as a respawn point for friendly soldiers. Damage done to the shield will delay the shield's regeneration for 7 seconds.</str>
+    <str key="3725717260-ugdt" type="ugdt" originalKey="3725717260">N30 Trawler-A</str>
+    <str key="3727610332-ucdt" type="ucdt" originalKey="3727610332">ANT Danny Boy Horn</str>
+    <str key="3728501202-ucdt" type="ucdt" originalKey="3728501202">Seraphim HLX: Gold Medal</str>
+    <str key="3731430795-ucdt" type="ucdt" originalKey="3731430795">N30 Trawler: Silver Medal</str>
+    <str key="3733742516-ugdt" type="ugdt" originalKey="3733742516">SKL Outfit Decal</str>
+    <str key="3735682174-ucdt" type="ucdt" originalKey="3735682174">Adds 10 rounds to the default magazine size.</str>
+    <str key="3752123515-ucdt" type="ucdt" originalKey="3752123515">Colossus Montu Armor</str>
+    <str key="3753504373-ucdt" type="ucdt" originalKey="3753504373">GUNNER WEAPON: N30 Trawler-A</str>
+    <str key="3754434706-ucdt" type="ucdt" originalKey="3754434706">H2-20 HCG</str>
+    <str key="3754794816-ucdt" type="ucdt" originalKey="3754794816">Concussion Mine</str>
+    <str key="3758677336-ucdt" type="ucdt" originalKey="3758677336">Your outfit is currently Freelancing. While Freelancing your outfit cannot recruit additional members. Your members will always be assigned to the lowest population faction on a continent. Outfit communication and other Outfit-related features will be disabled while Freelancing for an opposing faction.</str>
+    <str key="3761946151-ucdt" type="ucdt" originalKey="3761946151">Underwater Thrusters Mk V</str>
+    <str key="3762282099-ucdt" type="ucdt" originalKey="3762282099">Concussion Mine</str>
+    <str key="3765222625-ucdt" type="ucdt" originalKey="3765222625">V42 Pariah-H: Auraxium Medal</str>
+    <str key="3765944946-ucdt" type="ucdt" originalKey="3765944946">Liberator Pink Afterburner</str>
+    <str key="3772987344-ucdt" type="ucdt" originalKey="3772987344">This heavily modified Thumper variant fires anti-vehicle sabot rounds capable of shredding enemy armor over moderate distances. All factions can use this weapon.</str>
+    <str key="3788721380-ucdt" type="ucdt" originalKey="3788721380">N30 Trawler-A: Silver Medal</str>
+    <str key="3792082302-ugdt" type="ugdt" originalKey="3792082302">Dervish Danny Boy Horn</str>
+    <str key="3799685754-ucdt" type="ucdt" originalKey="3799685754">ALIGN OUTFIT WITH</str>
+    <str key="3805597737-ucdt" type="ucdt" originalKey="3805597737">GUNNER WEAPON: N30 Trawler-S</str>
+    <str key="3808964889-ugdt" type="ugdt" originalKey="3808964889">M18 Palisade-S</str>
+    <str key="3815260378-ucdt" type="ucdt" originalKey="3815260378">S2-20 HCG: Silver Medal</str>
+    <str key="3822292036-ugdt" type="ugdt" originalKey="3822292036">Scythe Green Afterburner</str>
+    <str key="3839444862-ugdt" type="ugdt" originalKey="3839444862">V42 Pariah</str>
+    <str key="3844287033-ucdn" type="ucdn" originalKey="3844287033"></str>
+    <str key="3846317693-ugdt" type="ugdt" originalKey="3846317693">Legion Specialist Helmet</str>
+    <str key="3851177472-ucdn" type="ucdn" originalKey="3851177472"></str>
+    <str key="3864628050-ucdt" type="ucdt" originalKey="3864628050">Lightning Danny Boy Horn</str>
+    <str key="3867555648-ucdt" type="ucdt" originalKey="3867555648">"Loyalty Until Death, Strength in Unity"&lt;br&gt;&lt;br&gt;Soldiers, unifiers, or dictatorial oppressors? The Terran Republic operates as a rigidly structured and well-funded military fighting force focused on the safety and security of the citizens of the republic. Seen by some as controlling and obsessive, the Terran Republic is intent on the preservation of law and order until they can unify the factions and find their way back to Earth.&lt;br&gt;&lt;br&gt;Infantry Weapon Signature:&lt;br&gt;&lt;ul&gt;&lt;li&gt;High rate of fire weapons&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Exclusive Vehicles:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Prowler&lt;/li&gt;&lt;li&gt;Mosquito&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="3869070141-ucdt" type="ucdt" originalKey="3869070141">Dispenses ammo to allied vehicles within 20m and squad members may spawn directly into your vehicle. Allows the ANT to deploy and act as an infantry spawn point.</str>
+    <str key="3870060468-ucdt" type="ucdt" originalKey="3870060468">Allows the Heavy Assault to use Havoc grenades.</str>
+    <str key="3870496622-ucdt" type="ucdt" originalKey="3870496622">Increases the maximum ammo capacity of the weapon by 630.</str>
+    <str key="3871759331-ucdt" type="ucdt" originalKey="3871759331">Chimera Failsauce Horn</str>
+    <str key="3873188586-ucdt" type="ucdt" originalKey="3873188586">GUNNER WEAPON: M18 Palisade</str>
+    <str key="3876070971-ugdt" type="ugdt" originalKey="3876070971">NS SQU-34K</str>
+    <str key="3879484396-ucdt" type="ucdt" originalKey="3879484396">NS SQU-34K</str>
+    <str key="3879857051-ucdt" type="ucdt" originalKey="3879857051">NS-44 "Jackpot" Commissioner: Silver Medal</str>
+    <str key="3889532279-ugdt" type="ugdt" originalKey="3889532279">Dervish Failsauce Horn</str>
+    <str key="3920111153-ucdt" type="ucdt" originalKey="3920111153">Padded Diamonds Banner</str>
+    <str key="3925127810-ucdt" type="ucdt" originalKey="3925127810">M18 Palisade-H</str>
+    <str key="3939542710-ucdt" type="ucdt" originalKey="3939542710">Engineer Legion Armor</str>
+    <str key="3948150631-ugdt" type="ugdt" originalKey="3948150631">Blacklist</str>
+    <str key="3967397916-ucdt" type="ucdt" originalKey="3967397916">Deliverer Module 1</str>
+    <str key="3979116877-ucdt" type="ucdt" originalKey="3979116877">Seraphim HLX: Auraxium Medal</str>
+    <str key="3982653710-ucdt" type="ucdt" originalKey="3982653710">Increases EMP Mine capacity by 1.</str>
+    <str key="3982765216-ucdt" type="ucdt" originalKey="3982765216">N30 Trawler: Gold Medal</str>
+    <str key="3983558935-ucdt" type="ucdt" originalKey="3983558935">M18 Palisade-A: Auraxium Medal</str>
+    <str key="3983797232-ucdn" type="ucdn" originalKey="3983797232"></str>
+    <str key="3986423177-ugdt" type="ugdt" originalKey="3986423177">AF-20 Rogue</str>
+    <str key="3992738604-ucdn" type="ucdn" originalKey="3992738604"></str>
+    <str key="3998230394-ucdt" type="ucdt" originalKey="3998230394">M18 Palisade-A: Gold Medal</str>
+    <str key="4002608258-ugdt" type="ugdt" originalKey="4002608258">Havoc Launcher</str>
+    <str key="4011381081-ucdt" type="ucdt" originalKey="4011381081">Lovestruck</str>
+    <str key="4014215799-ucdt" type="ucdt" originalKey="4014215799">The Chimera sports wheels instead of treads, which increases maneuverability through rough terrain. Up to four additional rumble seat passengers may be carried, complementing the driver-operated main cannon, and forward-facing secondary turret.&lt;br&gt;&lt;br&gt;Faction: NS Operatives&lt;br&gt;Size: Medium&lt;br&gt;Type: MBT&lt;br&gt;Movement: Wheeled</str>
+    <str key="4019008758-ucdt" type="ucdt" originalKey="4019008758">The weapon now fires an accurate, high-velocity slug dealing 650 damage, falling off to 500 at the weapon's minimum damage range.</str>
+    <str key="4029321097-ucdt" type="ucdt" originalKey="4029321097">The all-rounder 20mm heavy chain gun is capable of dispatching armor, air, and infantry alike. NSO use only.</str>
+    <str key="4031323958-ucdt" type="ucdt" originalKey="4031323958">Joker Card Outfit Decal</str>
+    <str key="4069288496-ucdt" type="ucdt" originalKey="4069288496">Settle your disputes in a gentlemanly manner with this modern take on the classic melee weapon. All factions can use this weapon.</str>
+    <str key="4083830770-ugdt" type="ugdt" originalKey="4083830770">Dervish Green Afterburner</str>
+    <str key="4124855616-ucdt" type="ucdt" originalKey="4124855616">Underwater Thrusters Mk I</str>
+    <str key="4126239099-ucdt" type="ucdt" originalKey="4126239099">Jester's Bundle</str>
+    <str key="4126911831-ucdt" type="ucdt" originalKey="4126911831">The Trawler is a slow firing, 30mm heavy machine gun effective against armor, air, and infantry. NC use only.</str>
+    <str key="4128207200-ucdt" type="ucdt" originalKey="4128207200">Increases Concussion Mine capacity by 1.</str>
+    <str key="4134356451-ucdt" type="ucdt" originalKey="4134356451">The Galaxy is an air transport that can be used to hot drop up to 11 soldiers. It has four weapon mounts that can be used for defense or outfitted into a gunship role.&lt;br&gt;&lt;br&gt;Faction: Common Pool&lt;br&gt;Size: Large&lt;br&gt;Type: Transport&lt;br&gt;Movement: Aircraft</str>
+    <str key="4156433427-ucdt" type="ucdt" originalKey="4156433427">Detonates after detecting enemy movement releasing a disorienting blast that temporarily blurs enemy vision while disrupting movement control.</str>
+    <str key="4157610949-ucdt" type="ucdt" originalKey="4157610949">Enables the Galaxy to deploy into an Advanced Mobile Station with a shield that will absorb up to a certain amount of damage, but will regenerate over time. The AMS acts as a respawn point for friendly soldiers. Damage done to the shield will delay the shield's regeneration for 6 seconds.</str>
+    <str key="4164328736-ucdt" type="ucdt" originalKey="4164328736">V42 Pariah</str>
+    <str key="4166049453-ucdt" type="ucdt" originalKey="4166049453">The Light Assault is a close-to-medium range skirmisher. It has a jetpack for extreme mobility and can quickly move to flank enemy positions.&lt;br&gt;&lt;br&gt;Weapons:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Carbine&lt;/li&gt;&lt;li&gt;Submachine Gun&lt;/li&gt;&lt;li&gt;Shotgun&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Abilities:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Jet Pack - Light Assaults have several types of jet packs available for traversing over high obstacles, remaining in the air for texted periods of time, or gaining a quick burst of speed to close the distance to their target. The Light Assault can fire weapons while airborne but suffer an accuracy penalty for doing so.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Tools:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Rocklet Rifle - A six-round rifle that fires light explosive mini-rockets. It can fire semi-automatic or unload all rocklets in rapid succession.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Tips:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Carbines retain a portion of their accuracy while airborne making them the obvious choice for players first learning the Light Assault class.&lt;/li&gt;&lt;/ul&gt;</str>
+    <str key="4177939136-ucdt" type="ucdt" originalKey="4177939136">Released from orbit, Drop Pods are used to rapidly deploy troops to a battlefield.  Soldiers in the drop pod have some control on the pod's direction and in some cases can use it as an effective weapon, damaging those it lands on.&lt;br&gt;&lt;br&gt;Faction: Common Pool&lt;br&gt;Size: Small&lt;br&gt;Type: Transport&lt;br&gt;Movement: Drop Pod</str>
+    <str key="4202269060-ugdt" type="ugdt" originalKey="4202269060">Lucky Banner</str>
+    <str key="4211724989-ucdt" type="ucdt" originalKey="4211724989">Tickle the funnybone of friends and foes alike with the Jester's Bundle. Includes NS SQU-34K melee weapon, harlequin mask, profile banner, and joker decal. All factions receive these items.</str>
+    <str key="4213224785-ucdt" type="ucdt" originalKey="4213224785">S2-20 HCG</str>
+    <str key="4224071276-ugdt" type="ugdt" originalKey="4224071276">N30 Trawler-S</str>
+    <str key="4252312569-ugdt" type="ugdt" originalKey="4252312569">Deliverer Module 1</str>
+    <str key="4253209885-ucdt" type="ucdt" originalKey="4253209885">N30 Trawler-S: Copper Medal</str>
+    <str key="4258503005-ucdt" type="ucdt" originalKey="4258503005">Detonates on enemy movement and will temporarily blind, deafen, and reduce the accuracy of infantry within its blast radius.</str>
+    <str key="4259701172-ugdt" type="ugdt" originalKey="4259701172">Padded Diamonds Banner</str>
+    <str key="4272567999-ucdn" type="ucdn" originalKey="4272567999"></str>
+    <str key="4273397034-ucdt" type="ucdt" originalKey="4273397034">Allows the Infiltrator to use Timed EMP grenades.</str>
+    <str key="4273798641-ucdt" type="ucdt" originalKey="4273798641">Dispenses ammo to allied vehicles within range. Allows the ANT to deploy and act as an infantry spawn point.</str>
+    <str key="4274033576-ucdt" type="ucdt" originalKey="4274033576">GUNNER WEAPON: M18 Palisade-H</str>
+    <str key="4280164850-ucdt" type="ucdt" originalKey="4280164850">Flashbang Mine</str>
+    <str key="4280949933-ucdt" type="ucdt" originalKey="4280949933">Unlocks the EMP Mine for the NC Infiltrator.</str>
+    <str key="4282993724-ucdt" type="ucdt" originalKey="4282993724">Changes the vehicle's contrails to leave a trail of feathers. NSO use only.</str>
+    <str key="4285707292-ugdt" type="ugdt" originalKey="4285707292">ANT Amphibious Plating</str>
+    <str key="4293577422-ucdt" type="ucdt" originalKey="4293577422">GUNNER WEAPON: N30 Trawler</str>
 </root>

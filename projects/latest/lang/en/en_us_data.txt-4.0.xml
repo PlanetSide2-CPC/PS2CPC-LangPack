@@ -93,7 +93,7 @@ Completing this directive awards the title "the Butcher"</str>
     <str key="334893109-ucdt" type="ucdt" originalKey="334893109">Desert Scrub v1</str>
     <str key="334900416-ucdt" type="ucdt" originalKey="334900416">Increases the time required for seeking weapons to establish a lock by 0.25 seconds, reduces the mini-map auto-detect range of the vehicle to 174 meters and reduces detection from enemy Engagement Radars by 100 meters.
 </str>
-    <str key="334980580-ucdt" type="ucdt" originalKey="334980580">Solstice SF Copper Medal</str>
+    <str key="334980580-ucdt" type="ucdt" originalKey="334980580">Prominence VE4: Copper Medal</str>
     <str key="335144839-ucdt" type="ucdt" originalKey="335144839">Welcome! You've been granted #count([*cert_points*]) certification points for Test Server.</str>
     <str key="335180437-ucdt" type="ucdt" originalKey="335180437">ANTI-GROUND</str>
     <str key="335572805-ucdt" type="ucdt" originalKey="335572805">Reward: Citadel Shield</str>
@@ -318,7 +318,7 @@ Completing this directive awards the title "the Butcher"</str>
     <str key="355763743-ucdt" type="ucdt" originalKey="355763743">SPRK-33 and FL-34</str>
     <str key="355785317-ucdt" type="ucdt" originalKey="355785317">Increases the maximum ammo capacity of the weapon by 5 rounds.</str>
     <str key="355786359-ucdt" type="ucdt" originalKey="355786359">Wasp Helmet</str>
-    <str key="355894968-ucdt" type="ucdt" originalKey="355894968">Gauss Compact: Copper Medal</str>
+    <str key="355894968-ucdt" type="ucdt" originalKey="355894968">AF-20 Rogue: Copper Medal</str>
     <str key="355960096-ucdt" type="ucdt" originalKey="355960096">Burster XS: Silver Medal</str>
     <str key="356029215-ucdt" type="ucdt" originalKey="356029215">Achromatomaly</str>
     <str key="356052409-ucdt" type="ucdt" originalKey="356052409">7 Day Booo-st</str>
@@ -406,7 +406,7 @@ Drive this Sunderer to the waypoint marked on your HUD.</str>
     <str key="363741189-ucdt" type="ucdt" originalKey="363741189">NSX Amaterasu: Copper Medal</str>
     <str key="363978222-ucdt" type="ucdt" originalKey="363978222">Drift Airframe</str>
     <str key="364657986-ucdt" type="ucdt" originalKey="364657986">Ain't Dead Yet Vehicle Decal</str>
-    <str key="364805081-ucdt" type="ucdt" originalKey="364805081">The heavier Nano-Armor Cloaking device passively grants 100 shield health to the Infiltrator. While the cloak is active, it will also reduce incoming small arms damage by 25%. Nano-armor can remain active for 8 seconds and recharges in 11.5 seconds.</str>
+    <str key="364805081-ucdt" type="ucdt" originalKey="364805081">While Nano-Armor Cloaking is active, damage from incoming ballistic projectiles is reduced by 35%. Nano-armor can remain active for 8 seconds and recharges in 11.5 seconds.</str>
     <str key="364819142-ucdt" type="ucdt" originalKey="364819142">EMP Grenades create a blast that can go through walls and destroy most enemy deployables. Soldiers directly caught in the blast will also have their personal shields and HUD disabled for a few seconds.</str>
     <str key="364855123-ucdt" type="ucdt" originalKey="364855123">Cert Attachment</str>
     <str key="364855664-ucdt" type="ucdt" originalKey="364855664">Decreases the time taken to reload weapon by 0.45 seconds.</str>
@@ -470,7 +470,7 @@ Drive this Sunderer to the waypoint marked on your HUD.</str>
     <str key="368363686-ucdt" type="ucdt" originalKey="368363686"> </str>
     <str key="368403899-ugdt" type="ugdt" originalKey="368403899">TR: Chain Gun Decal</str>
     <str key="368490173-ucdt" type="ucdt" originalKey="368490173">Variant of the Standard New Conglomerate Light Assault Helmet</str>
-    <str key="368520678-ucdt" type="ucdt" originalKey="368520678">Gauss Compact S: Copper Medal</str>
+    <str key="368520678-ucdt" type="ucdt" originalKey="368520678">NC2 Gauss Compact: Copper Medal</str>
     <str key="368596690-ucdt" type="ucdt" originalKey="368596690">Assist King</str>
     <str key="368650223-ucdt" type="ucdt" originalKey="368650223">Could not transfer fireteam leadership due to bad subgroup ID.</str>
     <str key="368651731-ucdt" type="ucdt" originalKey="368651731">Adds a custom rear hatch to the back of the Sunderer.  VS use only.</str>
@@ -503,7 +503,7 @@ Drive this Sunderer to the waypoint marked on your HUD.</str>
     <str key="370853187-ucdt" type="ucdt" originalKey="370853187">Burster XS: Copper Medal</str>
     <str key="370956528-ucdt" type="ucdt" originalKey="370956528">Canine MAX Helmet</str>
     <str key="371028066-ucdt" type="ucdt" originalKey="371028066">M12 Kobalt</str>
-    <str key="371161263-ucdt" type="ucdt" originalKey="371161263">Decreases the time taken to reload weapon by 0.4 seconds.</str>
+    <str key="371161263-ucdt" type="ucdt" originalKey="371161263">Decreases the time taken to reload weapon by 19%.</str>
     <str key="371247840-ugdt" type="ugdt" originalKey="371247840">General Pig Vehicle Decal</str>
     <str key="371297613-ucdt" type="ucdt" originalKey="371297613">Increases the ammo capacity of the weapon to 90 rounds.</str>
     <str key="371308553-ucdt" type="ucdt" originalKey="371308553">ADVX // Mako - Fully Loaded Bundle</str>
@@ -549,7 +549,7 @@ Drive this Sunderer to the waypoint marked on your HUD.</str>
     <str key="374454701-ucdt" type="ucdt" originalKey="374454701">Nano-Armor Kit</str>
     <str key="374460642-ucdt" type="ucdt" originalKey="374460642">Liberator Phantom Cockpit</str>
     <str key="374553971-ugdt" type="ugdt" originalKey="374553971">Premium Cortium Module</str>
-    <str key="374564125-ucdt" type="ucdt" originalKey="374564125">A compensator redirects gases upward, reducing vertical recoil. The increased sound pressure will cause the player to show up on the minimap from farther away, and the increased weapon weight reduces accuracy when firing from the hip.</str>
+    <str key="374564125-ucdt" type="ucdt" originalKey="374564125">A compensator redirects gases upward, reducing vertical recoil by 30%. The increased sound pressure will cause the player to show on the minimap 35m farther away, and increased weapon bulk reduces hipfire cone of fire by 15%.</str>
     <str key="374571800-ucdt" type="ucdt" originalKey="374571800">Allows soldiers to carry 1 additional magazine for primary and sidearm weapons, and increases reload speed by 15% for weapons in those slots.</str>
     <str key="374584726-ucdt" type="ucdt" originalKey="374584726">[WAITING]</str>
     <str key="374737535-ucdt" type="ucdt" originalKey="374737535">Executioner: Silver Medal</str>
@@ -690,7 +690,7 @@ Drive this Sunderer to the waypoint marked on your HUD.</str>
     <str key="383623576-ucdt" type="ucdt" originalKey="383623576">Play Test - TR</str>
     <str key="383685128-ucdt" type="ucdt" originalKey="383685128">Move out!</str>
     <str key="383692474-ucdt" type="ucdt" originalKey="383692474">AF-V1 Paladin: Copper Medal</str>
-    <str key="383845880-ucdt" type="ucdt" originalKey="383845880">Auraxis Firearms launched the Fortuna Mercenary for the discerning soldier of fortune that prefers close-quarters combat without having to give up their shotgun.</str>
+    <str key="383845880-ucdt" type="ucdt" originalKey="383845880">Auraxis Firearms launched the Fortuna Mercenary for the discerning soldier of fortune, emphasizing battlefield mobility while retaining the traditional AF-19 Mercenary feel.</str>
     <str key="383916006-ucdt" type="ucdt" originalKey="383916006">Decreases the noise generated by footsteps for 2 hours. Rank 22 required.</str>
     <str key="383949184-ucdt" type="ucdt" originalKey="383949184">Adds 13 rounds to the default magazine size.</str>
     <str key="384027839-ucdt" type="ucdt" originalKey="384027839">Desperado: Copper Medal</str>
@@ -706,7 +706,7 @@ Drive this Sunderer to the waypoint marked on your HUD.</str>
     <str key="385136629-ucdt" type="ucdt" originalKey="385136629">TR: MAX: Flame 01: Left Gold Medal</str>
     <str key="385145698-ucdt" type="ucdt" originalKey="385145698">Holiday Booster Bundle</str>
     <str key="385235917-ucdt" type="ucdt" originalKey="385235917">Sniper Scope 01 Description</str>
-    <str key="385344636-ucdt" type="ucdt" originalKey="385344636">The Detonator manufactures a long-range artillery shell whose explosive anti-vehicle payload increases in power the further it travels, dealing maximum damage beyond 100 meters. This weapon has an arming distance of 20 meters.</str>
+    <str key="385344636-ucdt" type="ucdt" originalKey="385344636">The Detonator manufactures a long-range artillery shell carrying an explosive anti-vehicle payload that increases in power the further it travels, dealing maximum damage beyond 100 meters. This weapon has an arming distance of 20 meters.</str>
     <str key="385455739-ucdt" type="ucdt" originalKey="385455739">TAR-AE: Silver Medal</str>
     <str key="385473110-ucdt" type="ucdt" originalKey="385473110">NiCO (1x)</str>
     <str key="385540608-ucdt" type="ucdt" originalKey="385540608">Laser Sight</str>
@@ -854,7 +854,7 @@ Drive this Sunderer to the waypoint marked on your HUD.</str>
     <str key="397348488-ugdt" type="ugdt" originalKey="397348488">Techlily Vehicle Camo</str>
     <str key="397383708-ucdt" type="ucdt" originalKey="397383708">Harasser Inferno Tire Trails</str>
     <str key="397485034-ucdt" type="ucdt" originalKey="397485034">NS-60 Flamethrower: Gold Medal</str>
-    <str key="397559270-ucdt" type="ucdt" originalKey="397559270">You regenerate 40 health per second and your armor is reduced by 20% at all times. Taking damage pauses this regeneration for 2 seconds, and regeneration does not stack with Nanite Auto-Repair. &lt;font color="#dc9c36"&gt;MAX only.&lt;/font&gt;</str>
+    <str key="397559270-ucdt" type="ucdt" originalKey="397559270">You regenerate 40 health per second and your armor is reduced by 20%. Taking damage pauses this regeneration for 2 seconds, and regeneration does not stack with Nanite Auto-Repair. &lt;font color="#dc9c36"&gt;MAX only.&lt;/font&gt;</str>
     <str key="397577864-ucdt" type="ucdt" originalKey="397577864">M20 Basilisk: Auraxium Medal</str>
     <str key="397851489-ucdt" type="ucdt" originalKey="397851489">*Faction Restrictions Still Apply</str>
     <str key="397911555-ucdt" type="ucdt" originalKey="397911555">The Reckoning Force Vehicle Decal</str>

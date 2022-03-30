@@ -242,7 +242,7 @@
     <str key="1083422309-ucdt" type="ucdt" originalKey="1083422309">Solstice VE3: Silver Medal</str>
     <str key="1083467213-ucdt" type="ucdt" originalKey="1083467213">Destroy the SCU to prevent enemies from spawning in that spawn room</str>
     <str key="1083540011-ucdt" type="ucdt" originalKey="1083540011">Increases the maximum ammo capacity of the weapon by 30 rounds.</str>
-    <str key="1083563645-ucdt" type="ucdt" originalKey="1083563645">The heavier Nano-Armor Cloaking device passively grants 100 shield health to the Infiltrator. While the cloak is active, it will also reduce incoming small arms damage by 25%. Nano-armor can remain active for 7.5 seconds and recharges in 12 seconds.</str>
+    <str key="1083563645-ucdt" type="ucdt" originalKey="1083563645">While Nano-Armor Cloaking is active, damage from incoming ballistic projectiles is reduced by 35%. Nano-armor can remain active for 7.5 seconds and recharges in 12 seconds.</str>
     <str key="1083633783-ucdt" type="ucdt" originalKey="1083633783">Engineer Deployable Sentry Vehicle Description</str>
     <str key="1083640079-ucdt" type="ucdt" originalKey="1083640079">NS CandyCannon 3000</str>
     <str key="1083657830-ucdt" type="ucdt" originalKey="1083657830">TR Light Assault Pro Bundle</str>
@@ -395,7 +395,7 @@
     <str key="1095479881-ugdt" type="ugdt" originalKey="1095479881">Adherent</str>
     <str key="1095588632-ucdt" type="ucdt" originalKey="1095588632">Bivalvia Helmet</str>
     <str key="1095692075-ucdt" type="ucdt" originalKey="1095692075">Citadel Shield</str>
-    <str key="1095760318-ucdt" type="ucdt" originalKey="1095760318">Allows use of Scout Rifles in the secondary weapon slot. Does not include Directive reward weapons. Combat Medic only.</str>
+    <str key="1095760318-ucdt" type="ucdt" originalKey="1095760318">Allows use of Scout Rifles in the secondary weapon slot. Combat Medic only.</str>
     <str key="1095793611-ucdt" type="ucdt" originalKey="1095793611">Liberator M20 Drake [Tail]</str>
     <str key="1095990413-ucdt" type="ucdt" originalKey="1095990413">Wearable by all non-Max classes. NC use only.</str>
     <str key="1096004657-ucdt" type="ucdt" originalKey="1096004657">Increases the maximum ammo capacity of the weapon by 60 rounds.</str>
@@ -408,7 +408,7 @@
     <str key="1096289792-ugdt" type="ugdt" originalKey="1096289792">Tidal Camo</str>
     <str key="1096346884-ucdt" type="ucdt" originalKey="1096346884">Corporal 1</str>
     <str key="1096383734-ucdt" type="ucdt" originalKey="1096383734">Flash Grenade</str>
-    <str key="1096409402-ucdt" type="ucdt" originalKey="1096409402">The Cortium Turbo Engine grants powerful thrust by converting stored minerals into fuel. The C300 consumes 225 Cortium per second.</str>
+    <str key="1096409402-ucdt" type="ucdt" originalKey="1096409402">The Cortium Turbo Engine grants powerful thrust by converting stored minerals into fuel. Consumes 225 Cortium per second.</str>
     <str key="1096825848-ugdt" type="ugdt" originalKey="1096825848">SAS-R</str>
     <str key="1096980390-ucdt" type="ucdt" originalKey="1096980390">[Mentor]</str>
     <str key="1096988163-ucdt" type="ucdt" originalKey="1096988163">Vehicle Playground</str>
@@ -596,7 +596,7 @@ The facility will be captured when the facility's capture progress bar fills all
     <str key="1113104253-ucdt" type="ucdt" originalKey="1113104253">Increases the maximum ammo capacity of the weapon by 6 rockets.</str>
     <str key="1113117022-ucdt" type="ucdt" originalKey="1113117022">NS-15M1</str>
     <str key="1113240677-ucdt" type="ucdt" originalKey="1113240677">RENTAL PERIOD: &lt;font color="#FFFFFF"&gt;%0&lt;/font&gt;</str>
-    <str key="1113313044-ucdt" type="ucdt" originalKey="1113313044">Jokingly referred to as the "broomstick," this adapter reserves 9 rounds from the magazine to add an alternate fire mode that unleashes a torrent of rounds after a short spinup.</str>
+    <str key="1113313044-ucdt" type="ucdt" originalKey="1113313044">This adapter adds an alternate fire mode that unleashes a torrent of rounds after a 0.8 second spinup. Two rounds are fired per shot at a higher rate of fire. While the damage per pellet is reduced, overall damage output greatly increases.</str>
     <str key="1113413321-ucdt" type="ucdt" originalKey="1113413321">Apply the Temperate Forest camo pattern to your vehicle. All factions can use this gear.</str>
     <str key="1113422912-ucdt" type="ucdt" originalKey="1113422912">ANT Deathmarch Horn</str>
     <str key="1113535095-ugdt" type="ugdt" originalKey="1113535095">RB-L Rebreather</str>
@@ -829,7 +829,7 @@ The facility will be captured when the facility's capture progress bar fills all
     <str key="1133576320-ucdt" type="ucdt" originalKey="1133576320">XP Boost</str>
     <str key="1133590710-ucdt" type="ucdt" originalKey="1133590710">Esamir Large Outpost 4</str>
     <str key="1133697830-ucdt" type="ucdt" originalKey="1133697830">NS35GL Frag Cannon (Left)</str>
-    <str key="1133718702-ucdt" type="ucdt" originalKey="1133718702">Thumper impacts now strip 125 shield health, 20% of maximum ability energy, and will immediately destroy small deployables caught in the impact area, but blast damage is reduced to 200.</str>
+    <str key="1133718702-ucdt" type="ucdt" originalKey="1133718702">Direct hits now strip 20% maximum shield health and ability energy from enemies, and will deal high damage to small deployables, but reduces your total projectile damage by 20%.</str>
     <str key="1133815297-ucdt" type="ucdt" originalKey="1133815297">Magrider:  Utility Slot</str>
     <str key="1133884728-ucdt" type="ucdt" originalKey="1133884728">Mineral Radar 2</str>
     <str key="1134037419-ucdt" type="ucdt" originalKey="1134037419">Applies a decal to your armor. TR use only.</str>

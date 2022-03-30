@@ -22,7 +22,7 @@
     <str key="729490543-ucdt" type="ucdt" originalKey="729490543">&lt;font color="#ACE1E5"&gt;&lt;u&gt;USE&lt;/u&gt;&lt;/font&gt;&lt;br&gt;Right-click on map to use. &lt;br&gt;&lt;br&gt;&lt;font color="#ACE1E5"&gt;&lt;u&gt;DESCRIPTION&lt;/u&gt;&lt;/font&gt;&lt;br&gt;Requires Reserved Asset permissions. &lt;br&gt;&lt;br&gt;Deploys a massive bubble shield that blocks projectiles from the outside. &lt;font color="#CC200D"&gt;&lt;br&gt;&lt;br&gt;Max 3.&lt;br&gt;6 minute duration.&lt;/font&gt;</str>
     <str key="729538607-ugdt" type="ugdt" originalKey="729538607">Cockpit: Hearts Decal</str>
     <str key="729732164-ucdt" type="ucdt" originalKey="729732164">You will want to look for and travel to the Warpgate region to fulfill your final objective. The Warpgate region is normally the furthest region on the extents of the map, and will have a waypoint placed on it during this objective.</str>
-    <str key="729763398-ucdt" type="ucdt" originalKey="729763398">The heavier Nano-Armor Cloaking device passively grants 100 shield health to the Infiltrator. While the cloak is active, it will also reduce incoming small arms damage by 25%. Nano-Armor can remain active for 6.5 seconds and recharges in 13 seconds.</str>
+    <str key="729763398-ucdt" type="ucdt" originalKey="729763398">While Nano-Armor Cloaking is active, damage from incoming ballistic projectiles is reduced by 35%. Nano-Armor can remain active for 6.5 seconds and recharges in 13 seconds.</str>
     <str key="729810410-ucdt" type="ucdt" originalKey="729810410">TIME&lt;BR&gt;EXTENDED!</str>
     <str key="730010669-ugdt" type="ugdt" originalKey="730010669">Skull Noir</str>
     <str key="730180019-ucdt" type="ucdt" originalKey="730180019">Spotted an enemy heavy.</str>
@@ -292,7 +292,7 @@
     <str key="750489298-ugdt" type="ugdt" originalKey="750489298">8-Bit TR</str>
     <str key="750492548-ucdt" type="ucdt" originalKey="750492548">NSX Tengu - Fully Loaded Bundle</str>
     <str key="750495391-ucdt" type="ucdt" originalKey="750495391">Mekala</str>
-    <str key="750561020-ucdt" type="ucdt" originalKey="750561020">When activated, a rapidly decaying shield mesh surrounds the soldier and absorbs up to 450 damage; power is recharged by 44% when the operating soldier kills an enemy. This shield passively recharges to full over 36 seconds.</str>
+    <str key="750561020-ucdt" type="ucdt" originalKey="750561020">When activated, a rapidly decaying shield mesh surrounds the soldier and absorbs up to 450 damage; power is recharged by 25% when the operating soldier kills an enemy. This shield passively recharges to full over 36 seconds.</str>
     <str key="750681519-ucdt" type="ucdt" originalKey="750681519">NS-44-IA Showdown: Gold Medal</str>
     <str key="750726209-ucdt" type="ucdt" originalKey="750726209">Adds the LC4 Bumpers to the Lightning.</str>
     <str key="750828446-ucdt" type="ucdt" originalKey="750828446">Give Me Liberty</str>
@@ -315,7 +315,7 @@
     <str key="752090572-ucdt" type="ucdt" originalKey="752090572">Increases the maximum ammo capacity of the weapon by 22 shots.</str>
     <str key="752090927-ucdt" type="ucdt" originalKey="752090927">Victory is Our Tradition!</str>
     <str key="752193085-ugdt" type="ugdt" originalKey="752193085">Justicar 1 Decal</str>
-    <str key="752204591-ucdt" type="ucdt" originalKey="752204591">Solstice SF Auraxium Medal</str>
+    <str key="752204591-ucdt" type="ucdt" originalKey="752204591">Prominence VE4: Auraxium Medal</str>
     <str key="752217886-ucdt" type="ucdt" originalKey="752217886">India Scrub</str>
     <str key="752380124-ucdt" type="ucdt" originalKey="752380124">"Treasured" MSW-R: Auraxium Medal</str>
     <str key="752544967-ucdt" type="ucdt" originalKey="752544967">Further increases the efficiency of the MAX's JS236 capacitor allowing it to recharge at a faster rate.</str>
@@ -554,7 +554,7 @@
     <str key="770806662-ucdt" type="ucdt" originalKey="770806662">Activate to repair 15% of the vehicle health over 5 seconds. If the vehicle is on fire when activated, it will also immediately extinguish the flames. Can be activated once every 30 seconds.</str>
     <str key="770834796-ucdt" type="ucdt" originalKey="770834796">A30 Walker: Auraxium Medal</str>
     <str key="770850148-ucdt" type="ucdt" originalKey="770850148">The VS are down one Scythe.</str>
-    <str key="770900568-ucdt" type="ucdt" originalKey="770900568">Decreases the time taken to reload weapon by 0.5 seconds.</str>
+    <str key="770900568-ucdt" type="ucdt" originalKey="770900568">Decreases the time taken to reload weapon by 20%.</str>
     <str key="771017790-ugdt" type="ugdt" originalKey="771017790">Prowler Delta Plating</str>
     <str key="771108429-ucdt" type="ucdt" originalKey="771108429">%0/%1 Active Cores</str>
     <str key="771190876-ugdt" type="ugdt" originalKey="771190876">Consortium Talon Armor Decal</str>
@@ -656,7 +656,7 @@
     <str key="779333346-ugdt" type="ugdt" originalKey="779333346">Novus 1 Decal</str>
     <str key="779479632-ucdt" type="ucdt" originalKey="779479632">L100 Python AP: Auraxium Medal</str>
     <str key="779488579-ucdt" type="ucdt" originalKey="779488579">&lt;font size='32' color='#ffffff'&gt;ACCESS THE DISTANT SHORES CAMPAIGN&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size='20' color='#dad9d7'&gt;Shifting tides have revealed the lost continent of Oshur. Turbulent energy storms enshroud the archipelago, thwarting conventional travel. Undeterred, the Terran Republic enlists the expertise of Nascent Expeditions to breach the barrier and regain control of the coastal paradise and its war-torn past. &lt;/font&gt;</str>
-    <str key="779638813-ucdt" type="ucdt" originalKey="779638813">Cutting edge railgun tech found in Auraxis' Firearms Railjack sniper rifle allows for lightning-fast bullet velocities. Distant targets are dropped almost instantly following a split-second charge-up delay from its powerful superconductor.</str>
+    <str key="779638813-ucdt" type="ucdt" originalKey="779638813">Cutting edge railgun tech found in Auraxis' Firearms Railjack sniper rifle allows for lightning-fast bullet velocities. Projectiles pierce through infantry targets following a split-second charge-up delay from its powerful superconductor.</str>
     <str key="779933955-ucdt" type="ucdt" originalKey="779933955">The P2-120 HESH is loaded with high-explosive squash head rounds that are less effective against armor, but more lethal to enemy infantry. TR use only.</str>
     <str key="779979764-ucdt" type="ucdt" originalKey="779979764">&lt;font color="#00FFAA"&gt;&lt;u&gt;New Ecology&lt;/u&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;"They sprung up so quickly. Fully formed plants of species we've never seen or cataloged, it's amazing! Could you imagine what we could do with even a fraction of this power? Food stores would be plentiful and diverse, we wouldn't be stuck eating cabbage or bio-nutrient shakes. Yuck. Fresh food, I'd be so happy, it's like a dream!"&lt;/i&gt; - Unknown Researcher post-collapse</str>
     <str key="780037811-ucdt" type="ucdt" originalKey="780037811">Unlock defense slot Certifications to increase the ANT's survivability on the field.</str>

@@ -14,7 +14,7 @@
     <str key="3947540157-ucdt" type="ucdt" originalKey="3947540157">Decreases the time needed to reload weapon by 7.5%</str>
     <str key="3947595262-ucdt" type="ucdt" originalKey="3947595262">NC - Sniper Rifle - Long - V10 Description(Delete Me -BB)</str>
     <str key="3947793438-ucdt" type="ucdt" originalKey="3947793438">Show HUD Compass</str>
-    <str key="3947958536-ucdt" type="ucdt" originalKey="3947958536">Gauss Compact: Gold Medal</str>
+    <str key="3947958536-ucdt" type="ucdt" originalKey="3947958536">AF-20 Rogue: Gold Medal</str>
     <str key="3948109710-ucdt" type="ucdt" originalKey="3948109710">A standardized reflex sight designed to promote faster precision aiming.</str>
     <str key="3948217750-ucdt" type="ucdt" originalKey="3948217750">Sunderer:  Utility Slot</str>
     <str key="3948248902-ucdt" type="ucdt" originalKey="3948248902">&lt;font color="#00FFAA"&gt;Field Officer Knightly:&lt;/font&gt; A solar-powered outhouse? These were created by several of the Oshur resorts to create a sort of rustic ambiance. Apparently this one still works.</str>
@@ -34,7 +34,7 @@
     <str key="3949424630-ugdt" type="ugdt" originalKey="3949424630">Caltrop</str>
     <str key="3949467196-ucdt" type="ucdt" originalKey="3949467196">Scythe Flame On Glass Decal</str>
     <str key="3949546680-ucdt" type="ucdt" originalKey="3949546680">Active</str>
-    <str key="3949551050-ucdt" type="ucdt" originalKey="3949551050">While equipped, the player will highlight infantry and vehicles within 125 meters at all times, while reducing vision at long range. &lt;font color="#dc9c36"&gt;MAX units can equip. Does not work in vehicles.&lt;/font&gt;</str>
+    <str key="3949551050-ucdt" type="ucdt" originalKey="3949551050">While equipped, the player will highlight infantry and vehicles within 125 meters, while reducing vision at long range. &lt;font color="#dc9c36"&gt;MAX units can equip. Does not work in vehicles.&lt;/font&gt;</str>
     <str key="3949555087-ugdt" type="ugdt" originalKey="3949555087">Cyrus MAX Helmet</str>
     <str key="3949594342-ucdt" type="ucdt" originalKey="3949594342">Innova Placeholder Title 50</str>
     <str key="3949661724-ucdt" type="ucdt" originalKey="3949661724">RAMS-AE .50M</str>
@@ -255,7 +255,7 @@
     <str key="3967827861-ucdt" type="ucdt" originalKey="3967827861">Applies a decal to your armor. TR use only.</str>
     <str key="3967929692-ucdt" type="ucdt" originalKey="3967929692">Equip a decal from the Loadout screen</str>
     <str key="3968114401-ugdt" type="ugdt" originalKey="3968114401">Terran Bull</str>
-    <str key="3968153948-ucdt" type="ucdt" originalKey="3968153948">A compensator redirects gases upward, reducing vertical recoil. The increased sound pressure will cause the player to show on the minimap from farther away, and increased weapon bulk reduces accuracy when firing from the hip.</str>
+    <str key="3968153948-ucdt" type="ucdt" originalKey="3968153948">A compensator redirects gases upward, reducing vertical recoil by 30%. The increased sound pressure will cause the player to show on the minimap 35m farther away, and increased weapon bulk reduces hipfire cone of fire by 15%.</str>
     <str key="3968434486-ucdt" type="ucdt" originalKey="3968434486">&lt;font color="#ACE1E5"&gt;&lt;u&gt;USE&lt;/u&gt;&lt;/font&gt;&lt;br&gt;Claim rewards from Coordinator Tolland on Sanctuary.&lt;br&gt;&lt;br&gt;&lt;font color="#ACE1E5"&gt;&lt;u&gt;DESCRIPTION&lt;/u&gt;&lt;/font&gt;&lt;br&gt;Requires Expedition Asset crafting permissions. &lt;br&gt;&lt;br&gt;Charter an expedition to gather &lt;font color="#C963CD"&gt;7 Polystellarite&lt;/font&gt; for your Outfit Armory.&lt;font color="#CC200D"&gt;&lt;br&gt;&lt;br&gt;Only ONE resource expedition may be active at a time.&lt;/font&gt;</str>
     <str key="3968666667-ucdt" type="ucdt" originalKey="3968666667">Light Assault: Bronze</str>
     <str key="3968692118-ugdt" type="ugdt" originalKey="3968692118">Bird of Prey Vehicle Decal</str>
@@ -648,7 +648,7 @@ Drive this Vanguard to the waypoint marked on your HUD.</str>
     <str key="3996164327-ucdt" type="ucdt" originalKey="3996164327">&lt;font color="#00FFAA"&gt;Representative Nalla:&lt;/font&gt; We currently only conduct business with qualified Outfit representatives. Please coordinate with your chain of command.</str>
     <str key="3996170655-ugdt" type="ugdt" originalKey="3996170655">Community Clash Season 1 EU Champion</str>
     <str key="3996217328-ucdt" type="ucdt" originalKey="3996217328">East Hills Checkpoint</str>
-    <str key="3996252070-ucdt" type="ucdt" originalKey="3996252070">Gauss Compact S: Auraxium Medal</str>
+    <str key="3996252070-ucdt" type="ucdt" originalKey="3996252070">NC2 Gauss Compact: Auraxium Medal</str>
     <str key="3996281365-ucdt" type="ucdt" originalKey="3996281365">Prefect 2 Decal</str>
     <str key="3996421918-ucdt" type="ucdt" originalKey="3996421918">Valkyrie Chrome Cockpit Glass</str>
     <str key="3996497456-ucdt" type="ucdt" originalKey="3996497456">Harasser Tubular Bumper</str>
@@ -768,7 +768,7 @@ Drive this Vanguard to the waypoint marked on your HUD.</str>
     <str key="4005865951-ucdt" type="ucdt" originalKey="4005865951">Salvage 2</str>
     <str key="4005998780-ucdt" type="ucdt" originalKey="4005998780">Ranger 4</str>
     <str key="4006047894-ucdt" type="ucdt" originalKey="4006047894">Speak with Representative Foster on Sanctuary</str>
-    <str key="4006064345-ucdt" type="ucdt" originalKey="4006064345">While the cloak is active, the Infiltrator takes less damage from small arms but drains nanites faster.</str>
+    <str key="4006064345-ucdt" type="ucdt" originalKey="4006064345">While this cloak is active, the Infiltrator takes less damage from kinetic weapons.</str>
     <str key="4006085394-ucdt" type="ucdt" originalKey="4006085394">Vaemar Logging Company</str>
     <str key="4006283816-ucdt" type="ucdt" originalKey="4006283816">Feline Master Race Banner</str>
     <str key="4006294703-ucdt" type="ucdt" originalKey="4006294703">Hard Light Helmet</str>

@@ -116,7 +116,7 @@
     <str key="822840236-ucdt" type="ucdt" originalKey="822840236">Nexus Battle Island</str>
     <str key="822868323-ucdt" type="ucdt" originalKey="822868323">Nano-Regen Device</str>
     <str key="822980517-ucdt" type="ucdt" originalKey="822980517">Nanite Boost - 1 Hour</str>
-    <str key="823045396-ucdt" type="ucdt" originalKey="823045396">A compensator redirects gases upward, reducing vertical recoil. The increased sound pressure will cause the player to show on the minimap from farther away, and increased weapon bulk reduces accuracy when firing from the hip.</str>
+    <str key="823045396-ucdt" type="ucdt" originalKey="823045396">A compensator redirects gases upward, reducing vertical recoil by 30%. The increased sound pressure will cause the player to show on the minimap 35m farther away, and increased weapon bulk reduces hipfire cone of fire by 15%.</str>
     <str key="823507481-ucdt" type="ucdt" originalKey="823507481">Flash White Blinking Lumiball</str>
     <str key="823579339-ucdt" type="ucdt" originalKey="823579339">FOG Armor Decal</str>
     <str key="823622398-ucdt" type="ucdt" originalKey="823622398">Symbiotic Healing 4</str>
@@ -571,7 +571,7 @@
     <str key="858175711-ucdt" type="ucdt" originalKey="858175711">Outfit Message of the Day: [*motd*]</str>
     <str key="858244191-ucdt" type="ucdt" originalKey="858244191">Sniper Rifle Kill</str>
     <str key="858348269-ugdt" type="ugdt" originalKey="858348269">Racer High Speed Airframe 1</str>
-    <str key="858661420-ucdt" type="ucdt" originalKey="858661420">Allows characters to equip sidearms in their primary weapon slot. Does not include Directive reward weapons. </str>
+    <str key="858661420-ucdt" type="ucdt" originalKey="858661420">Allows characters to equip sidearms in their primary weapon slot.</str>
     <str key="858767349-ucdt" type="ucdt" originalKey="858767349">Valkyrie Yellow Cockpit Glass</str>
     <str key="858784801-ucdt" type="ucdt" originalKey="858784801">Bacon Weapon Camo</str>
     <str key="858852793-ucdt" type="ucdt" originalKey="858852793">ENGINEER</str>
@@ -586,7 +586,7 @@
     <str key="859470927-ucdt" type="ucdt" originalKey="859470927">Outfit Supporter Vehicle Decal</str>
     <str key="859509318-ucdt" type="ucdt" originalKey="859509318">MRC3 Mercy: Copper Medal</str>
     <str key="859682761-ucdt" type="ucdt" originalKey="859682761">LMG: MSW-R</str>
-    <str key="859745760-ucdt" type="ucdt" originalKey="859745760">Gauss Compact S: Copper Medal</str>
+    <str key="859745760-ucdt" type="ucdt" originalKey="859745760">NC2 Gauss Compact: Copper Medal</str>
     <str key="859825906-ugdt" type="ugdt" originalKey="859825906">Guard Dog</str>
     <str key="859859947-ucdt" type="ucdt" originalKey="859859947">Claymore Mine 2</str>
     <str key="859878920-ucdt" type="ucdt" originalKey="859878920">MAX Punch: Gold Medal</str>
@@ -733,7 +733,7 @@ Completing this directive awards the title "the Wrecker"</str>
     <str key="870782438-ugdt" type="ugdt" originalKey="870782438">Biolab Console</str>
     <str key="871069189-ucdt" type="ucdt" originalKey="871069189">Customize your ground vehicle by adding a Chrome Flash Hood Ornament.</str>
     <str key="871073398-ucdt" type="ucdt" originalKey="871073398">SR-7: Copper Medal</str>
-    <str key="871089970-ucdt" type="ucdt" originalKey="871089970">Based off of its bigger assault rifle brother, the smaller Pulsar C  was developed with an emphasis on stopping power. While not as easy to control, the heavy-hitting Pulsar C is far more devastating at close range. VS use only.</str>
+    <str key="871089970-ucdt" type="ucdt" originalKey="871089970">Based off of the Pulsar assault rifle platform, the compact Pulsar C was developed to support more mobile operations. While not as easy to control, the heavy-hitting Pulsar C is far more devastating at close range. VS use only.</str>
     <str key="871103450-ucdt" type="ucdt" originalKey="871103450">Butcher: Copper Medal</str>
     <str key="871186515-ucdt" type="ucdt" originalKey="871186515">Decreases muzzle flash and audio range.</str>
     <str key="871232526-ucdt" type="ucdt" originalKey="871232526">ASSAULT RIFLES</str>
@@ -741,7 +741,7 @@ Completing this directive awards the title "the Wrecker"</str>
     <str key="871268297-ucdt" type="ucdt" originalKey="871268297">AF-41 Hacksaw (Left)</str>
     <str key="871592895-ucdt" type="ucdt" originalKey="871592895">Your petition to join [*guild*] has been rejected.</str>
     <str key="871610354-ucdt" type="ucdt" originalKey="871610354">Change to Seat 9</str>
-    <str key="871701659-ucdt" type="ucdt" originalKey="871701659">Primary: Carbine: Gauss Compact Burst</str>
+    <str key="871701659-ucdt" type="ucdt" originalKey="871701659">Primary: Carbine: AF-20 Rogue</str>
     <str key="871707937-ucdt" type="ucdt" originalKey="871707937">Racer High Speed Chassis 2</str>
     <str key="871871616-ugdt" type="ugdt" originalKey="871871616">Lightning Molly Malone Horn</str>
     <str key="871916341-ucdt" type="ucdt" originalKey="871916341">NC Gruff Voice Pack</str>

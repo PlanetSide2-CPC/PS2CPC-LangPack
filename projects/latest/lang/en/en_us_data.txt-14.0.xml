@@ -157,7 +157,7 @@ It's OK, just step into this teleporter to quickly get back to the other spawn r
     <str key="1161540070-ucdt" type="ucdt" originalKey="1161540070">@PlanetSide2</str>
     <str key="1161660652-ucdt" type="ucdt" originalKey="1161660652">Destroy the Eastern SCU!!</str>
     <str key="1161674215-ucdt" type="ucdt" originalKey="1161674215">Weapons Expert</str>
-    <str key="1161682399-ucdt" type="ucdt" originalKey="1161682399">Allows the magazine's overcharged shots to pierce up to one infantry target, however, the Charger now fires 10% slower at all times.</str>
+    <str key="1161682399-ucdt" type="ucdt" originalKey="1161682399">Allows the magazine's overcharged shots to pierce up to one infantry target, however, the Charger now fires 10% slower.</str>
     <str key="1161695635-ucdt" type="ucdt" originalKey="1161695635">The Supreme Authority Pack</str>
     <str key="1161746919-ucdt" type="ucdt" originalKey="1161746919">Galaxy of Service</str>
     <str key="1161757924-ugdt" type="ugdt" originalKey="1161757924">Malfunctioning Spy Drone</str>
@@ -438,7 +438,7 @@ It's OK, just step into this teleporter to quickly get back to the other spawn r
     <str key="1186982421-ucdt" type="ucdt" originalKey="1186982421">Contains the following Platinum weapons for all factions: the NS-357P Underboss, the NS-15MP, and the NS-11CP.</str>
     <str key="1186996219-ucdt" type="ucdt" originalKey="1186996219">Decreases the time taken to reload weapon by 11.25%</str>
     <str key="1187334165-ucdt" type="ucdt" originalKey="1187334165">Classic Shield Decal</str>
-    <str key="1187350191-ucdt" type="ucdt" originalKey="1187350191">The Charger carbine integrates an overcharging system and unique magazine that increases the stopping power of the first few shots upon freshly reloading the weapon. NC use only.</str>
+    <str key="1187350191-ucdt" type="ucdt" originalKey="1187350191">The Charger carbine features a unique overcharging system. Upon inserting a fresh magazine, the first 7 rounds fire at increased rate of fire, before settling into a smooth 600 rounds per minute rhythm. NC use only.</str>
     <str key="1187384185-ucdt" type="ucdt" originalKey="1187384185">Increases the maximum ammo capacity of the weapon by 900 rounds.</str>
     <str key="1187462266-ucdt" type="ucdt" originalKey="1187462266">SpacePumpkin</str>
     <str key="1187590959-ucdt" type="ucdt" originalKey="1187590959">Capture and hold the most Large Outposts</str>
@@ -633,7 +633,7 @@ It's OK, just step into this teleporter to quickly get back to the other spawn r
     <str key="1201918328-ugdt" type="ugdt" originalKey="1201918328">Cockpit: Brown Decal</str>
     <str key="1201982098-ucdt" type="ucdt" originalKey="1201982098">The Flail fires a volley of 4 mortar shells in quick succession, doing moderate damage to all in range. Requires AI module as well as a manually fired targeting dart in order to fire.</str>
     <str key="1202038318-ucdt" type="ucdt" originalKey="1202038318">2016 Holiday Countdown Day 24 &amp; 25</str>
-    <str key="1202075182-ucdt" type="ucdt" originalKey="1202075182">The Cortium Turbo Engine grants powerful thrust by converting stored minerals into fuel. The C300 consumes 150 Cortium per second.</str>
+    <str key="1202075182-ucdt" type="ucdt" originalKey="1202075182">The Cortium Turbo Engine grants powerful thrust by converting stored minerals into fuel. Consumes 150 Cortium per second.</str>
     <str key="1202093254-ucdt" type="ucdt" originalKey="1202093254">Increases the maximum ammo capacity of the weapon by 17 shells.</str>
     <str key="1202203397-ucdt" type="ucdt" originalKey="1202203397">Adds 50 rounds to the default magazine size.</str>
     <str key="1202238824-ucdt" type="ucdt" originalKey="1202238824">Vampire 4</str>
@@ -667,7 +667,7 @@ It's OK, just step into this teleporter to quickly get back to the other spawn r
     <str key="1204800511-ucdt" type="ucdt" originalKey="1204800511">Input Device</str>
     <str key="1204813251-ucdt" type="ucdt" originalKey="1204813251">Unlocks access to Advanced Specialization Program training, resetting your battle rank and allowing you to gain new A.S.P. skills every 25 ranks. &lt;/br&gt;&lt;/br&gt;&lt;font color="#bf0000"&gt;Battle Rank 100+ required to purchase this item.&lt;/font&gt;</str>
     <str key="1204830832-ugdt" type="ugdt" originalKey="1204830832">40 Certs</str>
-    <str key="1204890224-ucdt" type="ucdt" originalKey="1204890224">The Eclipse easily overshadows its predecessor, the Solstice, as a close-quarters combat king. It comes equipped with an underbarrel plasma shotgun for ambushes and last-ditch scenarios.</str>
+    <str key="1204890224-ucdt" type="ucdt" originalKey="1204890224">The Eclipse easily overshadows its predecessor, the Solstice in high-risk close-quarter operations. It comes equipped with an underbarrel impulse launcher for improved maneuverability around the battlefield.</str>
     <str key="1205017585-ucdt" type="ucdt" originalKey="1205017585">Avalon Helmet</str>
     <str key="1205374449-ucdt" type="ucdt" originalKey="1205374449">HC1 Cougar: Copper Medal</str>
     <str key="1205612109-ucdt" type="ucdt" originalKey="1205612109">Shredder: Copper Medal</str>
@@ -771,7 +771,7 @@ It's OK, just step into this teleporter to quickly get back to the other spawn r
     <str key="1213035442-ugdt" type="ugdt" originalKey="1213035442">Apocalypse Helmet</str>
     <str key="1213100402-ucdt" type="ucdt" originalKey="1213100402">Flash Blade Plating</str>
     <str key="1213136490-ucdt" type="ucdt" originalKey="1213136490">Razor: Auraxium Medal</str>
-    <str key="1213303483-ucdt" type="ucdt" originalKey="1213303483">The NC6S Gauss SAW's select fire mode gives it incredible adaptability on the field. NC use only.</str>
+    <str key="1213303483-ucdt" type="ucdt" originalKey="1213303483">The Gauss SAW S was designed as a more versatile alternative of the iconic Gauss SAW. It boasts faster reloads and more controllability at cost to rate of fire and magazine size. NC use only.</str>
     <str key="1213306379-ucdt" type="ucdt" originalKey="1213306379">NS designers created this long range scope to meet the demanding requirements of Auraxis’ best long range snipers.</str>
     <str key="1213333743-ucdt" type="ucdt" originalKey="1213333743">months</str>
     <str key="1213396876-ugdt" type="ugdt" originalKey="1213396876">Assault Team 6 Decal</str>
