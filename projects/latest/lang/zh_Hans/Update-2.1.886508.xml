@@ -187,7 +187,7 @@
   <str key="1232794695-ugdt" type="ugdt" originalKey="1232794695">镰刀战机四叶草航迹云</str>
   <str key="1247936345-ucdt" type="ucdt" originalKey="1247936345">N30 拖网船-S：奥星勋章</str>
   <str key="1250758562-ucdn" type="ucdn" originalKey="1250758562"/>
-  <str key="1253180434-ucdt" type="ucdt" originalKey="1253180434">释放出一颗冲击榴弹，爆炸后将击退敌人和发射者本人。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;榴弹将在接触任何目标后引爆。&lt;/font&gt;</str>
+  <str key="1253180434-ucdt" type="ucdt" originalKey="1253180434">释放出一股冲击，击退敌人和武器持有者。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;接触目标后引爆。&lt;/font&gt;</str>
   <str key="1259298188-ucdt" type="ucdt" originalKey="1259298188">决裂者两栖作战外饰</str>
   <str key="1268500289-ucdt" type="ucdt" originalKey="1268500289">&lt;font size="32"&gt;&lt;i&gt;嘿，滑头鬼。此次更新为目前的军械库带来了大量的变更和扩展，除此之外还有平衡调整，新装备，以及一系列全新的黑市成就。&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size="24"&gt;&lt;ul&gt;&lt;li&gt;全新以及升级的步兵武器&lt;/li&gt;&lt;li&gt;全新以及升级的载具武器&lt;/li&gt;&lt;li&gt;全新以及升级的武器配件&lt;/li&gt;&lt;li&gt;改良的步兵战斗服、技能和插件&lt;/li&gt;&lt;li&gt;载具调整，包括新的防御插槽选项&lt;/li&gt;&lt;li&gt;新的各阵营专属地雷&lt;/li&gt;&lt;li&gt;新的各职业专属手雷。&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;</str>
   <str key="1279608820-ucdn" type="ucdn" originalKey="1279608820"/>
@@ -203,7 +203,7 @@
   <str key="1302970962-ucdt" type="ucdt" originalKey="1302970962">KCAP 弹药</str>
   <str key="1303278605-ucdt" type="ucdt" originalKey="1303278605">炮手武器：A2-20 HCG</str>
   <str key="1304117761-ucdt" type="ucdt" originalKey="1304117761">生命之树橡木棍：铜质勋章</str>
-  <str key="1305282162-ucdt" type="ucdt" originalKey="1305282162">听天由命轮胎痕迹</str>
+  <str key="1305282162-ucdt" type="ucdt" originalKey="1305282162">听天由命轮胎尾迹</str>
   <str key="1306710653-ucdt" type="ucdt" originalKey="1306710653">罗马军团医疗兵头盔</str>
   <str key="1306765709-ucdt" type="ucdt" originalKey="1306765709">弹夹容量增加 3 发，同时使扫射的准星范围增加 20%。</str>
   <str key="1314497326-ucdt" type="ucdt" originalKey="1314497326">为武器添加 1.25 倍变焦瞄具。</str>
@@ -211,8 +211,8 @@
   <str key="1347977024-ucdn" type="ucdn" originalKey="1347977024"/>
   <str key="1362042630-ucdt" type="ucdt" originalKey="1362042630">浩劫榴弹发射器</str>
   <str key="1401833455-ucdn" type="ucdn" originalKey="1401833455"/>
-  <str key="1417880655-ucdt" type="ucdt" originalKey="1417880655">可以将银河部署为带有护盾的高级移动基站，护盾可以吸收受到的伤害，但不会部署之后立刻产生，一旦护盾受到伤害，将在8秒后进行修复。同时。高级移动基站可作为本阵营的的重生点，友方士兵可以籍此进行重生。</str>
-  <str key="1431120201-ucdt" type="ucdt" originalKey="1431120201">允许轻型突击兵使用脉冲手雷。</str>
+  <str key="1417880655-ucdt" type="ucdt" originalKey="1417880655">可以将银河部署为带有护盾的高级移动基站，护盾可以吸收一定的伤害，并会随时间恢复。同时，高级移动基站可作为本阵营的的重生点，友方士兵可以籍此进行重生。护盾受到伤害后将延迟8秒开始恢复。</str>
+  <str key="1431120201-ucdt" type="ucdt" originalKey="1431120201">允许轻型突击兵使用冲击手雷。</str>
   <str key="1454507111-ucdt" type="ucdt" originalKey="1454507111">二级北极星模块</str>
   <str key="1473224731-ugdt" type="ugdt" originalKey="1473224731">电磁骑士丹尼男孩喇叭</str>
   <str key="1476703476-ucdt" type="ucdt" originalKey="1476703476">西南舰队正受到[*faction*]的攻击。</str>
@@ -548,7 +548,7 @@
   <str key="3703216980-ucdt" type="ucdt" originalKey="3703216980">为该载具添加绿色风格的个性化后燃器效果。仅限瓦努主权国使用。</str>
   <str key="3703453303-ucdt" type="ucdt" originalKey="3703453303">M18 峭岩-A：铜质勋章</str>
   <str key="3709825024-ucdt" type="ucdt" originalKey="3709825024">震撼地雷</str>
-  <str key="3713231890-ucdt" type="ucdt" originalKey="3713231890">可以将Galaxy部署为带有护盾的高级移动基站，护盾可以吸收一定数量的伤害，但需要时间恢复。高级移动基站可作为友方士兵的重生点。一旦护盾受到伤害，其恢复时间就将延迟7秒。</str>
+  <str key="3713231890-ucdt" type="ucdt" originalKey="3713231890">可以将银河部署为带有护盾的高级移动基站，护盾可以吸收一定的伤害，并会随时间恢复。同时，高级移动基站可作为本阵营的的重生点，友方士兵可以籍此进行重生。护盾受到伤害后将延迟7秒开始恢复。</str>
   <str key="3727610332-ucdt" type="ucdt" originalKey="3727610332">工蚁丹尼男孩喇叭</str>
   <str key="3728501202-ucdt" type="ucdt" originalKey="3728501202">HLX 炽天使：金质勋章</str>
   <str key="3731430795-ucdt" type="ucdt" originalKey="3731430795">N30 拖网船：银质勋章</str>
@@ -604,7 +604,7 @@
   <str key="4128207200-ucdt" type="ucdt" originalKey="4128207200">震撼地雷的携带量增加1枚。</str>
   <str key="4134356451-ucdt" type="ucdt" originalKey="4134356451">Galaxy是一种空中运输单位，可用于空投最多11名士兵。它有四个炮位，可用于自身防御，也可装备成为武装炮舰。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：大型&lt;br&gt;类别：运输&lt;br&gt;移动方式：飞行</str>
   <str key="4156433427-ucdt" type="ucdt" originalKey="4156433427">侦测到敌军的移动后爆炸，释放出一阵眩光，暂时模糊敌人的视野并扰乱其运动操控。</str>
-  <str key="4157610949-ucdt" type="ucdt" originalKey="4157610949">可以将Galaxy部署为带有护盾的高级移动基站，护盾可以吸收一定数量的伤害，但需要时间恢复。高级移动基站可作为友方士兵的重生点。一旦护盾受到伤害，其恢复时间就将延迟6秒。</str>
+  <str key="4157610949-ucdt" type="ucdt" originalKey="4157610949">可以将银河部署为带有护盾的高级移动基站，护盾可以吸收一定的伤害，并会随时间恢复。同时，高级移动基站可作为本阵营的的重生点，友方士兵可以籍此进行重生。护盾受到伤害后将延迟6秒开始恢复。</str>
   <str key="4164328736-ucdt" type="ucdt" originalKey="4164328736">V42 弃民</str>
   <str key="4166049453-ucdt" type="ucdt" originalKey="4166049453">轻型突击兵在近距离和中距离的冲突中更有优势，他们的喷气背包提供了极强的机动性，可以迅速绕到敌人侧面进行攻击。&lt;br&gt;&lt;br&gt;武器：&lt;br&gt;&lt;ul&gt;&lt;li&gt;卡宾枪&lt;/li&gt;&lt;li&gt;冲锋枪&lt;/li&gt;&lt;li&gt;霰弹枪&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;技能：&lt;br&gt;&lt;ul&gt;&lt;li&gt;喷气背包——轻型突击兵携带了多种喷气背包，可跨越更高的障碍物、短暂在空中停留，也可突然加速缩短与目标的距离。轻型突击兵可以在飞行时开火，但精准度会受到影响。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;工具：&lt;br&gt;&lt;ul&gt;&lt;li&gt;Rocklet步枪——拥有六发弹药，可发射轻型爆炸迷你火箭。这款步枪可以半自动的形式击发，也可以一次性倾斜所有火箭弹。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;提示：&lt;br&gt;&lt;ul&gt;&lt;li&gt;在空中飞行时，使用卡宾枪仍具有一定的精准度，有助于让首次接触轻型突击兵的玩家快速熟悉这个兵种。&lt;/li&gt;&lt;/ul&gt;</str>
   <str key="4177939136-ucdt" type="ucdt" originalKey="4177939136">从太空轨道上投放的空投舱可以迅速将部队部署到战场上。空投舱中的士兵可以控制空投舱的方向，在某些情况下可以将它作为强大的武器使用，对着陆地点的目标造成伤害。&lt;br&gt;&lt;br&gt;阵营：普通&lt;br&gt;尺寸：小型&lt;br&gt;类别：运输&lt;br&gt;移动方式：空投舱</str>
