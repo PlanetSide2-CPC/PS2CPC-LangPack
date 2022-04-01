@@ -115,7 +115,7 @@
   <str key="822840236-ucdt" type="ucdt" originalKey="822840236">奈克瑟斯岛屿地图</str>
   <str key="822868323-ucdt" type="ucdt" originalKey="822868323">纳米恢复器</str>
   <str key="822980517-ucdt" type="ucdt" originalKey="822980517">纳能加成 - 1小时</str>
-  <str key="823045396-ucdt" type="ucdt" originalKey="823045396">枪口制退器把反冲气体导向上方，可降低 15% 的垂直后坐力。武器开火的音量变大，使敌方玩家从小地图上发现你所在位置的距离增加到 75 米。同时由于武器体积增加，腰射时的散布角 +20%。</str>
+  <str key="823045396-ucdt" type="ucdt" originalKey="823045396">枪口制退器把反冲气体导向上方，可降低 30% 的垂直后坐力。武器开火的音量变大，使敌方玩家从小地图上发现你所在位置的距离增加到 75 米。同时由于武器体积增加，腰射时的散布角增加 15%。</str>
   <str key="823507481-ucdt" type="ucdt" originalKey="823507481">火花白色闪光球</str>
   <str key="823579339-ucdt" type="ucdt" originalKey="823579339">FOG 护甲贴花</str>
   <str key="823622398-ucdt" type="ucdt" originalKey="823622398">四级同步治疗</str>
@@ -381,7 +381,7 @@
   <str key="842131386-ucdt" type="ucdt" originalKey="842131386">高强度粒子场可以保护使用者免于伤害。在没有受到攻击的情况下，粒子场可以随着时间而自我再生。</str>
   <str key="842209005-ucdt" type="ucdt" originalKey="842209005">获取诱饵手雷，它能模拟枪声，在雷达上生成假信号，还能误导敌军的反步兵自动炮台。</str>
   <str key="842228344-ucdt" type="ucdt" originalKey="842228344">手雷挂带证书已经从你的工程兵中移除，之前投入的证书点已返还。</str>
-  <str key="842292054-ucdt" type="ucdt" originalKey="842292054">震荡手雷</str>
+  <str key="842292054-ucdt" type="ucdt" originalKey="842292054">震撼手雷</str>
   <str key="842558670-ucdt" type="ucdt" originalKey="842558670">干得漂亮士兵</str>
   <str key="842578931-ucdt" type="ucdt" originalKey="842578931">灵能之刃：绶带</str>
   <str key="842747832-ucdt" type="ucdt" originalKey="842747832">&lt;font color="#00FFAA"&gt;乌玛瑟林：&lt;/font&gt; 那是最后一个控制台。当你准备好开始下一个任务时，回到庇护所与福斯特交谈。</str>
@@ -570,7 +570,7 @@
   <str key="858175711-ucdt" type="ucdt" originalKey="858175711">今日军团消息：[*motd*]</str>
   <str key="858244191-ucdt" type="ucdt" originalKey="858244191">狙击步枪击杀</str>
   <str key="858348269-ugdt" type="ugdt" originalKey="858348269">一级竞速者高速机身</str>
-  <str key="858661420-ucdt" type="ucdt" originalKey="858661420">允许角色在主武器插槽上装备手枪。不包括成就奖励武器。 </str>
+  <str key="858661420-ucdt" type="ucdt" originalKey="858661420">允许角色在主武器栏装备手枪。</str>
   <str key="858767349-ucdt" type="ucdt" originalKey="858767349">女武神黄色座舱玻璃</str>
   <str key="858784801-ucdt" type="ucdt" originalKey="858784801">培根武器迷彩</str>
   <str key="858852793-ucdt" type="ucdt" originalKey="858852793">工程兵</str>
@@ -585,7 +585,7 @@
   <str key="859470927-ucdt" type="ucdt" originalKey="859470927">军团后援载具贴花</str>
   <str key="859509318-ucdt" type="ucdt" originalKey="859509318">MRC3 怜悯：铜质勋章</str>
   <str key="859682761-ucdt" type="ucdt" originalKey="859682761">轻机枪：MSW-R</str>
-  <str key="859745760-ucdt" type="ucdt" originalKey="859745760">高斯紧凑型 S：铜质勋章</str>
+  <str key="859745760-ucdt" type="ucdt" originalKey="859745760">NC2 高斯紧凑型：铜质勋章</str>
   <str key="859825906-ugdt" type="ugdt" originalKey="859825906">警卫犬</str>
   <str key="859859947-ucdt" type="ucdt" originalKey="859859947">二级阔剑地雷</str>
   <str key="859878920-ucdt" type="ucdt" originalKey="859878920">MAX 铁拳：金质勋章</str>
@@ -705,7 +705,7 @@
   <str key="867557781-ucdt" type="ucdt" originalKey="867557781">S1</str>
   <str key="867675355-ucdt" type="ucdt" originalKey="867675355">主武器：冲锋枪：SX5 波江座</str>
   <str key="867687264-ucdt" type="ucdt" originalKey="867687264">电磁骑士：机动性插槽</str>
-  <str key="867786946-ucdt" type="ucdt" originalKey="867786946">五级装弹速率</str>
+  <str key="867786946-ucdt" type="ucdt" originalKey="867786946">五级装弹速度</str>
   <str key="867797206-ugdt" type="ugdt" originalKey="867797206">霍森野草迷彩</str>
   <str key="867848774-ugdt" type="ugdt" originalKey="867848774">猎手QCX 十字弩 金色版</str>
   <str key="867917167-ucdt" type="ucdt" originalKey="867917167">武器的最大弹药容量增至 555 发。</str>
@@ -732,7 +732,7 @@
   <str key="870782438-ugdt" type="ugdt" originalKey="870782438">生物实验室控制台</str>
   <str key="871069189-ucdt" type="ucdt" originalKey="871069189">装饰你的地面载具，加装铬色火花车标。</str>
   <str key="871073398-ucdt" type="ucdt" originalKey="871073398">SR-7：铜质勋章</str>
-  <str key="871089970-ucdt" type="ucdt" originalKey="871089970">脉冲星 C 由其突击步枪大哥衍生而来，更加小巧，并且更强调停止作用。尽管不易操控，但大威力的脉冲星 C 在近距离战斗中杀伤力十足。仅限瓦努主权国使用。</str>
+  <str key="871089970-ucdt" type="ucdt" originalKey="871089970">由脉冲星突击步枪平台衍生而来，紧凑的脉冲星 C 用以支援机动作战。尽管不易操控，但大威力的脉冲星 C 在近距离战斗中杀伤力十足。仅限瓦努主权国使用。</str>
   <str key="871103450-ucdt" type="ucdt" originalKey="871103450">屠夫：铜质勋章</str>
   <str key="871186515-ucdt" type="ucdt" originalKey="871186515">抑制枪口火焰，并使枪声的传播距离缩短。</str>
   <str key="871232526-ucdt" type="ucdt" originalKey="871232526">突击步枪</str>
@@ -740,7 +740,7 @@
   <str key="871268297-ucdt" type="ucdt" originalKey="871268297">AF-41 钢锯（左手）</str>
   <str key="871592895-ucdt" type="ucdt" originalKey="871592895">你希望加入“[*guild*]”军团的申请被拒绝了。</str>
   <str key="871610354-ucdt" type="ucdt" originalKey="871610354">切换到 9 号座位</str>
-  <str key="871701659-ucdt" type="ucdt" originalKey="871701659">主武器：卡宾枪：高斯紧凑型（点射版）</str>
+  <str key="871701659-ucdt" type="ucdt" originalKey="871701659">主武器：卡宾枪：AF-20 流氓</str>
   <str key="871707937-ucdt" type="ucdt" originalKey="871707937">二级竞速者高速底盘</str>
   <str key="871871616-ugdt" type="ugdt" originalKey="871871616">闪电莫莉马隆喇叭</str>
   <str key="871916341-ucdt" type="ucdt" originalKey="871916341">新联邦粗哑语音包</str>
