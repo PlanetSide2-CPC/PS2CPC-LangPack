@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Safeguard</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>安全卫士</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Target Focus</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>屏气凝神</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Ammo Printer</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>弹药打印机</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Athlete</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>运动健将</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Gunslinger</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>枪手</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Jockey</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>骑师</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Regeneration</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>再生</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Safe Fall</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>安全降落</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Salvage</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>回收</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Survivalist</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>生存专家</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Sweeper HUD</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>扫雷标示</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Vampire</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>吸血鬼</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Assimilate</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>吸收</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Catlike</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>猫步</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Critical Chain</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>连续暴击</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Heavyweight</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>重量级玩家</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Battle Hardened</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>钢铁之躯</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Ocular Shield</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>视觉防护</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Ransack</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>洗劫</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Response Jacket</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>反应夹克</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Revenant</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>亡魂</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Scavenger</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>拾荒者</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Sensor Shield</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>探测屏蔽</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Sidewinder</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>响尾蛇</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Aerial Combatant</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>飞行战士</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Paratrooper</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>伞兵</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Combat Surgeon</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>战斗医师</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Mending Field</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>修复力场</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Deep Operative</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>深度潜伏</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Nanomesh Specialist</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>纳米网专家</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Mobility Mesh</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>机动纳能网</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Robotics Technician</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>机器人技师</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Electrotech</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>电子科技</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Assassin</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>刺客</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Covert Drop</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>隐蔽空降</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Failsafe</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>破损保险</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Firestorm</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>火力风暴</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Fortify</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>筑防</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Overdrive</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>过载</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Nightmare</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>梦魇</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Springstep</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>弹簧步</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Symbiote</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>共生体</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Avoidance</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>规避</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Berserker</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>狂战士</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Bionics</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>仿生学</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Carapace</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>甲壳</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Cold Heart</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>冷峻之心</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Counter-Intelligence</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>情报反制</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Experimental Stims</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>实验性刺激</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Disengage</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>脱离</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Firewall</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>防火墙</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Infravision</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>红外视觉</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Logistics Specialist</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>后勤专家</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Minor Cloak</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>次级隐形</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Phylactery</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>命匣</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>
