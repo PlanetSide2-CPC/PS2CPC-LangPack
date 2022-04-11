@@ -33,7 +33,7 @@
   <str key="814948781-ucdt" type="ucdt" originalKey="814948781">E540 长戟 发射 85 毫米穿甲火箭弹。所有阵营均可使用此武器。</str>
   <str key="815096855-ucdt" type="ucdt" originalKey="815096855">默认弹匣的弹药容量增加 5 发。</str>
   <str key="815426393-ucdt" type="ucdt" originalKey="815426393">武器能够携带的最大榴弹数量增加 40 发。</str>
-  <str key="815500006-ucdt" type="ucdt" originalKey="815500006">地球共和国渗透兵阔剑地雷</str>
+  <str key="815500006-ucdt" type="ucdt" originalKey="815500006">地球共和国渗透者阔剑地雷</str>
   <str key="815584697-ucdt" type="ucdt" originalKey="815584697">火箭筒：S1</str>
   <str key="815588898-ugdt" type="ugdt" originalKey="815588898">万圣节 IV</str>
   <str key="815671129-ugdt" type="ugdt" originalKey="815671129">医疗兵HL4 浩劫装甲</str>
@@ -78,7 +78,7 @@
   <str key="819705487-ucdt" type="ucdt" originalKey="819705487">海盗战机飞行恐惧座舱玻璃贴花</str>
   <str key="819780727-ucdt" type="ucdt" originalKey="819780727">XS 轰天雷</str>
   <str key="819833282-ucdt" type="ucdt" originalKey="819833282">轻型突击兵：击杀一名轻型突击兵，一名重型突击兵，一架重型武器，一名渗透者，一名医疗兵，一名工程兵和一名狙击手</str>
-  <str key="819886211-ucdt" type="ucdt" originalKey="819886211">渗透兵：被动系统</str>
+  <str key="819886211-ucdt" type="ucdt" originalKey="819886211">渗透者：被动系统</str>
   <str key="819973078-ucdt" type="ucdt" originalKey="819973078">氧化进气口</str>
   <str key="820069547-ugdt" type="ugdt" originalKey="820069547">T3 MR21</str>
   <str key="820307970-ucdt" type="ucdt" originalKey="820307970">NC 航空贴花礼包</str>
@@ -242,7 +242,7 @@
   <str key="832328450-ucdt" type="ucdt" originalKey="832328450">火花黄色闪光照明球</str>
   <str key="832435658-ucdt" type="ucdt" originalKey="832435658">宙斯盾</str>
   <str key="832495671-ucdt" type="ucdt" originalKey="832495671">修改医疗仪的模块界面，可以在复活友军士兵的同时为使用者自身回复生命值。</str>
-  <str key="832500928-ucdt" type="ucdt" originalKey="832500928">在你连续 20 秒保持显形且不受伤害之后，你隐形时的可见度会降低 75%。死亡或受到来自敌方的伤害会重置冷却计时。&lt;font color="#dc9c36"&gt;仅限渗透兵使用。&lt;/font&gt;</str>
+  <str key="832500928-ucdt" type="ucdt" originalKey="832500928">在你连续 20 秒保持显形且不受伤害之后，你隐形时的可见度会降低 75%。死亡或受到来自敌方的伤害会重置冷却计时。&lt;font color="#dc9c36"&gt;仅限渗透者使用。&lt;/font&gt;</str>
   <str key="832533242-ucdt" type="ucdt" originalKey="832533242">黑色箭头载具贴花</str>
   <str key="832599044-ucdt" type="ucdt" originalKey="832599044">身为战斗医疗兵击杀敌军战斗医疗兵。</str>
   <str key="832606650-ucdt" type="ucdt" originalKey="832606650">如果你已远离战场有一段时间，你可以使用“J”键再次加入战场。“加入战斗”功能会将你送到大陆上的热点区域。</str>
@@ -333,7 +333,7 @@
   <str key="839256880-ucdt" type="ucdt" originalKey="839256880">v 1.1.1</str>
   <str key="839466387-ucdt" type="ucdt" originalKey="839466387">TMG-50：铜质勋章</str>
   <str key="839522493-ugdt" type="ugdt" originalKey="839522493">上等兵</str>
-  <str key="839609928-ucdt" type="ucdt" originalKey="839609928">侦察探测器发射的探针每 3.25 秒扫描一次，能暂时侦测到快速移动的敌军位置，包括隐形的渗透兵。侦测半径 25 米，持续 20 秒。</str>
+  <str key="839609928-ucdt" type="ucdt" originalKey="839609928">侦察探测器发射的探针每 3.25 秒扫描一次，能暂时侦测到快速移动的敌军位置，包括隐形的渗透者。侦测半径 25 米，持续 20 秒。</str>
   <str key="839745507-ucdt" type="ucdt" originalKey="839745507">2018 奥星圣诞节</str>
   <str key="839915343-ugdt" type="ugdt" originalKey="839915343">突袭者轮圈刺钉</str>
   <str key="839945791-ucdt" type="ucdt" originalKey="839945791">麦卡拉科技工厂已被[*faction*]占领。</str>
@@ -405,7 +405,7 @@
   <str key="843918755-ucdt" type="ucdt" originalKey="843918755">为轻型突击兵的实用品插槽解锁实用品。实用品插槽物品可在配置界面进行装备。</str>
   <str key="844041047-ucdt" type="ucdt" originalKey="844041047">在 5 种不同卡宾枪上获得铜质勋章。</str>
   <str key="844079040-ucdt" type="ucdt" originalKey="844079040">前握把</str>
-  <str key="844146767-ucdt" type="ucdt" originalKey="844146767">庇护所主题 04</str>
+  <str key="844146767-ucdt" type="ucdt" originalKey="844146767">庇护所主题曲 04</str>
   <str key="844151057-ucdt" type="ucdt" originalKey="844151057">C-4 的载弹量</str>
   <str key="844237615-ucdt" type="ucdt" originalKey="844237615">目前不在屏幕前。</str>
   <str key="844324038-ucdt" type="ucdt" originalKey="844324038">北部丛林哨所</str>
@@ -439,7 +439,7 @@
   <str key="847385954-ucdt" type="ucdt" originalKey="847385954">NSX “象牙”大名</str>
   <str key="847389485-ucdt" type="ucdt" originalKey="847389485">他们的护甲和护盾可以承受比其他士兵更高的伤害，在近距离的冲突中占据上风。除了在战场上过人的耐力外，他们还可以使用反载具火箭弹，击毁敌人的机械化部队。</str>
   <str key="847413727-ucdt" type="ucdt" originalKey="847413727">轻机枪：EM1</str>
-  <str key="847555282-ucdt" type="ucdt" originalKey="847555282">身为渗透兵使用任意狙击步枪击杀敌军。</str>
+  <str key="847555282-ucdt" type="ucdt" originalKey="847555282">身为渗透者使用任意狙击步枪击杀敌军。</str>
   <str key="847615409-ucdt" type="ucdt" originalKey="847615409">TR 重型突击兵A. 15M描述</str>
   <str key="847763189-ucdt" type="ucdt" originalKey="847763189">突击步枪系列武器专属于战斗医疗兵。</str>
   <str key="847923388-ucdt" type="ucdt" originalKey="847923388">将燃料的容量和恢复速率提高 11%。</str>
@@ -517,7 +517,7 @@
   <str key="853661552-ucdt" type="ucdt" originalKey="853661552">注意：先期探险！</str>
   <str key="853764077-ucdt" type="ucdt" originalKey="853764077">M60 巴哥犬射出的炮弹装有爆炸范围大的高爆弹头，同时保留了直接命中后可轻度破坏装甲的能力。</str>
   <str key="853834762-ugdt" type="ugdt" originalKey="853834762">共和国卫士头盔</str>
-  <str key="853899910-ucdt" type="ucdt" originalKey="853899910">用这款索萨主题礼包向原版《行星边际》致敬！这款礼包包含全阵营通用物品。</str>
+  <str key="853899910-ucdt" type="ucdt" originalKey="853899910">用这款索萨主题礼包向原版《行星边际》致敬！这款礼包包含全阵营通用武器，以及瓦努主权国，新联邦和地球共和国专属饰品。</str>
   <str key="853922466-ucdt" type="ucdt" originalKey="853922466">四周年纪念版的“弓箭手”反器材步枪由纳能集团研制，专用于处置中远距离的MAX威胁。</str>
   <str key="853939575-ucdt" type="ucdt" originalKey="853939575">皇家飞鲸护甲贴花</str>
   <str key="853961694-ucdt" type="ucdt" originalKey="853961694">高级护盾电容器</str>
@@ -558,7 +558,7 @@
   <str key="856938321-ucdt" type="ucdt" originalKey="856938321">解放者猎人装甲</str>
   <str key="857044157-ucdt" type="ucdt" originalKey="857044157">BFR 战斗机器人</str>
   <str key="857491295-ucdt" type="ucdt" originalKey="857491295">佩枪专家背景横幅</str>
-  <str key="857590024-ucdt" type="ucdt" originalKey="857590024">决裂者绿色幽魂车轮尾迹</str>
+  <str key="857590024-ucdt" type="ucdt" originalKey="857590024">决裂者绿色幽魂轮胎尾迹</str>
   <str key="857601713-ucdt" type="ucdt" originalKey="857601713">这款礼包能帮你成为战场的明星。除了2000 证书点以外，还包含了MKV消音型铂金版及其全套附件、重型突击兵和MAX 外骨骼机甲的武器、一款迷彩和一个 7 天经验加成。注意：加成、证书点和附件只会发给购买本礼包的角色。</str>
   <str key="857619549-ucdt" type="ucdt" originalKey="857619549">加把劲！我们要输了！</str>
   <str key="857716710-ucdt" type="ucdt" originalKey="857716710">武器能够携带的最大弹药数量增加 20 发。</str>
@@ -894,7 +894,7 @@
   <str key="883334990-ucdt" type="ucdt" originalKey="883334990">狙击步枪：XM98</str>
   <str key="883392175-ugdt" type="ugdt" originalKey="883392175">新联邦男性语音包 2</str>
   <str key="883408438-ucdt" type="ucdt" originalKey="883408438">武器能够携带的最大弹药数量增加 1800 发。</str>
-  <str key="883467252-ucdt" type="ucdt" originalKey="883467252">击杀 3 名敌军且不被报位，会使你隐形时的可见度降低 75%。被敌军报位或被击杀会重置这项增益。&lt;font color="#dc9c36"&gt;仅限渗透兵使用。&lt;/font&gt;</str>
+  <str key="883467252-ucdt" type="ucdt" originalKey="883467252">击杀 3 名敌军且不被报位，会使你隐形时的可见度降低 75%。被敌军报位或被击杀会重置这项增益。&lt;font color="#dc9c36"&gt;仅限渗透者使用。&lt;/font&gt;</str>
   <str key="883494891-ucdt" type="ucdt" originalKey="883494891">测试载具贴花</str>
   <str key="883505314-ugdt" type="ugdt" originalKey="883505314">驾驶舱：青色座舱玻璃</str>
   <str key="883569730-ucdt" type="ucdt" originalKey="883569730">小队观察奖励</str>
@@ -974,7 +974,7 @@
   <str key="888811704-ugdt" type="ugdt" originalKey="888811704">爆炸警告</str>
   <str key="888941991-ucdt" type="ucdt" originalKey="888941991">将载具完全停稳，然后将载具部署。</str>
   <str key="888947113-ucdt" type="ucdt" originalKey="888947113">用这款时尚的金色剃刀翼来装饰你的飞机。仅限地球共和国使用。</str>
-  <str key="889129054-ucdt" type="ucdt" originalKey="889129054">渗透兵：用匕首手刃 250 名敌人</str>
+  <str key="889129054-ucdt" type="ucdt" originalKey="889129054">渗透者：用匕首手刃 250 名敌人</str>
   <str key="889209425-ucdt" type="ucdt" originalKey="889209425">用这款丰厚大礼包来庆祝《行星边际 2》六周年。注意：礼包中包含了所有三个阵营的相应武器和装饰品。英雄加成仅可用于购买本礼包的那个角色。</str>
   <str key="889240477-ucdt" type="ucdt" originalKey="889240477">战争过后</str>
   <str key="889501735-ucdt" type="ucdt" originalKey="889501735">巨像：被动系统</str>
@@ -997,7 +997,7 @@
   <str key="890609151-ucdt" type="ucdt" originalKey="890609151">使用技能插槽</str>
   <str key="890650211-ucdt" type="ucdt" originalKey="890650211">地球共和国前线兵站</str>
   <str key="890793683-ucdt" type="ucdt" originalKey="890793683">周年快乐！使用这款会抛洒彩条的节日喇叭来庆祝吧。</str>
-  <str key="890841344-ucdt" type="ucdt" originalKey="890841344">复活主题</str>
+  <str key="890841344-ucdt" type="ucdt" originalKey="890841344">复活主题曲</str>
   <str key="890852063-ucdt" type="ucdt" originalKey="890852063">前往科技工厂。</str>
   <str key="890882307-ucdt" type="ucdt" originalKey="890882307">CARV（转轮自动步枪改进型）的模型与原型产品一样，可以适用于多种用途，同时还添加了单发射击模式，用来攻击远距离目标。</str>
   <str key="890893789-ucdt" type="ucdt" originalKey="890893789">心宿二：金质勋章</str>
