@@ -172,7 +172,7 @@
   <str key="3042396449-ucdt" type="ucdt" originalKey="3042396449">回车返回键</str>
   <str key="3042582725-ucdt" type="ucdt" originalKey="3042582725">飞行速度 3</str>
   <str key="3042691044-ucdt" type="ucdt" originalKey="3042691044">任务</str>
-  <str key="3042744347-ucdt" type="ucdt" originalKey="3042744347">动向侦测器在部署后，每1.5秒会发布一次50米内敌方步兵的位置；渗透兵还能接收到20米内敌军的实时动向。持续240秒，可以携带5枚。</str>
+  <str key="3042744347-ucdt" type="ucdt" originalKey="3042744347">动向侦测器在部署后，每1.5秒会发布一次50米内敌方步兵的位置；渗透者还能接收到20米内敌军的实时动向。持续240秒，可以携带5枚。</str>
   <str key="3042758258-ucdt" type="ucdt" originalKey="3042758258">轻型突击兵护甲</str>
   <str key="3043065634-ucdt" type="ucdt" originalKey="3043065634">M20野马：奥星勋章</str>
   <str key="3043170447-ucdt" type="ucdt" originalKey="3043170447">敌方锁定此载具所需的时间增加0.25秒，敌方小地图自动侦测到此载具的距离缩短到75米。</str>
@@ -456,7 +456,7 @@
   <str key="3065024726-ucdt" type="ucdt" originalKey="3065024726">为Liberator添加炫光迷彩。仅限NSO使用。</str>
   <str key="3065162796-ucdt" type="ucdt" originalKey="3065162796">战役%0</str>
   <str key="3065343731-ucdt" type="ucdt" originalKey="3065343731">手雷</str>
-  <str key="3065382447-ucdt" type="ucdt" originalKey="3065382447">将渗透兵破解敌方装备终端的速度加快30%。</str>
+  <str key="3065382447-ucdt" type="ucdt" originalKey="3065382447">将渗透者破解敌方装备终端的速度加快30%。</str>
   <str key="3065393315-ugdt" type="ugdt" originalKey="3065393315">Rx1 (1x)</str>
   <str key="3065515384-ucdt" type="ucdt" originalKey="3065515384">向激战地区投射火力能获得士气。</str>
   <str key="3065758016-ucdt" type="ucdt" originalKey="3065758016">冲锋 3</str>
@@ -550,7 +550,7 @@
   <str key="3072858409-ucdt" type="ucdt" originalKey="3072858409">解放伊萨米尔</str>
   <str key="3072900923-ucdt" type="ucdt" originalKey="3072900923">反步兵MANA炮台可持续射击直到过热的时间延长到9秒。</str>
   <str key="3073013026-ucdt" type="ucdt" originalKey="3073013026">炮手击杀助攻共享 - 徘徊者</str>
-  <str key="3073140221-ucdt" type="ucdt" originalKey="3073140221">VS渗透兵金色汪达尔描述</str>
+  <str key="3073140221-ucdt" type="ucdt" originalKey="3073140221">VS渗透者金色汪达尔描述</str>
   <str key="3073514533-ucdt" type="ucdt" originalKey="3073514533">突袭者金线轮毂罩</str>
   <str key="3073655344-ucdt" type="ucdt" originalKey="3073655344">防偷袭装甲 2</str>
   <str key="3073821691-ucdt" type="ucdt" originalKey="3073821691">查看活动</str>
@@ -591,11 +591,11 @@
   <str key="3076896263-ucdt" type="ucdt" originalKey="3076896263">武器能够携带的最大弹药数量增加200发。</str>
   <str key="3076970931-ucdt" type="ucdt" originalKey="3076970931">作为近战场合下，机械瞄具的替代品，HPR在瞄具上使用了精准的点-圆设计。</str>
   <str key="3076986152-ucdt" type="ucdt" originalKey="3076986152">一周年纪念</str>
-  <str key="3077008170-ucdt" type="ucdt" originalKey="3077008170">五周年快乐！用这款能绽放色彩的庆典喇叭来庆祝《行星边际2》五周年吧。</str>
+  <str key="3077008170-ucdt" type="ucdt" originalKey="3077008170">五周年快乐！用这款能绽放色彩的节日喇叭来庆祝《行星边际 2》五周年吧。</str>
   <str key="3077030209-ucdt" type="ucdt" originalKey="3077030209">新联邦的完美狙击手</str>
   <str key="3077223077-ucdt" type="ucdt" originalKey="3077223077">世界地图</str>
   <str key="3077224506-ugdt" type="ugdt" originalKey="3077224506">Cockpit: JetBlack Glass</str>
-  <str key="3077309395-ucdt" type="ucdt" originalKey="3077309395">渗透兵：战斗服改装</str>
+  <str key="3077309395-ucdt" type="ucdt" originalKey="3077309395">渗透者：战斗服改装</str>
   <str key="3077672974-ucdt" type="ucdt" originalKey="3077672974">灵异之地</str>
   <str key="3077825921-ucdt" type="ucdt" originalKey="3077825921">佩里斯废品处理站</str>
   <str key="3078005386-ucdt" type="ucdt" originalKey="3078005386">武器能够携带的最大弹药数量增加600发。</str>
@@ -717,9 +717,9 @@
   <str key="3087722892-ugdt" type="ugdt" originalKey="3087722892">太空迷彩</str>
   <str key="3087769702-ucdt" type="ucdt" originalKey="3087769702">纳米编织护甲 5 (11080) (DNT)</str>
   <str key="3087769990-ucdt" type="ucdt" originalKey="3087769990">防守方可以通过飞机终端购买飞机。</str>
-  <str key="3087932594-ucdt" type="ucdt" originalKey="3087932594">身为渗透兵获得击杀</str>
+  <str key="3087932594-ucdt" type="ucdt" originalKey="3087932594">身为渗透者获得击杀</str>
   <str key="3087952099-ucdt" type="ucdt" originalKey="3087952099">Dervish是一架重型战斗机。飞行员操控前置轻型武器，第二机枪手操控一个顶部炮塔，阻挡敌人的飞行器，并对目标施加额外的压力。</str>
-  <str key="3087953068-ucdt" type="ucdt" originalKey="3087953068">渗透兵是狙击职业，拥有短暂隐形能力、探测工具，并能够破解各种敌军终端供你的队伍使用。</str>
+  <str key="3087953068-ucdt" type="ucdt" originalKey="3087953068">渗透者是狙击职业，拥有短暂隐形能力、探测工具，并能够破解各种敌军终端供你的队伍使用。</str>
   <str key="3087991425-ucdt" type="ucdt" originalKey="3087991425">徘徊者防御证书项“强化侧面装甲”已从游戏中移除，之前投入的证书点已返还。</str>
   <str key="3088092339-ucdt" type="ucdt" originalKey="3088092339">敌方火花已被消灭。</str>
   <str key="3088154448-ucdt" type="ucdt" originalKey="3088154448">分子迷彩</str>
@@ -746,7 +746,7 @@
   <str key="3089732523-ucdt" type="ucdt" originalKey="3089732523">突击队贝雷帽</str>
   <str key="3089735602-ugdt" type="ugdt" originalKey="3089735602">ItZMuRdA Vehicle Decal</str>
   <str key="3089801511-ugdt" type="ugdt" originalKey="3089801511">生物实验室背景横幅</str>
-  <str key="3089846231-ucdt" type="ucdt" originalKey="3089846231">多功能的M77-B很好地平衡了打击效果、精度和射速。当渗透兵们的任务环境信息并不详尽时，它就成为了绝佳的选择。仅限地球共和国使用。</str>
+  <str key="3089846231-ucdt" type="ucdt" originalKey="3089846231">多功能的M77-B很好地平衡了打击效果、精度和射速。当渗透者们的任务环境信息并不详尽时，它就成为了绝佳的选择。仅限地球共和国使用。</str>
   <str key="3089853423-ucdt" type="ucdt" originalKey="3089853423">冬日乐园武器迷彩</str>
   <str key="3089974918-ucdt" type="ucdt" originalKey="3089974918">中尉 1 贴花</str>
   <str key="3089990148-ucdt" type="ucdt" originalKey="3089990148">我们收到报告，在Esamir东北部的Shattered Warpgate附近发现了敌方战斗人员。虽然我们与Nanite Systems达成了协议，承诺协助该地区的研究和恢复工作，但这并不意味着我们会允许敌人在这场战斗中获得优势。前往Shattered Warpgate地区，消除敌对威胁。</str>
@@ -804,7 +804,7 @@
   <str key="3094477733-ucdt" type="ucdt" originalKey="3094477733">镶边黑色武器迷彩</str>
   <str key="3094554668-ucdt" type="ucdt" originalKey="3094554668">启示之锋：绶带</str>
   <str key="3094593210-ucdt" type="ucdt" originalKey="3094593210">为你的载具添加贴花。仅限地球共和国使用。</str>
-  <str key="3094696601-ucdt" type="ucdt" originalKey="3094696601">瓦努主权国普通型渗透兵狙击步枪</str>
+  <str key="3094696601-ucdt" type="ucdt" originalKey="3094696601">瓦努主权国普通型渗透者狙击步枪</str>
   <str key="3094766812-ucdt" type="ucdt" originalKey="3094766812">M20幼龙：铜质勋章</str>
   <str key="3094858094-ucdt" type="ucdt" originalKey="3094858094">水手的九周年礼包</str>
   <str key="3094975849-ucdt" type="ucdt" originalKey="3094975849">为你的驾驶舱增添个性化装饰，在座舱玻璃处加上L337贴花。仅限地球共和国使用。</str>
