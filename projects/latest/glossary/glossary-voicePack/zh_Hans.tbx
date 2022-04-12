@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
-
 <martif type="TBX" xml:lang="en">
     <martifHeader>
         <fileDesc>
@@ -11,18 +10,6 @@
     </martifHeader>
     <text>
         <body>
-            <termEntry>
-                <langSet xml:lang="en">
-                    <tig>
-                        <term>原文</term>
-                    </tig>
-                </langSet>
-                <langSet xml:lang="zh_Hans">
-                    <tig>
-                        <term>暂定：</term>
-                    </tig>
-                </langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en">
                     <tig>
