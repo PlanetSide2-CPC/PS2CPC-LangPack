@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>瞄具英文</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>暂定译文</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>RTA Reflex Sight (1x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>RTA 反射瞄具（1 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>MH2 Reflex Sight (2x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>MH2 反射瞄具（2 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>TSO-IRNV (1x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>TSO-红外夜视（1 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Red-Eye (6x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>红眼（6 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>TekLyte Reflex (1x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>泰克雷特 反射型（1 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>GD RefleXR (2x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>GD 反射型 XR（2 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>LX Tacti-Eye (3.4x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>LX 战略视野（3.4 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>TrueShot (4x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>强击（3.4 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>LX Mark IV (4x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>LX IV 型（4 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>M7 Optics (7x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>M7 光学瞄具（7 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>A-Eight (8x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>A-8（8 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>HPR Reflex (1x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>HPR 反射型（1 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>VHO Reflex (2x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>VHO 反射型（2 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>V3 Holo (3.4x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>V3 全息瞄具（3.4 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>TriGon-6 (6x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>三角形-6（6 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>TriGon-8 (8x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>三角形-8（8 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Mach-10 (10x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>马赫-10（10 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Mach-12 (12x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>马赫-12（12 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Corona IR</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>日冕红外</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Corona O3.4 (3.4x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>日冕 O3.4（3.4 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Corona O4 (4x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>日冕 O4（4 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Lyra R1 (1x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>天琴座 R1（1 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Lyra R2 (2x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>天琴座 R2（2 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>VE Hourglass (6x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>VE 沙漏（6 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>HS/NV Scope (1x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>HS/NV 夜视目镜（1 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Raycast IRNV (1x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>射线红外夜视（1 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Groomer IR (1x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>引导者红外</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>V-IR (1x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>V-红外（1 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>NiCO (1x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>NiCO（1 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>NiCO XR (2x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>NiCO XR（2 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Mountain RF (1x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>山脉 反射型（1 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Bell RF (1x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>钟铃 反射型（1 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Fenmont RF (2x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>锋芒 反射型（2 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Valley RF (2x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>峡谷 反射型（2 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Rosewater ACOG (4x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>瑰露 ACOG（4 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Rosewater ACOG (3.4x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>瑰露 ACOG（3.4 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Banjo (3.4x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>班卓琴（3.4 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Quadra (4x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>方框（4 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Seer-6 (6x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>先见者-6（6 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Vista LRO (6x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>远望 LRO（6 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Tetra (4x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>丁型（4 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>HeXO (6x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>己型（6 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Hepta (7x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>庚型（7 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Octal (8x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>辛型（8 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Deca (10x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>癸型（10 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>DoDec (12x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>亥型（12 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Wayland LRO (7x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>韦兰 LRO（7 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Wayland LRO (8x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>韦兰 LRO（8倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Wayland LRO (10x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>韦兰 LRO（10 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>Wayland LRO (12x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>韦兰 LRO（12 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>O3-6 IR (6x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>O3-6 红外（6 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>ABLE 1.0 BLUE</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>精通 1.0 空心蓝点</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>ABLE 1.0 RED</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>精通 1.0 红点</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>ABLE 1.0 GREEN</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>精通 1.0 绿色 V 形</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>ABLE 1.0 YELLOW</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>精通 1.0 黄色竖线</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>ABLE 2.0 BLUE</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>精通 2.0 空心蓝点</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>ABLE 2.0 RED</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>精通 2.0 红点</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>ABLE 2.0 GREEN</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>精通 2.0 绿色 V 形</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>ABLE 2.0 YELLOW</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>精通 2.0 黄色竖线</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>ABLE 3.4 BLUE</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>精通 3.4 空心蓝点</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>ABLE 3.4 RED</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>精通 3.4 红点</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>ABLE 3.4 GREEN</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>精通 3.4 绿色 V 形</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>ABLE 3.4 YELLOW</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>精通 3.4 黄色横线</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>A-1M Spec. (4x)</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>A-1M 特别版（4 倍）</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>SCION X6</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>后裔 X6</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>SCION X8</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>后裔 X8</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>SCION X10</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>后裔 X10</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>SCION X12</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>后裔 X12</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Yellow Dot</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-黄点</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- T-Dot</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-T 形点</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Open Cross</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-空心十字</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Terran</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-地球</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Diamond</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-菱形</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Mil Dot</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-密位点</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- NewCon</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-新联邦</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Arrow</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-箭头</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Vanu</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-瓦努</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Triangle</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-三角</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Purple Dot</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-紫点</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Cross</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-十字</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Blue Diamond</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-蓝色菱形</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Chevron</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-V 形</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Square</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-方形</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Circle</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-环形</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en">
+                    <tig>
+                        <term>- Dot</term>
+                    </tig>
+                </langSet>
+                <langSet xml:lang="zh_Hans">
+                    <tig>
+                        <term>-点状</term>
+                    </tig>
+                </langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>
