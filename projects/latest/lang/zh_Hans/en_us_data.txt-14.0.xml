@@ -35,7 +35,7 @@
   <str key="1150499656-ucdt" type="ucdt" originalKey="1150499656">站到控制台附近可以占据它。当一座要塞中的大部分控制台都被某个进攻阵营控制，那么该阵营便开始争夺这座要塞的所有权。</str>
   <str key="1150542809-ucdt" type="ucdt" originalKey="1150542809">授权用氪金建造一座可由友军玩家操纵的防空方阵炮台。仅限瓦努主权国。</str>
   <str key="1150628894-ucdt" type="ucdt" originalKey="1150628894">黏性手雷在扔出后会粘在大多数物体的表面。</str>
-  <str key="1150740762-ucdt" type="ucdt" originalKey="1150740762">为工程兵解锁护盾矩阵塔架技能。仅限新联邦使用。&lt;br&gt;&lt;br&gt; 距离塔架 6 米范围内的友军的最大护盾生命值增加50。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;该物品将在战役结束时失效。&lt;/font&gt;</str>
+  <str key="1150740762-ucdt" type="ucdt" originalKey="1150740762">为工程兵解锁护盾矩阵生成器技能。仅限新联邦使用。&lt;br&gt;&lt;br&gt; 距离生成器 6 米范围内的友军的最大护盾生命值增加 50。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;该物品将在战役结束时失效。&lt;/font&gt;</str>
   <str key="1151059546-ucdt" type="ucdt" originalKey="1151059546">武器能够携带的最大榴弹数量增加 60 发。</str>
   <str key="1151117470-ucdt" type="ucdt" originalKey="1151117470">重型武器助攻</str>
   <str key="1151154276-ucdt" type="ucdt" originalKey="1151154276">忍术烟遁载具贴花</str>
@@ -129,7 +129,7 @@
   <str key="1158945872-ugdt" type="ugdt" originalKey="1158945872">DV-22T 织光者</str>
   <str key="1159212310-ucdt" type="ucdt" originalKey="1159212310">M18-2 双钳：铜质勋章</str>
   <str key="1159247274-ucdt" type="ucdt" originalKey="1159247274">F.U.S.E.：铜质勋章</str>
-  <str key="1159266086-ucdt" type="ucdt" originalKey="1159266086">纳能集团为了满足奥拉西斯特定的神射手而启动了 NiSGO 枪械瞄镜项目。NiSGO 使用了 3 个 V 形准星和 3.4 倍放大率。</str>
+  <str key="1159266086-ucdt" type="ucdt" originalKey="1159266086">纳能集团为了满足奥拉西斯的神射手而启动了 NiSGO 枪械瞄镜项目。NiSGO 使用了 3 个 V 形准星和 3.4 倍放大倍率。</str>
   <str key="1159298056-ucdt" type="ucdt" originalKey="1159298056">额外的助推器，可以让蚊式战机更快地直接起降。</str>
   <str key="1159352156-ugdt" type="ugdt" originalKey="1159352156">VS 侦察兵背景横幅</str>
   <str key="1159513528-ucdt" type="ucdt" originalKey="1159513528">一级弹药带</str>
@@ -162,7 +162,7 @@
   <str key="1161757924-ugdt" type="ugdt" originalKey="1161757924">故障的间谍无人机</str>
   <str key="1161809294-ucdt" type="ucdt" originalKey="1161809294">地区控制 40%</str>
   <str key="1161814639-ucdt" type="ucdt" originalKey="1161814639">先驱的爬坡能力提高 10%。</str>
-  <str key="1161820761-ucdt" type="ucdt" originalKey="1161820761">冷凝物手雷起爆时会引发寒冰爆炸，使步兵和 MAX 单位的移动速度、重新装弹速度和开火速度降低 20%，持续至多 6 秒。&lt;font color="#dc9c36"&gt;该物品将在战役结束时失效。&lt;/font&gt;&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;3 秒引信。&lt;/font&gt;</str>
+  <str key="1161820761-ucdt" type="ucdt" originalKey="1161820761">冷凝物手雷起爆时会引发寒冰爆炸，使步兵和 MAX 单位的移动速度、装弹速度和开火速度降低 20%，持续至多 6 秒。&lt;font color="#dc9c36"&gt;该物品将在战役结束时失效。&lt;/font&gt;&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;3 秒引信。&lt;/font&gt;</str>
   <str key="1161837909-ucdt" type="ucdt" originalKey="1161837909">拜瓦努智慧之光所赐，我们判断你那身标配护甲已经过时了！多款复合头盔和护甲的大减价正在火热进行中，还不赶快行动！</str>
   <str key="1161893604-ucdt" type="ucdt" originalKey="1161893604">武器能够携带的最大弹药数量增加 300 发。</str>
   <str key="1161927994-ugdt" type="ugdt" originalKey="1161927994">松木裂痕迷彩</str>
@@ -266,7 +266,7 @@
   <str key="1169908408-ugdt" type="ugdt" originalKey="1169908408">军团军需官</str>
   <str key="1170223947-ucdt" type="ucdt" originalKey="1170223947">为突袭者加装炫光镶边。仅限瓦努主权国使用。</str>
   <str key="1170223974-ucdt" type="ucdt" originalKey="1170223974">&lt;font color="#7FF4FF"&gt;聊天命令&lt;/font&gt; - 中括号内的文字是此命令的简略形式。&lt;/font&gt;</str>
-  <str key="1170321605-ucdt" type="ucdt" originalKey="1170321605">RTA 反射瞄具（1倍）-黄点 </str>
+  <str key="1170321605-ucdt" type="ucdt" originalKey="1170321605">RTA 反射瞄具（1 倍）-黄点 </str>
   <str key="1170387864-ucdt" type="ucdt" originalKey="1170387864">橙色火花底盘灯光</str>
   <str key="1170452423-ucdt" type="ucdt" originalKey="1170452423">罗柏的测试武器</str>
   <str key="1170613707-ucdt" type="ucdt" originalKey="1170613707">前往标出的路标点，与折跃终端互动。</str>
@@ -309,7 +309,7 @@
   <str key="1174542167-ucdt" type="ucdt" originalKey="1174542167">徘徊者：功能插槽</str>
   <str key="1174676889-ucdt" type="ucdt" originalKey="1174676889">默认弹匣的弹药容量增加 1 发。</str>
   <str key="1174698507-ucdt" type="ucdt" originalKey="1174698507">NS-61 “链接”密使</str>
-  <str key="1174820112-ucdt" type="ucdt" originalKey="1174820112">蚊式战机速度 - 1 级</str>
+  <str key="1174820112-ucdt" type="ucdt" originalKey="1174820112">蚊式战机速度 - 一级</str>
   <str key="1175057879-ucdt" type="ucdt" originalKey="1175057879">武器的装弹时间减少 0.1 秒。</str>
   <str key="1175063445-ugdt" type="ugdt" originalKey="1175063445">反载具手雷使用权</str>
   <str key="1175080297-ucdt" type="ucdt" originalKey="1175080297">头戴万圣节面具击杀敌人。</str>
@@ -354,7 +354,7 @@
   <str key="1178829980-ugdt" type="ugdt" originalKey="1178829980">宇宙毒蛇载具涂装</str>
   <str key="1179030010-ucdt" type="ucdt" originalKey="1179030010">&lt;font color="#00FFAA"&gt;节日无人机：&lt;/font&gt; 奥拉圣诞节是一个赠礼节日。其他人也应当获得礼物。请明天再来查看。</str>
   <str key="1179177777-ucdt" type="ucdt" originalKey="1179177777">NS-60 火焰喷射器 左手</str>
-  <str key="1179239581-ucdt" type="ucdt" originalKey="1179239581">随机的3级插件</str>
+  <str key="1179239581-ucdt" type="ucdt" originalKey="1179239581">随机的三级插件</str>
   <str key="1179287127-ugdt" type="ugdt" originalKey="1179287127">能量异常</str>
   <str key="1179331903-ucdt" type="ucdt" originalKey="1179331903">自定义配置冲突</str>
   <str key="1179494204-ucdt" type="ucdt" originalKey="1179494204">海盗战机新联邦标志座舱玻璃贴花</str>
@@ -558,7 +558,7 @@
   <str key="1195851052-ucdt" type="ucdt" originalKey="1195851052">侦测载具附近敌人的动向，将他们显示在附近盟军的小地图上。载具上必须有至少一名乘员，侦察雷达才能维持工作。</str>
   <str key="1195852694-ucdt" type="ucdt" originalKey="1195852694">腰射精准度</str>
   <str key="1195997945-ucdt" type="ucdt" originalKey="1195997945">获得密码</str>
-  <str key="1196110558-ucdt" type="ucdt" originalKey="1196110558">轰天雷 XS：金质勋章</str>
+  <str key="1196110558-ucdt" type="ucdt" originalKey="1196110558">XS 轰天雷：金质勋章</str>
   <str key="1196145493-ugdt" type="ugdt" originalKey="1196145493">电力螳螂装甲贴花</str>
   <str key="1196440928-ucdt" type="ucdt" originalKey="1196440928">TR 03 （默认）</str>
   <str key="1196558061-ucdt" type="ucdt" originalKey="1196558061">启蒙者 1 贴花</str>
@@ -609,7 +609,7 @@
   <str key="1200179318-ucdt" type="ucdt" originalKey="1200179318">在你的武器上添加一次性温带丛林迷彩图案。仅限新联邦使用。一次性迷彩只能在本角色的一套配置中应用一次。</str>
   <str key="1200180345-ucdt" type="ucdt" originalKey="1200180345">双刃剑方阵炮台：金质勋章</str>
   <str key="1200224579-ucdt" type="ucdt" originalKey="1200224579">军功加成 - 7天</str>
-  <str key="1200232649-ucdt" type="ucdt" originalKey="1200232649">新联邦特种兵语音包</str>
+  <str key="1200232649-ucdt" type="ucdt" originalKey="1200232649">新联邦突击部队语音包</str>
   <str key="1200358722-ugdt" type="ugdt" originalKey="1200358722">捷克装甲贴花</str>
   <str key="1200410277-ugdt" type="ugdt" originalKey="1200410277">碳纤维网眼武器迷彩</str>
   <str key="1200438166-ucdt" type="ucdt" originalKey="1200438166">你的小队已经解散。</str>
@@ -748,7 +748,7 @@
   <str key="1211704750-ucdt" type="ucdt" originalKey="1211704750">伏击手喷气背包能提供短暂的爆发推力，将使用者快速向前推进，而垂直高度提升有限。使用后有7秒冷却时间。</str>
   <str key="1211714118-ucdt" type="ucdt" originalKey="1211714118">瓦努主权国：电磁骑士贴花</str>
   <str key="1211722216-ucdt" type="ucdt" originalKey="1211722216">地球共和国手枪</str>
-  <str key="1211765715-ucdt" type="ucdt" originalKey="1211765715">轰天雷 XS：金质勋章</str>
+  <str key="1211765715-ucdt" type="ucdt" originalKey="1211765715">XS 轰天雷：金质勋章</str>
   <str key="1211914401-ucdt" type="ucdt" originalKey="1211914401">开启载具证书</str>
   <str key="1212012153-ucdt" type="ucdt" originalKey="1212012153">弹夹附件 01 描述</str>
   <str key="1212027518-ucdt" type="ucdt" originalKey="1212027518">探索者八周年礼包</str>
@@ -757,7 +757,7 @@
   <str key="1212085620-ucdt" type="ucdt" originalKey="1212085620">瓦努主权国：霰弹枪六边形贴花</str>
   <str key="1212107929-ucdt" type="ucdt" originalKey="1212107929">由你的军团控制的地区能提升你的资源自然增长率</str>
   <str key="1212127074-ucdt" type="ucdt" originalKey="1212127074">功能测试物品</str>
-  <str key="1212187965-ucdt" type="ucdt" originalKey="1212187965">ABLE 1.0 的绿色支架准星有助于在近距离快速捕获目标。</str>
+  <str key="1212187965-ucdt" type="ucdt" originalKey="1212187965">精通 1.0 的绿色 V 形准星有助于在近距离快速捕获目标。</str>
   <str key="1212486003-ugdt" type="ugdt" originalKey="1212486003">瓦努主权国：射线手枪环形贴花</str>
   <str key="1212494757-ucdt" type="ucdt" originalKey="1212494757">你当前没有收到请求。</str>
   <str key="1212507065-ucdt" type="ucdt" originalKey="1212507065">银河进气口 003</str>
@@ -993,7 +993,7 @@
   <str key="1229917866-ucdt" type="ucdt" originalKey="1229917866">敏捷底盘</str>
   <str key="1229938641-ucdt" type="ucdt" originalKey="1229938641">三级备弹数量</str>
   <str key="1230093787-ucdt" type="ucdt" originalKey="1230093787">下降</str>
-  <str key="1230117659-ucdt" type="ucdt" originalKey="1230117659">&lt;font color="#00FFAA"&gt;纳拉代表：&lt;/font&gt;我们将每天发送需要额外协助来完成的请求。这一切都很令人兴奋。</str>
+  <str key="1230117659-ucdt" type="ucdt" originalKey="1230117659">&lt;font color="#00FFAA"&gt;纳拉代表：&lt;/font&gt;我们将每天发布需要额外协助来完成的请求。这一切都很令人兴奋。</str>
   <str key="1230182660-ucdt" type="ucdt" originalKey="1230182660">切换射击模式</str>
   <str key="1230199676-ucdt" type="ucdt" originalKey="1230199676">可以额外携带一枚任何类型的火箭弹。</str>
   <str key="1230425481-ugdt" type="ugdt" originalKey="1230425481">纳能歼灭者 黑色版</str>
