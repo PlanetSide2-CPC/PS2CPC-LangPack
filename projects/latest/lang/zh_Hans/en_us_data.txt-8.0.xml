@@ -53,7 +53,7 @@
   <str key="653835728-ucdt" type="ucdt" originalKey="653835728">青色闪电底盘灯光</str>
   <str key="654027666-ucdt" type="ucdt" originalKey="654027666">新联邦：MAX火焰01 右手：导轨：扩容描述</str>
   <str key="654145008-ucdt" type="ucdt" originalKey="654145008">瓦努主权国：霰弹枪矩形贴花</str>
-  <str key="654226511-ucdt" type="ucdt" originalKey="654226511">使武器的重新装弹速度提高5%。</str>
+  <str key="654226511-ucdt" type="ucdt" originalKey="654226511">使武器的装弹速度提高5%。</str>
   <str key="654587459-ucdt" type="ucdt" originalKey="654587459">P2-120-R高爆破甲炮：金质勋章</str>
   <str key="654646889-ucdt" type="ucdt" originalKey="654646889">获得“英勇的”前缀头衔。</str>
   <str key="654844912-ucdt" type="ucdt" originalKey="654844912">登录</str>
@@ -72,7 +72,7 @@
   <str key="656348569-ugdt" type="ugdt" originalKey="656348569">Demon Stencil 涂装</str>
   <str key="656365252-ucdt" type="ucdt" originalKey="656365252">新联邦</str>
   <str key="656510549-ugdt" type="ugdt" originalKey="656510549">Vanguard Cupid Horn</str>
-  <str key="656582527-ucdt" type="ucdt" originalKey="656582527">弹药携带量 5</str>
+  <str key="656582527-ucdt" type="ucdt" originalKey="656582527">五级备弹数量</str>
   <str key="656706958-ucdt" type="ucdt" originalKey="656706958">默认弹匣的榴弹容量增加3发。</str>
   <str key="656789718-ucdt" type="ucdt" originalKey="656789718">一级准尉 2 贴花</str>
   <str key="656865682-ucdt" type="ucdt" originalKey="656865682">红日护甲贴花</str>
@@ -124,8 +124,8 @@
   <str key="659394308-ucdt" type="ucdt" originalKey="659394308">数字南瓜护甲迷彩</str>
   <str key="659438804-ucdt" type="ucdt" originalKey="659438804">将弹药补给器的作用范围扩大到23米。</str>
   <str key="659528571-ucdt" type="ucdt" originalKey="659528571">将银河的垂直推动速度提高3公里/小时。</str>
-  <str key="659872070-ucdt" type="ucdt" originalKey="659872070">弹药携带量 4</str>
-  <str key="659928176-ucdt" type="ucdt" originalKey="659928176">弹药携带量 2</str>
+  <str key="659872070-ucdt" type="ucdt" originalKey="659872070">四级备弹数量</str>
+  <str key="659928176-ucdt" type="ucdt" originalKey="659928176">二级备弹数量</str>
   <str key="660056792-ucdt" type="ucdt" originalKey="660056792">步枪大师</str>
   <str key="660169111-ugdt" type="ugdt" originalKey="660169111">Safeguard 4</str>
   <str key="660196336-ucdt" type="ucdt" originalKey="660196336">追踪者隐形 4</str>
@@ -291,7 +291,7 @@
   <str key="671926298-ucdt" type="ucdt" originalKey="671926298">CAS30坦克杀手：奥星勋章</str>
   <str key="671931430-ucdt" type="ucdt" originalKey="671931430">共和国占领了哈瓦尔！</str>
   <str key="671931913-ucdt" type="ucdt" originalKey="671931913">纳能自动修复系统 2</str>
-  <str key="672019571-ucdt" type="ucdt" originalKey="672019571">海盗战机盘旋 - 4级</str>
+  <str key="672019571-ucdt" type="ucdt" originalKey="672019571">海盗战机盘旋 - 四级</str>
   <str key="672069055-ugdt" type="ugdt" originalKey="672069055">NCM6粒子刀</str>
   <str key="672194938-ucdt" type="ucdt" originalKey="672194938">限时抢购！</str>
   <str key="672229160-ucdt" type="ucdt" originalKey="672229160">小火箭步枪发射的弹药既能在接近敌机时爆炸，也能击穿敌军地面载具的装甲。还有多种不同类型的小火箭可供使用。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;按“开镜瞄准”键可密集发射小火箭。&lt;/font&gt;</str>
@@ -658,7 +658,7 @@
   <str key="702499094-ucdt" type="ucdt" originalKey="702499094">烈火中烧座舱玻璃贴花</str>
   <str key="702523697-ucdt" type="ucdt" originalKey="702523697">SVA-88：银质勋章</str>
   <str key="702633429-ucdt" type="ucdt" originalKey="702633429">恶魔喇叭</str>
-  <str key="702718329-ucdt" type="ucdt" originalKey="702718329">弹药携带量 3</str>
+  <str key="702718329-ucdt" type="ucdt" originalKey="702718329">三级备弹数量</str>
   <str key="702776924-ucdt" type="ucdt" originalKey="702776924">提示：破解控制终端来占领要塞！</str>
   <str key="702843861-ucdt" type="ucdt" originalKey="702843861">The9服务器名45</str>
   <str key="702869041-ucdt" type="ucdt" originalKey="702869041">为你的火花加装洛伦佐轮毂罩</str>
@@ -742,7 +742,7 @@
   <str key="709223724-ucdt" type="ucdt" originalKey="709223724">镰刀战机紫色射线炫光</str>
   <str key="709224873-ugdt" type="ugdt" originalKey="709224873">Stormbringer</str>
   <str key="709241370-ucdt" type="ucdt" originalKey="709241370">萨伦激光炮</str>
-  <str key="709310619-ucdt" type="ucdt" originalKey="709310619">提高武器的重新装弹速度。</str>
+  <str key="709310619-ucdt" type="ucdt" originalKey="709310619">提高武器的装弹速度。</str>
   <str key="709312638-ucdt" type="ucdt" originalKey="709312638">等离子刀：银质勋章</str>
   <str key="709325599-ucdt" type="ucdt" originalKey="709325599">主武器：狙击步枪：XM98</str>
   <str key="709484611-ucdt" type="ucdt" originalKey="709484611">少尉 2 贴花</str>
@@ -912,7 +912,7 @@
   <str key="722911059-ucdt" type="ucdt" originalKey="722911059">医疗兵战术套装</str>
   <str key="723083912-ucdt" type="ucdt" originalKey="723083912">消音器</str>
   <str key="723112166-ucdt" type="ucdt" originalKey="723112166">不稳定弹药显著增大了弹头的体积，但使爆头额外伤害降低80%。</str>
-  <str key="723252672-ucdt" type="ucdt" originalKey="723252672">弹药携带量 9</str>
+  <str key="723252672-ucdt" type="ucdt" originalKey="723252672">九级备弹数量</str>
   <str key="723257824-ucdt" type="ucdt" originalKey="723257824">默认弹匣的弹药容量增加10发。</str>
   <str key="723270120-ucdt" type="ucdt" originalKey="723270120">感谢您的反馈！请尽可能详尽地描述您遭遇的bug。我们会在您提交bug报告时自动收集下列信息：您的角色名称、角色所在位置（当前大陆及区域）、您的角色配置信息、您的显示分辨率、以及您的显示质量设置。</str>
   <str key="723278260-ucdt" type="ucdt" originalKey="723278260">镰刀战机创世纪外饰</str>
@@ -961,7 +961,7 @@
   <str key="727060145-ucdt" type="ucdt" originalKey="727060145">这款镀金版侦察探测器发射的探针每2.5秒扫描一次，能暂时侦测到快速移动的敌军，包括隐形的渗透者。侦测半径40米，持续35秒。</str>
   <str key="727112695-ucdt" type="ucdt" originalKey="727112695">艾美瑞什灿烂之春</str>
   <str key="727196951-ucdt" type="ucdt" originalKey="727196951">NS-60火焰喷射器：银质勋章</str>
-  <str key="727238339-ucdt" type="ucdt" originalKey="727238339">海盗战机盘旋 - 5级</str>
+  <str key="727238339-ucdt" type="ucdt" originalKey="727238339">海盗战机盘旋 - 五级</str>
   <str key="727265191-ucdt" type="ucdt" originalKey="727265191">警告</str>
   <str key="727295997-ucdt" type="ucdt" originalKey="727295997">喷气背包 2</str>
   <str key="727381967-ucdt" type="ucdt" originalKey="727381967">将海盗战机的获取时间间隔减少360秒。</str>
