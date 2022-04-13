@@ -42,7 +42,7 @@
   <str key="2056519564-ucdt" type="ucdt" originalKey="2056519564">奥拉西斯圣诞节: Hadley</str>
   <str key="2056540479-ucdt" type="ucdt" originalKey="2056540479">武器的装弹时间减少 0.3 秒。</str>
   <str key="2056665930-ucdt" type="ucdt" originalKey="2056665930">2016 假日倒计时第 12 天</str>
-  <str key="2056752927-ucdt" type="ucdt" originalKey="2056752927">装弹速度 5</str>
+  <str key="2056752927-ucdt" type="ucdt" originalKey="2056752927">五级装弹速度</str>
   <str key="2056775439-ucdt" type="ucdt" originalKey="2056775439">雷达蒙蔽 I</str>
   <str key="2056878920-ucdt" type="ucdt" originalKey="2056878920">奥星通信子站</str>
   <str key="2056902076-ucdt" type="ucdt" originalKey="2056902076">切换到 5 号座位</str>
@@ -196,7 +196,7 @@
   <str key="2068128019-ugdt" type="ugdt" originalKey="2068128019">Harasser Hex Master Hubcaps</str>
   <str key="2068183265-ucdt" type="ucdt" originalKey="2068183265">控制中心回到共和国的掌控中了</str>
   <str key="2068246572-ucdt" type="ucdt" originalKey="2068246572">悚栗小丑面具</str>
-  <str key="2068249570-ucdt" type="ucdt" originalKey="2068249570">弹药携带量 8</str>
+  <str key="2068249570-ucdt" type="ucdt" originalKey="2068249570">八级备弹数量</str>
   <str key="2068368116-ucdt" type="ucdt" originalKey="2068368116">军团贴花</str>
   <str key="2068502407-ucdt" type="ucdt" originalKey="2068502407">载具：突袭者</str>
   <str key="2068802136-ucdt" type="ucdt" originalKey="2068802136">新联邦重型突击兵单兵护盾 等级 1</str>
@@ -532,7 +532,7 @@
   <str key="2094657218-ucdt" type="ucdt" originalKey="2094657218">顶级装备载具迷彩</str>
   <str key="2094690967-ucdt" type="ucdt" originalKey="2094690967">默认弹匣的弹药容量增加 3 发。</str>
   <str key="2094877524-ucdt" type="ucdt" originalKey="2094877524">麦克风已静音。</str>
-  <str key="2094992046-ucdt" type="ucdt" originalKey="2094992046">弹药携带量 2</str>
+  <str key="2094992046-ucdt" type="ucdt" originalKey="2094992046">二级备弹数量</str>
   <str key="2095344836-ucdt" type="ucdt" originalKey="2095344836">解放者蛇翼</str>
   <str key="2095513325-ucdt" type="ucdt" originalKey="2095513325">弹药打印机</str>
   <str key="2095551133-ucdt" type="ucdt" originalKey="2095551133">坦克套装物品</str>
@@ -542,7 +542,7 @@
   <str key="2095747715-ucdt" type="ucdt" originalKey="2095747715">考斯轮毂罩</str>
   <str key="2095885120-ucdt" type="ucdt" originalKey="2095885120">Alt</str>
   <str key="2095887519-ugdt" type="ugdt" originalKey="2095887519">Vertical Thrust 3</str>
-  <str key="2095981973-ucdt" type="ucdt" originalKey="2095981973">弹药携带量 2</str>
+  <str key="2095981973-ucdt" type="ucdt" originalKey="2095981973">二级备弹数量</str>
   <str key="2096024324-ucdt" type="ucdt" originalKey="2096024324">减速</str>
   <str key="2096115354-ucdt" type="ucdt" originalKey="2096115354">传奇版四周年纪念礼包</str>
   <str key="2096239662-ucdt" type="ucdt" originalKey="2096239662">对决战斗底盘 1</str>
@@ -578,7 +578,7 @@
   <str key="2099075211-ucdt" type="ucdt" originalKey="2099075211">弹药带 3</str>
   <str key="2099264810-ucdt" type="ucdt" originalKey="2099264810">银河高级移动基站（G-AMS）</str>
   <str key="2099305861-ucdt" type="ucdt" originalKey="2099305861">描述</str>
-  <str key="2099334698-ucdt" type="ucdt" originalKey="2099334698">弹药携带量 8</str>
+  <str key="2099334698-ucdt" type="ucdt" originalKey="2099334698">八级备弹数量</str>
   <str key="2099361236-ucdt" type="ucdt" originalKey="2099361236">武器能够携带的最大弹药数量增加 280 发。</str>
   <str key="2099415195-ucdt" type="ucdt" originalKey="2099415195">用轻机枪击杀敌方玩家。</str>
   <str key="2099454526-ucdt" type="ucdt" originalKey="2099454526">遗址 B</str>
@@ -597,7 +597,7 @@
   <str key="2100390967-ucdt" type="ucdt" originalKey="2100390967">蒙蔽敌方的夜视瞄准镜 2 小时。需要达到 17 级军衔。</str>
   <str key="2100411280-ucdt" type="ucdt" originalKey="2100411280">渡鸦（右手）：奥星勋章</str>
   <str key="2100511580-ucdt" type="ucdt" originalKey="2100511580">AR-ARX Maxwell 银质勋章</str>
-  <str key="2100585661-ucdt" type="ucdt" originalKey="2100585661">弹药携带量 5</str>
+  <str key="2100585661-ucdt" type="ucdt" originalKey="2100585661">五级备弹数量</str>
   <str key="2100795379-ucdt" type="ucdt" originalKey="2100795379">武器能够携带的最大弹药数量增加 168 发。</str>
   <str key="2100840629-ucdt" type="ucdt" originalKey="2100840629">滚转速率</str>
   <str key="2100906339-ucdt" type="ucdt" originalKey="2100906339">重返战场礼包</str>
@@ -660,7 +660,7 @@
   <str key="2105888681-ucdt" type="ucdt" originalKey="2105888681">“喷火”自动炮台的冷却时间缩短 10 秒。</str>
   <str key="2105966551-ucdt" type="ucdt" originalKey="2105966551">MSW 狂暴：金质勋章</str>
   <str key="2106005444-ucdt" type="ucdt" originalKey="2106005444">指挥等级</str>
-  <str key="2106021923-ucdt" type="ucdt" originalKey="2106021923">装弹速度 3</str>
+  <str key="2106021923-ucdt" type="ucdt" originalKey="2106021923">三级装弹速度</str>
   <str key="2106065477-ucdt" type="ucdt" originalKey="2106065477">联邦准将 3</str>
   <str key="2106066118-ucdt" type="ucdt" originalKey="2106066118">废墟西北折跃门</str>
   <str key="2106231934-ucdt" type="ucdt" originalKey="2106231934">&lt;font color="#00FFAA"&gt;Umatherin最高长官：&lt;/font&gt;Terran Repulic居然真的认为自己能以那种方式赢得战争。我虽然不抱太大期待，但数据终端会交到我们的科学家手里，看看他们从中会有什么样的发现。</str>
@@ -738,7 +738,7 @@
   <str key="2112944686-ucdt" type="ucdt" originalKey="2112944686">成为会员以支持《行星边际2》！</str>
   <str key="2112955244-ucdt" type="ucdt" originalKey="2112955244">NC AF-34 鹤嘴锄 + 证书点</str>
   <str key="2113078554-ucdt" type="ucdt" originalKey="2113078554">匿踪</str>
-  <str key="2113136547-ucdt" type="ucdt" originalKey="2113136547">弹药携带量 5</str>
+  <str key="2113136547-ucdt" type="ucdt" originalKey="2113136547">五级备弹数量</str>
   <str key="2113170913-ucdt" type="ucdt" originalKey="2113170913">暗星护甲礼包</str>
   <str key="2113549174-ucdt" type="ucdt" originalKey="2113549174">噩梦 5</str>
   <str key="2113657346-ucdt" type="ucdt" originalKey="2113657346">银河：热带丛林</str>
@@ -749,7 +749,7 @@
   <str key="2113821910-ugdt" type="ugdt" originalKey="2113821910">"0" 金色车标</str>
   <str key="2113921673-ugdt" type="ugdt" originalKey="2113921673">Operant 1 涂装</str>
   <str key="2113926671-ucdt" type="ucdt" originalKey="2113926671">TR 7天资源加成</str>
-  <str key="2113940913-ucdt" type="ucdt" originalKey="2113940913">奥纳莎附属重生点C</str>
+  <str key="2113940913-ucdt" type="ucdt" originalKey="2113940913">奥纳莎卫星重生点 C</str>
   <str key="2113978095-ucdt" type="ucdt" originalKey="2113978095">&lt;font color="#00FFAA"&gt;Knightly现场专员&lt;/font&gt;看来兴奋剂产生了一些效果，我能从你脸上看出来，但我不确定你的脸色算不算好。我们的研究人员正在继续对血清进行研究，我们也许可以及时想出一些不那么有害的东西。</str>
   <str key="2113997132-ucdt" type="ucdt" originalKey="2113997132">甲壳[完美]</str>
   <str key="2114223425-ucdt" type="ucdt" originalKey="2114223425">因达尔旱带灌木 - 一次性</str>
@@ -882,7 +882,7 @@
   <str key="2125370132-ucdt" type="ucdt" originalKey="2125370132">祖瓦安飞机平台</str>
   <str key="2125441663-ucdt" type="ucdt" originalKey="2125441663">毒蛇护甲贴花</str>
   <str key="2125639694-ucdt" type="ucdt" originalKey="2125639694">&lt;font color="#ACE1E5"&gt;&lt;u&gt;使用&lt;/u&gt;&lt;/font&gt;&lt;br&gt;在地图界面右键单击建筑以安装模块。&lt;br&gt;&lt;br&gt;&lt;font color="#ACE1E5"&gt;&lt;u&gt;描述&lt;/u&gt;&lt;/font&gt;&lt;br&gt;所有在安装模块的建筑所处区域的友方士兵都会随着时间恢复少量生命值。&lt;font color="#CC200D"&gt;&lt;br&gt;&lt;br&gt;每次制作会产生 5 个此模块。&lt;br&gt;&lt;br&gt;持续 20 分钟。相同类型的附加模块可将持续时间从 20 分钟增加到最多 60 分钟。&lt;/font&gt;</str>
-  <str key="2125673788-ucdt" type="ucdt" originalKey="2125673788">蚊式战机垂直推力 - 5级</str>
+  <str key="2125673788-ucdt" type="ucdt" originalKey="2125673788">蚊式战机垂直推力 - 五级</str>
   <str key="2125715190-ucdt" type="ucdt" originalKey="2125715190">将武器的装弹速度提高 11%。</str>
   <str key="2125719642-ucdt" type="ucdt" originalKey="2125719642">资格赛已结束</str>
   <str key="2125725484-ucdt" type="ucdt" originalKey="2125725484">瓦努主权国-E001 单兵护盾装备</str>
