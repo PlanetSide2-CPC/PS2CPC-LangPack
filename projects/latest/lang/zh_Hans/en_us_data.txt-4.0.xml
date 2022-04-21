@@ -58,7 +58,7 @@
   <str key="331204617-ucdt" type="ucdt" originalKey="331204617">武器能够携带的最大弹药数量增加24发。</str>
   <str key="331502579-ucdt" type="ucdt" originalKey="331502579">顶部武器：G30漫步者</str>
   <str key="331590674-ucdt" type="ucdt" originalKey="331590674">从低到高</str>
-  <str key="331665527-ucdt" type="ucdt" originalKey="331665527">狂热者过载引擎 1</str>
+  <str key="331665527-ucdt" type="ucdt" originalKey="331665527">一级狂热者过载引擎</str>
   <str key="331677652-ucdt" type="ucdt" originalKey="331677652">维尔兰特头盔</str>
   <str key="331682477-ucdt" type="ucdt" originalKey="331682477">森林卫士</str>
   <str key="331738723-ucdt" type="ucdt" originalKey="331738723">&lt;font color="#7FF4FF"&gt;/ignore add &amp;#60;playername&amp;#62;&lt;/font&gt; - 将该玩家添加到黑名单中。</str>
@@ -156,7 +156,7 @@
   <str key="340309097-ucdt" type="ucdt" originalKey="340309097">突袭者骨锯胎纹</str>
   <str key="340407240-ucdt" type="ucdt" originalKey="340407240">工程兵的护盾条比其他兵种提早2秒开始恢复。</str>
   <str key="340428366-ucdt" type="ucdt" originalKey="340428366">将徘徊者的最高速度提高8公里/小时。</str>
-  <str key="340579542-ucdt" type="ucdt" originalKey="340579542">当敌军使用非消音武器命中或击杀你时，他将被自动报位。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;四级插件。&lt;br&gt;在载具中也生效。&lt;br&gt;MAX机甲也可装备。&lt;/font&gt;</str>
+  <str key="340579542-ucdt" type="ucdt" originalKey="340579542">当敌军使用非消音武器命中或击杀你时，他将被自动报位。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;四级插件。&lt;br&gt;在载具中也生效。&lt;br&gt;MAX 机甲也可装备。&lt;/font&gt;</str>
   <str key="340679918-ucdt" type="ucdt" originalKey="340679918">欢迎你，士兵！这里是虚拟现实训练场，可以让你迅速跟上奥拉西斯星球上的战斗节奏。</str>
   <str key="340801273-ucdt" type="ucdt" originalKey="340801273">碎瓷载具迷彩</str>
   <str key="340857015-ucdt" type="ucdt" originalKey="340857015">在你的护甲上添加漫画书迷彩图案。仅限瓦努主权国使用。</str>
@@ -624,7 +624,7 @@
   <str key="380141512-ucdt" type="ucdt" originalKey="380141512">侦测箭</str>
   <str key="380216794-ucdt" type="ucdt" originalKey="380216794">武器的装弹时间减少8.75%</str>
   <str key="380278195-ucdt" type="ucdt" originalKey="380278195">武器击杀</str>
-  <str key="380285967-ucdt" type="ucdt" originalKey="380285967">MAX机甲可以装备NS-10轰天雷高射机枪，以对抗敌机。</str>
+  <str key="380285967-ucdt" type="ucdt" originalKey="380285967">MAX 机甲可以装备NS-10轰天雷高射机枪，以对抗敌机。</str>
   <str key="380305900-ucdt" type="ucdt" originalKey="380305900">飞机装备</str>
   <str key="380479466-ucdt" type="ucdt" originalKey="380479466">金属绯红单色迷彩</str>
   <str key="380484440-ucdt" type="ucdt" originalKey="380484440">为你的决裂者加装此装备。所有阵营均可使用此物品。</str>
@@ -703,7 +703,7 @@
   <str key="385585100-ugdt" type="ugdt" originalKey="385585100">六级 RD-GG 金色版 侦察设备</str>
   <str key="385639421-ucdt" type="ucdt" originalKey="385639421">上将 2 贴花</str>
   <str key="385651544-ucdt" type="ucdt" originalKey="385651544">主战坦克火力套装</str>
-  <str key="385830054-ucdt" type="ucdt" originalKey="385830054">在你的准星旁显示目标距离，且25米内的敌方爆炸物会被自动标示。&lt;font color="#dc9c36"&gt;在地面载具中也生效。MAX机甲也可装备。&lt;/font&gt;</str>
+  <str key="385830054-ucdt" type="ucdt" originalKey="385830054">在你的准星旁显示目标距离，且25米内的敌方爆炸物会被自动标示。&lt;font color="#dc9c36"&gt;在地面载具中也生效。MAX 机甲也可装备。&lt;/font&gt;</str>
   <str key="385900069-ucdt" type="ucdt" originalKey="385900069">封闭装甲 1</str>
   <str key="385978739-ucdt" type="ucdt" originalKey="385978739">瓦努主权国：链式机枪贴花</str>
   <str key="386018147-ucdt" type="ucdt" originalKey="386018147">武器能够携带的最大榴弹数量增加 32发。</str>
@@ -840,14 +840,14 @@
   <str key="397348488-ugdt" type="ugdt" originalKey="397348488">技术宅载具迷彩</str>
   <str key="397383708-ucdt" type="ucdt" originalKey="397383708">Harasser狱火轮胎尾迹</str>
   <str key="397485034-ucdt" type="ucdt" originalKey="397485034">NS-60火焰喷射器：金质勋章</str>
-  <str key="397559270-ucdt" type="ucdt" originalKey="397559270">你的装甲降低20%，并以每秒40点的速度恢复生命值。 承受伤害时会使生命值恢复暂停2秒，并且生命值恢复不与纳能自动修理叠加。&lt;font color="#dc9c36"&gt;仅限MAX机甲。&lt;/font&gt;</str>
+  <str key="397559270-ucdt" type="ucdt" originalKey="397559270">你的装甲降低20%，并以每秒40点的速度恢复生命值。 承受伤害时会使生命值恢复暂停2秒，并且生命值恢复不与纳能自动修理叠加。&lt;font color="#dc9c36"&gt;仅限MAX 机甲。&lt;/font&gt;</str>
   <str key="397577864-ucdt" type="ucdt" originalKey="397577864">M20蛇蜥：奥星勋章</str>
   <str key="397851489-ucdt" type="ucdt" originalKey="397851489">*仍受到阵营专属条件约束</str>
   <str key="397911555-ucdt" type="ucdt" originalKey="397911555">审判力量载具贴花</str>
   <str key="397954268-ucdt" type="ucdt" originalKey="397954268">征服者AR：奥星勋章</str>
   <str key="397979879-ucdt" type="ucdt" originalKey="397979879">个性化你的地面载具，加装金色的“H”车标</str>
   <str key="398132311-ucdt" type="ucdt" originalKey="398132311">电子邮件载具迷彩</str>
-  <str key="398155909-ucdt" type="ucdt" originalKey="398155909">激活一台修理无人机，它会在附近悬浮。10米内的友方载具、装备和MAX机甲单位每秒被动恢复49点生命值。冷却时间45 秒。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;同一时间只能激活一台无人机。它会在你进入载具时损坏。该物品将在战役结束时失效。&lt;/font&gt;</str>
+  <str key="398155909-ucdt" type="ucdt" originalKey="398155909">激活一台修理无人机，它会在附近悬浮。10米内的友方载具、装备和MAX 机甲单位每秒被动恢复49点生命值。冷却时间45 秒。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;同一时间只能激活一台无人机。它会在你进入载具时损坏。该物品将在战役结束时失效。&lt;/font&gt;</str>
   <str key="398263315-ucdt" type="ucdt" originalKey="398263315">描述</str>
   <str key="398341796-ucdt" type="ucdt" originalKey="398341796">掌握7座激活的蜂巢</str>
   <str key="398380312-ucdt" type="ucdt" originalKey="398380312">猎人隐形 6</str>
