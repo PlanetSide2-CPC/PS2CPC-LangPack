@@ -200,7 +200,7 @@
   <str key="422551217-ucdt" type="ucdt" originalKey="422551217">武器的装弹时间减少0.4秒。</str>
   <str key="422701584-ucdt" type="ucdt" originalKey="422701584">充能型反坦克等离子炮是瓦努主权国武器库中的特色武器，被用于击毁敌方坦克</str>
   <str key="422738058-ucdt" type="ucdt" originalKey="422738058">继承者 X6</str>
-  <str key="422814633-ucdt" type="ucdt" originalKey="422814633">击杀敌人有10%几率使你和25米内的队友在4秒内射速提高10%。MAX可装备并触发此插件，但自身无法享受该收益。</str>
+  <str key="422814633-ucdt" type="ucdt" originalKey="422814633">击杀敌人后可将武器的射速提升 8%，持续 1.5 秒。在此效果生效期间，后坐力和散布角会显著增大。</str>
   <str key="422977299-ucdt" type="ucdt" originalKey="422977299">恭喜您</str>
   <str key="423086107-ucdt" type="ucdt" originalKey="423086107">开启后，一层快速衰减的护盾能量网会围绕士兵，并吸收最多450点伤害；每当士兵击杀一名敌军，可以回复35%的能量。护盾能量会在36秒内回满。</str>
   <str key="423171427-ucdt" type="ucdt" originalKey="423171427">混合消音器可以抑制武器的噪音，消除枪口的火光，并且射击时敌人将无法在小地图上看到你的位置，但子弹的飞行速度降低20%。</str>
@@ -664,7 +664,7 @@
   <str key="459748882-ucdt" type="ucdt" originalKey="459748882">镰刀战机丘比特喇叭</str>
   <str key="459770641-ucdt" type="ucdt" originalKey="459770641">LANS（3.4倍）</str>
   <str key="459785074-ucdt" type="ucdt" originalKey="459785074">左手主武器：防空：NS-10轰天雷</str>
-  <str key="459787990-ucdt" type="ucdt" originalKey="459787990">击杀敌人有20%几率使你和25米内的队友在4秒内射速提高10%。此外，每当获得经验时有2%几率触发此插件。MAX可装备并触发此插件，但自身无法享受该收益。</str>
+  <str key="459787990-ucdt" type="ucdt" originalKey="459787990">击杀敌人后可将武器的射速提升 8%，持续 3 秒，爆头击杀会将此效果延长至 5 秒。在此效果生效期间，后坐力和散布角会显著增大。</str>
   <str key="459984256-ucdt" type="ucdt" originalKey="459984256">M20幼龙：金质勋章</str>
   <str key="460023015-ucdt" type="ucdt" originalKey="460023015">温带灌木</str>
   <str key="460026498-ucdt" type="ucdt" originalKey="460026498">选择一套配置来复制给这套新配置。</str>
@@ -996,4 +996,5 @@
   <str key="487902590-ugdt" type="ugdt" originalKey="487902590">玛奥</str>
   <str key="488023896-ucdt" type="ucdt" originalKey="488023896">作为会员收益的其中之一，会员可在每月最后一周的周五至周日享受双倍经验周末。</str>
   <str key="488028792-ugdt" type="ugdt" originalKey="488028792">NS-AM7 弓箭手 年度纪念版/TR</str>
+  <str key="477929540-ugdt" type="ugdt" originalKey="477929540">奥星圣诞节：纳拉</str>
 </root>
