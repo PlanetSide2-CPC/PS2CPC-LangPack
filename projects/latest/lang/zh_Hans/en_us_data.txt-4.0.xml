@@ -44,7 +44,7 @@
   <str key="329132113-ucdt" type="ucdt" originalKey="329132113">NSX 雷神</str>
   <str key="329142654-ucdt" type="ucdt" originalKey="329142654">选择媒体</str>
   <str key="329180120-ucdt" type="ucdt" originalKey="329180120">备用强光屏障使用权</str>
-  <str key="329297384-ucdt" type="ucdt" originalKey="329297384">&lt;font color="#dc9c36"&gt;已失效, 分解为ISO-4。&lt;br&gt;&lt;/font&gt;从20米内的高度坠落将不再受到伤害，最小致命坠落高度接近60米。</str>
+  <str key="329297384-ucdt" type="ucdt" originalKey="329297384">&lt;font color="#dc9c36"&gt;已失效, 分解为ISO-4。&lt;br&gt;&lt;/font&gt;从20 米内的高度坠落将不再受到伤害，最小致命坠落高度接近60 米。</str>
   <str key="329410352-ucdt" type="ucdt" originalKey="329410352">离开载具</str>
   <str key="329428167-ucdt" type="ucdt" originalKey="329428167">武器能够携带的最大弹药数量增加 56 发。</str>
   <str key="329503940-ucdt" type="ucdt" originalKey="329503940">F12</str>
@@ -89,7 +89,7 @@
   <str key="334769511-ucdt" type="ucdt" originalKey="334769511">[#LIBERATOR#]空中载具</str>
   <str key="334817131-ugdt" type="ugdt" originalKey="334817131">"2" 金色车标</str>
   <str key="334893109-ucdt" type="ucdt" originalKey="334893109">沙漠灌木1</str>
-  <str key="334900416-ucdt" type="ucdt" originalKey="334900416">自动追踪武器锁定本载具所需的时间延长 0.25 秒，敌方小地图自动检测到本载具的范围缩小到 174 米，敌方交火雷达的检测距离缩小100米。
+  <str key="334900416-ucdt" type="ucdt" originalKey="334900416">敌方锁定此载具所需的时间增加 0.25 秒，敌方小地图自动侦测到此载具的距离缩短到 174 米，被敌人接敌雷达侦测到的距离缩短 100 米。
 </str>
   <str key="334980580-ucdt" type="ucdt" originalKey="334980580">VE4 日珥：铜质勋章</str>
   <str key="335144839-ucdt" type="ucdt" originalKey="335144839">欢迎！您在测试服内获得了#count([*cert_points*])点证书。</str>
@@ -280,7 +280,7 @@
   <str key="353005630-ucdt" type="ucdt" originalKey="353005630">载具特卖</str>
   <str key="353160038-ucdt" type="ucdt" originalKey="353160038">可以放大到 4 倍的瞄准镜，在较远距离上遭遇敌军时非常有用。</str>
   <str key="353188866-ugdt" type="ugdt" originalKey="353188866">Paradise Camo</str>
-  <str key="353324556-ucdt" type="ucdt" originalKey="353324556">当你的护盾破碎时会施放一股纳能维修脉冲，在 4 秒内为 10米范围内的友军机械设备回复 300 点生命值。&lt;font color="#dc9c36"&gt;仅限工程兵使用。&lt;/font&gt;</str>
+  <str key="353324556-ucdt" type="ucdt" originalKey="353324556">当你的护盾破碎时会施放一股纳能维修脉冲，在 4 秒内为 10 米范围内的友军机械设备回复 300 点生命值。&lt;font color="#dc9c36"&gt;仅限工程兵使用。&lt;/font&gt;</str>
   <str key="353362691-ucdt" type="ucdt" originalKey="353362691">你们连这群低等生物都不如么？</str>
   <str key="353528747-ucdt" type="ucdt" originalKey="353528747">机械资源</str>
   <str key="353944682-ucdt" type="ucdt" originalKey="353944682">那样应该就可以了！当你准备好采取更多行动时，来庇护所见我。</str>
@@ -521,7 +521,7 @@
   <str key="372711579-ucdt" type="ucdt" originalKey="372711579">在你的装甲上添加一次性伊萨米尔冰原迷彩图案。仅限地球共和国使用。一次性迷彩只能在本角色的一套配置中应用一次。</str>
   <str key="372726644-ugdt" type="ugdt" originalKey="372726644">ALL Phalanx Turrets</str>
   <str key="373089671-ucdt" type="ucdt" originalKey="373089671">个性化你的地面载具，加装“7”车标</str>
-  <str key="373095545-ucdt" type="ucdt" originalKey="373095545">将导弹发射器的锁定范围扩大50米。</str>
+  <str key="373095545-ucdt" type="ucdt" originalKey="373095545">将导弹发射器的锁定范围扩大50 米。</str>
   <str key="373133299-ucdt" type="ucdt" originalKey="373133299">等级达到 10 级时解锁</str>
   <str key="373256069-ugdt" type="ugdt" originalKey="373256069">Windbreaker MAX Helmet</str>
   <str key="373286653-ucdt" type="ucdt" originalKey="373286653">黑色NS-61B密使奥星勋章</str>
@@ -559,7 +559,7 @@
   <str key="375601954-ucdt" type="ucdt" originalKey="375601954">兰布达渗透者装甲</str>
   <str key="375756643-ucdt" type="ucdt" originalKey="375756643">允许携带四枚C-4</str>
   <str key="375782527-ucdt" type="ucdt" originalKey="375782527">已解锁</str>
-  <str key="375785685-ucdt" type="ucdt" originalKey="375785685">敌方锁定此载具所需的时间增加 1.5 秒。防止载具在敌人小地图上被自动侦测到，被敌人接敌雷达侦测到的距离缩短 400米。</str>
+  <str key="375785685-ucdt" type="ucdt" originalKey="375785685">敌方锁定此载具所需的时间增加 1.5 秒。防止载具在敌人小地图上被自动侦测到，被敌人接敌雷达侦测到的距离缩短 400 米。</str>
   <str key="375821270-ucdt" type="ucdt" originalKey="375821270">“饕餮”密使：奥星勋章</str>
   <str key="375849737-ucdt" type="ucdt" originalKey="375849737">脉冲星C：银质勋章</str>
   <str key="375914761-ucdt" type="ucdt" originalKey="375914761">所有阵营均可使用。</str>
@@ -608,7 +608,7 @@
   <str key="379211671-ucdt" type="ucdt" originalKey="379211671">幻像VE33：银质勋章</str>
   <str key="379237386-ucdt" type="ucdt" originalKey="379237386">受到来自防空炮的伤害降低 25%，步兵轻武器和战机机首炮的伤害降低 8%。</str>
   <str key="379254358-ugdt" type="ugdt" originalKey="379254358">Magazine Size 3</str>
-  <str key="379270549-ucdt" type="ucdt" originalKey="379270549">部署一座“喷火”自动炮台，它能自动射击50米内的敌军步兵。只能同时部署一座“喷火”。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;35 秒冷却。&lt;/font&gt;</str>
+  <str key="379270549-ucdt" type="ucdt" originalKey="379270549">部署一座“喷火”自动炮台，它能自动射击50 米内的敌军步兵。只能同时部署一座“喷火”。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;35 秒冷却。&lt;/font&gt;</str>
   <str key="379355064-ucdt" type="ucdt" originalKey="379355064">美国装甲贴花</str>
   <str key="379500745-ucdt" type="ucdt" originalKey="379500745">将闪电的最高速度提高 4 公里/小时。</str>
   <str key="379598258-ucdt" type="ucdt" originalKey="379598258">你确定要删除吗？</str>
@@ -695,7 +695,7 @@
   <str key="385136629-ucdt" type="ucdt" originalKey="385136629">地球共和国：MAX：火焰01：左手金质勋章</str>
   <str key="385145698-ucdt" type="ucdt" originalKey="385145698">节日加成礼包</str>
   <str key="385235917-ucdt" type="ucdt" originalKey="385235917">狙击瞄准镜01描述</str>
-  <str key="385344636-ucdt" type="ucdt" originalKey="385344636">Detonator可以制造出一种远程炮弹，其爆炸性反载具有效荷载会随着飞行距离的增加而变得更具杀伤力，攻击100米以外的目标时可以造成最大伤害。 该武器的保险距离为 20米。</str>
+  <str key="385344636-ucdt" type="ucdt" originalKey="385344636">Detonator可以制造出一种远程炮弹，其爆炸性反载具有效荷载会随着飞行距离的增加而变得更具杀伤力，攻击100 米以外的目标时可以造成最大伤害。 该武器的保险距离为 20 米。</str>
   <str key="385455739-ucdt" type="ucdt" originalKey="385455739">TAR-AE：银质勋章</str>
   <str key="385473110-ucdt" type="ucdt" originalKey="385473110">NiCO（1 倍）</str>
   <str key="385540608-ucdt" type="ucdt" originalKey="385540608">激光瞄准器</str>
@@ -847,7 +847,7 @@
   <str key="397954268-ucdt" type="ucdt" originalKey="397954268">征服者AR：奥星勋章</str>
   <str key="397979879-ucdt" type="ucdt" originalKey="397979879">个性化你的地面载具，加装金色的“H”车标</str>
   <str key="398132311-ucdt" type="ucdt" originalKey="398132311">电子邮件载具迷彩</str>
-  <str key="398155909-ucdt" type="ucdt" originalKey="398155909">激活一台修理无人机，它会在附近悬浮。10米内的友方载具、装备和MAX 机甲单位每秒被动恢复 49 点生命值。冷却时间45 秒。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;同一时间只能激活一台无人机。它会在你进入载具时损坏。该物品将在战役结束时失效。&lt;/font&gt;</str>
+  <str key="398155909-ucdt" type="ucdt" originalKey="398155909">激活一台修理无人机，它会在附近悬浮。10 米内的友方载具、装备和MAX 机甲单位每秒被动恢复 49 点生命值。冷却时间45 秒。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;同一时间只能激活一台无人机。它会在你进入载具时损坏。该物品将在战役结束时失效。&lt;/font&gt;</str>
   <str key="398263315-ucdt" type="ucdt" originalKey="398263315">描述</str>
   <str key="398341796-ucdt" type="ucdt" originalKey="398341796">掌握7座激活的蜂巢</str>
   <str key="398380312-ucdt" type="ucdt" originalKey="398380312">猎人隐形 6</str>
