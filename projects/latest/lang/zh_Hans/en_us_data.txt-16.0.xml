@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <str key="1312727907-ucdt" type="ucdt" originalKey="1312727907">小队/连队长</str>
   <str key="1312866953-ugdt" type="ugdt" originalKey="1312866953">爆炸弹药</str>
@@ -549,7 +548,7 @@
   <str key="1359645047-ucdt" type="ucdt" originalKey="1359645047">蚊式战机地球共和国证书树</str>
   <str key="1359744204-ucdt" type="ucdt" originalKey="1359744204">天</str>
   <str key="1359810066-ucdt" type="ucdt" originalKey="1359810066">先进构筑工具 - 炮台：铜质勋章</str>
-  <str key="1359877880-ucdt" type="ucdt" originalKey="1359877880">在 NS-11 基础上设计的 NS-15M1 是一款高精度、弹匣供弹的轻机枪，它在大多数战斗中表现优异。M1 款在生产时偶然地装配了深黑色外壳，于是它也成为了奥拉西斯的收藏品之一。所有阵营都可以使用 NS 武器。</str>
+  <str key="1359877880-ucdt" type="ucdt" originalKey="1359877880">在 NS-11 基础上设计的 NS-15M1 是一款高精度、弹匣供弹的轻机枪，它在大多数环境的战斗中表现优异。M1 型号在生产时偶然地配上了深黑色涂装，于是它也成为了奥拉西斯的收藏品之一。所有阵营均可使用纳能集团武器。</str>
   <str key="1359910592-ugdt" type="ugdt" originalKey="1359910592">三级军火袋</str>
   <str key="1360016461-ucdt" type="ucdt" originalKey="1360016461">部署 %0</str>
   <str key="1360207980-ucdt" type="ucdt" originalKey="1360207980">高科矿</str>
@@ -973,32 +972,33 @@
   <str key="1396008158-ucdt" type="ucdt" originalKey="1396008158">奥纳莎西南大门</str>
   <str key="1396020865-ucdt" type="ucdt" originalKey="1396020865">你可以使用弹药仓库为地面载具补充弹药。在仓库旁边就可以自动补充弹药。
 载具的补给仓库同样会在小地图和 HUD（平视显示器）上以图标形式显示。</str>
-    <str key="1396059332-ucdt" type="ucdt" originalKey="1396059332">欧夏尔北方舰队</str>
-    <str key="1396188592-ucdt" type="ucdt" originalKey="1396188592">地狱火火箭舱：金质勋章</str>
-    <str key="1396215208-ugdt" type="ugdt" originalKey="1396215208">海盗战机游隼装甲</str>
-    <str key="1396263070-ucdt" type="ucdt" originalKey="1396263070">地球共和国：徘徊者贴花</str>
-    <str key="1396270101-ucdt" type="ucdt" originalKey="1396270101">减小启动护盾时对速度的影响。</str>
-    <str key="1396287010-ugdt" type="ugdt" originalKey="1396287010">v0.6.3</str>
-    <str key="1396436451-ucdt" type="ucdt" originalKey="1396436451">东流港</str>
-    <str key="1396500407-ucdt" type="ucdt" originalKey="1396500407">获取“弄潮儿”前缀头衔。</str>
-    <str key="1396523541-ucdt" type="ucdt" originalKey="1396523541">双子座：金质勋章</str>
-    <str key="1396658150-ucdt" type="ucdt" originalKey="1396658150">立即领取！</str>
-    <str key="1396675070-ugdt" type="ugdt" originalKey="1396675070">农药喷洒驾驶舱</str>
-    <str key="1396819927-ucdt" type="ucdt" originalKey="1396819927">[*seconds*] 秒后方可再次部署命令。</str>
-    <str key="1396824200-ucdt" type="ucdt" originalKey="1396824200">破片手雷：银质勋章</str>
-    <str key="1396976442-ucdt" type="ucdt" originalKey="1396976442">在飞机附近放出长久持续的烟幕，干扰视线，并让载具无法被锁定，持续 8 秒。</str>
-    <str key="1396979949-ucdt" type="ucdt" originalKey="1396979949">四级复合装甲</str>
-    <str key="1397119710-ucdt" type="ucdt" originalKey="1397119710">前锋载具贴花</str>
-    <str key="1397196083-ucdt" type="ucdt" originalKey="1397196083">这把 SR-100 经过了改装，用于正在进行的光子推进实验。更重的弹头搭配试验微型引擎使其拥有了非常理想的远程杀伤能力。</str>
-    <str key="1397200590-ucdt" type="ucdt" originalKey="1397200590">在 VR 虚拟训练营内不能升级</str>
-    <str key="1397212106-ucdt" type="ucdt" originalKey="1397212106">使用中和器设备回收废旧载具。</str>
-    <str key="1397291271-ucdt" type="ucdt" originalKey="1397291271">武器能够携带的最大火箭弹数量增加 15 发。</str>
-    <str key="1397319178-ucdt" type="ucdt" originalKey="1397319178">为你的护甲或载具添加贴花。仅限瓦努主权国使用。</str>
-    <str key="1397391815-ucdt" type="ucdt" originalKey="1397391815">M1 重型转轮机枪：奥星勋章</str>
-    <str key="1397403422-ucdt" type="ucdt" originalKey="1397403422">这款实验性激光武器除了能用持续火力撕碎敌人的装甲，还有一项有趣的副作用。持续射击约 6 发后会聚集残余的能量，并在停火时将其转化为一股毁灭性的冲击波。</str>
-    <str key="1397419951-ucdt" type="ucdt" originalKey="1397419951">重型纳能修复模块会牺牲 MAX 的机动性和装甲换取自动修复速率的提升</str>
-    <str key="1397456946-ugdt" type="ugdt" originalKey="1397456946">决裂者犰狳轮圈</str>
-    <str key="1397524514-ucdt" type="ucdt" originalKey="1397524514">占领控制点 A</str>
-    <str key="1397812356-ucdt" type="ucdt" originalKey="1397812356">“喷火”自动炮台小队观察奖励</str>
-    <str key="1398001692-ucdt" type="ucdt" originalKey="1398001692">附加的合成外饰能帮你的士兵改善形象。仅限新联邦使用。</str>
+  <str key="1396059332-ucdt" type="ucdt" originalKey="1396059332">欧夏尔北方舰队</str>
+  <str key="1396188592-ucdt" type="ucdt" originalKey="1396188592">地狱火火箭舱：金质勋章</str>
+  <str key="1396215208-ugdt" type="ugdt" originalKey="1396215208">海盗战机游隼装甲</str>
+  <str key="1396263070-ucdt" type="ucdt" originalKey="1396263070">地球共和国：徘徊者贴花</str>
+  <str key="1396270101-ucdt" type="ucdt" originalKey="1396270101">减小启动护盾时对速度的影响。</str>
+  <str key="1396287010-ugdt" type="ugdt" originalKey="1396287010">v0.6.3</str>
+  <str key="1396436451-ucdt" type="ucdt" originalKey="1396436451">东流港</str>
+  <str key="1396500407-ucdt" type="ucdt" originalKey="1396500407">获取“弄潮儿”前缀头衔。</str>
+  <str key="1396523541-ucdt" type="ucdt" originalKey="1396523541">双子座：金质勋章</str>
+  <str key="1396658150-ucdt" type="ucdt" originalKey="1396658150">立即领取！</str>
+  <str key="1396675070-ugdt" type="ugdt" originalKey="1396675070">农药喷洒驾驶舱</str>
+  <str key="1396819927-ucdt" type="ucdt" originalKey="1396819927">[*seconds*] 秒后方可再次部署命令。</str>
+  <str key="1396824200-ucdt" type="ucdt" originalKey="1396824200">破片手雷：银质勋章</str>
+  <str key="1396976442-ucdt" type="ucdt" originalKey="1396976442">在飞机附近放出长久持续的烟幕，干扰视线，并让载具无法被锁定，持续 8 秒。</str>
+  <str key="1396979949-ucdt" type="ucdt" originalKey="1396979949">四级复合装甲</str>
+  <str key="1397119710-ucdt" type="ucdt" originalKey="1397119710">前锋载具贴花</str>
+  <str key="1397196083-ucdt" type="ucdt" originalKey="1397196083">这把 SR-100 经过了改装，用于正在进行的光子推进实验。更重的弹头搭配试验微型引擎使其拥有了非常理想的远程杀伤能力。</str>
+  <str key="1397200590-ucdt" type="ucdt" originalKey="1397200590">在 VR 虚拟训练营内不能升级</str>
+  <str key="1397212106-ucdt" type="ucdt" originalKey="1397212106">使用中和器设备回收废旧载具。</str>
+  <str key="1397291271-ucdt" type="ucdt" originalKey="1397291271">武器能够携带的最大火箭弹数量增加 15 发。</str>
+  <str key="1397319178-ucdt" type="ucdt" originalKey="1397319178">为你的护甲或载具添加贴花。仅限瓦努主权国使用。</str>
+  <str key="1397391815-ucdt" type="ucdt" originalKey="1397391815">M1 重型转轮机枪：奥星勋章</str>
+  <str key="1397403422-ucdt" type="ucdt" originalKey="1397403422">这款实验性激光武器除了能用持续火力撕碎敌人的装甲，还有一项有趣的副作用。持续射击约 6 发后会聚集残余的能量，并在停火时将其转化为一股毁灭性的冲击波。</str>
+  <str key="1397419951-ucdt" type="ucdt" originalKey="1397419951">重型纳能修复模块会牺牲 MAX 的机动性和装甲换取自动修复速率的提升</str>
+  <str key="1397456946-ugdt" type="ugdt" originalKey="1397456946">决裂者犰狳轮圈</str>
+  <str key="1397524514-ucdt" type="ucdt" originalKey="1397524514">占领控制点 A</str>
+  <str key="1397812356-ucdt" type="ucdt" originalKey="1397812356">“喷火”自动炮台小队观察奖励</str>
+  <str key="1398001692-ucdt" type="ucdt" originalKey="1398001692">附加的合成外饰能帮你的士兵改善形象。仅限新联邦使用。</str>
+  <str key="1340528317-ugdt" type="ugdt" originalKey="1340528317">二级加固轰炸护盾</str>
 </root>
