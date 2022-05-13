@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <root>
   <str key="3864544131-ucdt" type="ucdt" originalKey="3864544131">[*faction*]占领了所有电力中心 +[*points*]战果！</str>
-  <str key="3864565971-ucdt" type="ucdt" originalKey="3864565971">从回收的决裂者、Galaxy或Valkyrie上获得重生经验值</str>
+  <str key="3864565971-ucdt" type="ucdt" originalKey="3864565971">从回收的决裂者、银河或女武神上获得重生经验值</str>
   <str key="3864749119-ugdt" type="ugdt" originalKey="3864749119">NSX-A 锹</str>
   <str key="3864778394-ucdt" type="ucdt" originalKey="3864778394">武器的装弹时间减少 0.2 秒。</str>
   <str key="3864850572-ucdt" type="ucdt" originalKey="3864850572">武器能够携带的最大炮弹数量增加 9 发。</str>
@@ -309,7 +309,7 @@
   <str key="3890817169-ucdt" type="ucdt" originalKey="3890817169">任务解锁：据点</str>
   <str key="3891040766-ucdt" type="ucdt" originalKey="3891040766">武器的装弹时间减少 0.3 秒。</str>
   <str key="3891155560-ugdt" type="ugdt" originalKey="3891155560">艾美瑞什森林- 一次性</str>
-  <str key="3891179190-ucdt" type="ucdt" originalKey="3891179190">控制领土、消灭敌人以封锁[#HOSSIN#]</str>
+  <str key="3891179190-ucdt" type="ucdt" originalKey="3891179190">控制领土、消灭敌人以封锁霍森</str>
   <str key="3891219325-ugdt" type="ugdt" originalKey="3891219325">突袭者毒液车架</str>
   <str key="3891239005-ucdt" type="ucdt" originalKey="3891239005">用 100 点&lt;font color="#4BBA59"&gt;奥能&lt;/font&gt;换取 10 点&lt;font color="#5CA8DD"&gt;合成源液&lt;/font&gt;。&lt;font color="#CC200D"&gt;&lt;br&gt;&lt;br&gt;使用军团武器库中的资源。&lt;/font&gt;</str>
   <str key="3891253465-ucdt" type="ucdt" originalKey="3891253465">突袭者把持者轮胎钉</str>
@@ -318,7 +318,7 @@
   <str key="3891686697-ucdt" type="ucdt" originalKey="3891686697">重武器类型</str>
   <str key="3891771189-ucdt" type="ucdt" originalKey="3891771189">遥控引爆</str>
   <str key="3891833143-ucdt" type="ucdt" originalKey="3891833143">NC6 高斯 SAW：银质勋章</str>
-  <str key="3891862691-ucdt" type="ucdt" originalKey="3891862691">回收的Vanguard</str>
+  <str key="3891862691-ucdt" type="ucdt" originalKey="3891862691">回收的先驱</str>
   <str key="3891940451-ucdt" type="ucdt" originalKey="3891940451">NS-10 轰天雷：金质勋章</str>
   <str key="3891942579-ucdt" type="ucdt" originalKey="3891942579">森林大地武器迷彩</str>
   <str key="3891952441-ucdt" type="ucdt" originalKey="3891952441">重型突击兵原型头盔</str>
@@ -433,7 +433,7 @@
   <str key="3900373110-ucdt" type="ucdt" originalKey="3900373110">开启后可以在 8 秒内干扰敌方的锁定以及已在追踪载具的导弹。每 27 秒可以启用一次。</str>
   <str key="3900460669-ucdt" type="ucdt" originalKey="3900460669">五级放射性尘埃硬化护板</str>
   <str key="3900674293-ucdt" type="ucdt" originalKey="3900674293">在你的载具上添加荆棘迷彩图案。仅限新联邦使用。</str>
-  <str key="3900708386-ucdt" type="ucdt" originalKey="3900708386">[#INFILTRATOR#]可以通过隐身来融入周围的环境，变得近乎隐形。隐身通过&lt;b&gt;能力&lt;/b&gt;键来切换。 隐身效果在静止时效果更佳，尤其以蹲下时最有效。被黑光手电筒（许多武器都会配备的常用附件）照到时，隐身将会失效。与其他步兵单位相比，[#INFILTRATOR#]的护盾耐久度略有下降。</str>
+  <str key="3900708386-ucdt" type="ucdt" originalKey="3900708386">渗透者可以通过隐身来融入周围的环境，变得近乎隐形。隐身通过&lt;b&gt;能力&lt;/b&gt;键来切换。 隐身效果在静止时效果更佳，尤其以蹲下时最有效。被黑光手电筒（许多武器都会配备的常用附件）照到时，隐身将会失效。与其他步兵单位相比，渗透者的护盾耐久度略有下降。</str>
   <str key="3900844831-ucdt" type="ucdt" originalKey="3900844831">&lt;font color="#00FFAA"&gt;福斯特：&lt;/font&gt;那架无人机完蛋了，但是等到伊萨米尔上的战况稍稍平息，我们应该就可以派一支队伍去回收它。</str>
   <str key="3901169070-ugdt" type="ugdt" originalKey="3901169070">Vanish Device 1 (13504) (勿翻译)</str>
   <str key="3901248409-ucdt" type="ucdt" originalKey="3901248409">T1S 转轮枪：奥星勋章</str>
@@ -724,7 +724,7 @@
   <str key="3923880377-ucdt" type="ucdt" originalKey="3923880377">武器的装弹时间减少 11.25%</str>
   <str key="3924001850-ucdt" type="ucdt" originalKey="3924001850">三级装弹速度</str>
   <str key="3924641928-ucdt" type="ucdt" originalKey="3924641928">医疗注射器和恢复注射器能在你附近没有战斗医疗兵的时候为你提供治疗。</str>
-  <str key="3924666825-ucdt" type="ucdt" originalKey="3924666825">[#SUNDERER#]是一种部队运输工具，可以部署为盟友的重生点。</str>
+  <str key="3924666825-ucdt" type="ucdt" originalKey="3924666825">决裂者是一种部队运输工具，可以部署为盟友的重生点。</str>
   <str key="3924681146-ucdt" type="ucdt" originalKey="3924681146">当你正驾驶载具，且仍有空闲座位时，你的小队成员能直接重生到这台载具里。&lt;font color="#dc9c36"&gt; 驾驶堡垒舰队航母时无法生效。&lt;/font&gt;</str>
   <str key="3924801751-ugdt" type="ugdt" originalKey="3924801751">绿色前灯</str>
   <str key="3924872162-ucdt" type="ucdt" originalKey="3924872162">减少载具的获取时间间隔。</str>
@@ -774,7 +774,7 @@
   <str key="3927995536-ucdt" type="ucdt" originalKey="3927995536">新联邦渗透者狙击步枪分组</str>
   <str key="3928112945-ucdt" type="ucdt" originalKey="3928112945">继续行动</str>
   <str key="3928117252-ucdt" type="ucdt" originalKey="3928117252">三级装弹速度</str>
-  <str key="3928152387-ucdt" type="ucdt" originalKey="3928152387">[#INDAR#]征服</str>
+  <str key="3928152387-ucdt" type="ucdt" originalKey="3928152387">因达尔征服</str>
   <str key="3928363172-ucdt" type="ucdt" originalKey="3928363172">封闭空间是手雷和各种爆炸物的绝佳目标。千万小心！</str>
   <str key="3928369198-ucdt" type="ucdt" originalKey="3928369198">为你的角色应用老谋深算语音包。仅限瓦努主权国女性角色使用。 </str>
   <str key="3928428989-ucdt" type="ucdt" originalKey="3928428989">奥星圣诞节：艾拉</str>
@@ -967,7 +967,7 @@
   <str key="3944263299-ugdt" type="ugdt" originalKey="3944263299">重生控制单元房间防护力场发电机</str>
   <str key="3944289990-ucdt" type="ucdt" originalKey="3944289990">自动刀：奥星勋章</str>
   <str key="3944316161-ucdt" type="ucdt" originalKey="3944316161">武器的装弹时间减少 6.25%</str>
-  <str key="3944402004-ucdt" type="ucdt" originalKey="3944402004">[#ASSAULT_RIFLE#]是[#COMBAT_MEDIC#]特有的武器，也是最通用的武器之一。他们还可以使用霰弹枪、冲锋枪和侦察步枪。</str>
+  <str key="3944402004-ucdt" type="ucdt" originalKey="3944402004">突击步枪是战斗医疗兵特有的武器，也是最通用的武器之一。他们还可以使用霰弹枪、冲锋枪和侦察步枪。</str>
   <str key="3944489698-ucdn" type="ucdn" originalKey="3944489698">Mission Area Waypoint - 235m radius</str>
   <str key="3944493522-ucdt" type="ucdt" originalKey="3944493522">超新星-R PC 等离子炮：奥星勋章</str>
   <str key="3944581192-ucdt" type="ucdt" originalKey="3944581192">生物实验室 II 背景横幅</str>
