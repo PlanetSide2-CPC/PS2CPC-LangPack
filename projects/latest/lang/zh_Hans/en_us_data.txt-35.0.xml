@@ -9,7 +9,7 @@
   <str key="2879342736-ucdt" type="ucdt" originalKey="2879342736">将决裂者的闲置时间延长至 18 分钟。</str>
   <str key="2879354939-ugdt" type="ugdt" originalKey="2879354939">FACS Turtika 载具贴花</str>
   <str key="2879393829-ucdt" type="ucdt" originalKey="2879393829">军团武器库中新增了#count([*asset*])。</str>
-  <str key="2879485177-ucdt" type="ucdt" originalKey="2879485177">提升Galaxy的峰值速度和加速度。</str>
+  <str key="2879485177-ucdt" type="ucdt" originalKey="2879485177">提升银河的峰值速度和加速度。</str>
   <str key="2879498464-ucdt" type="ucdt" originalKey="2879498464">VX31 黑夜女神：金质勋章</str>
   <str key="2879507203-ucdt" type="ucdt" originalKey="2879507203">二级手雷挂袋</str>
   <str key="2879569761-ucdt" type="ucdt" originalKey="2879569761">敌方锁定此载具所需的时间增加 0.5 秒，敌方小地图自动侦测到此载具的距离缩短到 116 米，被敌人接敌雷达侦测到的距离缩短 200 米。
@@ -58,7 +58,7 @@
   <str key="2882842943-ucdt" type="ucdt" originalKey="2882842943">消息已经传送到该载具上。你之前的载具无法再用来完成任务。</str>
   <str key="2882966818-ucdt" type="ucdt" originalKey="2882966818">NC1 高斯步枪：奥星勋章</str>
   <str key="2883058956-ucdt" type="ucdt" originalKey="2883058956">用副武器击杀敌方玩家。</str>
-  <str key="2883065716-ucdt" type="ucdt" originalKey="2883065716">[#INFILTRATOR#]是一种侦察单位，拥有短暂隐身的能力。他们可以使用报点工具，还可以入侵敌人的终端，供你的[#EMPIRE#]使用。</str>
+  <str key="2883065716-ucdt" type="ucdt" originalKey="2883065716">渗透者是一种侦察单位，拥有短暂隐身的能力。他们可以使用报点工具，还可以入侵敌人的终端，供你的阵营使用。</str>
   <str key="2883109713-ucdt" type="ucdt" originalKey="2883109713">参与守卫友军要塞。</str>
   <str key="2883204483-ucdt" type="ucdt" originalKey="2883204483">个人获得的纳能增加 50%。</str>
   <str key="2883430781-ucdt" type="ucdt" originalKey="2883430781">机器人技师 3</str>
@@ -131,7 +131,7 @@
   <str key="2889465485-ucdt" type="ucdt" originalKey="2889465485">背包</str>
   <str key="2889563820-ucdt" type="ucdt" originalKey="2889563820">这个弹射跳板可以帮助你在要塞附近快速移动。有阵营颜色的弹射跳板只能供当前控制该要塞的阵营使用。</str>
   <str key="2889582296-ucdt" type="ucdt" originalKey="2889582296">没人出现加入车队。我们将很快再试一次。</str>
-  <str key="2889584633-ucdt" type="ucdt" originalKey="2889584633">无法访问。需要Combat Medic职业。</str>
+  <str key="2889584633-ucdt" type="ucdt" originalKey="2889584633">无法访问。需要战斗医疗兵职业。</str>
   <str key="2889594669-ucdt" type="ucdt" originalKey="2889594669">测试方阵火力</str>
   <str key="2889625814-ucdt" type="ucdt" originalKey="2889625814">一次性城市森林迷彩</str>
   <str key="2889628827-ucdt" type="ucdt" originalKey="2889628827">NS-10 轰天雷（左手） - 未使用</str>
@@ -285,7 +285,7 @@
   <str key="2900956125-ucdt" type="ucdt" originalKey="2900956125">敏捷护盾 2</str>
   <str key="2900990328-ucdt" type="ucdt" originalKey="2900990328">M20 蛇蜥：奥星勋章</str>
   <str key="2901008525-ucdt" type="ucdt" originalKey="2901008525">等离子手雷</str>
-  <str key="2901089091-ucdt" type="ucdt" originalKey="2901089091">使用折跃门终端前往[#AURAXIS#]</str>
+  <str key="2901089091-ucdt" type="ucdt" originalKey="2901089091">使用折跃门终端前往奥拉西斯</str>
   <str key="2901109668-ucdt" type="ucdt" originalKey="2901109668">在你的载具上添加重金属迷彩图案。仅限瓦努主权国使用。</str>
   <str key="2901133467-ucdt" type="ucdt" originalKey="2901133467">步兵生命恢复</str>
   <str key="2901143167-ucdt" type="ucdt" originalKey="2901143167">9 号装备栏</str>
@@ -360,7 +360,7 @@
   <str key="2905758211-ugdt" type="ugdt" originalKey="2905758211">六级备弹数量</str>
   <str key="2905774609-ucdt" type="ucdt" originalKey="2905774609">正面防护力场-赫尔茨</str>
   <str key="2905784612-ucdt" type="ucdt" originalKey="2905784612">调节 I</str>
-  <str key="2905933600-ucdt" type="ucdt" originalKey="2905933600">[#Engineer#][#CLASS#]</str>
+  <str key="2905933600-ucdt" type="ucdt" originalKey="2905933600">工程兵职业</str>
   <str key="2905941586-ugdt" type="ugdt" originalKey="2905941586">徘徊者雪貂 V 型外饰</str>
   <str key="2905967616-ucdt" type="ucdt" originalKey="2905967616">附带的处理器可以增加近战伤害，并提高战斗技巧</str>
   <str key="2905990279-ucdt" type="ucdt" originalKey="2905990279">突袭者眩目轮毂罩</str>
@@ -610,7 +610,7 @@
   <str key="2924406439-ucdt" type="ucdt" originalKey="2924406439">武器能够携带的最大弹药数量增加 15 发。</str>
   <str key="2924434031-ucdt" type="ucdt" originalKey="2924434031">为你的角色应用守望哨兵语音包。仅限瓦努主权国女性角色使用。</str>
   <str key="2924498964-ucdt" type="ucdt" originalKey="2924498964">精英小队领袖</str>
-  <str key="2924541954-ucdt" type="ucdt" originalKey="2924541954">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;很好，我去附近的载具终端里搞了一辆新的Harasser，然后略施小计，把我们的奖品放在了这辆载具里了。位置都给你标记出来了。</str>
+  <str key="2924541954-ucdt" type="ucdt" originalKey="2924541954">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;很好，我去附近的载具终端里搞了一辆新的突袭者，然后略施小计，把我们的奖品放在了这辆载具里了。位置都给你标记出来了。</str>
   <str key="2924791967-ucdt" type="ucdt" originalKey="2924791967">一级安全降落</str>
   <str key="2924887318-ucdt" type="ucdt" originalKey="2924887318">在你的载具上添加荆棘迷彩图案。仅限地球共和国使用。</str>
   <str key="2924897831-ucdt" type="ucdt" originalKey="2924897831">TR渗透者金色汪达尔描述</str>
@@ -877,7 +877,7 @@
   <str key="2943772770-ucdt" type="ucdt" originalKey="2943772770">红雾装甲贴花</str>
   <str key="2943835778-ucdt" type="ucdt" originalKey="2943835778">爆破</str>
   <str key="2943857189-ucdt" type="ucdt" originalKey="2943857189">扭曲渗透者周围的光线，在静止时几乎能实现完全隐形。隐形持续 12 秒，完全恢复需要 11 秒。</str>
-  <str key="2943912302-ugdt" type="ugdt" originalKey="2943912302">Gold Robgoblin 车标</str>
+  <str key="2943912302-ugdt" type="ugdt" originalKey="2943912302">金色地精车标</str>
   <str key="2943934979-ucdt" type="ucdt" originalKey="2943934979">将氪金存入一个友军筒仓。</str>
   <str key="2943993626-ucdt" type="ucdt" originalKey="2943993626">地球共和国医疗兵职业装甲描述</str>
   <str key="2944116519-ucdt" type="ucdt" originalKey="2944116519">M20 “蛇蜥”是一款低射速的 20 毫米重机枪，对任何类型目标都有着不错的杀伤效果，近距离战斗中效果更好。所有阵营均可使用此武器。</str>
@@ -1004,6 +1004,6 @@
   <str key="2948937538-ugdt" type="ugdt" originalKey="2948937538">THM-1</str>
   <str key="2885623782-ugdt" type="ugdt" originalKey="2885623782">任务解锁：遭遇奇袭</str>
   <str key="2886959799-ucdt" type="ucdt" originalKey="2886959799">Fx 目标</str>
-  <str key="2890555111-ugdt" type="ugdt" originalKey="2890555111">Liberator俯冲喇叭</str>
+  <str key="2890555111-ugdt" type="ugdt" originalKey="2890555111">解放者俯冲喇叭</str>
   <str key="2944409890-ucdt" type="ucdt" originalKey="2944409890">例子任务</str>
 </root>
