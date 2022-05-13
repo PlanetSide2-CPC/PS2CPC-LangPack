@@ -112,7 +112,7 @@
   <str key="2395338608-ucdt" type="ucdt" originalKey="2395338608">重型突击兵是最适合用来对付敌方载具的职业。</str>
   <str key="2395344423-ucdt" type="ucdt" originalKey="2395344423">瓦努主权国：个性化 - 十字线促销</str>
   <str key="2395344908-ucdt" type="ucdt" originalKey="2395344908">启动后可以短时间大幅度提升速度，可以用来发动攻击，或者迅速跑回掩体。</str>
-  <str key="2395383436-ucdt" type="ucdt" originalKey="2395383436">轻机枪、[#ANTI_VEHICLE#]火箭发射器和专门的重型武器是[#HEAVY_ASSAULT#]独有的武器。他们还可以使用霰弹枪、冲锋枪和侦察步枪。</str>
+  <str key="2395383436-ucdt" type="ucdt" originalKey="2395383436">轻机枪、反载具火箭发射器和专门的重型武器是重型突击兵独有的武器。他们还可以使用霰弹枪、冲锋枪和侦察步枪。</str>
   <str key="2395506023-ucdt" type="ucdt" originalKey="2395506023">伊萨米尔风雪迷彩</str>
   <str key="2395520250-ucdt" type="ucdt" originalKey="2395520250">为你的载具添加飞天颅骨贴花。</str>
   <str key="2395546844-ucdt" type="ucdt" originalKey="2395546844">用这款时尚的铬色虎翼来个性化你的飞机。仅限地球共和国使用。</str>
@@ -370,7 +370,7 @@
   <str key="2416268338-ucdt" type="ucdt" originalKey="2416268338">测试炮台 2 - 伊斯塔布电力中心</str>
   <str key="2416303744-ucdt" type="ucdt" originalKey="2416303744">T6 紧凑型型转轮枪的设计思路是削减转轮枪的尺寸，以适合近距离战斗。这款枪型减小了 T5 转轮枪的体积，在更近的距离上会有上佳表现。</str>
   <str key="2416446418-ucdt" type="ucdt" originalKey="2416446418">服务器锁定状态读取中……</str>
-  <str key="2416497105-ucdt" type="ucdt" originalKey="2416497105">你成功地守卫了[#OUTPOST#]。现在重新打开地图，计划下一步行动。</str>
+  <str key="2416497105-ucdt" type="ucdt" originalKey="2416497105">你成功地守卫了基地。现在重新打开地图，计划下一步行动。</str>
   <str key="2416718325-ucdt" type="ucdt" originalKey="2416718325">任何接受纳能科技集团每日任务的玩家都属于高价值纳能科技集团特工。</str>
   <str key="2416763384-ucdt" type="ucdt" originalKey="2416763384">使用折跃门终端</str>
   <str key="2416840260-ucdt" type="ucdt" originalKey="2416840260">行星边际战斗头衔</str>
@@ -563,7 +563,7 @@
   <str key="2433263651-ucdt" type="ucdt" originalKey="2433263651">轻型突击兵圣徒颅骨头盔</str>
   <str key="2433407154-ucdt" type="ucdt" originalKey="2433407154">武器能够携带的最大榴弹数量增加 40 发。</str>
   <str key="2434121432-ucdt" type="ucdt" originalKey="2434121432">[*target*]加入了军团。</str>
-  <str key="2434124726-ugdt" type="ugdt" originalKey="2434124726">NC Engineer Shield 2 占坑</str>
+  <str key="2434124726-ugdt" type="ugdt" originalKey="2434124726">NC 工程兵 Shield 2 占坑</str>
   <str key="2434304916-ugdt" type="ugdt" originalKey="2434304916">五级紧急维修</str>
   <str key="2434432579-ucdt" type="ucdt" originalKey="2434432579">G30 漫步者：奥星勋章</str>
   <str key="2434480252-ucdt" type="ucdt" originalKey="2434480252">高速底盘</str>
@@ -600,7 +600,7 @@
   <str key="2438267849-ucdt" type="ucdt" originalKey="2438267849">武器能够携带的最大弹药数量增加 250 发。</str>
   <str key="2438365946-ucdt" type="ucdt" originalKey="2438365946">一次性干旱森林武器迷彩</str>
   <str key="2438394303-ucdt" type="ucdt" originalKey="2438394303">埃里森林关卡</str>
-  <str key="2438594131-ucdt" type="ucdt" originalKey="2438594131">找到载具旁边的装备终端，并切换至[#HEAVY_ASSAULT#]。</str>
+  <str key="2438594131-ucdt" type="ucdt" originalKey="2438594131">找到载具旁边的装备终端，并切换至重型突击兵。</str>
   <str key="2438609549-ucdt" type="ucdt" originalKey="2438609549">武器能够携带的最大弹药数量增加 12 发。</str>
   <str key="2438845937-ucdt" type="ucdt" originalKey="2438845937">个性化你的地面载具，加装 1 级车标。仅限新联邦使用。</str>
   <str key="2438883097-ugdt" type="ugdt" originalKey="2438883097">五级反应夹克</str>
@@ -860,7 +860,7 @@
   <str key="2460190684-ucdt" type="ucdt" originalKey="2460190684">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;告诉你吧，这些密码可了不得。你无法将它们带往异星，因为如果它们不在折跃门的范围内的话，它们的共振频率就会导致它们损坏。</str>
   <str key="2460224775-ucdt" type="ucdt" originalKey="2460224775">壁垒</str>
   <str key="2460434371-ucdt" type="ucdt" originalKey="2460434371">西装小队载具贴花</str>
-  <str key="2460462925-ucdt" type="ucdt" originalKey="2460462925">[#MOSQUITO#]黑色航迹云</str>
+  <str key="2460462925-ucdt" type="ucdt" originalKey="2460462925">蚊式战机黑色航迹云</str>
   <str key="2460558828-ucdt" type="ucdt" originalKey="2460558828">大河之舞迷彩</str>
   <str key="2460579816-ucdt" type="ucdt" originalKey="2460579816">进一步提升徘徊者的转向速度、倒车速度及制动力。</str>
   <str key="2460735050-ucdt" type="ucdt" originalKey="2460735050">地球共和国爱国者烟花枪 绶带</str>
@@ -908,7 +908,7 @@
   <str key="2464295495-ucdt" type="ucdt" originalKey="2464295495">由于敌军一直在攻击我们的前沿基地，我们的部队急需弹药。 我们正在召集所有银河飞行员，装备完毕后飞往争夺区域为我们的前线进行补给。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;需要装备了载具弹药补给器的银河。&lt;/font&gt;</str>
   <str key="2464448189-ucdt" type="ucdt" originalKey="2464448189">武器的装弹时间减少 0.15 秒。</str>
   <str key="2464482639-ucdt" type="ucdt" originalKey="2464482639">Rocket Launcher lock-on Speed 2 描述火箭筒描述</str>
-  <str key="2464538244-ucdt" type="ucdt" originalKey="2464538244">尽管在这场战争中伤亡无数，我们将不屈不挠。我们的重生矩阵确保死亡只是短短一瞬。接受挑战，让[#AURAXIS#]这片大地获得自由，并将我们从暴政中解放出来。</str>
+  <str key="2464538244-ucdt" type="ucdt" originalKey="2464538244">尽管在这场战争中伤亡无数，我们将不屈不挠。我们的重生矩阵确保死亡只是短短一瞬。接受挑战，让奥拉西斯这片大地获得自由，并将我们从暴政中解放出来。</str>
   <str key="2464714868-ucdt" type="ucdt" originalKey="2464714868">这些误入歧途的人称他们自己为&lt;font color="#79A5FF"&gt;新联邦&lt;/font&gt;。瓦努的启蒙本应造福全人类，但他们被贪婪蒙蔽了双眼，将个人利益置于人类社会的共同利益之上，将那些帮助他们的心意践踏在脚下。</str>
   <str key="2464761528-ucdt" type="ucdt" originalKey="2464761528">印第安灌木</str>
   <str key="2464878203-ucdt" type="ucdt" originalKey="2464878203">镰刀战机南河三刀锋</str>
