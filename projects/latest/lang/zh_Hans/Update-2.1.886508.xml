@@ -55,7 +55,7 @@
   <str key="139217046-ugdt" type="ugdt" originalKey="139217046">V42 弃民-C</str>
   <str key="143444584-ucdt" type="ucdt" originalKey="143444584">喷火/工程兵炮台</str>
   <str key="161353871-ucdt" type="ucdt" originalKey="161353871">FL-34 声称这是限量版惩罚者的复制品，而原件在拍卖过程中于纳能科技集团的陈列室中被盗。除了外表美观之外，没有其它特殊功能。所有阵营均可使用纳能集团武器。</str>
-  <str key="169736782-ucdt" type="ucdt" originalKey="169736782">允许小队成员直接在载具中重生，并被动向附近友军报告载具周围 120 米范围内敌人的动向。</str>
+  <str key="169736782-ucdt" type="ucdt" originalKey="169736782">被动向附近友军报告载具周围 120 米范围内敌人的动向，并将自动侦测到该载具的范围减小至 75 米。</str>
   <str key="169919082-ucdt" type="ucdt" originalKey="169919082">N30 拖网船-S：金质勋章</str>
   <str key="174753010-ucdt" type="ucdt" originalKey="174753010">残损助攻：镰刀战机</str>
   <str key="175574243-ucdt" type="ucdt" originalKey="175574243">火花是一种轻型四轮全地形载具，能将驾驶员和乘员快速运往前线。后座上的乘员可以使用自己的绝大部分单兵装备。&lt;br&gt;&lt;br&gt;阵营：通用&lt;br&gt;体积：小型&lt;br&gt;类别：运输&lt;br&gt;移动方式：轮式</str>
@@ -195,7 +195,7 @@
   <str key="650126753-ucdt" type="ucdt" originalKey="650126753">UBP-1 “钢铁”海星</str>
   <str key="652355299-ugdt" type="ugdt" originalKey="652355299">A2-20 HCG</str>
   <str key="652462397-ucdt" type="ucdt" originalKey="652462397">改变载具的航迹云，留下一道羽毛尾迹。仅限地球共和国使用。</str>
-  <str key="653264364-ucdt" type="ucdt" originalKey="653264364">控制底盘</str>
+  <str key="653264364-ucdt" type="ucdt" originalKey="653264364">侦察底盘</str>
   <str key="654383318-ugdt" type="ugdt" originalKey="654383318">毫厘-12（12 倍）</str>
   <str key="658955363-ucdt" type="ucdt" originalKey="658955363">N30 拖网船-S：银质勋章</str>
   <str key="660377668-ucdn" type="ucdn" originalKey="660377668"/>
@@ -265,7 +265,7 @@
   <str key="870157903-ucdt" type="ucdt" originalKey="870157903">改变苦行僧的航迹云，留下一道红、白、蓝三色星条旗尾迹。仅限纳能特工使用。</str>
   <str key="871052343-ucdn" type="ucdn" originalKey="871052343"/>
   <str key="882088595-ucdt" type="ucdt" originalKey="882088595">开启后 5 秒内可以修复载具 15% 的耐久。如果启用此装置时载具已经着火，可以立即扑灭火焰。每 55 秒可以启用一次。</str>
-  <str key="882183832-ucdt" type="ucdt" originalKey="882183832">II 型水下推进器</str>
+  <str key="882183832-ucdt" type="ucdt" originalKey="882183832">潜水员推进器 2级</str>
   <str key="882611735-ucdt" type="ucdt" originalKey="882611735">震撼地雷</str>
   <str key="882655711-ucdn" type="ucdn" originalKey="882655711"/>
   <str key="883562834-ucdt" type="ucdt" originalKey="883562834">Corsair镀金驾驶舱</str>
@@ -291,7 +291,7 @@
   <str key="930577936-ucdt" type="ucdt" originalKey="930577936">侦察无人机</str>
   <str key="933984283-ucdt" type="ucdt" originalKey="933984283">退出游戏</str>
   <str key="937575942-ucdt" type="ucdt" originalKey="937575942">V42 弃民：铜质勋章</str>
-  <str key="938441279-ucdt" type="ucdt" originalKey="938441279">IV 型水下推进器</str>
+  <str key="938441279-ucdt" type="ucdt" originalKey="938441279">潜水员推进器 4级</str>
   <str key="939884194-ucdt" type="ucdt" originalKey="939884194">移相器 1.6（6 倍）</str>
   <str key="941062320-ucdn" type="ucdn" originalKey="941062320"/>
   <str key="942846917-ugdt" type="ugdt" originalKey="942846917">罗马军团少校头盔</str>
@@ -580,7 +580,7 @@
   <str key="1838263716-ugdt" type="ugdt" originalKey="1838263716">运送者模块 3级</str>
   <str key="1840524183-ucdt" type="ucdt" originalKey="1840524183">重型突击兵罗马军团装甲</str>
   <str key="1847969226-ugdt" type="ugdt" originalKey="1847969226">V42 弃民-H</str>
-  <str key="1858020651-ucdt" type="ucdt" originalKey="1858020651">水下推进器允许使用者在海底加速滑行，持续最多14秒。</str>
+  <str key="1858020651-ucdt" type="ucdt" originalKey="1858020651">潜水员推进器允许使用者在海底加速滑行，持续最多 14 秒。</str>
   <str key="1860256963-ucdn" type="ucdn" originalKey="1860256963"/>
   <str key="1869542718-ugdt" type="ugdt" originalKey="1869542718">VX4-3 切分仪</str>
   <str key="1873300050-ucdt" type="ucdt" originalKey="1873300050">V42 Pariah-C [顶部]</str>
@@ -675,7 +675,7 @@
   <str key="2230303274-ugdt" type="ugdt" originalKey="2230303274">PIN-6（6 倍）</str>
   <str key="2236301468-ucdt" type="ucdt" originalKey="2236301468">发挥你的幽默感</str>
   <str key="2238786353-ucdt" type="ucdt" originalKey="2238786353">震撼地雷</str>
-  <str key="2240066849-ucdt" type="ucdt" originalKey="2240066849">III 型水下推进器</str>
+  <str key="2240066849-ucdt" type="ucdt" originalKey="2240066849">潜水员推进器 3级</str>
   <str key="2242364400-ucdt" type="ucdt" originalKey="2242364400">突袭者两栖作战外饰</str>
   <str key="2243873986-ugdt" type="ugdt" originalKey="2243873986">头衔：德鲁伊</str>
   <str key="2250901716-ucdt" type="ucdt" originalKey="2250901716">改变银河的航迹云，留下一道红、白、蓝三色星条旗尾迹。所有阵营均可使用该装备。</str>
@@ -792,7 +792,7 @@
   <str key="2700338595-ucdt" type="ucdt" originalKey="2700338595">侦测到敌军的移动后爆炸，释放出一阵眩光，暂时模糊敌人的视野并扰乱其运动操控。</str>
   <str key="2700496527-ucdt" type="ucdt" originalKey="2700496527">武器能够携带的最大弹药数量增加 260 发。</str>
   <str key="2701243868-ucdt" type="ucdt" originalKey="2701243868">A2-20 HCG</str>
-  <str key="2702733472-ucdt" type="ucdt" originalKey="2702733472">水下推进器</str>
+  <str key="2702733472-ucdt" type="ucdt" originalKey="2702733472">潜水员推进器</str>
   <str key="2702792279-ucdt" type="ucdt" originalKey="2702792279">5 月 20 日起，我们将庆祝始于 2003 年的行星边际》系列的 19 周年。&lt;br&gt;&lt;br&gt;+新的阵营专属&lt;font size="28" color="#ACE1E5"&gt;反器材步枪&lt;/font&gt;&lt;br&gt;+&lt;font size="28" color="#ACE1E5"&gt;自定义界面指示器&lt;/font&gt;已加入设定菜单&lt;br&gt;+新的&lt;font size="28" color="#ACE1E5"&gt;《行星边际》传奇礼包&lt;/font&gt;内含“尖端”突击步枪改款、完美插件，空投舱皮肤以及更多精彩内容&lt;br&gt;+新的&lt;font size="28" color="#ACE1E5"&gt;非凡 VI&lt;/font&gt;成就&lt;br&gt;+限时物品在活动期间重新上架&lt;font size="28" color="#ACE1E5"&gt;商城&lt;/font&gt;</str>
   <str key="2704190856-ucdt" type="ucdt" originalKey="2704190856">什么是警报？</str>
   <str key="2705292929-ucdt" type="ucdt" originalKey="2705292929">按[%s]键查看军团合同</str>
@@ -823,7 +823,7 @@
   <str key="2737489321-ugdt" type="ugdt" originalKey="2737489321">火花丹尼男孩喇叭</str>
   <str key="2741982386-ucdt" type="ucdt" originalKey="2741982386">苦行僧丹尼男孩喇叭</str>
   <str key="2742410013-ucdt" type="ucdt" originalKey="2742410013">互动提示</str>
-  <str key="2744409657-ucdt" type="ucdt" originalKey="2744409657">水下推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;战术插槽物品。在水下切换出后点击跳跃即可使用。在水下切换出推进器会使轻型突击兵喷气背包无法使用。&lt;/font&gt;</str>
+  <str key="2744409657-ucdt" type="ucdt" originalKey="2744409657">潜水员推进器允许使用者在海底加速滑行。&lt;font color="#dc9c36"&gt;在水下切换出后点击跳跃即可使用。轻型突击兵无法使用该装备。&lt;/font&gt;</str>
   <str key="2744692597-ucdt" type="ucdt" originalKey="2744692597">为私掠者解锁永久被动证书。</str>
   <str key="2744791292-ucdt" type="ucdt" originalKey="2744791292">渗透者是一个侦察单位，具有短时隐身能力，并配备侦察工具，可以破解敌方终端和设备，使其为你的阵营所用。与其他步兵单位相比，渗透者的护盾容量稍小。&lt;br&gt;&lt;br&gt;武器：&lt;br&gt;&lt;ul&gt;&lt;li&gt;狙击步枪&lt;/li&gt;&lt;li&gt;侦察步枪&lt;/li&gt;&lt;li&gt;两栖步枪&lt;/li&gt;&lt;li&gt;冲锋枪&lt;/li&gt;&lt;li&gt;重弩&lt;/li&gt;&lt;br&gt;技能：&lt;br&gt;&lt;ul&gt;&lt;li&gt;隐身——激活后，渗透者可以融入周遭的环境之中，几乎不可见。静止不动时的隐身效果会更好，而蹲伏时则能使隐身技能发挥最大作用。使用暗光战术手电可发现隐身的目标（许多武器上都可选此配件）。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;工具：&lt;br&gt;&lt;ul&gt;&lt;li&gt;侦察探测装置（默认）——发射一枚探测镖，每数秒检测一次位置附近快速移动的敌人，包括隐身的渗透者。等级越高，扫描的速率越快，范围越广，且探测镖的持续时间越长。&lt;/li&gt;&lt;li&gt;监视传感器——部署后可定期向全体队友分享附近敌人的位置信息，并向渗透者提供实时位置更新。等级越高，探测范围越广，更新频率越高，传感器存在的时间越长，可携带的数量也越多。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;提示：&lt;br&gt;&lt;ul&gt;&lt;li&gt;在敌人可能接近的地方放置动向侦测器或侦察探针，并从工程师的弹药包中补充侦察设备以增加作战时间。&lt;/li&gt;&lt;li&gt;在隐身状态下，你并非完全不可见，善于观察的玩家会发现你的身影，尤其是当距离较近和你在移动时。&lt;/li&gt;&lt;/ul&gt;</str>
   <str key="2746623928-ucdt" type="ucdt" originalKey="2746623928">钓鱼去</str>
@@ -1129,7 +1129,7 @@
   <str key="3754794816-ucdt" type="ucdt" originalKey="3754794816">震撼地雷</str>
   <str key="3757778287-ucdt" type="ucdt" originalKey="3757778287">确定登出或退出游戏吗？</str>
   <str key="3758677336-ucdt" type="ucdt" originalKey="3758677336">你的军团正处于自由职业状态。处于自由职业状态时，你的军团不可招募其他的成员。你的成员将始终被指派至大陆中人数最少的阵营。当你处于自由职业状态时，若被指派至敌对阵营，则军团内通讯和其他相关功能都将被禁用。</str>
-  <str key="3761946151-ucdt" type="ucdt" originalKey="3761946151">V 型水下推进器</str>
+  <str key="3761946151-ucdt" type="ucdt" originalKey="3761946151">潜水员推进器 5级</str>
   <str key="3762282099-ucdt" type="ucdt" originalKey="3762282099">震撼地雷</str>
   <str key="3765222625-ucdt" type="ucdt" originalKey="3765222625">V42 弃民-H：奥星勋章</str>
   <str key="3765944946-ucdt" type="ucdt" originalKey="3765944946">解放者粉色后燃器</str>
@@ -1216,7 +1216,7 @@
   <str key="4106821351-ucdt" type="ucdt" originalKey="4106821351">异常点收集</str>
   <str key="4107777662-ucdt" type="ucdt" originalKey="4107777662">方阵炮台是奥拉西斯各大要塞中十分常见的固定基地防御设施，可提供火力支援抵御来自敌方的各类威胁。&lt;br&gt;&lt;br&gt;方阵炮台可分为三种类型：&lt;ul&gt;&lt;li&gt;长枪——一种反载具火炮&lt;/li&gt;&lt;li&gt;宙斯盾——一种防空高射炮&lt;/li&gt;&lt;li&gt;双刃剑——一种反步兵转管机枪&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;所有方阵炮台都会使用过热式供弹，而非传统的以发计数。&lt;br&gt;&lt;br&gt;通常而言，只有拥有该基地的阵营才能使用其方阵炮台，但渗透者可以破解炮台，使其临时转为渗透者的阵营，直到炮台被摧毁或要塞的所有权变更。</str>
   <str key="4109904281-ugdt" type="ugdt" originalKey="4109904281">LA60 桅灯</str>
-  <str key="4124855616-ucdt" type="ucdt" originalKey="4124855616">I 型水下推进器</str>
+  <str key="4124855616-ucdt" type="ucdt" originalKey="4124855616">潜水员推进器 1级</str>
   <str key="4126239099-ucdt" type="ucdt" originalKey="4126239099">弄臣礼包</str>
   <str key="4126911831-ucdt" type="ucdt" originalKey="4126911831">拖网船是一款 30 毫米口径的低射速重机枪，可有效杀伤装甲、飞行单位和步兵有目标。仅限新联邦使用。</str>
   <str key="4128207200-ucdt" type="ucdt" originalKey="4128207200">震撼地雷的携带量增加 1 枚。</str>
@@ -1275,4 +1275,27 @@
   <str key="2953415046-ucdt" type="ucdt" originalKey="2953415046">红外箔条 2级</str>
   <str key="386098309-ugdt" type="ugdt" originalKey="386098309">红外箔条 3级</str>
   <str key="1868326914-ugdt" type="ugdt" originalKey="1868326914">红外箔条 4级</str>
+  <str key="102201498-ucdt" type="ucdt" originalKey="102201498">海浪和风暴</str>
+  <str key="111487346-ucdt" type="ucdt" originalKey="111487346">弹匣容量</str>
+  <str key="157619884-ucdt" type="ucdt" originalKey="157619884">海哨 G11 - 珊瑚礁</str>
+  <str key="214088279-ucdt" type="ucdt" originalKey="214088279">海哨 I11 - 乱石</str>
+  <str key="377978810-ugdt" type="ugdt" originalKey="377978810">潜水员推进器 1级</str>
+  <str key="527302283-ucdt" type="ucdt" originalKey="527302283">海哨 J7 - 花园</str>
+  <str key="650177874-ugdt" type="ugdt" originalKey="650177874">潜水员推进器 5级</str>
+  <str key="1195396865-ugdt" type="ugdt" originalKey="1195396865">潜水员推进器 3级</str>
+  <str key="1171534526-ucdt" type="ucdt" originalKey="1171534526">海哨 L8 - 断崖深潜区</str>
+  <str key="2110095982-ucdt" type="ucdt" originalKey="2110095982">海哨 G6 - 沟壑</str>
+  <str key="2020532198-ucdt" type="ucdt" originalKey="2020532198">海哨 J8 - 洞穴</str>
+  <str key="2631898111-ucdt" type="ucdt" originalKey="2631898111">海哨 L5</str>
+  <str key="2824660842-ucdt" type="ucdt" originalKey="2824660842">海哨 G8 - 管道网</str>
+  <str key="2829229528-ucdt" type="ucdt" originalKey="2829229528">海哨 H14</str>
+  <str key="3498178316-ucdt" type="ucdt" originalKey="3498178316">海哨 E12</str>
+  <str key="1684328045-ugdt" type="ugdt" originalKey="1684328045">潜水员推进器 2级</str>
+  <str key="4209196992-ugdt" type="ugdt" originalKey="4209196992">潜水员推进器 4级</str>
+  <str key="3588491631-ucdt" type="ucdt" originalKey="3588491631">海哨 C7</str>
+  <str key="616645707-ucdt" type="ucdt" originalKey="616645707">海哨 D8 - 塌陷区</str>
+  <str key="2759611892-ucdt" type="ucdt" originalKey="2759611892">海哨 E5</str>
+  <str key="2826946389-ucdt" type="ucdt" originalKey="2826946389">海哨 G4</str>
+  <str key="2579339132-ucdt" type="ucdt" originalKey="2579339132">海哨 H10 - 残骸</str>
+  <str key="857474130-ucdt" type="ucdt" originalKey="857474130">海哨 J13</str>
 </root>
