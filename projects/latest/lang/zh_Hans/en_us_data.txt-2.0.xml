@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <str key="161697272-ucdt" type="ucdt" originalKey="161697272">默认弹匣的弹药容量增加 5 发。</str>
   <str key="161776758-ucdt" type="ucdt" originalKey="161776758">独头弹显著增加中距离的伤害，增加准确性和射速。</str>
@@ -900,7 +899,7 @@
   <str key="236113459-ucdt" type="ucdt" originalKey="236113459">将弹药包的持续时间延长至 6 分钟，同时将补充弹药的作用范围扩充为 7 米。并且可以同时存在 2 个弹药包。</str>
   <str key="236141790-ucdt" type="ucdt" originalKey="236141790">为你的护甲、武器或载具添加迷彩图案。所有阵营均可使用此装备。</str>
   <str key="236150322-ucdt" type="ucdt" originalKey="236150322">冲力：银质勋章</str>
-  <str key="236203276-ucdt" type="ucdt" originalKey="236203276">钢雨：（不在载具中的）小队成员将在[*seconds*]秒后重新部署进空投舱中</str>
+  <str key="236203276-ucdt" type="ucdt" originalKey="236203276">钢雨：（不在载具中的）小队成员将在#count([*seconds*])后重新部署进空投舱中</str>
   <str key="236291783-ucdt" type="ucdt" originalKey="236291783">三周年纪念礼包</str>
   <str key="236333302-ucdt" type="ucdt" originalKey="236333302">热源诱饵弹 2级</str>
   <str key="236406148-ucdt" type="ucdt" originalKey="236406148">标准的反射瞄具，可以让你更快、更准确地瞄准目标。</str>
