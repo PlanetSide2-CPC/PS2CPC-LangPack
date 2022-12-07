@@ -1,5 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <root>
+  <str key="6561781-ugdt" type="ugdt" originalKey="6561781">忠诚十周年横幅边框</str>
   <str key="9585646-ucdt" type="ucdt" originalKey="9585646">抑制武器发出的噪音，削弱枪口的火光，射击时敌人将无法在小地图上看到你的位置。同时武器伤害衰减距离提前 20 米，子弹速度降低 15%。</str>
   <str key="19860663-ucdt" type="ucdt" originalKey="19860663">%0 盗取了导线</str>
   <str key="21598120-ucdt" type="ucdt" originalKey="21598120">建立瓦努主权国天线的传输链接。</str>
@@ -12,13 +14,19 @@
   <str key="112620711-ucdt" type="ucdt" originalKey="112620711">风暴使者：银质勋章</str>
   <str key="117927158-ucdt" type="ucdt" originalKey="117927158">瓦芙蕾雅头盔</str>
   <str key="145052353-ucdt" type="ucdt" originalKey="145052353">闪耀铬色迷彩</str>
+  <str key="165629444-ugdt" type="ugdt" originalKey="165629444">审判者</str>
   <str key="166026604-ucdt" type="ucdt" originalKey="166026604">抑制武器发出的噪音，削弱枪口的火光，射击时敌人将无法在小地图上看到你的位置。同时武器伤害衰减距离提前 20 米，子弹速度降低 15%。</str>
   <str key="169083356-ucdt" type="ucdt" originalKey="169083356">KTR-3 破坏者：铜质勋章</str>
+  <str key="201766241-ugdt" type="ugdt" originalKey="201766241">KTR-3 破坏者</str>
   <str key="213629400-ucdt" type="ucdt" originalKey="213629400">按下[%s]键获取导线</str>
+  <str key="219189423-ugdt" type="ugdt" originalKey="219189423">瓦芙蕾雅头盔</str>
+  <str key="230040176-ugdt" type="ugdt" originalKey="230040176">超新星 “法夫纳” 聚焦等离子炮</str>
   <str key="233262574-ucdt" type="ucdt" originalKey="233262574">FSR 锐度</str>
   <str key="234710719-ucdt" type="ucdt" originalKey="234710719">更改抗锯齿技术以平滑图像效果。</str>
   <str key="244051622-ucdt" type="ucdt" originalKey="244051622">按住[%s]键破解导线存放点</str>
   <str key="255329467-ucdt" type="ucdt" originalKey="255329467">战斗服防护模块正在充能...</str>
+  <str key="275629128-ugdt" type="ugdt" originalKey="275629128">诡术师贴花</str>
+  <str key="293102034-ugdt" type="ugdt" originalKey="293102034">闪耀铬色迷彩</str>
   <str key="299450554-ucdt" type="ucdt" originalKey="299450554">命运观测者头盔</str>
   <str key="301059286-ucdt" type="ucdt" originalKey="301059286">敌军已放弃[*facility*]。正在取消封锁。</str>
   <str key="307830675-ucdt" type="ucdt" originalKey="307830675">诸神黄昏航迹云</str>
@@ -39,10 +47,12 @@
   <str key="479481724-ucdt" type="ucdt" originalKey="479481724">剩余占领时间%0/%1</str>
   <str key="503522343-ucdt" type="ucdt" originalKey="503522343">建立地球共和国天线的传输链接。</str>
   <str key="531489919-ucdt" type="ucdt" originalKey="531489919">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;噢，这很有趣。你发现了一本旧的绘画收藏杂志的电子版，里面讲述的是一个身着斗篷的人打击犯罪的故事。</str>
+  <str key="541666093-ugdt" type="ugdt" originalKey="541666093">英灵战士外饰</str>
   <str key="555907332-ucdt" type="ucdt" originalKey="555907332">第一武器：P2-120 “法夫纳” 穿甲炮</str>
   <str key="592289774-ucdt" type="ucdt" originalKey="592289774">抑制武器发出的噪音，削弱枪口的火光，射击时敌人将无法在小地图上看到你的位置。同时武器伤害衰减距离提前 20 米，子弹速度降低 15%。</str>
   <str key="597180819-ucdt" type="ucdt" originalKey="597180819">&lt;p&gt;祝贺你，你已经有资格参与 A.S.P.高级专精计划 3 了！&lt;/p&gt;&lt;p&gt;选择晋升的角色将会把等级重置为 1，接下来每提升 25 级，都会解锁更多职业改装。&lt;/p&gt;&lt;p&gt;你现有的职业改装和未使用的点数将会全部保留。&lt;/p&gt;</str>
   <str key="606595976-ucdt" type="ucdt" originalKey="606595976">TAA + FXAA</str>
+  <str key="621640813-ugdt" type="ugdt" originalKey="621640813">海姆达尔铁砧空投舱</str>
   <str key="640781860-ucdt" type="ucdt" originalKey="640781860">“芬里尔之口”纳能歼灭者 银质勋章</str>
   <str key="661549852-ucdt" type="ucdt" originalKey="661549852">%0 夺取了导线</str>
   <str key="663710739-ucdt" type="ucdt" originalKey="663710739">你的阵营没有控制[*facility*]。正在取消封锁。</str>
@@ -50,6 +60,7 @@
   <str key="685422739-ucdt" type="ucdt" originalKey="685422739">命运观测者轻型突击兵装甲</str>
   <str key="703207423-ucdt" type="ucdt" originalKey="703207423">你目前无法使用载具终端</str>
   <str key="703752462-ucdt" type="ucdt" originalKey="703752462">获取“仲裁官”前缀头衔。</str>
+  <str key="715605437-ugdt" type="ugdt" originalKey="715605437">头衔：永恒的 </str>
   <str key="739895538-ucdt" type="ucdt" originalKey="739895538">风暴使者</str>
   <str key="783068118-ucdt" type="ucdt" originalKey="783068118">改变载具的航迹云，留下一道诸神黄昏的尾迹。仅限纳能特工使用。</str>
   <str key="788199555-ucdt" type="ucdt" originalKey="788199555">消音器</str>
@@ -57,8 +68,10 @@
   <str key="808315772-ucdt" type="ucdt" originalKey="808315772">最新的装甲技术与古代英雄史诗的雕纹工艺相互交融，打造而成的这套装甲，不仅能提供保护，还能带来艺术启迪。此装甲仅适用于地球共和国轻型突击兵。</str>
   <str key="810255835-ucdt" type="ucdt" originalKey="810255835">纪录打破者</str>
   <str key="823668821-ucdt" type="ucdt" originalKey="823668821">按下[%s]键放回导线</str>
+  <str key="827853631-ugdt" type="ugdt" originalKey="827853631">“芬里尔之口”纳能歼灭者</str>
   <str key="864603917-ucdt" type="ucdt" originalKey="864603917">高级专精计划 3</str>
   <str key="872164130-ucdt" type="ucdt" originalKey="872164130">标枪锹甲外饰</str>
+  <str key="918845676-ugdt" type="ugdt" originalKey="918845676">堡垒攻击要塞</str>
   <str key="938735586-ucdt" type="ucdt" originalKey="938735586">用这款外饰装甲来个性化你的标枪。仅限纳能特工使用。</str>
   <str key="945851204-ucdt" type="ucdt" originalKey="945851204">质量</str>
   <str key="946815325-ucdt" type="ucdt" originalKey="946815325">被动使你能多携带一根注射器，使用注射器后，你能在 12 秒内获得一项五级插件效果增益，在以下插件中随机选择：安全降落、吸血鬼、钢铁之躯、重量级玩家、反应夹克。实验性刺激仅在无增益效果时才能触发。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;完美插件不可分解。&lt;/font&gt;</str>
@@ -67,6 +80,8 @@
   <str key="986059254-ucdt" type="ucdt" originalKey="986059254">泰坦 150 “法夫纳” 穿甲炮 铜质勋章</str>
   <str key="1017963712-ucdt" type="ucdt" originalKey="1017963712">瓦芙蕾雅贴花</str>
   <str key="1043618899-ucdt" type="ucdt" originalKey="1043618899">用这些特别商品来庆祝 10 年的奥星之战吧！</str>
+  <str key="1059500075-ugdt" type="ugdt" originalKey="1059500075">命运观测者轻型突击兵装甲</str>
+  <str key="1091708705-ugdt" type="ugdt" originalKey="1091708705">导线</str>
   <str key="1097110919-ucdt" type="ucdt" originalKey="1097110919">这款头盔的灵感源自古代史诗，戴上命运观测者的王冠，以全视之眼凝视你的敌人。所有非 MAX 职业均可穿戴。仅限地球共和国使用。</str>
   <str key="1136567548-ucdt" type="ucdt" originalKey="1136567548">诡术师头盔</str>
   <str key="1165006780-ucdt" type="ucdt" originalKey="1165006780">盗取导线！</str>
@@ -83,8 +98,10 @@
   <str key="1218806591-ucdt" type="ucdt" originalKey="1218806591">丢失</str>
   <str key="1220232055-ucdt" type="ucdt" originalKey="1220232055">在限定时间内获取 Prime 前线礼包，为你的战士装备 NS-11A “前线” 突击步枪，以及所有阵营通用角斗士头盔。&lt;br&gt;&lt;br&gt;Prime 前线礼包仅 Prime 会员可用。在 12 月 21 日之前，访问 https://gaming.amazon.com/loot/planetside2prime-frontline-bundle，获取你的代码。</str>
   <str key="1243522410-ucdt" type="ucdt" originalKey="1243522410">最新的装甲技术与古代英雄史诗的雕纹工艺相互交融，打造而成的这套装甲，不仅能提供保护，还能带来艺术启迪。此装甲仅适用于瓦努主权国轻型突击兵。</str>
+  <str key="1244187875-ugdt" type="ugdt" originalKey="1244187875">堡垒锚定</str>
   <str key="1266168524-ucdt" type="ucdt" originalKey="1266168524">解脱者</str>
   <str key="1292420673-ucdt" type="ucdt" originalKey="1292420673">雷神贴花</str>
+  <str key="1297740164-ugdt" type="ugdt" originalKey="1297740164">忠诚十周年</str>
   <str key="1330097306-ucdt" type="ucdt" originalKey="1330097306">%0 丢下了导线</str>
   <str key="1377546139-ucdt" type="ucdt" originalKey="1377546139">%0 拾取了导线</str>
   <str key="1410053839-ucdt" type="ucdt" originalKey="1410053839">忠诚十周年横幅边框</str>
@@ -112,9 +129,11 @@
   <str key="1748174820-ucdt" type="ucdt" originalKey="1748174820">抑制武器发出的噪音，削弱枪口的火光，射击时敌人将无法在小地图上看到你的位置。同时武器伤害衰减距离提前 20 米，子弹速度降低 15%。</str>
   <str key="1750012919-ucdt" type="ucdt" originalKey="1750012919">AMD FSR 1.0</str>
   <str key="1762197479-ucdt" type="ucdt" originalKey="1762197479">超新星 “法夫纳” 聚焦等离子炮 银质勋章</str>
+  <str key="1819529688-ugdt" type="ugdt" originalKey="1819529688">瓦芙蕾雅轻型突击兵装甲</str>
   <str key="1826668072-ucdt" type="ucdt" originalKey="1826668072">永恒的</str>
   <str key="1830590244-ucdt" type="ucdt" originalKey="1830590244">NS-30 “永恒之枪” 汪达尔：金质勋章</str>
   <str key="1834507656-ucdt" type="ucdt" originalKey="1834507656">堡垒锚定</str>
+  <str key="1871665197-ugdt" type="ugdt" originalKey="1871665197">头衔：特工</str>
   <str key="1875735791-ucdt" type="ucdt" originalKey="1875735791">风暴使者：金质勋章</str>
   <str key="1885235936-ucdt" type="ucdt" originalKey="1885235936">隆重推出《行星边际 2》的 Prime Gaming 战利品！</str>
   <str key="1886413559-ucdt" type="ucdt" originalKey="1886413559">你的护甲降低 20%，并以每秒 40 点的速度恢复生命值。 承受伤害时会使生命值恢复暂停 2 秒，并且生命值恢复不与纳能自动修复叠加。&lt;font color="#dc9c36"&gt;仅限 MAX 机甲。&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;完美插件不可分解。&lt;/font&gt;</str>
@@ -129,14 +148,18 @@
   <str key="2012615459-ucdt" type="ucdt" originalKey="2012615459">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;看起来你找到了某种载具的部分维护清单，但其中并没有轮子、履带或喷射器相关的记录。真奇怪。</str>
   <str key="2014484393-ucdt" type="ucdt" originalKey="2014484393">海姆达尔铁砧空投舱</str>
   <str key="2014760398-ucdt" type="ucdt" originalKey="2014760398">第一武器：CPT-150 “法夫纳”</str>
+  <str key="2018398425-ucdt" type="ucdt" originalKey="2018398425">无法占领此基地。 一艘敌军堡垒航空母舰已将其封锁。</str>
   <str key="2019991817-ucdt" type="ucdt" originalKey="2019991817">按住[%s]键恢复导线存放点</str>
   <str key="2060632081-ucdt" type="ucdt" originalKey="2060632081">最新的装甲技术与古代英雄史诗的雕纹工艺相互交融，打造而成的这套装甲，不仅能提供保护，还能带来艺术启迪。此装甲仅适用于新联邦轻型突击兵。</str>
   <str key="2070822759-ucdt" type="ucdt" originalKey="2070822759">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;哎哟喂，瞧瞧这是什么？古董通讯代码？我就不客气地拿走了。</str>
   <str key="2089931087-ucdt" type="ucdt" originalKey="2089931087">保卫导线！</str>
+  <str key="2096245356-ugdt" type="ugdt" originalKey="2096245356">标枪锹甲外饰</str>
+  <str key="2100225232-ugdt" type="ugdt" originalKey="2100225232">NS-30 “永恒之枪” 汪达尔</str>
   <str key="2111937596-ucdt" type="ucdt" originalKey="2111937596">感恩节促销</str>
   <str key="2114046918-ucdt" type="ucdt" originalKey="2114046918">在路标点位置附近未发现要塞。正在取消攻击。</str>
   <str key="2130512935-ucdt" type="ucdt" originalKey="2130512935">基座防御奖励</str>
   <str key="2156508958-ucdt" type="ucdt" originalKey="2156508958">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;看起来像是工艺文件的残页和某些新技术的规格表。找到好东西了。</str>
+  <str key="2178366674-ugdt" type="ugdt" originalKey="2178366674">狂战士[完美]</str>
   <str key="2191136597-ucdt" type="ucdt" originalKey="2191136597">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;噢不，这个应该直接扔进垃圾桶。</str>
   <str key="2213446277-ucdt" type="ucdt" originalKey="2213446277">占领一座大型的、小型的、电力中心或建筑导线据点。</str>
   <str key="2214449910-ucdt" type="ucdt" originalKey="2214449910">消音器</str>
@@ -144,6 +167,7 @@
   <str key="2220164197-ucdt" type="ucdt" originalKey="2220164197">水面反射</str>
   <str key="2250623099-ucdt" type="ucdt" originalKey="2250623099">为标枪加装炫光镶边。仅限纳能特工使用。&lt;font color="#dc9c36"&gt;镶边颜色取决于你当前所在的阵营。&lt;/font&gt;</str>
   <str key="2256989786-ucdt" type="ucdt" originalKey="2256989786">解锁高级专精计划训练等级 3，重置你的等级，并且你每 25 级可获得新的高级专精计划技能。&lt;/br&gt;&lt;/br&gt;&lt;font color="#bf0000"&gt;高级专精计划等级 2 达到 100 级方可购买。&lt;/font&gt;</str>
+  <str key="2281052238-ucdt" type="ucdt" originalKey="2281052238">今日购买步兵武器可享 20% 折扣！</str>
   <str key="2283569138-ucdt" type="ucdt" originalKey="2283569138">高级专精计划训练等级 3</str>
   <str key="2299090495-ucdt" type="ucdt" originalKey="2299090495">[*facility*]不在有效阵营的控制之下。正在取消攻击。</str>
   <str key="2315511557-ucdt" type="ucdt" originalKey="2315511557">忠诚十周年</str>
@@ -151,12 +175,14 @@
   <str key="2376022454-ucdt" type="ucdt" originalKey="2376022454">盗取</str>
   <str key="2376726621-ucdt" type="ucdt" originalKey="2376726621">通过 Prime Gaming 获取更多奖励</str>
   <str key="2410540586-ucdt" type="ucdt" originalKey="2410540586">今日购买插件包可享 20% 折扣！</str>
+  <str key="2429056281-ugdt" type="ugdt" originalKey="2429056281">实验性刺激[完美]</str>
   <str key="2437789727-ucdt" type="ucdt" originalKey="2437789727">导线重置</str>
   <str key="2465397754-ucdt" type="ucdt" originalKey="2465397754">解锁 A.S.P.高级专精计划 3 会将等级重置为 1，接下来每提升 25 级，都会解锁更多职业改装。你现有的职业改装和未使用的点数将会全部保留。</str>
   <str key="2500284498-ucdt" type="ucdt" originalKey="2500284498">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;干得好，你找到了一些旧的土地勘测资料。虽然不是很值钱，但只要找对买家，我肯定能有不小的收获。</str>
   <str key="2516151832-ucdt" type="ucdt" originalKey="2516151832">标枪蒂伯龙外饰</str>
   <str key="2575854792-ucdt" type="ucdt" originalKey="2575854792">泰坦 150 “法夫纳” 穿甲炮 银质勋章</str>
   <str key="2588729833-ucdt" type="ucdt" originalKey="2588729833">影响水面反射的质量。</str>
+  <str key="2591907684-ugdt" type="ugdt" originalKey="2591907684">角斗士头盔</str>
   <str key="2622540871-ucdt" type="ucdt" originalKey="2622540871">头衔：纪录打破者</str>
   <str key="2628139182-ucdt" type="ucdt" originalKey="2628139182">“芬里尔之口”纳能歼灭者 金质勋章</str>
   <str key="2642200789-ucdt" type="ucdt" originalKey="2642200789">仲裁者</str>
@@ -165,6 +191,7 @@
   <str key="2677469849-ucdt" type="ucdt" originalKey="2677469849">锐度</str>
   <str key="2677904501-ucdt" type="ucdt" originalKey="2677904501">为你的护甲或载具添加忠诚贴花，庆祝《行星边际 2》十周年。</str>
   <str key="2699388323-ucdt" type="ucdt" originalKey="2699388323">导线保卫成功</str>
+  <str key="2740100729-ugdt" type="ugdt" originalKey="2740100729">忠诚十周年背景横幅</str>
   <str key="2762654451-ucdt" type="ucdt" originalKey="2762654451">NS-11A 前线：奥星勋章</str>
   <str key="2763270906-ucdt" type="ucdt" originalKey="2763270906">实验性刺激[完美]</str>
   <str key="2774256047-ucdt" type="ucdt" originalKey="2774256047">今日购买步兵武器可享 40% 折扣！</str>
@@ -172,15 +199,20 @@
   <str key="2776953911-ucdt" type="ucdt" originalKey="2776953911">控制导线</str>
   <str key="2782045350-ucdt" type="ucdt" originalKey="2782045350">抑制武器发出的噪音，削弱枪口的火光，射击时敌人将无法在小地图上看到你的位置。同时武器伤害衰减距离提前 20 米，子弹速度降低 15%。</str>
   <str key="2787437134-ucdt" type="ucdt" originalKey="2787437134">堡垒攻击要塞</str>
+  <str key="2832089414-ugdt" type="ugdt" originalKey="2832089414">命运观测者贴花</str>
+  <str key="2837819981-ugdt" type="ugdt" originalKey="2837819981">雷神轻型突击兵装甲</str>
   <str key="2839552855-ucdt" type="ucdt" originalKey="2839552855">第一武器：超新星 FPC 聚焦等离子炮 “法夫纳”</str>
   <str key="2843435203-ucdt" type="ucdt" originalKey="2843435203">CT-150 “法夫纳” 独眼巨人的穿甲弹药专用于穿透重型装甲，具有更快的出膛速度，但爆炸威力相对较小。仅限纳能特工使用。</str>
+  <str key="2861437042-ugdt" type="ugdt" originalKey="2861437042">继承者</str>
   <str key="2864571802-ucdt" type="ucdt" originalKey="2864571802">导线</str>
   <str key="2866224398-ucdt" type="ucdt" originalKey="2866224398">放回导线</str>
   <str key="2876659434-ucdt" type="ucdt" originalKey="2876659434">诡术师轻型突击兵装甲</str>
   <str key="2880688390-ucdt" type="ucdt" originalKey="2880688390">A.S.P.高级专精干员 3 贴花</str>
   <str key="2891050767-ucdt" type="ucdt" originalKey="2891050767">风暴使者：奥星勋章</str>
   <str key="2892413732-ucdt" type="ucdt" originalKey="2892413732">继承者</str>
+  <str key="2925799360-ugdt" type="ugdt" originalKey="2925799360">雷神头盔</str>
   <str key="2956727424-ucdt" type="ucdt" originalKey="2956727424">NS-30 “永恒之枪” 汪达尔</str>
+  <str key="2963316669-ugdt" type="ugdt" originalKey="2963316669">NS-11A 前线</str>
   <str key="2969400763-ucdt" type="ucdt" originalKey="2969400763">P2-120 “法夫纳” 穿甲炮 铜质勋章</str>
   <str key="2970864752-ucdt" type="ucdt" originalKey="2970864752">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;暗星的微调与削弱的说明？赶快删掉！删掉！删掉！</str>
   <str key="2971777797-ucdt" type="ucdt" originalKey="2971777797">消音器</str>
@@ -188,11 +220,13 @@
   <str key="2981372122-ucdt" type="ucdt" originalKey="2981372122">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;福斯特代表的劲歌热榜前 5 名的数据记录。暂且把它放在一边，以便后续调查。</str>
   <str key="2981428434-ucdt" type="ucdt" originalKey="2981428434">P2-120 “法夫纳” 穿甲炮 金质勋章</str>
   <str key="2993091049-ucdt" type="ucdt" originalKey="2993091049">增强</str>
+  <str key="3015100890-ugdt" type="ugdt" originalKey="3015100890">驾驶舱：英灵战士外饰</str>
   <str key="3038236917-ucdt" type="ucdt" originalKey="3038236917">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;呃，这个我不能告诉你细节，但它很重要。干得不错。</str>
   <str key="3049769350-ucdt" type="ucdt" originalKey="3049769350">改变载具的航迹云，留下一道诸神黄昏的尾迹。仅限瓦努主权国使用。</str>
   <str key="3072957920-ucdt" type="ucdt" originalKey="3072957920">你目前无法使用配置终端</str>
   <str key="3077391347-ucdt" type="ucdt" originalKey="3077391347">解锁 A.S.P. 高级专精计划 3 后，你的等级将重置为 1，同时你的角色将获得更多的提升机会。这项操作无法逆转，你确定要继续吗？</str>
   <str key="3091143323-ucdt" type="ucdt" originalKey="3091143323">KTR-3 破坏者：奥星勋章</str>
+  <str key="3161601490-ugdt" type="ugdt" originalKey="3161601490">P2-120 “法夫纳” 穿甲炮</str>
   <str key="3163633787-ucdt" type="ucdt" originalKey="3163633787">风暴使者：铜质勋章</str>
   <str key="3168136813-ucdt" type="ucdt" originalKey="3168136813">超新星 “法夫纳” 聚焦等离子炮 铜质勋章</str>
   <str key="3172094154-ucdt" type="ucdt" originalKey="3172094154">消音器</str>
@@ -214,26 +248,35 @@
   <str key="3353953191-ucdt" type="ucdt" originalKey="3353953191">第一武器：150 毫米泰坦穿甲炮 “法夫纳”</str>
   <str key="3357976499-ucdt" type="ucdt" originalKey="3357976499">建立新联邦天线的传输链接。</str>
   <str key="3369227525-ucdt" type="ucdt" originalKey="3369227525">“芬里尔之口”纳能歼灭者</str>
+  <str key="3387755095-ugdt" type="ugdt" originalKey="3387755095">CT-150 “法夫纳” 独眼巨人</str>
   <str key="3389324630-ucdt" type="ucdt" originalKey="3389324630">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;一份旧的民用货运清单，是从艾美瑞什发往霍森的。那一趟肯定很有趣。</str>
   <str key="3390590111-ucdt" type="ucdt" originalKey="3390590111">P2-120 “法夫纳” 穿甲炮 银质勋章</str>
   <str key="3407930951-ucdt" type="ucdt" originalKey="3407930951">启用 AI 增强，以提升视觉效果质量。</str>
+  <str key="3412461877-ugdt" type="ugdt" originalKey="3412461877">头衔：纪录打破者</str>
   <str key="3417695862-ucdt" type="ucdt" originalKey="3417695862">调整 FSR 算法的输出锐度。</str>
+  <str key="3418473936-ugdt" type="ugdt" originalKey="3418473936">雷神贴花</str>
   <str key="3421704901-ucdt" type="ucdt" originalKey="3421704901">KTR-3 破坏者：银质勋章</str>
   <str key="3424231726-ucdt" type="ucdt" originalKey="3424231726">[*faction*]堡垒正在攻击[*facility*]！</str>
   <str key="3427579781-ucdt" type="ucdt" originalKey="3427579781">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;看起来像是应用了非常规技术的新能源管道系统的设计原稿。</str>
   <str key="3430463293-ucdt" type="ucdt" originalKey="3430463293">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;等等，什么？一份关于艾美瑞什的有毒物质泄漏清理以及堡垒坠毁点拆除的详细报告？我什么都不记得了，你呢？</str>
   <str key="3431041193-ucdt" type="ucdt" originalKey="3431041193">审判者</str>
   <str key="3454041286-ucdt" type="ucdt" originalKey="3454041286">超新星 “法夫纳” 聚焦等离子炮</str>
+  <str key="3476900396-ugdt" type="ugdt" originalKey="3476900396">堡垒封锁要塞</str>
   <str key="3514541515-ucdt" type="ucdt" originalKey="3514541515">驾驶舱：英灵战士外饰</str>
   <str key="3515367190-ucdt" type="ucdt" originalKey="3515367190">&lt;font color="#00FFAA"&gt;舵手：&lt;/font&gt;要塞封锁请求已收到。</str>
   <str key="3515998075-ucdt" type="ucdt" originalKey="3515998075">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;喔喔喔，闪闪发亮的东西。</str>
+  <str key="3520969116-ugdt" type="ugdt" originalKey="3520969116">诡术师轻型突击兵装甲</str>
   <str key="3528335070-ucdt" type="ucdt" originalKey="3528335070">破解导线存放点！</str>
+  <str key="3598169283-ugdt" type="ugdt" originalKey="3598169283">命运观测者头盔</str>
   <str key="3610624033-ucdt" type="ucdt" originalKey="3610624033">得益于轻量化枪身及稳定的枪管，NS-30 “永恒之枪” 汪达尔侦察步枪在瞄准射击时，得以同时具备高度机动性和高射击精度，使其成为广泛使用的中距离进攻武器。</str>
   <str key="3610797368-ucdt" type="ucdt" originalKey="3610797368">NS-30 “永恒之枪” 汪达尔：铜质勋章</str>
   <str key="3634775574-ucdt" type="ucdt" originalKey="3634775574">导线存放点</str>
   <str key="3635044565-ucdt" type="ucdt" originalKey="3635044565">角斗士头盔</str>
+  <str key="3645570933-ugdt" type="ugdt" originalKey="3645570933">瓦芙蕾雅贴花</str>
   <str key="3648577756-ucdt" type="ucdt" originalKey="3648577756">消音器</str>
   <str key="3660375566-ucdt" type="ucdt" originalKey="3660375566">请访问我们的网站以获得更多信息</str>
+  <str key="3661387091-ugdt" type="ugdt" originalKey="3661387091">标枪蒂伯龙外饰</str>
+  <str key="3665085371-ugdt" type="ugdt" originalKey="3665085371">诡术师头盔</str>
   <str key="3672707674-ucdt" type="ucdt" originalKey="3672707674">你目前无法进入载具</str>
   <str key="3684834538-ucdt" type="ucdt" originalKey="3684834538">这款头盔的灵感源自古代史诗，戴上瓦芙蕾雅的面具，散发尊贵气质。所有非 MAX 职业均可穿戴。仅限纳能特工使用。</str>
   <str key="3717528703-ucdt" type="ucdt" originalKey="3717528703">快速近似抗锯齿（FXAA）</str>
@@ -241,6 +284,7 @@
   <str key="3729576759-ucdt" type="ucdt" originalKey="3729576759">正在恢复...</str>
   <str key="3752731749-ucdt" type="ucdt" originalKey="3752731749">堡垒封锁要塞</str>
   <str key="3767770113-ucdt" type="ucdt" originalKey="3767770113">泰坦 150 “法夫纳” 穿甲炮 奥星勋章</str>
+  <str key="3794113053-ugdt" type="ugdt" originalKey="3794113053">A.S.P.高级专精干员 3 贴花</str>
   <str key="3806036839-ucdt" type="ucdt" originalKey="3806036839">留在指定区域，直到传输链接建立完成。</str>
   <str key="3826121316-ucdt" type="ucdt" originalKey="3826121316">消音器</str>
   <str key="3826595384-ucdt" type="ucdt" originalKey="3826595384">占领大型或小型导线据点。</str>
@@ -252,6 +296,7 @@
   <str key="3922418441-ucdt" type="ucdt" originalKey="3922418441">瓦芙蕾雅轻型突击兵装甲</str>
   <str key="3936328388-ucdt" type="ucdt" originalKey="3936328388">%0 放回了导线</str>
   <str key="3940644407-ucdt" type="ucdt" originalKey="3940644407">CT-150 “法夫纳” 独眼巨人 银质勋章</str>
+  <str key="3945623122-ugdt" type="ugdt" originalKey="3945623122">仲裁者</str>
   <str key="3951285618-ucdt" type="ucdt" originalKey="3951285618">抑制武器发出的噪音，削弱枪口的火光，射击时敌人将无法在小地图上看到你的位置。同时武器伤害衰减距离提前 20 米，子弹速度降低 15%。</str>
   <str key="3952412302-ucdt" type="ucdt" originalKey="3952412302">CT-150 “法夫纳” 独眼巨人</str>
   <str key="3953081968-ucdt" type="ucdt" originalKey="3953081968">抑制武器发出的噪音，削弱枪口的火光，射击时敌人将无法在小地图上看到你的位置。同时武器伤害衰减距离提前 20 米，子弹速度降低 15%。</str>
@@ -263,65 +308,21 @@
   <str key="4043591630-ucdt" type="ucdt" originalKey="4043591630">“芬里尔之口”纳能歼灭者 奥星勋章</str>
   <str key="4047792909-ucdt" type="ucdt" originalKey="4047792909">时间性抗锯齿（TAA）</str>
   <str key="4051467699-ucdt" type="ucdt" originalKey="4051467699">[*facility*]未在占领过程中。正在取消攻击。</str>
+  <str key="4063669993-ugdt" type="ugdt" originalKey="4063669993">标枪俯冲外饰</str>
+  <str key="4074653513-ugdt" type="ugdt" originalKey="4074653513">解脱者</str>
   <str key="4093660937-ucdt" type="ucdt" originalKey="4093660937">“芬里尔之口”纳能歼灭者 铜质勋章</str>
   <str key="4096942025-ucdt" type="ucdt" originalKey="4096942025">巨人十周年纪念礼包</str>
+  <str key="4135958927-ugdt" type="ugdt" originalKey="4135958927">泰坦 150 “法夫纳” 穿甲炮</str>
   <str key="4142137925-ucdt" type="ucdt" originalKey="4142137925">头衔：永恒的 </str>
   <str key="4146574781-ucdt" type="ucdt" originalKey="4146574781">使用这把汲取远古大地精华的战斧，以风暴之力击倒敌人。所有阵营均可使用此武器。</str>
   <str key="4148031652-ucdt" type="ucdt" originalKey="4148031652">&lt;font color="#00FFAA"&gt;舵手：&lt;/font&gt;要塞攻击请求已收到。</str>
   <str key="4172792046-ucdt" type="ucdt" originalKey="4172792046">战士十周年纪念礼包</str>
   <str key="4178760258-ucdt" type="ucdt" originalKey="4178760258">命运观测者贴花</str>
+  <str key="4182841569-ugdt" type="ugdt" originalKey="4182841569">诸神黄昏航迹云</str>
   <str key="4209859081-ucdt" type="ucdt" originalKey="4209859081">向目标移动。锚定将在抵达目的地后开始。</str>
   <str key="4217156334-ucdt" type="ucdt" originalKey="4217156334">获取“继承者”前缀头衔。</str>
   <str key="4221821709-ucdt" type="ucdt" originalKey="4221821709">夺取导线</str>
   <str key="4231059260-ucdt" type="ucdt" originalKey="4231059260">NS-30 “永恒之枪” 汪达尔：银质勋章</str>
   <str key="4267326406-ucdt" type="ucdt" originalKey="4267326406">CT-150 “法夫纳” 独眼巨人 奥星勋章</str>
   <str key="4267871226-ucdt" type="ucdt" originalKey="4267871226">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;看来你找到了一份经过大幅修订的科学报告，是关于伊萨米尔的风暴平息后发现的瓦努废墟的报告。</str>
-  <str key="6561781-ugdt" type="ugdt" originalKey="6561781">忠诚十周年横幅边框</str>
-  <str key="165629444-ugdt" type="ugdt" originalKey="165629444">审判者</str>
-  <str key="201766241-ugdt" type="ugdt" originalKey="201766241">KTR-3 破坏者</str>
-  <str key="219189423-ugdt" type="ugdt" originalKey="219189423">瓦芙蕾雅头盔</str>
-  <str key="230040176-ugdt" type="ugdt" originalKey="230040176">超新星 “法夫纳” 聚焦等离子炮</str>
-  <str key="275629128-ugdt" type="ugdt" originalKey="275629128">诡术师贴花</str>
-  <str key="293102034-ugdt" type="ugdt" originalKey="293102034">闪耀铬色迷彩</str>
-  <str key="541666093-ugdt" type="ugdt" originalKey="541666093">英灵战士外饰</str>
-  <str key="621640813-ugdt" type="ugdt" originalKey="621640813">海姆达尔铁砧空投舱</str>
-  <str key="715605437-ugdt" type="ugdt" originalKey="715605437">头衔：永恒的 </str>
-  <str key="827853631-ugdt" type="ugdt" originalKey="827853631">“芬里尔之口”纳能歼灭者</str>
-  <str key="918845676-ugdt" type="ugdt" originalKey="918845676">堡垒攻击要塞</str>
-  <str key="1059500075-ugdt" type="ugdt" originalKey="1059500075">命运观测者轻型突击兵装甲</str>
-  <str key="1297740164-ugdt" type="ugdt" originalKey="1297740164">忠诚十周年</str>
-  <str key="1244187875-ugdt" type="ugdt" originalKey="1244187875">堡垒锚定</str>
-  <str key="1819529688-ugdt" type="ugdt" originalKey="1819529688">瓦芙蕾雅轻型突击兵装甲</str>
-  <str key="1871665197-ugdt" type="ugdt" originalKey="1871665197">头衔：特工</str>
-  <str key="2018398425-ucdt" type="ucdt" originalKey="2018398425">无法占领此基地。 一艘敌军堡垒航空母舰已将其封锁。</str>
-  <str key="2096245356-ugdt" type="ugdt" originalKey="2096245356">标枪锹甲外饰</str>
-  <str key="2100225232-ugdt" type="ugdt" originalKey="2100225232">NS-30 “永恒之枪” 汪达尔</str>
-  <str key="2281052238-ucdt" type="ucdt" originalKey="2281052238">今日购买步兵武器可享 20% 折扣！</str>
-  <str key="2178366674-ugdt" type="ugdt" originalKey="2178366674">狂战士[完美]</str>
-  <str key="2429056281-ugdt" type="ugdt" originalKey="2429056281">实验性刺激[完美]</str>
-  <str key="2591907684-ugdt" type="ugdt" originalKey="2591907684">角斗士头盔</str>
-  <str key="2740100729-ugdt" type="ugdt" originalKey="2740100729">忠诚十周年背景横幅</str>
-  <str key="2837819981-ugdt" type="ugdt" originalKey="2837819981">雷神轻型突击兵装甲</str>
-  <str key="2832089414-ugdt" type="ugdt" originalKey="2832089414">命运观测者贴花</str>
-  <str key="2861437042-ugdt" type="ugdt" originalKey="2861437042">继承者</str>
-  <str key="2963316669-ugdt" type="ugdt" originalKey="2963316669">NS-11A 前线</str>
-  <str key="2925799360-ugdt" type="ugdt" originalKey="2925799360">雷神头盔</str>
-  <str key="3015100890-ugdt" type="ugdt" originalKey="3015100890">驾驶舱：英灵战士外饰</str>
-  <str key="3161601490-ugdt" type="ugdt" originalKey="3161601490">P2-120 “法夫纳” 穿甲炮</str>
-  <str key="3387755095-ugdt" type="ugdt" originalKey="3387755095">CT-150 “法夫纳” 独眼巨人</str>
-  <str key="3412461877-ugdt" type="ugdt" originalKey="3412461877">头衔：纪录打破者</str>
-  <str key="3476900396-ugdt" type="ugdt" originalKey="3476900396">堡垒封锁要塞</str>
-  <str key="3418473936-ugdt" type="ugdt" originalKey="3418473936">雷神贴花</str>
-  <str key="3520969116-ugdt" type="ugdt" originalKey="3520969116">诡术师轻型突击兵装甲</str>
-  <str key="3598169283-ugdt" type="ugdt" originalKey="3598169283">命运观测者头盔</str>
-  <str key="3661387091-ugdt" type="ugdt" originalKey="3661387091">标枪蒂伯龙外饰</str>
-  <str key="3665085371-ugdt" type="ugdt" originalKey="3665085371">诡术师头盔</str>
-  <str key="3645570933-ugdt" type="ugdt" originalKey="3645570933">瓦芙蕾雅贴花</str>
-  <str key="3794113053-ugdt" type="ugdt" originalKey="3794113053">A.S.P.高级专精干员 3 贴花</str>
-  <str key="3945623122-ugdt" type="ugdt" originalKey="3945623122">仲裁者</str>
-  <str key="4063669993-ugdt" type="ugdt" originalKey="4063669993">标枪俯冲外饰</str>
-  <str key="4135958927-ugdt" type="ugdt" originalKey="4135958927">泰坦 150 “法夫纳” 穿甲炮</str>
-  <str key="4074653513-ugdt" type="ugdt" originalKey="4074653513">解脱者</str>
-  <str key="4182841569-ugdt" type="ugdt" originalKey="4182841569">诸神黄昏航迹云</str>
-  <str key="1091708705-ugdt" type="ugdt" originalKey="1091708705">导线</str>
 </root>
