@@ -1,37 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
-  <str key="92567098-ucdt" type="ucdt" originalKey="92567098">开启一个持续2.5秒的护盾，最多吸收2000伤害。在技能发动期间，主炮将会对直接命中的目标造成浩劫状态，使敌方车辆在6秒内处于不可修复状态。每22秒可发动一次。</str>
-  <str key="204553241-ucdt" type="ucdt" originalKey="204553241">护盾</str>
-  <str key="384592510-ucdt" type="ucdt" originalKey="384592510">临时护盾</str>
-  <str key="475761326-ucdt" type="ucdt" originalKey="475761326">NS-66“炼金术士”惩罚者</str>
-  <str key="641246694-ucdt" type="ucdt" originalKey="641246694">护盾</str>
-  <str key="740532470-ucdt" type="ucdt" originalKey="740532470">NS-R3“破晓之刺”Swarm</str>
-  <str key="776100209-ucdt" type="ucdt" originalKey="776100209">腐蚀助攻</str>
-  <str key="859019721-ucdt" type="ucdt" originalKey="859019721">护盾</str>
-  <str key="859867291-ucdt" type="ucdt" originalKey="859867291">腐蚀助攻：ANT</str>
-  <str key="887769416-ucdt" type="ucdt" originalKey="887769416">护盾</str>
-  <str key="1017911728-ucdt" type="ucdt" originalKey="1017911728">失败</str>
-  <str key="1169940159-ucdt" type="ucdt" originalKey="1169940159">护盾</str>
-  <str key="1196727291-ucdt" type="ucdt" originalKey="1196727291">M77-B “破晓者”</str>
-  <str key="1344490666-ucdt" type="ucdt" originalKey="1344490666">小队腐蚀助攻</str>
-  <str key="1399364502-ucdt" type="ucdt" originalKey="1399364502">胜利</str>
-  <str key="1471614383-ucdt" type="ucdt" originalKey="1471614383">能量钉刺3</str>
-  <str key="1508112017-ucdt" type="ucdt" originalKey="1508112017">能量钉刺</str>
-  <str key="1800570911-ucdt" type="ucdt" originalKey="1800570911">决胜分</str>
-  <str key="1808017255-ucdt" type="ucdt" originalKey="1808017255">开启一个持续2.5秒的护盾，最多吸收2000伤害。在技能发动期间，主炮将会对直接命中的目标造成浩劫状态，使敌方车辆在6秒内处于不可修复状态。每30秒可发动一次。</str>
-  <str key="1861837734-ucdt" type="ucdt" originalKey="1861837734">开启一个持续2.5秒的护盾，最多吸收2000伤害。在技能发动期间，主炮将会对直接命中的目标造成浩劫状态，使敌方车辆在6秒内处于不可修复状态。每20秒可发动一次。</str>
-  <str key="2147614974-ucdt" type="ucdt" originalKey="2147614974">能量钉刺2</str>
-  <str key="2282404909-ucdt" type="ucdt" originalKey="2282404909">您暂时无法离开观察者模式。</str>
-  <str key="2574108254-ucdt" type="ucdt" originalKey="2574108254">护盾</str>
-  <str key="2694822722-ucdt" type="ucdt" originalKey="2694822722">前往设置</str>
-  <str key="2956899514-ucdt" type="ucdt" originalKey="2956899514">XM98 “破晓者”</str>
-  <str key="3517041958-ucdt" type="ucdt" originalKey="3517041958">NC14 “破晓者”</str>
-  <str key="3609203717-ucdt" type="ucdt" originalKey="3609203717">SR-100 “破晓者”</str>
-  <str key="3773916947-ucdt" type="ucdt" originalKey="3773916947">能量钉刺4</str>
-  <str key="3875834405-ucdt" type="ucdt" originalKey="3875834405">浩劫</str>
+  <str key="92567098-ucdt" type="ucdt" originalKey="92567098">啟動一層護盾，能夠吸收最高2000 點傷害，持續2.5 秒。在此技能啟動期間，主砲直接命中目標將會對其造成殘損效果，使敵方載具在6 秒內無法被維修。每22 秒可啟動一次。</str>
+  <str key="204553241-ucdt" type="ucdt" originalKey="204553241">護盾</str>
+  <str key="384592510-ucdt" type="ucdt" originalKey="384592510">短時護盾</str>
+  <str key="475761326-ucdt" type="ucdt" originalKey="475761326">NS-66 “煉金術師”懲罰者</str>
+  <str key="641246694-ucdt" type="ucdt" originalKey="641246694">護盾</str>
+  <str key="740532470-ucdt" type="ucdt" originalKey="740532470">NS-R3 “破曉之刺”蜂群</str>
+  <str key="776100209-ucdt" type="ucdt" originalKey="776100209">腐蝕助攻</str>
+  <str key="859019721-ucdt" type="ucdt" originalKey="859019721">護盾</str>
+  <str key="859867291-ucdt" type="ucdt" originalKey="859867291">腐蝕助攻：工蟻</str>
+  <str key="887769416-ucdt" type="ucdt" originalKey="887769416">護盾</str>
+  <str key="1017911728-ucdt" type="ucdt" originalKey="1017911728">負場數</str>
+  <str key="1169940159-ucdt" type="ucdt" originalKey="1169940159">護盾</str>
+  <str key="1196727291-ucdt" type="ucdt" originalKey="1196727291">M77-B “破曉者”</str>
+  <str key="1344490666-ucdt" type="ucdt" originalKey="1344490666">小隊腐蝕助攻</str>
+  <str key="1399364502-ucdt" type="ucdt" originalKey="1399364502">勝場數</str>
+  <str key="1471614383-ucdt" type="ucdt" originalKey="1471614383">能量激增 3 級</str>
+  <str key="1508112017-ucdt" type="ucdt" originalKey="1508112017">能量激增</str>
+  <str key="1800570911-ucdt" type="ucdt" originalKey="1800570911">決勝點數</str>
+  <str key="1808017255-ucdt" type="ucdt" originalKey="1808017255">啟動一層護盾，能夠吸收最高 2000 點傷害，持續 2.5 秒。在此技能啟動期間，主砲直接命中目標將會對其造成殘損效果，使敵方載具在 6 秒內無法被維修。每 30 秒可啟動一次。</str>
+  <str key="1861837734-ucdt" type="ucdt" originalKey="1861837734">啟動一層護盾，能夠吸收最高 2000 點傷害，持續 2.5 秒。在此技能激活期間，主砲直接命中目標將會對其造成殘損效果，使敵方載具在 6 秒內無法被維修。每 20 秒可啟動一次。</str>
+  <str key="2147614974-ucdt" type="ucdt" originalKey="2147614974">能量激增 2 級</str>
+  <str key="2282404909-ucdt" type="ucdt" originalKey="2282404909">你目前不能退出觀察者模式。</str>
+  <str key="2574108254-ucdt" type="ucdt" originalKey="2574108254">護盾</str>
+  <str key="2694822722-ucdt" type="ucdt" originalKey="2694822722">前往設定</str>
+  <str key="2956899514-ucdt" type="ucdt" originalKey="2956899514">XM98 “破曉者”</str>
+  <str key="3517041958-ucdt" type="ucdt" originalKey="3517041958">NC14 “破曉者”</str>
+  <str key="3609203717-ucdt" type="ucdt" originalKey="3609203717">SR-100 “破曉者”</str>
+  <str key="3773916947-ucdt" type="ucdt" originalKey="3773916947">能量激增 4 級</str>
+  <str key="3875834405-ucdt" type="ucdt" originalKey="3875834405">殘損</str>
   <str key="3887338795-ucdt" type="ucdt" originalKey="3887338795">滑行</str>
-  <str key="3989512166-ucdt" type="ucdt" originalKey="3989512166">开启一个持续2.5秒的护盾，最多吸收2000伤害。在技能发动期间，主炮将会对直接命中的目标造成浩劫状态，使敌方车辆在6秒内处于不可修复状态。每25秒可发动一次。</str>
-  <str key="4057073126-ucdt" type="ucdt" originalKey="4057073126">瞬间阻档来袭的伤害，并为主炮装载浩劫载荷。</str>
-  <str key="4228461942-ucdt" type="ucdt" originalKey="4228461942">能量钉刺1</str>
+  <str key="3989512166-ucdt" type="ucdt" originalKey="3989512166">啟動一層護盾，能夠吸收最高 2000 點傷害，持續2.5 秒。在此技能啟動期間，主砲直接命中目標將會對其造成殘損效果，使敵方載具在 6 秒內無法被維修。每 25 秒可啟動一次。</str>
+  <str key="4057073126-ucdt" type="ucdt" originalKey="4057073126">短暫地抵擋受到的傷害，並為主砲裝填一發殘損彈藥。</str>
+  <str key="4228461942-ucdt" type="ucdt" originalKey="4228461942">能量激增 1 級</str>
+  <str key="626512253-ugdt" type="ugdt" originalKey="626512253">能量激增 2 級</str>
+  <str key="645553391-ugdt" type="ugdt" originalKey="645553391">NS-R3 “破曉之刺”蜂群</str>
+  <str key="916328915-ugdt" type="ugdt" originalKey="916328915">M77-B “破曉者”</str>
+  <str key="990577251-ugdt" type="ugdt" originalKey="990577251">JGX11</str>
+  <str key="349493567-ugdt" type="ugdt" originalKey="349493567">拉里翁 LPPC 輕型粒子炮</str>
+  <str key="1593452739-ugdt" type="ugdt" originalKey="1593452739">P4-120 王蛇</str>
+  <str key="1594632069-ugdt" type="ugdt" originalKey="1594632069">XM98 “破曉者”</str>
+  <str key="1978380871-ugdt" type="ugdt" originalKey="1978380871">L-VXC 近期點</str>
+  <str key="2009223890-ugdt" type="ugdt" originalKey="2009223890">能量激增 4 級</str>
+  <str key="2252003477-ugdt" type="ugdt" originalKey="2252003477">L2-100 王蛇</str>
+  <str key="2310574017-ugdt" type="ugdt" originalKey="2310574017">NS-66 “煉金術師”懲罰者</str>
+  <str key="2472092641-ugdt" type="ugdt" originalKey="2472092641">NC14 “破曉者”</str>
+  <str key="3302455051-ugdt" type="ugdt" originalKey="3302455051">能量激增 3 級</str>
+  <str key="3817709601-ugdt" type="ugdt" originalKey="3817709601">VXC 近日點</str>
+  <str key="3909672762-ugdt" type="ugdt" originalKey="3909672762">能量激增 1 級</str>
+  <str key="4202544602-ugdt" type="ugdt" originalKey="4202544602">SR-100 “破曉者”</str>
 </root>
