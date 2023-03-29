@@ -236,7 +236,7 @@
   <str key="3883715162-ucdt" type="ucdt" originalKey="3883715162">v1.0.2</str>
   <str key="3883722534-ucdt" type="ucdt" originalKey="3883722534">&lt;font color="#00FFAA"&gt;Campner&lt;/font&gt; A melee weapon is needed to sever the glowing core from the rest of the plant, this is the portion you must deliver to us for study.</str>
   <str key="3883784193-ucdt" type="ucdt" originalKey="3883784193">Reaver Peregrine Armor</str>
-  <str key="3883870028-ucdt" type="ucdt" originalKey="3883870028">Replaces 20% of the Vanguard's health with a fast regenerating shield layer. This shield has a 6 second recharge delay upon receiving damage, and a 15 second delay when broken. Regenerates 100 shield health per second.</str>
+  <str key="3883870028-ucdt" type="ucdt" originalKey="3883870028">Replaces 20% of the Vanguard's health with a fast regenerating shield layer. This shield recharges at 100 shield health per second, and damage taken will interrupt the shield's recharge for 6 seconds. Additionally, activating a Vanguard Utility will restore 500 shield health immediately.</str>
   <str key="3883946089-ucdt" type="ucdt" originalKey="3883946089">5 Years of Liberty Armor Decal</str>
   <str key="3883987720-ucdt" type="ucdt" originalKey="3883987720">Halloween Event: Crafting Item 01 Description</str>
   <str key="3883997962-ucdt" type="ucdt" originalKey="3883997962">Extra Frag Grenade</str>
@@ -361,7 +361,7 @@
   <str key="3894603078-ugdt" type="ugdt" originalKey="3894603078">Gold Crosshair Hood Ornament</str>
   <str key="3894651765-ucdt" type="ucdt" originalKey="3894651765">This gold-trimmed full helmet is awarded for completion of the Exceptional V directive.</str>
   <str key="3894713470-ucdt" type="ucdt" originalKey="3894713470">T2 Striker Extra Rockets</str>
-  <str key="3894799087-ucdt" type="ucdt" originalKey="3894799087">Upon being revived, damage taken is reduced by 20% for 3.5 seconds. &lt;font color="#dc9c36"&gt;MAX units can equip.&lt;/font&gt;</str>
+  <str key="3894799087-ucdt" type="ucdt" originalKey="3894799087">Upon being revived, damage taken is reduced by 20% for 3.5 seconds.</str>
   <str key="3894819177-ucdt" type="ucdt" originalKey="3894819177">Avalanche Armor Camo</str>
   <str key="3894936838-ucdt" type="ucdt" originalKey="3894936838">Legacy - Battle Hardened 2</str>
   <str key="3895240098-ucdt" type="ucdt" originalKey="3895240098">Daum Billboard 4 Description</str>

@@ -468,7 +468,7 @@
   <str key="2912238467-ucdt" type="ucdt" originalKey="2912238467">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; I have been informed that there is a signal that can be received in the vacinity of the Shattered Warpgate. Your assistance is requested in acquiring its origin.</str>
   <str key="2912299637-ucdt" type="ucdt" originalKey="2912299637">This customization adds a Light Green decal to the cockpit glass. VS use only.</str>
   <str key="2912356477-ucdt" type="ucdt" originalKey="2912356477">Repair?</str>
-  <str key="2912600760-ucdt" type="ucdt" originalKey="2912600760">Replaces 20% of the Vanguard's health with a fast regenerating shield layer. This shield has a 6 second recharge delay upon receiving damage, and a 12 second delay when broken. Regenerates 100 shield health per second.</str>
+  <str key="2912600760-ucdt" type="ucdt" originalKey="2912600760">Replaces 20% of the Vanguard's health with a fast regenerating shield layer. This shield recharges at 150 shield health per second, and damage taken will interrupt the shield's recharge for 6 seconds. Additionally, activating a Vanguard Utility will restore 500 shield health immediately.</str>
   <str key="2912665228-ucdt" type="ucdt" originalKey="2912665228">Grenade Printer</str>
   <str key="2912701171-ugdt" type="ugdt" originalKey="2912701171">Single Use Indar Dunes Camo</str>
   <str key="2912757235-ucdt" type="ucdt" originalKey="2912757235">Decreases the time taken to reload weapon by 0.12 seconds.</str>

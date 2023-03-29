@@ -233,7 +233,7 @@
   <str key="3795343504-ucdt" type="ucdt" originalKey="3795343504">Further reduces the amount of damage taken from explosions.</str>
   <str key="3795372634-ugdt" type="ugdt" originalKey="3795372634">Harasser Hydra Cooler Grill</str>
   <str key="3795513516-ucdt" type="ucdt" originalKey="3795513516">Decreases the time needed to reload weapon by 10%</str>
-  <str key="3795725385-ucdt" type="ucdt" originalKey="3795725385">Replaces 20% of the Vanguard's health with a fast regenerating shield layer. This shield has a 6 second recharge delay upon receiving damage, and a 10 second delay when broken. Regenerates 100 shield health per second.</str>
+  <str key="3795725385-ucdt" type="ucdt" originalKey="3795725385">Replaces 20% of the Vanguard's health with a fast regenerating shield layer. This shield recharges at 200 shield health per second, and damage taken will interrupt the shield's recharge for 6 seconds. Additionally, activating a Vanguard Utility will restore 500 shield health immediately.</str>
   <str key="3795973572-ucdt" type="ucdt" originalKey="3795973572">Mosquito Witch Horn</str>
   <str key="3796021876-ucdt" type="ucdt" originalKey="3796021876">Heavier fighting is indicated by more hotspots.</str>
   <str key="3796030380-ucdt" type="ucdt" originalKey="3796030380">Expend more outfit resources to instantly complete this War Asset.</str>

@@ -494,7 +494,7 @@
   <str key="2511780947-ucdt" type="ucdt" originalKey="2511780947">Defend the Shield Console in the Medical Wing</str>
   <str key="2511840785-ucdt" type="ucdt" originalKey="2511840785">NC Gold Hood Ornament</str>
   <str key="2511855176-ucdt" type="ucdt" originalKey="2511855176">Melee kills charge NMG capacitor</str>
-  <str key="2511917447-ucdt" type="ucdt" originalKey="2511917447">Replaces 20% of the Vanguard's health with a fast regenerating shield layer. This shield has a 6 second recharge delay upon receiving damage, and a 11 second delay when broken. Regenerates 100 shield health per second.</str>
+  <str key="2511917447-ucdt" type="ucdt" originalKey="2511917447">Replaces 20% of the Vanguard's health with a fast regenerating shield layer. This shield recharges at 175 shield health per second, and damage taken will interrupt the shield's recharge for 6 seconds. Additionally, activating a Vanguard Utility will restore 500 shield health immediately.</str>
   <str key="2512022198-ucdt" type="ucdt" originalKey="2512022198">NCM2 Falcon: Gold Medal</str>
   <str key="2512082879-ucdt" type="ucdt" originalKey="2512082879">Turret Sensitivity</str>
   <str key="2512271334-ucdt" type="ucdt" originalKey="2512271334">Test FTE</str>
@@ -800,7 +800,7 @@
   <str key="2535235189-ucdt" type="ucdt" originalKey="2535235189">Hack NC Biolab console</str>
   <str key="2535442072-ucdt" type="ucdt" originalKey="2535442072">Repair Drone 2</str>
   <str key="2535451599-ucdt" type="ucdt" originalKey="2535451599">Apply the single use Digital camo pattern to your weapon. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
-  <str key="2535535348-ucdt" type="ucdt" originalKey="2535535348">Activate to override the Defector's cooling system regulators turning it into a walking bomb that explodes at the end of 12 seconds. While active, you gain 36% additional armor, lose 10% movement speed, and weapons no longer produce heat. If killed before the countdown is complete, you will be defused.</str>
+  <str key="2535535348-ucdt" type="ucdt" originalKey="2535535348">Activate to override the Defector's cooling system regulators turning it into a walking bomb that explodes at the end of 12 seconds, dealing heavy damage to you and nearby enemies. While active, you gain 36% additional armor, lose 10% movement speed, and weapons no longer produce heat. If killed before the countdown is complete, you will be defused.</str>
   <str key="2535535923-ucdt" type="ucdt" originalKey="2535535923">This controls the maximum number of sounds that can be playing at the same time. A higher value may result in a richer soundscape, but may also decrease performance. (Default 128)</str>
   <str key="2535555772-ucdt" type="ucdt" originalKey="2535555772">Apply the single use Northern Forest camo pattern to your vehicle. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
   <str key="2535581600-ugdt" type="ugdt" originalKey="2535581600">TR Combat Medic</str>
