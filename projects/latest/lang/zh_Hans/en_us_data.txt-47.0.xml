@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <str key="3864544131-ucdt" type="ucdt" originalKey="3864544131">[*faction*]占领了所有电力中心 +[*points*] 战果！</str>
   <str key="3864565971-ucdt" type="ucdt" originalKey="3864565971">在回收的决裂者、银河或女武神上获得重生经验值</str>
@@ -236,7 +235,7 @@
   <str key="3883715162-ucdt" type="ucdt" originalKey="3883715162">v1.0.2</str>
   <str key="3883722534-ucdt" type="ucdt" originalKey="3883722534">&lt;font color="#00FFAA"&gt;坎普纳&lt;/font&gt;需要一件近战武器来将发光核心与植株的其余部分分离，你必须将这部分运送给我们做研究用。</str>
   <str key="3883784193-ucdt" type="ucdt" originalKey="3883784193">海盗战机游隼装甲</str>
-  <str key="3883870028-ucdt" type="ucdt" originalKey="3883870028">将先驱生命值的 20% 替换为一层可快速恢复的护盾。这层护盾在受到伤害后延迟 6 秒开始恢复，护盾完全破碎时会延迟 15 秒开始恢复。每秒恢复 100 点护盾值。</str>
+  <str key="3883870028-ucdt" type="ucdt" originalKey="3883870028">将先驱生命值的 20% 替换为一层可快速恢复的护盾。这层护盾每秒恢复 100点，受到伤害时会在 6 秒内中断护盾恢复。另外，激活先驱功能会立刻恢复 500 点护盾值。</str>
   <str key="3883946089-ucdt" type="ucdt" originalKey="3883946089">自由五周年装甲贴花</str>
   <str key="3883987720-ucdt" type="ucdt" originalKey="3883987720">万圣节活动：制作中物品 01 描述</str>
   <str key="3883997962-ucdt" type="ucdt" originalKey="3883997962">破片手雷额外携带量</str>
@@ -361,7 +360,7 @@
   <str key="3894603078-ugdt" type="ugdt" originalKey="3894603078">金色十字线车标</str>
   <str key="3894651765-ucdt" type="ucdt" originalKey="3894651765">完成“非凡 V”成就即可获得这顶镶金的全盔作为奖励。</str>
   <str key="3894713470-ucdt" type="ucdt" originalKey="3894713470">携带更多的 T2 撞针火箭弹</str>
-  <str key="3894799087-ucdt" type="ucdt" originalKey="3894799087">被复活后，在 3.5 秒内受到的伤害降低 20%。&lt;font color="#dc9c36"&gt;MAX 机甲也可装备。&lt;/font&gt;</str>
+  <str key="3894799087-ucdt" type="ucdt" originalKey="3894799087">被复活后，在 3.5 秒内受到的伤害降低 20%。</str>
   <str key="3894819177-ucdt" type="ucdt" originalKey="3894819177">雪崩装甲迷彩</str>
   <str key="3894936838-ucdt" type="ucdt" originalKey="3894936838">旧版-钢铁之躯 2</str>
   <str key="3895240098-ucdt" type="ucdt" originalKey="3895240098">Daum公告牌 4 描述</str>
