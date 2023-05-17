@@ -21,7 +21,7 @@ Change classes to Heavy Assault.</str>
   <str key="893318186-ucdt" type="ucdt" originalKey="893318186">Dev Decal</str>
   <str key="893395197-ugdt" type="ugdt" originalKey="893395197">Arcanus 3 Decal</str>
   <str key="893488531-ucdt" type="ucdt" originalKey="893488531">Not today, not any day.</str>
-  <str key="893518296-ucdt" type="ucdt" originalKey="893518296">Cortium Bomb</str>
+  <str key="893518296-ucdt" type="ucdt" originalKey="893518296">Cortium Bomb Module</str>
   <str key="893548620-ucdt" type="ucdt" originalKey="893548620">Cracked Earth Weapon Camo</str>
   <str key="893615024-ucdt" type="ucdt" originalKey="893615024">Decreases the time taken to reload weapon by 0.4 seconds.</str>
   <str key="893664860-ucdt" type="ucdt" originalKey="893664860">Xiphos: Silver Medal</str>
@@ -435,7 +435,7 @@ Change classes to Heavy Assault.</str>
   <str key="930056351-ugdt" type="ugdt" originalKey="930056351">Alpha Squad Decal</str>
   <str key="930128202-ucdt" type="ucdt" originalKey="930128202">Passenger Kill Share - Sunderer</str>
   <str key="930178758-ucdt" type="ucdt" originalKey="930178758">Increases the maximum ammo capacity of the weapon by 450 rounds.</str>
-  <str key="930183785-ucdt" type="ucdt" originalKey="930183785">A Vanu Sovereignty anti-personnel Proximity Mine that detonates upon detecting nearby enemy movement.</str>
+  <str key="930183785-ucdt" type="ucdt" originalKey="930183785">A Vanu Sovereignty anti-infantry Proximity Mine that detonates upon detecting nearby enemy movement.</str>
   <str key="930189876-ucdt" type="ucdt" originalKey="930189876">NS Annihilator </str>
   <str key="930260835-ucdt" type="ucdt" originalKey="930260835">This top-mounted mining laser allows a gunner to quickly harvest additional Cortium and siege enemy structures, but sacrifices defensive capabilities to do so.</str>
   <str key="930302401-ucdt" type="ucdt" originalKey="930302401">REPAIR</str>
@@ -480,7 +480,7 @@ Change classes to Heavy Assault.</str>
   <str key="933241486-ucdt" type="ucdt" originalKey="933241486">Esamir Ice Camo</str>
   <str key="933319888-ucdt" type="ucdt" originalKey="933319888">We've lost the facility!</str>
   <str key="933438358-ucdt" type="ucdt" originalKey="933438358">Capturing this  node is the primary objective.</str>
-  <str key="933447560-ucdt" type="ucdt" originalKey="933447560">MANA Anti-Personnel Turret: Gold Medal</str>
+  <str key="933447560-ucdt" type="ucdt" originalKey="933447560">MANA Anti-Infantry Turret: Gold Medal</str>
   <str key="933493894-ucdt" type="ucdt" originalKey="933493894">Binusilan Interlink</str>
   <str key="933561690-ucdt" type="ucdt" originalKey="933561690">6th Anniversary Sovereignty Horn</str>
   <str key="933614565-ucdt" type="ucdt" originalKey="933614565">FACILITY LOST</str>
@@ -578,7 +578,7 @@ Change classes to Heavy Assault.</str>
   <str key="941538462-ucdt" type="ucdt" originalKey="941538462">Lightning Pro Bundle</str>
   <str key="941548348-ucdt" type="ucdt" originalKey="941548348">Control</str>
   <str key="941673454-ucdt" type="ucdt" originalKey="941673454">Apply the Lightning Strike camo pattern to your armor. TR use only.</str>
-  <str key="941845866-ucdt" type="ucdt" originalKey="941845866">A New Conglomerate anti-personnel Bouncing Betty that detonates upon detecting nearby enemy movement.</str>
+  <str key="941845866-ucdt" type="ucdt" originalKey="941845866">A New Conglomerate anti-infantry Bouncing Betty that detonates upon detecting nearby enemy movement.</str>
   <str key="941998794-ucdt" type="ucdt" originalKey="941998794">Oprativ Hepl!</str>
   <str key="942276375-ucdt" type="ucdt" originalKey="942276375">Spot Bonus</str>
   <str key="942394456-ugdt" type="ugdt" originalKey="942394456">Umbra Helmet</str>
@@ -621,7 +621,7 @@ Change classes to Heavy Assault.</str>
   <str key="945267757-ucdt" type="ucdt" originalKey="945267757">Sound</str>
   <str key="945270869-ucdt" type="ucdt" originalKey="945270869">Increases the maximum ammo capacity of the weapon by 150 rounds.</str>
   <str key="945326880-ucdt" type="ucdt" originalKey="945326880">Despite constant reminders that tampering with equipment is against corporate policy, overclocking the XMG-100's trigger system to enable higher refire rates became a common, if frowned upon practice for field operatives.</str>
-  <str key="945373876-ucdt" type="ucdt" originalKey="945373876">Anti-Personnel mines that explode in the presence of nearby enemy soldiers</str>
+  <str key="945373876-ucdt" type="ucdt" originalKey="945373876">Anti-Infantry mines that explode in the presence of nearby enemy soldiers</str>
   <str key="945375067-ucdt" type="ucdt" originalKey="945375067">Increases the maximum ammo capacity of the weapon by 175 rounds.</str>
   <str key="945427160-ucdt" type="ucdt" originalKey="945427160">Saved</str>
   <str key="945501123-ucdt" type="ucdt" originalKey="945501123">Earn this ribbon by blocking damage that leads to kills.</str>
@@ -927,7 +927,7 @@ Change classes to Heavy Assault.</str>
   <str key="969099008-ucdt" type="ucdt" originalKey="969099008">This facility now belongs to the VS!</str>
   <str key="969137409-ucdt" type="ucdt" originalKey="969137409">One-Year Anniversary Launch</str>
   <str key="969150784-ucdt" type="ucdt" originalKey="969150784">Reload time when the weapon is empty&lt;br&gt;Reload time when the weapon has ammo</str>
-  <str key="969206770-ucdt" type="ucdt" originalKey="969206770">Aim at a location you want the orbital strike to hit.  Must maintain fire for several seconds to establish a target.</str>
+  <str key="969206770-ucdt" type="ucdt" originalKey="969206770">Aim at a location you want the orbital strike to hit.  Must maintain fire for several seconds to establish a target. Each tool is linked to and can only be targeted by the Orbital Strike Uplink it is pulled from.</str>
   <str key="969218029-ugdt" type="ugdt" originalKey="969218029">Koltyr</str>
   <str key="969260780-ucdt" type="ucdt" originalKey="969260780">v0.7.7</str>
   <str key="969276667-ugdt" type="ugdt" originalKey="969276667">Galaxy Intake</str>
