@@ -120,7 +120,7 @@
   <str key="2053300883-ucdt" type="ucdt" originalKey="2053300883">模块无法过载</str>
   <str key="2064936305-ucdt" type="ucdt" originalKey="2064936305">训练日：防御工事</str>
   <str key="2066652822-ucdt" type="ucdt" originalKey="2066652822">"苍穹" SMG-46 Armistice</str>
-  <str key="2067213825-ucdt" type="ucdt" originalKey="2067213825">允许你使用Cortium建造一座步兵可以使用的雨棚结构。</str>
+  <str key="2067213825-ucdt" type="ucdt" originalKey="2067213825">允许你使用钶金建造一座步兵可以使用的天蓬结构。</str>
   <str key="2073945552-ucdt" type="ucdt" originalKey="2073945552">角斗士品牌的反射式光学瞄准镜不提供放大效果，但配备了适合近距离作战的高清红点瞄准器。</str>
   <str key="2083453687-ucdt" type="ucdt" originalKey="2083453687">按住[%s]键替换模块</str>
   <str key="2086527353-ucdt" type="ucdt" originalKey="2086527353">指挥中心设计图</str>
@@ -248,7 +248,7 @@
   <str key="108375268-ucdt" type="ucdt" originalKey="108375268">炮台智能自动模块</str>
   <str key="116656963-ucdt" type="ucdt" originalKey="116656963">建造区块</str>
   <str key="272954401-ugdt" type="ugdt" originalKey="272954401">双刃剑反步兵方阵炮塔</str>
-  <str key="459622800-ugdt" type="ugdt" originalKey="459622800">痛苦尖塔</str>
+  <str key="459622800-ugdt" type="ugdt" originalKey="459622800">岗哨中继</str>
   <str key="506437956-ugdt" type="ugdt" originalKey="506437956">步兵天篷</str>
   <str key="561303055-ugdt" type="ugdt" originalKey="561303055">引力电梯</str>
   <str key="563769889-ugdt" type="ugdt" originalKey="563769889">重型修复模块</str>
@@ -284,11 +284,38 @@
   <str key="3628362984-ucdt" type="ucdt" originalKey="3628362984">Apex 猎杀者</str>
   <str key="3695840798-ugdt" type="ugdt" originalKey="3695840798">痛苦尖塔证书退款</str>
   <str key="3685139447-ugdt" type="ugdt" originalKey="3685139447">“收割者兜帽”头盔</str>
-  <str key="3666168203-ugdt" type="ugdt" originalKey="3666168203">步兵瞭望台</str>
+  <str key="3666168203-ugdt" type="ugdt" originalKey="3666168203">步兵天蓬</str>
   <str key="3922081529-ugdt" type="ugdt" originalKey="3922081529">步兵隧道</str>
   <str key="4065025061-ugdt" type="ugdt" originalKey="4065025061">MANA 反步兵炮塔</str>
   <str key="4059867490-ugdt" type="ugdt" originalKey="4059867490">双刃剑反步兵炮塔</str>
   <str key="4045788389-ucdt" type="ucdt" originalKey="4045788389">使用“尖端”系列武器完成击杀。</str>
   <str key="4015273434-ugdt" type="ugdt" originalKey="4015273434">轨道打击发信站指引激光</str>
   <str key="4011418323-ugdt" type="ugdt" originalKey="4011418323">钶金修复模块</str>
+  <str key="1959715636-ucdt" type="ucdt" originalKey="1959715636">瞄准你希望连枷打击的地方。必须保持开火状态几秒后才能建立目标。每个工具都链接到对应的连枷，并且只能用于引导该连枷对目标进行打击。</str>
+  <str key="1842167406-ucdt" type="ucdt" originalKey="1842167406">通过占领和守卫控制台，并在崩坏警报期间杀死周围的敌人的方式获取绶带。</str>
+  <str key="1848838023-ugdt" type="ugdt" originalKey="1848838023">防弹护盾模块</str>
+  <str key="1864755951-ugdt" type="ugdt" originalKey="1864755951">窄壁垒墙</str>
+  <str key="1925436701-ugdt" type="ugdt" originalKey="1925436701">神枪手头盔</str>
+  <str key="1958575569-ugdt" type="ugdt" originalKey="1958575569">NS-D 赫利俄斯 EX</str>
+  <str key="2644813158-ucdt" type="ucdt" originalKey="2644813158">轨道打击发信站指引激光</str>
+  <str key="2642972691-ucdt" type="ucdt" originalKey="2642972691">通过治疗队友或者修理他们的建筑、部署物或者载具来获得这个绶带。</str>
+  <str key="2585756563-ucdt" type="ucdt" originalKey="2585756563">行星边际周年纪念</str>
+  <str key="2517054515-ugdt" type="ugdt" originalKey="2517054515">纳能风暴</str>
+  <str key="2683513786-ugdt" type="ugdt" originalKey="2683513786">GlaR （ 3.4 倍）</str>
+  <str key="2676671896-ucdt" type="ucdt" originalKey="2676671896">维持战线</str>
+  <str key="2672617794-ucdt" type="ucdt" originalKey="2672617794">在大陆熔毁警报期间获得击杀。</str>
+  <str key="2666107536-ucdt" type="ucdt" originalKey="2666107536">风暴骑士</str>
+  <str key="2799937007-ugdt" type="ugdt" originalKey="2799937007">载具桥梁</str>
+  <str key="2799433491-ugdt" type="ugdt" originalKey="2799433491">装备终端模块</str>
+  <str key="2879166642-ugdt" type="ugdt" originalKey="2879166642">“幽灵水手帽”头盔</str>
+  <str key="2877273079-ucdt" type="ucdt" originalKey="2877273079">瞄准你想要轨道打击所击中的位置。指引激光必须保持射击数秒以确定目标。每个工具都链接到对应的轨道打击发信站，并且只能用于该发信站中引导发射轨道打击。</str>
+  <str key="3135974170-ugdt" type="ugdt" originalKey="3135974170">“Apex” SMG-46 和平使者</str>
+  <str key="3066865074-ugdt" type="ugdt" originalKey="3066865074">GlaR（ 1 倍）</str>
+  <str key="3449911414-ugdt" type="ugdt" originalKey="3449911414">“尖端” SX5 波江座</str>
+  <str key="3294951117-ucdt" type="ucdt" originalKey="3294951117">连枷指引激光</str>
+  <str key="3286719709-ugdt" type="ugdt" originalKey="3286719709">侦查阵列</str>
+  <str key="3259696881-ugdt" type="ugdt" originalKey="3259696881">指挥中心</str>
+  <str key="3236523442-ugdt" type="ugdt" originalKey="3236523442">军团背景横幅</str>
+  <str key="3233228732-ugdt" type="ugdt" originalKey="3233228732">钶金炸弹模块</str>
+  <str key="3597076022-ugdt" type="ugdt" originalKey="3597076022">炮台智能自动模块</str>
 </root>
