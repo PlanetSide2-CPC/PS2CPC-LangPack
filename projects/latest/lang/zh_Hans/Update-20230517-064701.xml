@@ -1,83 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
-  <str key="23455964-ucdt" type="ucdt" originalKey="23455964">由声称从未失手的雇佣兵军团推广的瞄准用头盔。</str>
+  <str key="23455964-ucdt" type="ucdt" originalKey="23455964">由声称从未失手的雇佣兵军团推广的瞄准头盔。</str>
   <str key="38550826-ucdt" type="ucdt" originalKey="38550826">墙</str>
-  <str key="59584669-ucdt" type="ucdt" originalKey="59584669">L20 Dragon：金质勋章</str>
+  <str key="59584669-ucdt" type="ucdt" originalKey="59584669">NS-D 赫利俄斯：金质勋章</str>
   <str key="71645742-ucdt" type="ucdt" originalKey="71645742">室内</str>
-  <str key="72272881-ucdt" type="ucdt" originalKey="72272881">感谢你选择Nascent Expeditions来满足你所有的采矿和采购需求! 请和我们一起观看由我们制作的关于建造的三集系列短片的最后一集，我们将学习如何用建筑模块来加强我们的防御工事。</str>
-  <str key="86023573-ucdt" type="ucdt" originalKey="86023573">Cortium钻机</str>
-  <str key="96051936-ucdt" type="ucdt" originalKey="96051936">含有5000个Cortium，可以为需要Cortium才能运作的结构补充原料。</str>
-  <str key="115241887-ucdt" type="ucdt" originalKey="115241887">在一座载具终端里召唤一辆ANT。</str>
+  <str key="72272881-ucdt" type="ucdt" originalKey="72272881">感谢你选择先前远征队来满足你所有的采矿和采购需求! 请和我们一起观看由我们制作的建造三部曲系列短片的最后一部分，我们将学习如何用建筑模块来加强我们的防御工事。</str>
+  <str key="86023573-ucdt" type="ucdt" originalKey="86023573">钶金钻机</str>
+  <str key="96051936-ucdt" type="ucdt" originalKey="96051936">含有 5000 个钶金，可以补充需要运作的结构中使用的钶金。</str>
+  <str key="115241887-ucdt" type="ucdt" originalKey="115241887">从一座载具终端里召唤一辆工蚁。 </str>
   <str key="117632736-ucdt" type="ucdt" originalKey="117632736">修复模块</str>
-  <str key="118186387-ucdt" type="ucdt" originalKey="118186387">可以让步兵借以照亮周围环境的一种光源。</str>
-  <str key="119517824-ucdt" type="ucdt" originalKey="119517824">&lt;font color="#00FFAA"&gt;Nalla：&lt;/font&gt;还有一些进攻性模块可以用来破坏敌人的基地。所以要警惕那些进入你基地又不安好心的人。</str>
-  <str key="121383798-ucdt" type="ucdt" originalKey="121383798">模块是供建筑物所用的专门附件，可以让建筑如虎添翼，增强其防御能力，并提供额外的功能。&lt;br&gt;&lt;br&gt;除非另有说明，一个模块的作用将持续，直到其被替换或容纳它的建筑被摧毁。&lt;br&gt;&lt;br&gt;标准模块&lt;ul&gt;&lt;li&gt;修复模块 - 随着时间的推移来修复建筑，并提高生命值上限。&lt;/li&gt;&lt;li&gt;防弹护盾模块 - 为建筑的入口和窗户提供防护，步兵可以通过，但炮弹则不能。&lt;/li&gt;&lt;li&gt;天壁护盾模块 - 为建筑撑起一把硬光保护伞，阻挡来自上方的炮弹。&lt;/li&gt;&lt;li&gt;防火墙模块 - 可以防止此建筑内的其它模块被过载，直至此模块被关闭。同时增加建筑的最大生命值。&lt;/li&gt;&lt;li&gt;设备终端模块 - 为此建筑提供一个无法被骇入的设备终端。&lt;/li&gt;&lt;li&gt;耐久模块 - 增加建筑的最大生命值&lt;/li&gt;&lt;li&gt;Cortium容量模块 - 增加建筑所能持有的最大Cortium容量&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;高压模块&lt;ul&gt;&lt;li&gt;重型修复模块 - 快速修复建筑并提升其最大生命值，持续时间有限。&lt;/li&gt;&lt;li&gt;要塞护盾模块 - 在建筑周围建起一个巨大的双向防弹护盾，持续时间有限。&lt;/li&gt;&lt;li&gt;散热模块 - 大幅减少炮塔在开火时的热量积累，同时增加其最大生命值。持续时间有限。&lt;/li&gt;&lt;li&gt;传感器扫描 - 提供中等范围内敌人的实时运动追踪信息。持续时间有限。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;维护模块&lt;ul&gt;&lt;li&gt;Cortium补给 - 补充需要消耗Cortium运作的建筑所耗费的Cortium，容量有限。&lt;/li&gt;&lt;li&gt;弹药模块 - 补充Glaive IPC或者Flail所耗费的弹药。每次射击都会消耗这个模块的子弹。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;进攻者模块&lt;ul&gt;&lt;li&gt;Cortium炸弹 - 在敌方建筑的模块插槽中安放一枚炸弹。在经过短暂计时后炸弹将引爆，对其所在的建筑造成严重伤害。&lt;/li&gt;&lt;li&gt;隧道蠕虫 - 这个模块在插入敌方建筑的插槽后，将一直阻止该建筑恢复生命值，直到该模块被移除或过期。持续时间有限。&lt;/li&gt;&lt;/ul&gt;</str>
-  <str key="166652764-ucdt" type="ucdt" originalKey="166652764">使结构的最大生命值增加8000。</str>
-  <str key="167460514-ucdt" type="ucdt" originalKey="167460514">光柱</str>
+  <str key="118186387-ucdt" type="ucdt" originalKey="118186387">步兵可以部署的一种照亮周围环境的光源。</str>
+  <str key="119517824-ucdt" type="ucdt" originalKey="119517824">&lt;font color="#00FFAA"&gt;纳拉：&lt;/font&gt;这里还有一些进攻性模块可以用来破坏敌人的基地。所以要警惕那些进入你基地又不安好心的人。</str>
+  <str key="121383798-ucdt" type="ucdt" originalKey="121383798">模块是供建筑物所用的专门附件，可以让建筑如虎添翼，增强其防御能力，并提供额外的功能。&lt;br&gt;&lt;br&gt;除非另有说明，一个模块的作用将持续生效，直到其被替换或容纳它的建筑被摧毁。&lt;br&gt;&lt;br&gt;标准模块&lt;ul&gt;&lt;li&gt;修复模块 - 随着时间的推移来修复建筑，并提高生命值上限。&lt;/li&gt;&lt;li&gt;投射护盾模块 - 为建筑的入口和窗户提供防护，步兵可以通过，但炮弹无法穿透。&lt;/li&gt;&lt;li&gt;天壁护盾模块 - 为建筑撑起一把硬光保护伞，阻挡来自上方的炮弹。&lt;/li&gt;&lt;li&gt;防火墙模块 - 可以防止此建筑内的其它模块被过载，直至此模块被关闭。同时增加建筑的最大生命值。&lt;/li&gt;&lt;li&gt;装备终端模块 - 为此建筑提供一个无法被破解的装备终端。&lt;/li&gt;&lt;li&gt;耐久模块 - 增加建筑的最大生命值&lt;/li&gt;&lt;li&gt;钶金容量模块 - 增加建筑所能持有的最大钶金容量&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;高压模块&lt;ul&gt;&lt;li&gt;重型修复模块 - 快速修复建筑并提升其最大生命值，持续时间有限。&lt;/li&gt;&lt;li&gt;堡垒护盾模块 - 在建筑周围建起一个巨大的双向防弹护盾，持续时间有限。&lt;/li&gt;&lt;li&gt;散热模块 - 大幅减少炮塔在开火时的热量积累，同时增加其最大生命值。持续时间有限。&lt;/li&gt;&lt;li&gt;传感器扫描 - 提供中等范围内敌人的实时运动追踪信息。持续时间有限。&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;攻击模块&lt;ul&gt;&lt;li&gt;钶金炸弹 - 在敌方建筑的模块插槽中安放一枚炸弹。在经过短暂计时后炸弹将引爆，对其所在的建筑造成严重伤害。&lt;/li&gt;&lt;li&gt;隧道蠕虫 - 这个模块在插入敌方建筑的插槽后，将一直阻止该建筑恢复生命值，直到该模块被移除或过期。持续时间有限。&lt;/li&gt;&lt;/ul&gt;</str>
+  <str key="166652764-ucdt" type="ucdt" originalKey="166652764">使结构的最大生命值增加 8000 点。</str>
+  <str key="167460514-ucdt" type="ucdt" originalKey="167460514">照明灯珠</str>
   <str key="179635406-ucdt" type="ucdt" originalKey="179635406">撑过纳能风暴</str>
-  <str key="180122878-ucdt" type="ucdt" originalKey="180122878">&lt;font color="#00FFAA"&gt;Nalla代表：&lt;/font&gt; Cortium筒仓是你收集到的Cortium的主要储存场所，同时也是你搭建好的基地的枢纽。它将消耗Cortium为你的其他建筑目标提供动力。</str>
-  <str key="181007178-ucdt" type="ucdt" originalKey="181007178">&lt;font color="#00FFAA"&gt;Nalla代表：&lt;/font&gt;嘿，你的Cortium筒仓被毁了。返回你的ANT终端处并再生成一个。提醒一下，如果你没有足够的Cortium进行购买的话，你就必须要再次采集Cortium。</str>
-  <str key="246402214-ucdt" type="ucdt" originalKey="246402214">按住[%s]键使模块过载</str>
+  <str key="180122878-ucdt" type="ucdt" originalKey="180122878">&lt;font color="#00FFAA"&gt;纳拉代表：&lt;/font&gt; 钶金矿仓是你收集到的钶金的主要储存场所，同时也是你搭建好的基地的枢纽。它将消耗钶金为你的其他建筑目标提供动力。</str>
+  <str key="181007178-ucdt" type="ucdt" originalKey="181007178">&lt;font color="#00FFAA"&gt;纳拉代表：&lt;/font&gt;嘿，你的钶金矿仓被摧毁了。返回你的工蚁终端处再部署一个吧。请记住，如果你没有足够的钶金进行购买的话，你就必须再去采集钶金。</str>
+  <str key="246402214-ucdt" type="ucdt" originalKey="246402214">按住 [%s] 键使模块过载</str>
   <str key="324982015-ucdt" type="ucdt" originalKey="324982015">模块已安装</str>
-  <str key="330884173-ucdt" type="ucdt" originalKey="330884173">&lt;font color="#00FFAA"&gt;Nalla代表：&lt;/font&gt; 前往Cortium筒仓，购买一座Xiphos反步兵方阵炮塔。该塔专门用于反步兵，但也可用于其他各种保护基地的手段。</str>
-  <str key="341561640-ucdt" type="ucdt" originalKey="341561640">建筑物的组装离不开一种叫做Cortium的致密晶体材料。在Auraxis的所有主大陆上都可以找到含有这种珍贵矿石的脆裂矿脉。&lt;br&gt;&lt;br&gt;Cortium只能通过安装在高级纳能运输载具上的特制激光获取。ANT能够消耗Cortium作为燃料来源，或将其储存的Cortium转移到Cortium筒仓，在那里可以用来创造更高级的建筑。</str>
+  <str key="330884173-ucdt" type="ucdt" originalKey="330884173">&lt;font color="#00FFAA"&gt;纳拉代表：&lt;/font&gt; 前往钶金矿仓，购买一座双刃剑反步兵方阵炮塔。该炮塔塔专门用于反步兵，但也可作为其他各种保护基地的手段。</str>
+  <str key="341561640-ucdt" type="ucdt" originalKey="341561640">建筑物的建造离不开一种叫做钶金的致密晶体材料。在奥拉西斯的所有主大陆上都可以找到含有这种珍贵矿石的脆裂矿脉。&lt;br&gt;&lt;br&gt;钶金只能通过安装在高级纳能运输载具（即 ANT，工蚁）上的特制激光获取。工蚁能够消耗钶金作为燃料，或将其储存的钶金转移到钶金矿仓，在那里可以用来创造更高级的建筑。</str>
   <str key="344765042-ucdt" type="ucdt" originalKey="344765042">训练日：建筑模块</str>
   <str key="345426467-ucdt" type="ucdt" originalKey="345426467">太近了</str>
-  <str key="353793123-ucdt" type="ucdt" originalKey="353793123">按住[%s]来拆卸Cortium炸弹</str>
-  <str key="357774657-ucdt" type="ucdt" originalKey="357774657">L20 Dragon：银质勋章</str>
-  <str key="385072205-ucdt" type="ucdt" originalKey="385072205">L20 Dragon EX：Auraxium勋章</str>
+  <str key="353793123-ucdt" type="ucdt" originalKey="353793123">按住 [%s] 来拆卸钶金炸弹</str>
+  <str key="357774657-ucdt" type="ucdt" originalKey="357774657">NS-D 赫利俄斯：银质勋章</str>
+  <str key="385072205-ucdt" type="ucdt" originalKey="385072205">NS-D 赫利俄斯 EX：奥星勋章</str>
   <str key="394646324-ucdt" type="ucdt" originalKey="394646324">无法在该位置投放轨道采矿钻机</str>
   <str key="405236208-ucdt" type="ucdt" originalKey="405236208">天壁护盾模块</str>
   <str key="417935685-ucdt" type="ucdt" originalKey="417935685">头衔：战地指挥官</str>
-  <str key="485161671-ucdt" type="ucdt" originalKey="485161671">L20 Dragon EX：银质勋章</str>
+  <str key="485161671-ucdt" type="ucdt" originalKey="485161671">NS-D 赫利俄斯 EX：银质勋章</str>
   <str key="490858444-ucdt" type="ucdt" originalKey="490858444">测试修复模块</str>
-  <str key="504581348-ucdt" type="ucdt" originalKey="504581348">GlaR（1倍）</str>
+  <str key="504581348-ucdt" type="ucdt" originalKey="504581348">GlaR（ 1 倍）</str>
   <str key="505050553-ucdt" type="ucdt" originalKey="505050553">重生中心设计图</str>
-  <str key="505064540-ucdt" type="ucdt" originalKey="505064540">允许你使用Cortium建造一座步兵可以使用的窄型壁墙。</str>
+  <str key="505064540-ucdt" type="ucdt" originalKey="505064540">允许你使用钶金建造一座步兵可以使用的窄型壁垒墙。</str>
   <str key="530481902-ucdt" type="ucdt" originalKey="530481902">过载被阻止</str>
-  <str key="599429348-ucdt" type="ucdt" originalKey="599429348">防御工事更新</str>
+  <str key="599429348-ucdt" type="ucdt" originalKey="599429348">筑城更新</str>
   <str key="604052619-ucdt" type="ucdt" originalKey="604052619">模块已过载</str>
   <str key="634633757-ucdt" type="ucdt" originalKey="634633757">建造可供步兵单位使用的地道结构。</str>
   <str key="739570723-ucdt" type="ucdt" originalKey="739570723">弹药模块</str>
-  <str key="744224817-ucdt" type="ucdt" originalKey="744224817">NSX融合之刃银质勋章</str>
-  <str key="753239066-ucdt" type="ucdt" originalKey="753239066">建造一座可供步兵单位使用的树架。</str>
+  <str key="744224817-ucdt" type="ucdt" originalKey="744224817">NSX 融合之刃 银质勋章</str>
+  <str key="753239066-ucdt" type="ucdt" originalKey="753239066">建造一座可供步兵单位使用的瞭望台。</str>
   <str key="754966286-ucdt" type="ucdt" originalKey="754966286">轨道采矿钻机</str>
-  <str key="755125103-ucdt" type="ucdt" originalKey="755125103">士兵们可以将采集到的Cortium通过Cortium筒仓或者已部署好的ANT上的控制台创造新的物品。大多数物品在组装之前都需要购买蓝图。&lt;br&gt;&lt;br&gt;一旦购买了蓝图，就可以通过消耗所需的Cortium开始建造最终的可放置物品。如果你持有的Cortium不足，也可以通过消耗证书点来绕过这个费用。</str>
-  <str key="758308518-ucdt" type="ucdt" originalKey="758308518">你好！我们是Nascent Expeditions，是Auraxis及其周边地区首屈一指的矿业及采购公司。和我们一起观看由我们制作的关于建造的三集系列短片的第一集，共同学习采集的技巧！</str>
-  <str key="758510152-ucdt" type="ucdt" originalKey="758510152">购买一个设备终端模块，并将其安装到碉堡的一个插槽中。</str>
+  <str key="755125103-ucdt" type="ucdt" originalKey="755125103">士兵们可以将采集到的钶金通过钶金矿仓或者已部署好的工蚁上的控制台创造新的物品。大多数物品在组装之前都需要购买蓝图。&lt;br&gt;&lt;br&gt;一旦购买了蓝图，就可以通过消耗所需的钶金开始建造最终的可放置物品。如果你持有的钶金不足，也可以通过消耗证书点来绕过这个费用。</str>
+  <str key="758308518-ucdt" type="ucdt" originalKey="758308518">你好！我们是先遣远征队，是奥拉西斯及其周边地区首屈一指的矿业及采购公司。和我们一起观看由我们制作的关于建造三部曲系列短片的第一集，共同学习采集的技巧！</str>
+  <str key="758510152-ucdt" type="ucdt" originalKey="758510152">购买一个装备终端模块，并将其安装到碉堡的一个插槽中。</str>
   <str key="775766826-ucdt" type="ucdt" originalKey="775766826">防爆门</str>
-  <str key="789411738-ucdt" type="ucdt" originalKey="789411738">"苍穹" AF-4 Cyclone</str>
-  <str key="822823927-ucdt" type="ucdt" originalKey="822823927">每秒修复结构最大生命值的2%，并使其最大生命值增加5000。持续60秒。</str>
+  <str key="789411738-ucdt" type="ucdt" originalKey="789411738">"尖端" AF-4 龙卷风</str>
+  <str key="822823927-ucdt" type="ucdt" originalKey="822823927">每秒修复结构最大生命值的 2%，并使其最大生命值增加 5000 点。持续 60 秒。</str>
   <str key="827753653-ucdt" type="ucdt" originalKey="827753653">利用在上一个任务中创建的壁垒墙，将修理模块放置于其中一个模块支架上。</str>
   <str key="853228242-ucdt" type="ucdt" originalKey="853228242">获得“战地指挥官”头衔。</str>
   <str key="904289850-ucdt" type="ucdt" originalKey="904289850">列夫生化实验室</str>
   <str key="916533525-ucdt" type="ucdt" originalKey="916533525">空</str>
   <str key="916974951-ucdt" type="ucdt" originalKey="916974951">纳能风暴</str>
-  <str key="920374497-ucdt" type="ucdt" originalKey="920374497">确定要购买%0？</str>
-  <str key="997218855-ucdt" type="ucdt" originalKey="997218855">模块可以在Cortium筒仓中的“模块”选项卡找到。</str>
+  <str key="920374497-ucdt" type="ucdt" originalKey="920374497">确定要购买 %0 吗？</str>
+  <str key="997218855-ucdt" type="ucdt" originalKey="997218855">模块可以在钶金矿仓中的“模块”选项卡找到。</str>
   <str key="997502633-ucdt" type="ucdt" originalKey="997502633">为结构提供无法被骇入的设备终端。</str>
   <str key="1002846512-ucdt" type="ucdt" originalKey="1002846512">按住以缓慢旋转</str>
-  <str key="1003061472-ucdt" type="ucdt" originalKey="1003061472">庆祝《PlanetSide》系列的20周年！这个礼包内包含为所有阵营准备的涂装，以及为Vanu Sovereignty、New Conglomerate和Terran Republic阵营准备的武器。英雄加成只能在进行购买的角色身上生效。</str>
-  <str key="1004816546-ucdt" type="ucdt" originalKey="1004816546">回到ANT中，在镜头对准筒仓时，按住“鼠标左键（默认）”以存放Cortium。</str>
-  <str key="1005367592-ucdt" type="ucdt" originalKey="1005367592">L20 Dragon EX：铜质勋章</str>
-  <str key="1023925621-ucdt" type="ucdt" originalKey="1023925621">GlaR（4倍）</str>
+  <str key="1003061472-ucdt" type="ucdt" originalKey="1003061472">庆祝《行星边际》系列 20 周年！这个礼包内包含了全阵营饰品以及为瓦努主权国、新联邦和地球共和国准备的武器。英雄加成只能在购买礼包的角色上生效。</str>
+  <str key="1004816546-ucdt" type="ucdt" originalKey="1004816546">回到工蚁中，在视角对准矿仓时，按住“鼠标左键（默认）”以存放钶金。</str>
+  <str key="1005367592-ucdt" type="ucdt" originalKey="1005367592">NS-D 赫利俄斯 EX：铜质勋章</str>
+  <str key="1023925621-ucdt" type="ucdt" originalKey="1023925621">GlaR（ 4 倍）</str>
   <str key="1033099869-ucdt" type="ucdt" originalKey="1033099869">猎人的休整</str>
   <str key="1037407792-ucdt" type="ucdt" originalKey="1037407792">消耗军团武器库中的一个轨道采矿钻机资源，并调动一台轨道采矿钻机到此位置。</str>
-  <str key="1050843969-ucdt" type="ucdt" originalKey="1050843969">极大减少炮塔在发射时的热量积累，并使其最大生命值增加2000。持续60秒。</str>
-  <str key="1097952849-ucdt" type="ucdt" originalKey="1097952849">防止结构中的其它模块过载，直到该模块被禁用。使结构的最大生命值增加2000。</str>
-  <str key="1098998139-ucdt" type="ucdt" originalKey="1098998139">&lt;font color="#00FFAA"&gt;Nalla：&lt;/font&gt;返回位于Cortium筒仓的终端处，建造一个修复模块。所有模块都能在建造终端中的模块选单找到。</str>
+  <str key="1050843969-ucdt" type="ucdt" originalKey="1050843969">极大减少炮塔在发射时的热量积累，并使其最大生命值增加 2000 点。持续 60 秒。</str>
+  <str key="1097952849-ucdt" type="ucdt" originalKey="1097952849">防止结构中的其它模块过载，直到该模块被禁用。使结构的最大生命值增加 2000 点。</str>
+  <str key="1098998139-ucdt" type="ucdt" originalKey="1098998139">&lt;font color="#00FFAA"&gt;纳拉：&lt;/font&gt;返回钶金矿仓上的终端处，建造一个修复模块。所有模块都能在建造终端中的模块菜单找到。</str>
   <str key="1107119303-ucdt" type="ucdt" originalKey="1107119303">模块已稳定</str>
-  <str key="1109775192-ucdt" type="ucdt" originalKey="1109775192">&lt;font size="28"&gt;建造系统已改头换面。&lt;br&gt;&lt;br&gt;&lt;ui&gt;&lt;li&gt;借由全新的&lt;font size="28" color="#ACE1E5"&gt;模块化&lt;/font&gt; 升级，让你的建筑更上一层楼。&lt;/li&gt;&lt;br&gt;&lt;li&gt;用&lt;font size="28" color="#ACE1E5"&gt;闪耀夺目&lt;/font&gt;的新玩意，深度定制属于你的基地。&lt;/li&gt;&lt;br&gt;&lt;li&gt;从位于&lt;font size="28" color="#ACE1E5"&gt;Sanctuary&lt;/font&gt;的&lt;font size="28" color="#ACE1E5"&gt;Nascent Expeditions商人&lt;/font&gt;处收集超赞的新蓝图。&lt;/li&gt;&lt;/ui&gt;&lt;/font&gt;</str>
-  <str key="1136785265-ucdt" type="ucdt" originalKey="1136785265">看看防御工事更新推出了哪些新内容！</str>
-  <str key="1136988694-ucdt" type="ucdt" originalKey="1136988694">NSX融合之刃</str>
-  <str key="1154730676-ucdt" type="ucdt" originalKey="1154730676">&lt;font color="#00FFAA"&gt;Nalla代表：&lt;/font&gt;还有一些进攻性模块可以用来破坏敌对阵营的建造基地。所以要警惕那些意图破坏你基地的人。</str>
+  <str key="1109775192-ucdt" type="ucdt" originalKey="1109775192">&lt;font size="28"&gt;建造系统已改头换面。&lt;br&gt;&lt;br&gt;&lt;ui&gt;&lt;li&gt;借由全新的&lt;font size="28" color="#ACE1E5"&gt;模块化&lt;/font&gt; 升级，让你的建筑更上一层楼。&lt;/li&gt;&lt;br&gt;&lt;li&gt;用&lt;font size="28" color="#ACE1E5"&gt;闪耀夺目&lt;/font&gt;的新玩意，深度定制属于你的基地。&lt;/li&gt;&lt;br&gt;&lt;li&gt;从位于&lt;font size="28" color="#ACE1E5"&gt;庇护所&lt;/font&gt;的&lt;font size="28" color="#ACE1E5"&gt;先遣远征队商人&lt;/font&gt;处收集超赞的新蓝图。&lt;/li&gt;&lt;/ui&gt;&lt;/font&gt;</str>
+  <str key="1136785265-ucdt" type="ucdt" originalKey="1136785265">快来看看全新的建筑和模块！</str>
+  <str key="1136988694-ucdt" type="ucdt" originalKey="1136988694">NSX 融合之刃</str>
+  <str key="1154730676-ucdt" type="ucdt" originalKey="1154730676">&lt;font color="#00FFAA"&gt;纳拉代表：&lt;/font&gt;还有一些进攻性模块可以用来破坏敌对阵营的建造基地。所以要警惕那些意图破坏你基地的人。</str>
   <str key="1161190018-ucdt" type="ucdt" originalKey="1161190018">指挥中心</str>
   <str key="1162584047-ucdt" type="ucdt" originalKey="1162584047">耐久模块</str>
   <str key="1258065955-ucdt" type="ucdt" originalKey="1258065955">防火墙模块</str>
   <str key="1272201701-ucdt" type="ucdt" originalKey="1272201701">重型修复模块</str>
   <str key="1307868906-ucdt" type="ucdt" originalKey="1307868906">聊天背景透明度</str>
-  <str key="1325285145-ucdt" type="ucdt" originalKey="1325285145">L20 Dragon：铜质勋章</str>
+  <str key="1325285145-ucdt" type="ucdt" originalKey="1325285145">NS-D 赫利俄斯：铜质勋章</str>
   <str key="1352024962-ucdt" type="ucdt" originalKey="1352024962">将修复模块安装到壁垒墙上</str>
   <str key="1357644894-ucdt" type="ucdt" originalKey="1357644894">Cortium炸弹已安装</str>
   <str key="1362009893-ucdt" type="ucdt" originalKey="1362009893">召唤一架轨道采矿钻机，该钻机将定期暴露标记位置附近的Cortium节点。持续5分钟。如果附近有敌军，采矿将暂时停止。</str>
@@ -244,4 +243,28 @@
   <str key="4232082560-ucdt" type="ucdt" originalKey="4232082560">免费</str>
   <str key="4274220095-ucdt" type="ucdt" originalKey="4274220095">模块不兼容</str>
   <str key="4279660171-ucdt" type="ucdt" originalKey="4279660171">修改了防爆墙，现在允许步兵通过。完全建成后可以承受中等程度的伤害。</str>
+  <str key="2253416-ugdt" type="ugdt" originalKey="2253416">弹药模块</str>
+  <str key="14078634-ugdt" type="ugdt" originalKey="14078634">散热模块</str>
+  <str key="108375268-ucdt" type="ucdt" originalKey="108375268">炮台智能自动模块</str>
+  <str key="116656963-ucdt" type="ucdt" originalKey="116656963">建造区块</str>
+  <str key="272954401-ugdt" type="ugdt" originalKey="272954401">双刃剑反步兵方阵炮塔</str>
+  <str key="459622800-ugdt" type="ugdt" originalKey="459622800">痛苦尖塔</str>
+  <str key="506437956-ugdt" type="ugdt" originalKey="506437956">步兵天篷</str>
+  <str key="561303055-ugdt" type="ugdt" originalKey="561303055">引力电梯</str>
+  <str key="563769889-ugdt" type="ugdt" originalKey="563769889">重型修复模块</str>
+  <str key="674954753-ugdt" type="ugdt" originalKey="674954753">重生中心</str>
+  <str key="683946332-ugdt" type="ugdt" originalKey="683946332">传感器扫描模块</str>
+  <str key="691680665-ugdt" type="ugdt" originalKey="691680665">NS-D 赫利俄斯</str>
+  <str key="764414838-ucdt" type="ucdt" originalKey="764414838">痛苦尖塔证书返还</str>
+  <str key="778520674-ugdt" type="ugdt" originalKey="778520674">行星边际遗产横幅边框</str>
+  <str key="791462405-ucdt" type="ucdt" originalKey="791462405">通过安装、过载或移除建筑模块的方式获得绶带。</str>
+  <str key="825797243-ugdt" type="ugdt" originalKey="825797243">“尖端” AF-4 龙卷风</str>
+  <str key="866799246-ugdt" type="ugdt" originalKey="866799246">轨道采矿钻机</str>
+  <str key="877056159-ugdt" type="ugdt" originalKey="877056159">模块分配室</str>
+  <str key="1005148357-ucdt" type="ucdt" originalKey="1005148357">天兵天降</str>
+  <str key="1044197211-ugdt" type="ugdt" originalKey="1044197211">钶金容量模块</str>
+  <str key="1270835615-ucdt" type="ucdt" originalKey="1270835615">行星边际 20 周年！</str>
+  <str key="879608946-ucdt" type="ucdt" originalKey="879608946">装甲冲突</str>
+  <str key="1131559062-ugdt" type="ugdt" originalKey="1131559062">“尖端” PMG-100</str>
+  <str key="1161513884-ugdt" type="ugdt" originalKey="1161513884">头衔：战场指挥官</str>
 </root>
