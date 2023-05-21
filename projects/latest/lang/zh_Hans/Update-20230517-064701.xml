@@ -19,7 +19,7 @@
   <str key="181007178-ucdt" type="ucdt" originalKey="181007178">&lt;font color="#00FFAA"&gt;纳拉代表：&lt;/font&gt;嘿，你的钶金矿仓被摧毁了。返回你的工蚁终端处再部署一个吧。请记住，如果你没有足够的钶金进行购买的话，你就必须再去采集钶金。</str>
   <str key="246402214-ucdt" type="ucdt" originalKey="246402214">按住 [%s] 键使模块过载</str>
   <str key="324982015-ucdt" type="ucdt" originalKey="324982015">模块已安装</str>
-  <str key="330884173-ucdt" type="ucdt" originalKey="330884173">&lt;font color="#00FFAA"&gt;纳拉代表：&lt;/font&gt; 前往钶金矿仓，购买一座双刃剑反步兵方阵炮塔。该炮塔塔专门用于反步兵，但也可作为其他各种保护基地的手段。</str>
+  <str key="330884173-ucdt" type="ucdt" originalKey="330884173">&lt;font color="#00FFAA"&gt;纳拉代表：&lt;/font&gt; 前往钶金矿仓，购买一座双刃剑反步兵方阵炮塔。该炮塔专门用于反步兵，但也可在其他各种保护基地的方式中发挥作用。</str>
   <str key="341561640-ucdt" type="ucdt" originalKey="341561640">建筑物的建造离不开一种叫做钶金的致密晶体材料。在奥拉西斯的所有主大陆上都可以找到含有这种珍贵矿石的脆裂矿脉。&lt;br&gt;&lt;br&gt;钶金只能通过安装在高级纳能运输载具（即 ANT，工蚁）上的特制激光获取。工蚁能够消耗钶金作为燃料，或将其储存的钶金转移到钶金矿仓，在那里可以用来创造更高级的建筑。</str>
   <str key="344765042-ucdt" type="ucdt" originalKey="344765042">训练日：建筑模块</str>
   <str key="345426467-ucdt" type="ucdt" originalKey="345426467">太近了</str>
@@ -140,7 +140,7 @@
   <str key="2269233190-ucdt" type="ucdt" originalKey="2269233190">建造</str>
   <str key="2269566127-ucdt" type="ucdt" originalKey="2269566127">想要部署一辆工蚁，请使用“B（默认）”键指定集结位置。</str>
   <str key="2282591449-ucdt" type="ucdt" originalKey="2282591449">重生中心</str>
-  <str key="2291813304-ucdt" type="ucdt" originalKey="2291813304">将钶金存入筒仓</str>
+  <str key="2291813304-ucdt" type="ucdt" originalKey="2291813304">将钶金存入矿仓</str>
   <str key="2293593668-ucdt" type="ucdt" originalKey="2293593668">将自动瞄准系统应用于建好的炮塔，使其在无人值守时向敌人射击。需要附近建有矿仓为炮塔供电。持续 60 秒。</str>
   <str key="2300695231-ucdt" type="ucdt" originalKey="2300695231">不能在载具、建筑物体或其他玩家附近投放轨道采矿钻机。</str>
   <str key="2318086075-ucdt" type="ucdt" originalKey="2318086075">&lt;font color="#00FFAA"&gt;纳拉代表：&lt;/font&gt;离开你的载具，与位于工蚁后方的终端互动。使用该终端，用你收集到的钶金购买一个钶金矿仓。</str>
@@ -167,7 +167,7 @@
   <str key="2765730773-ucdt" type="ucdt" originalKey="2765730773">模块使用受限</str>
   <str key="2771948847-ucdt" type="ucdt" originalKey="2771948847">在敌方结构的模块插槽中放置一枚炸弹。60 秒后，炸弹将被引爆，严重破坏其所在的结构。</str>
   <str key="2795557137-ucdt" type="ucdt" originalKey="2795557137">稀有</str>
-  <str key="2798003932-ucdt" type="ucdt" originalKey="2798003932">储备矿仓可最多容纳 25000 点钶金，为基地的建造者提供额外的存储空间。需要使用工蚁为筒仓储入更多的钶金。</str>
+  <str key="2798003932-ucdt" type="ucdt" originalKey="2798003932">储备矿仓可最多容纳 25000 点钶金，为基地的建造者提供额外的存储空间。需要使用工蚁为矿仓储入更多的钶金。</str>
   <str key="2826854540-ucdt" type="ucdt" originalKey="2826854540">&lt;font color="#00FFAA"&gt;纳拉：&lt;/font&gt;在地堡的保护下，与装备终端互动可以随时改变你的装备配置。 </str>
   <str key="2831905933-ucdt" type="ucdt" originalKey="2831905933">&lt;font color="#00FFAA"&gt;纳拉：&lt;/font&gt;在战区，安全永远是一个问题，但我们可以用加固的墙来保护自己免受来袭的炮火。与你的钶金矿仓上的终端互动，建造一段壁垒墙。</str>
   <str key="2872885687-ucdt" type="ucdt" originalKey="2872885687">&lt;font color="#ACE1E5"&gt;&lt;u&gt;用法&lt;/u&gt;&lt;/font&gt;&lt;br&gt;从钶金矿仓上的建造终端处取出目标标记，然后放置标记进行使用。&lt;br&gt;&lt;br&gt;&lt;font color="#ACE1E5"&gt;&lt;u&gt;描述&lt;/u&gt;&lt;/font&gt;&lt;br&gt;需要
@@ -217,7 +217,7 @@
   <str key="3573770105-ucdt" type="ucdt" originalKey="3573770105">从节点收集钶金</str>
   <str key="3611282068-ucdt" type="ucdt" originalKey="3611282068">隧道蠕虫模块</str>
   <str key="3627491709-ucdt" type="ucdt" originalKey="3627491709">建造物品预览：访问工蚁或矿仓终端以获取建造权限。</str>
-  <str key="3632625114-ucdt" type="ucdt" originalKey="3632625114">一旦通过钶金矿仓或已部署好的工蚁付清一件物体的建造费用，则创建者将进入到放置模式以便在战场上找到合适放置的地点。&lt;br&gt;&lt;br&gt;该物体将以全息影像呈现，玩家可以进行旋转和移动，直到找到一个合适的放置位置。&lt;br&gt;&lt;br&gt;放置时要遵守以下规则： &lt;ul&gt;&lt;li&gt;物体必须放置在禁止部署区之外&lt;/li&gt;&lt;li&gt;必须将物体所有的绿色球体置于地面之上&lt;/li&gt;&lt;li&gt;必须将物体所有的蓝色球体置于地面之下&lt;/li&gt;&lt;li&gt;类型相近的物体不能摆放过近&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;全息影像将以红色显示，直到找到合适的放置位置，并在找到该位置后变为绿色。找到合适的位置后，便可以使用“互动”键（默认：E）来放置物体。&lt;br&gt;&lt;br&gt;所有放置在钶金矿仓范围内的物体都需要依靠该矿仓的能量来运作。如果矿仓被摧毁，或者物体被放置在筒仓的范围之外，那么该物体可能将不再运作，并会随着时间的推移而开始衰败。</str>
+  <str key="3632625114-ucdt" type="ucdt" originalKey="3632625114">一旦通过钶金矿仓或已部署好的工蚁付清一件物体的建造费用，则创建者将进入到放置模式以便在战场上找到合适放置的地点。&lt;br&gt;&lt;br&gt;该物体将以全息影像呈现，玩家可以进行旋转和移动，直到找到一个合适的放置位置。&lt;br&gt;&lt;br&gt;放置时要遵守以下规则： &lt;ul&gt;&lt;li&gt;物体必须放置在禁止部署区之外&lt;/li&gt;&lt;li&gt;必须将物体所有的绿色球体置于地面之上&lt;/li&gt;&lt;li&gt;必须将物体所有的蓝色球体置于地面之下&lt;/li&gt;&lt;li&gt;类型相近的物体不能摆放过近&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;全息影像将以红色显示，直到找到合适的放置位置，并在找到该位置后变为绿色。找到合适的位置后，便可以使用“互动”键（默认：E）来放置物体。&lt;br&gt;&lt;br&gt;所有放置在钶金矿仓范围内的物体都需要依靠该矿仓的能量来运作。如果矿仓被摧毁，或者物体被放置在矿仓的范围之外，那么该物体可能将不再运作，并会随着时间的推移而开始衰败。</str>
   <str key="3690846290-ucdt" type="ucdt" originalKey="3690846290">可以让玩家以正常的花费使用钶金创建不同的模块，将其插入到附属于建筑的插槽中。一旦分配室中的钶金被耗尽，它将从附近的矿仓补充钶金。</str>
   <str key="3693547727-ucdt" type="ucdt" originalKey="3693547727">前往钶金矿仓购买一段壁垒墙。</str>
   <str key="3696098193-ucdt" type="ucdt" originalKey="3696098193">正品角斗士牌反射光学瞄准镜耐高温，并具有 3.4 倍放大效果，还包括一个全息红点瞄准器，在所有战斗场景中都能派上用场。</str>
@@ -292,7 +292,7 @@
   <str key="4015273434-ugdt" type="ugdt" originalKey="4015273434">轨道打击发信站指引激光</str>
   <str key="4011418323-ugdt" type="ugdt" originalKey="4011418323">钶金修复模块</str>
   <str key="1959715636-ucdt" type="ucdt" originalKey="1959715636">瞄准你希望连枷打击的地方。必须保持开火状态几秒后才能建立目标。每个工具都链接到对应的连枷，并且只能用于引导该连枷对目标进行打击。</str>
-  <str key="1842167406-ucdt" type="ucdt" originalKey="1842167406">通过占领和守卫控制台，并在崩坏警报期间杀死周围的敌人的方式获取绶带。</str>
+  <str key="1842167406-ucdt" type="ucdt" originalKey="1842167406">在大陆崩坏警报期间占领和守卫控制点，并击杀控制点周围的敌人，便可获得此绶带。</str>
   <str key="1848838023-ugdt" type="ugdt" originalKey="1848838023">防弹护盾模块</str>
   <str key="1864755951-ugdt" type="ugdt" originalKey="1864755951">窄壁垒墙</str>
   <str key="1925436701-ugdt" type="ugdt" originalKey="1925436701">神枪手头盔</str>
