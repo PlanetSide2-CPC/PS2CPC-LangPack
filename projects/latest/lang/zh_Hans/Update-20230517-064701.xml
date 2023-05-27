@@ -79,7 +79,7 @@
   <str key="1325285145-ucdt" type="ucdt" originalKey="1325285145">NS-D 赫利俄斯：铜质勋章</str>
   <str key="1352024962-ucdt" type="ucdt" originalKey="1352024962">将修复模块安装到壁垒墙上</str>
   <str key="1357644894-ucdt" type="ucdt" originalKey="1357644894">钶金炸弹已安装</str>
-  <str key="1362009893-ucdt" type="ucdt" originalKey="1362009893">召唤一架轨道采矿钻机，该钻机将定期暴露标记位置附近的钶金节点。持续 5 分钟。如果附近有敌军，采矿将暂时停止。</str>
+  <str key="1362009893-ucdt" type="ucdt" originalKey="1362009893">召唤一架轨道采矿钻机，该钻机将定期暴露标记位置附近的钶金矿石。持续 5 分钟。如果附近有敌军，采矿将暂时停止。</str>
   <str key="1373465128-ucdt" type="ucdt" originalKey="1373465128">防御工事建造得更完善了！</str>
   <str key="1388707715-ucdt" type="ucdt" originalKey="1388707715">建造中</str>
   <str key="1426269464-ucdt" type="ucdt" originalKey="1426269464">购买并放置一座地堡</str>
@@ -88,9 +88,9 @@
   <str key="1543055792-ucdt" type="ucdt" originalKey="1543055792">NSX 融合之刃奥星勋章</str>
   <str key="1550613685-ucdt" type="ucdt" originalKey="1550613685">巴塔拉瞭望所</str>
   <str key="1554798142-ucdt" type="ucdt" originalKey="1554798142">按住 [%s] 键安装模块</str>
-  <str key="1601064055-ucdt" type="ucdt" originalKey="1601064055">&lt;font color="#00FFAA"&gt;纳拉代表：&lt;/font&gt; 在驾驶工蚁的过程中，会出现钶金节点的指示器。找到前往附近节点的路，将你的准星瞄准它，并激活你的采集激光（默认为鼠标左键）。</str>
+  <str key="1601064055-ucdt" type="ucdt" originalKey="1601064055">&lt;font color="#00FFAA"&gt;纳拉代表：&lt;/font&gt; 驾驶工蚁时，会出现钶金矿石的指示器。前往附近的矿石，将你的准星对准它，并激活你的采集激光（默认为鼠标左键）。</str>
   <str key="1605211351-ucdt" type="ucdt" originalKey="1605211351">更改模块权限</str>
-  <str key="1635646474-ucdt" type="ucdt" originalKey="1635646474">《PlanetSide》20 周年遗产礼包</str>
+  <str key="1635646474-ucdt" type="ucdt" originalKey="1635646474">《行星边际》20 周年遗产礼包</str>
   <str key="1716371584-ucdt" type="ucdt" originalKey="1716371584">“尖端” 波江座 SX5</str>
   <str key="1743465378-ucdt" type="ucdt" originalKey="1743465378">允许你使用钶金建造一座步兵可以使用的宽型壁垒墙。</str>
   <str key="1747440629-ucdt" type="ucdt" originalKey="1747440629">模块补给器允许玩家从中获取模块。</str>
@@ -102,7 +102,7 @@
   <str key="1808944673-ucdt" type="ucdt" originalKey="1808944673">宽型壁垒墙</str>
   <str key="1821545849-ucdt" type="ucdt" originalKey="1821545849">不可部署区域</str>
   <str key="1823067609-ucdt" type="ucdt" originalKey="1823067609">步兵天蓬</str>
-  <str key="1824163889-ucdt" type="ucdt" originalKey="1824163889">在你的 HUD 上找到钶金节点的位置，并在节点上按住鼠标左键进行采集。</str>
+  <str key="1824163889-ucdt" type="ucdt" originalKey="1824163889">在你的 HUD 上找到钶金矿石的位置，并对矿石按住鼠标左键进行采集。</str>
   <str key="1825528152-ucdt" type="ucdt" originalKey="1825528152">步兵瞭望台</str>
   <str key="1897318222-ucdt" type="ucdt" originalKey="1897318222">最爱</str>
   <str key="1932415111-ucdt" type="ucdt" originalKey="1932415111">与工蚁后面的建造终端进行互动。解锁钶金矿仓，并将矿仓放置在一个适当的地方。</str>
@@ -214,7 +214,7 @@
   <str key="3521785618-ucdt" type="ucdt" originalKey="3521785618">建造预览 &gt;</str>
   <str key="3555477401-ucdt" type="ucdt" originalKey="3555477401">建造可供步兵单位使用的窄壁垒墙。</str>
   <str key="3573289813-ucdt" type="ucdt" originalKey="3573289813">钶金</str>
-  <str key="3573770105-ucdt" type="ucdt" originalKey="3573770105">从节点收集钶金</str>
+  <str key="3573770105-ucdt" type="ucdt" originalKey="3573770105">从矿石中采集钶金</str>
   <str key="3611282068-ucdt" type="ucdt" originalKey="3611282068">隧道蠕虫模块</str>
   <str key="3627491709-ucdt" type="ucdt" originalKey="3627491709">建造物品预览：访问工蚁或矿仓终端以获取建造权限。</str>
   <str key="3632625114-ucdt" type="ucdt" originalKey="3632625114">一旦通过钶金矿仓或已部署好的工蚁付清一件物体的建造费用，则创建者将进入到放置模式以便在战场上找到合适放置的地点。&lt;br&gt;&lt;br&gt;该物体将以全息影像呈现，玩家可以进行旋转和移动，直到找到一个合适的放置位置。&lt;br&gt;&lt;br&gt;放置时要遵守以下规则： &lt;ul&gt;&lt;li&gt;物体必须放置在禁止部署区之外&lt;/li&gt;&lt;li&gt;必须将物体所有的绿色球体置于地面之上&lt;/li&gt;&lt;li&gt;必须将物体所有的蓝色球体置于地面之下&lt;/li&gt;&lt;li&gt;类型相近的物体不能摆放过近&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;全息影像将以红色显示，直到找到合适的放置位置，并在找到该位置后变为绿色。找到合适的位置后，便可以使用“互动”键（默认：E）来放置物体。&lt;br&gt;&lt;br&gt;所有放置在钶金矿仓范围内的物体都需要依靠该矿仓的能量来运作。如果矿仓被摧毁，或者物体被放置在矿仓的范围之外，那么该物体可能将不再运作，并会随着时间的推移而开始衰败。</str>
@@ -318,7 +318,7 @@
   <str key="3236523442-ugdt" type="ugdt" originalKey="3236523442">军团背景横幅</str>
   <str key="3233228732-ugdt" type="ugdt" originalKey="3233228732">钶金炸弹模块</str>
   <str key="3597076022-ugdt" type="ugdt" originalKey="3597076022">炮台智能自动模块返还证书点</str>
-  <str key="2488255576-ucdt" type="ucdt" originalKey="2488255576">&lt;font size="28"&gt;感谢大家与我们一起庆祝奥拉西斯二十年的光荣战斗!&lt;br&gt;&lt;br&gt;为了庆祝，我们推出了&lt;font color="#ACE1E5"&gt;NS-D 赫利俄斯&lt;/font&gt;。这种重型武器可以发射 5 发灼热的爆炸弹，还拥有一种附属射击模式，可以发射一枚热情的炮弹，在受到撞击时引爆。&lt;br&gt;&lt;br&gt;在限定时间内，每个人都可以通过完成&lt;font color="#ACE1E5"&gt; 20 周年遗产成就&lt;/font&gt;的方式&lt;font color="#ACE1E5"&gt;免费&lt;/font&gt;获得 &lt;font color="#ACE1E5"&gt;NS-D 赫利俄斯&lt;/font&gt;！&lt;br&gt;&lt;br&gt;你也可以选择跳过这种方式，选择 购买&lt;font color="#ACE1E5"&gt;商城&lt;/font&gt;中提供的&lt;font color="#ACE1E5"&gt;全新&lt;font color="#ACE1E5"&gt;行星边际 20 周年遗产礼包&lt;/font&gt;。这个礼包包括一个皮肤变体的 NS-D 赫利俄斯&lt;font color="#ACE1E5"&gt;，每阵营一个新的&lt;font color="#ACE1E5"&gt;“尖端”&lt;/font&gt; 冲锋枪变种，一个&lt;font color="#ACE1E5"&gt; 6 个月英雄加成&lt;/font&gt;，和一个独家背景横幅和边框!&lt; / font &gt;</str>
+  <str key="2488255576-ucdt" type="ucdt" originalKey="2488255576">&lt;font size="28"&gt;感谢大家与我们一起庆祝奥拉西斯二十年的光荣战斗!&lt;br&gt;&lt;br&gt;为了庆祝，我们推出了&lt;font color="#ACE1E5"&gt;NS-D 赫利俄斯&lt;/font&gt;。这种重型武器可以发射 5 连发燃烧弹，还拥有另一射击模式，可以发射一枚燃烧的火球，在命中时爆炸。&lt;br&gt;&lt;br&gt;在限定时间内，每个人都可以通过完成&lt;font color="#ACE1E5"&gt; 20 周年遗产成就&lt;/font&gt;的方式&lt;font color="#ACE1E5"&gt;免费&lt;/font&gt;获得 &lt;font color="#ACE1E5"&gt;NS-D 赫利俄斯&lt;/font&gt;！&lt;br&gt;&lt;br&gt;你也可以选择跳过这种方式，选择 购买&lt;font color="#ACE1E5"&gt;商城&lt;/font&gt;中提供的&lt;font color="#ACE1E5"&gt;全新&lt;font color="#ACE1E5"&gt;行星边际 20 周年遗产礼包&lt;/font&gt;。这个礼包包括一款特殊外观的 NS-D 赫利俄斯&lt;font color="#ACE1E5"&gt;，每阵营一款新的&lt;font color="#ACE1E5"&gt;“尖端”&lt;/font&gt; 冲锋枪变体，一个&lt;font color="#ACE1E5"&gt; 6 个月英雄加成&lt;/font&gt;，和一个独家背景横幅和边框!&lt; / font &gt;</str>
   <str key="2357430871-ucdt" type="ucdt" originalKey="2357430871">&lt;font size="28"&gt;建筑物系统经历了许多添加和增强：&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;添加了大量的新建筑物，如&lt;font color="#ACE1E5"&gt;指挥中心&lt;/font&gt;和&lt;font color="#ACE1E5"&gt;重生中心&lt;/font&gt;。&lt;/li&gt;&lt;li&gt;引入了一个新的&lt;font color="#ACE1E5"&gt;模块系统&lt;/font&gt;来配置大多数建筑物。&lt;/li&gt;&lt;li&gt;用新的&lt;font color="#ACE1E5"&gt;建筑前哨&lt;/font&gt;和自己的钶金储备取代开放的野外基地。&lt;/li&gt;&lt;li&gt;还有更多的、更多的改进!&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;</str>
   <str key="2370272330-ugdt" type="ugdt" originalKey="2370272330">GlaR（ 4 倍）</str>
   <str key="2438657575-ugdt" type="ugdt" originalKey="2438657575">双刃剑反步兵方阵炮塔</str>
