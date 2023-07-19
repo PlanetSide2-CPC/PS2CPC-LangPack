@@ -15,7 +15,7 @@
   <str key="202027483-ucdt" type="ucdt" originalKey="202027483">Karma 4</str>
   <str key="217380302-ucdt" type="ucdt" originalKey="217380302">Melee attacks knock enemies away a short distance. &lt;font color="#dc9c36"&gt;MAX only.&lt;/font&gt;</str>
   <str key="221551010-ucdt" type="ucdt" originalKey="221551010">While wielding a beneficial construction module your sprint speed is increased by 15%. Additionally, the time to install beneficial modules is reduced by 50%.</str>
-  <str key="234284718-ucdt" type="ucdt" originalKey="234284718">When your health drops below 20% your accuracy increases by 5% for 5 seconds.</str>
+  <str key="234284718-ucdt" type="ucdt" originalKey="234284718">When your total health drops below 20% your weapon's cone of fire improves by 5% for 5 seconds.</str>
   <str key="274667863-ucdt" type="ucdt" originalKey="274667863">Overcharge 4</str>
   <str key="358750514-ucdt" type="ucdt" originalKey="358750514">Warfare Facepaint</str>
   <str key="362249955-ucdt" type="ucdt" originalKey="362249955">Increase the amount you repair for a limited time after exiting a vehicle.</str>
@@ -32,7 +32,7 @@
   <str key="645322218-ucdt" type="ucdt" originalKey="645322218">Air Drop 1</str>
   <str key="656794656-ucdt" type="ucdt" originalKey="656794656">Overcharge 3</str>
   <str key="792134219-ucdt" type="ucdt" originalKey="792134219">Outmaneuver 2</str>
-  <str key="797715527-ucdt" type="ucdt" originalKey="797715527">Reload 25% faster for 15 seconds after damaging a vehicle in the back. Can only be triggered while in a vehicle.</str>
+  <str key="797715527-ucdt" type="ucdt" originalKey="797715527">Reload 15% faster for 7 seconds after damaging a vehicle in the back. Can only be triggered while in a vehicle.</str>
   <str key="830608438-ucdt" type="ucdt" originalKey="830608438">Squad Member</str>
   <str key="852202906-ucdt" type="ucdt" originalKey="852202906">Increase the amount you repair by 10% for 7 seconds after exiting a vehicle. &lt;font color="#dc9c36"&gt;Engineer only.&lt;/font&gt;</str>
   <str key="915181235-ucdt" type="ucdt" originalKey="915181235">Each time you revive an ally a charge is added to Karma. At 24 charges, your next death allows you to self-revive once at 50% health. &lt;font color="#dc9c36"&gt;Redeploying or using an equipment terminal will wipe your current progress. Combat Medic only.&lt;/font&gt;</str>
@@ -42,7 +42,7 @@
   <str key="1005412630-ucdt" type="ucdt" originalKey="1005412630">Enemy</str>
   <str key="1108633908-ucdt" type="ucdt" originalKey="1108633908">Deadshot 3</str>
   <str key="1125396462-ucdt" type="ucdt" originalKey="1125396462">While overshield is active your primary and secondary weapon's bullets will now pierce through one infantry target before stopping. While this implant is equipped your overshield's maximum energy will be reduced by 15%.  &lt;font color="#dc9c36"&gt;Heavy Assault only.&lt;/font&gt;</str>
-  <str key="1127917166-ucdt" type="ucdt" originalKey="1127917166">Upon exiting a vehicle Jump Jet recharge rate is increased by 10% for 20 seconds. &lt;font color="#dc9c36"&gt;30 second cooldown after triggering.&lt;/font&gt;</str>
+  <str key="1127917166-ucdt" type="ucdt" originalKey="1127917166">Upon exiting a vehicle Jump Jet recharge rate is increased by 10% for 20 seconds. &lt;font color="#dc9c36"&gt;Light Assault only. 30 second cooldown after triggering.&lt;/font&gt;</str>
   <str key="1179515431-ugdt" type="ugdt" originalKey="1179515431">Deadshot 2</str>
   <str key="1204728985-ucdt" type="ucdt" originalKey="1204728985">Rally Mechanic 4</str>
   <str key="1251650880-ucdt" type="ucdt" originalKey="1251650880">Enemy</str>
@@ -57,9 +57,9 @@
   <str key="1361066738-ugdt" type="ugdt" originalKey="1361066738">Karma 4</str>
   <str key="1399530453-ugdt" type="ugdt" originalKey="1399530453">Air Drop 2</str>
   <str key="1422221412-ugdt" type="ugdt" originalKey="1422221412">Rapid Response 5</str>
-  <str key="1548943270-ucdt" type="ucdt" originalKey="1548943270">Reload 17% faster for 7 seconds after damaging a vehicle in the back. Can only be triggered while in a vehicle.</str>
+  <str key="1548943270-ucdt" type="ucdt" originalKey="1548943270">Reload 15% faster for 4 seconds after damaging a vehicle in the back. Can only be triggered while in a vehicle.</str>
   <str key="1557054042-ucdt" type="ucdt" originalKey="1557054042">Rally Mechanic</str>
-  <str key="1558473603-ucdt" type="ucdt" originalKey="1558473603">Upon exiting a vehicle Jump Jet recharge rate is increased by 7% for 12 seconds. &lt;font color="#dc9c36"&gt;30 second cooldown after triggering.&lt;/font&gt;</str>
+  <str key="1558473603-ucdt" type="ucdt" originalKey="1558473603">Upon exiting a vehicle Jump Jet recharge rate is increased by 7% for 12 seconds. &lt;font color="#dc9c36"&gt;Light Assault only. 30 second cooldown after triggering.&lt;/font&gt;</str>
   <str key="1581788058-ucdt" type="ucdt" originalKey="1581788058">Karma 2</str>
   <str key="1605686430-ucdt" type="ucdt" originalKey="1605686430">Each time you revive an ally a charge is added to Karma. At 27 charges, your next death allows you to self-revive once at 50% health. &lt;font color="#dc9c36"&gt;Redeploying or using an equipment terminal will wipe your current progress. Combat Medic only.&lt;/font&gt;</str>
   <str key="1655623068-ucdt" type="ucdt" originalKey="1655623068">Outmaneuver 1</str>
@@ -67,7 +67,7 @@
   <str key="1744029491-ucdt" type="ucdt" originalKey="1744029491">Squad</str>
   <str key="1824482922-ucdt" type="ucdt" originalKey="1824482922">Prepare for the heat of battle while you blend into your surroundings with a camouflage faceplating.</str>
   <str key="1871411367-ugdt" type="ugdt" originalKey="1871411367">Propaganda  Lumifiber Trim</str>
-  <str key="1898331192-ucdt" type="ucdt" originalKey="1898331192">Reload 20% faster for 7 seconds after damaging a vehicle in the back. Can only be triggered while in a vehicle.</str>
+  <str key="1898331192-ucdt" type="ucdt" originalKey="1898331192">Reload 15% faster for 5 seconds after damaging a vehicle in the back. Can only be triggered while in a vehicle.</str>
   <str key="1900949152-ucdt" type="ucdt" originalKey="1900949152">Reload faster for several seconds after damaging a vehicle in the back. Can only be triggered while in a vehicle.</str>
   <str key="1956145591-ucdt" type="ucdt" originalKey="1956145591">When your total health drops below 30% your weapon's cone of fire improves by 15% for 12 seconds.</str>
   <str key="1963398733-ugdt" type="ugdt" originalKey="1963398733">Outmaneuver 2</str>
@@ -93,10 +93,10 @@
   <str key="2454577427-ucdt" type="ucdt" originalKey="2454577427">Available through August 31</str>
   <str key="2462262956-ucdt" type="ucdt" originalKey="2462262956">When your total health drops below 20% your weapon's cone of fire improves by 12% for 10 seconds.</str>
   <str key="2492207582-ugdt" type="ugdt" originalKey="2492207582">Sunburst Corsair Lumifiber Trim</str>
-  <str key="2548928658-ucdt" type="ucdt" originalKey="2548928658">Upon exiting a vehicle Jump Jet recharge rate is increased by 7% for 10 seconds. &lt;font color="#dc9c36"&gt;30 second cooldown after triggering.&lt;/font&gt;</str>
+  <str key="2548928658-ucdt" type="ucdt" originalKey="2548928658">Upon exiting a vehicle Jump Jet recharge rate is increased by 7% for 10 seconds. &lt;font color="#dc9c36"&gt;Light Assault only. 30 second cooldown after triggering.&lt;/font&gt;</str>
   <str key="2578919441-ucdt" type="ucdt" originalKey="2578919441">Karma 1</str>
-  <str key="2585832005-ucdt" type="ucdt" originalKey="2585832005">Reload 15% faster for 7 seconds after damaging a vehicle in the back. Can only be triggered while in a vehicle.</str>
-  <str key="2626393786-ucdt" type="ucdt" originalKey="2626393786">A random implant. This implant has a higher than usual chance of being Outmaneuver, Deadshot, Rapid Response, Air Drop, Karma, Rally Mechanic, Overcharge, or Juggernaut for players who do not already own these implants.</str>
+  <str key="2585832005-ucdt" type="ucdt" originalKey="2585832005">Reload 15% faster for 3 seconds after damaging a vehicle in the back. Can only be triggered while in a vehicle.</str>
+  <str key="2626393786-ucdt" type="ucdt" originalKey="2626393786">A random implant. This implant has a higher than usual chance of being Outmaneuver, Deadshot, Rapid Response, Air Drop, Karma, Rally Mechanic, Overcharge, or Juggernaut.</str>
   <str key="2627002062-ugdt" type="ugdt" originalKey="2627002062">Rapid Response 1</str>
   <str key="2664655455-ucdt" type="ucdt" originalKey="2664655455">Rapid Response 2</str>
   <str key="2713871545-ucdt" type="ucdt" originalKey="2713871545">While wielding a beneficial construction module your sprint speed is increased.</str>
@@ -123,8 +123,8 @@
   <str key="3045559425-ucdt" type="ucdt" originalKey="3045559425">TITLES</str>
   <str key="3049307792-ucdt" type="ucdt" originalKey="3049307792">When your total health drops below 20% your weapon's cone of fire improves by 10% for 7 seconds.</str>
   <str key="3059448164-ugdt" type="ugdt" originalKey="3059448164">Deadshot 5</str>
-  <str key="3064159809-ucdt" type="ucdt" originalKey="3064159809">Reload 25% faster for 7 seconds after damaging a vehicle in the back. Can only be triggered while in a vehicle.</str>
-  <str key="3076919410-ucdt" type="ucdt" originalKey="3076919410">Upon exiting a vehicle Jump Jet recharge rate is increased by 7% for 15 seconds. &lt;font color="#dc9c36"&gt;30 second cooldown after triggering.&lt;/font&gt;</str>
+  <str key="3064159809-ucdt" type="ucdt" originalKey="3064159809">Reload 15% faster for 6 seconds after damaging a vehicle in the back. Can only be triggered while in a vehicle.</str>
+  <str key="3076919410-ucdt" type="ucdt" originalKey="3076919410">Upon exiting a vehicle Jump Jet recharge rate is increased by 7% for 15 seconds. &lt;font color="#dc9c36"&gt;Light Assault only. 30 second cooldown after triggering.&lt;/font&gt;</str>
   <str key="3105600590-ucdt" type="ucdt" originalKey="3105600590">Propaganda  Lumifiber Trim</str>
   <str key="3182451717-ucdt" type="ucdt" originalKey="3182451717">Rally Mechanic 5</str>
   <str key="3231473082-ucdt" type="ucdt" originalKey="3231473082">Outfit Member</str>
@@ -134,8 +134,8 @@
   <str key="3303958213-ucdt" type="ucdt" originalKey="3303958213">Your movement is not impeded when underwater. &lt;font color="#dc9c36"&gt;Weapon behavior is unchanged. MAX units can equip.&lt;/font&gt;</str>
   <str key="3320983596-ucdt" type="ucdt" originalKey="3320983596">Platoon Member</str>
   <str key="3326800011-ugdt" type="ugdt" originalKey="3326800011">Karma 2</str>
-  <str key="3366612381-ucdt" type="ucdt" originalKey="3366612381">Upon exiting a vehicle increase Jump Jet recharge for a set duration.</str>
-  <str key="3428115896-ucdt" type="ucdt" originalKey="3428115896">Upon exiting a vehicle Jump Jet recharge rate is increased by 7% for 8 seconds. &lt;font color="#dc9c36"&gt;30 second cooldown after triggering.&lt;/font&gt;</str>
+  <str key="3366612381-ucdt" type="ucdt" originalKey="3366612381">Upon exiting a vehicle increase Jump Jet recharge for a set duration. &lt;font color="#dc9c36"&gt;Light Assault only.&lt;/font&gt;</str>
+  <str key="3428115896-ucdt" type="ucdt" originalKey="3428115896">Upon exiting a vehicle Jump Jet recharge rate is increased by 7% for 8 seconds. &lt;font color="#dc9c36"&gt;Light Assault only. 30 second cooldown after triggering.&lt;/font&gt;</str>
   <str key="3480518192-ucdt" type="ucdt" originalKey="3480518192">WAYPOINTS</str>
   <str key="3487065664-ucdt" type="ucdt" originalKey="3487065664">MISC</str>
   <str key="3493285846-ucdt" type="ucdt" originalKey="3493285846">Operation Emberfall</str>
