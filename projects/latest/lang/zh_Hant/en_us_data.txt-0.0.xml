@@ -1,988 +1,1005 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <root>
-  <str key="93264-ucdt" type="ucdt" originalKey="93264">炮手擊殺助攻共用 - 閃電</str>
-  <str key="219375-ucdt" type="ucdt" originalKey="219375">個性化你的地面載具，加裝《行星邊際2》金色標誌車標</str>
-  <str key="274368-ucdt" type="ucdt" originalKey="274368">磁割刀</str>
-  <str key="436376-ucdt" type="ucdt" originalKey="436376">讓使用者能同時攜帶3台電磁脈衝干擾器</str>
+  <str key="63504-ugdt" type="ugdt" originalKey="63504">能力來源</str>
+  <str key="93264-ucdt" type="ucdt" originalKey="93264">炮手擊殺助攻共享 - 閃電</str>
+  <str key="219375-ucdt" type="ucdt" originalKey="219375">個性化你的地面載具，加裝《行星邊際 2》金色車標。</str>
+  <str key="274368-ucdt" type="ucdt" originalKey="274368">電磁切割者</str>
+  <str key="436376-ucdt" type="ucdt" originalKey="436376">讓使用者能同時攜帶 3 臺電磁脈沖幹擾器</str>
   <str key="533205-ucdt" type="ucdt" originalKey="533205">Daum標題006禮包名稱</str>
-  <str key="550805-ucdt" type="ucdt" originalKey="550805">2014伺服器對抗賽冠軍護甲貼花</str>
-  <str key="695549-ugdt" type="ugdt" originalKey="695549">Ordnance Armor 3</str>
-  <str key="715733-ugdt" type="ugdt" originalKey="715733">平移速度 1</str>
+  <str key="550805-ucdt" type="ucdt" originalKey="550805">2014 服務器對抗賽冠軍裝甲貼花</str>
+  <str key="695549-ugdt" type="ugdt" originalKey="695549">軍械裝甲 3 級</str>
+  <str key="715733-ugdt" type="ugdt" originalKey="715733">平移速度 1 級</str>
   <str key="931262-ugdt" type="ugdt" originalKey="931262">黑心十字弩</str>
-  <str key="982072-ucdt" type="ucdt" originalKey="982072">用這款貼花來慶祝《行星邊際2》五周年。這款貼花可用於護甲。</str>
-  <str key="1261098-ucdt" type="ucdt" originalKey="1261098">2.5倍變焦瞄具</str>
-  <str key="1280742-ugdt" type="ugdt" originalKey="1280742">"8" 車標</str>
-  <str key="1290857-ugdt" type="ugdt" originalKey="1290857">火花保險杠TR003</str>
-  <str key="1309318-ucdt" type="ucdt" originalKey="1309318">很好，Sunderer可在部署期间作为友军的重生点使用，这对每一次攻击来说都很重要。现在把Sunderer留在这儿，去支援进攻吧。</str>
-  <str key="1369873-ucdt" type="ucdt" originalKey="1369873">授權使用火箭推動的噴射背包，背包有較短的冷卻時間。</str>
-  <str key="1464764-ucdt" type="ucdt" originalKey="1464764">Vidar Observation Site</str>
-  <str key="1467536-ucdt" type="ucdt" originalKey="1467536">將解放者的閒置時間延長至27分鐘。</str>
-  <str key="1468731-ucdt" type="ucdt" originalKey="1468731">磁割刀：銀質勳章</str>
-  <str key="1517575-ucdt" type="ucdt" originalKey="1517575">分組ID錯誤，無法踢出小隊。</str>
-  <str key="1530486-ucdt" type="ucdt" originalKey="1530486">解鎖後機動性提升，使得載具的制動力得到提升。</str>
-  <str key="1640158-ucdt" type="ucdt" originalKey="1640158">裝彈速率 1</str>
-  <str key="1691739-ucdt" type="ucdt" originalKey="1691739">個人獲得的軍功及經驗增加50%。</str>
+  <str key="982072-ucdt" type="ucdt" originalKey="982072">用這款貼花來慶祝《行星邊際 2》五周年。這款貼花可用於裝甲。</str>
+  <str key="1261098-ucdt" type="ucdt" originalKey="1261098">2.5 倍變焦瞄具</str>
+  <str key="1280742-ugdt" type="ugdt" originalKey="1280742">“8” 車標</str>
+  <str key="1290857-ugdt" type="ugdt" originalKey="1290857">火花保險杠 TR003</str>
+  <str key="1309318-ucdt" type="ucdt" originalKey="1309318">很好。決裂者在部署後會作為一個友軍的複活點，這對所有的進攻戰鬥都很重要。把決裂者停在那，讓它支援我們的進攻。</str>
+  <str key="1369873-ucdt" type="ucdt" originalKey="1369873">授權使用火箭推動的噴氣背包，背包有較短的冷卻時間。</str>
+  <str key="1464764-ucdt" type="ucdt" originalKey="1464764">維達觀測站</str>
+  <str key="1467536-ucdt" type="ucdt" originalKey="1467536">將解放者的閒置時間延長至 27 分鍾。</str>
+  <str key="1468731-ucdt" type="ucdt" originalKey="1468731">電磁切割者：銀質勳章</str>
+  <str key="1517575-ucdt" type="ucdt" originalKey="1517575">分組 ID 錯誤，無法踢出小隊。</str>
+  <str key="1530486-ucdt" type="ucdt" originalKey="1530486">解鎖後機動性提升，使得載具的製動力得到提升。</str>
+  <str key="1640158-ucdt" type="ucdt" originalKey="1640158">裝彈速度 1 級</str>
+  <str key="1691739-ucdt" type="ucdt" originalKey="1691739">個人獲得的軍功及經驗增加 50%。</str>
   <str key="1735402-ucdt" type="ucdt" originalKey="1735402">佔有時間：%0</str>
-  <str key="1926553-ucdt" type="ucdt" originalKey="1926553">穩住控制中心週邊的防線！</str>
-  <str key="1938811-ucdt" type="ucdt" originalKey="1938811">武器能够携带的最大弹药数量增加280发。</str>
+  <str key="1926553-ucdt" type="ucdt" originalKey="1926553">穩住控製中心外圍的防線！</str>
+  <str key="1938811-ucdt" type="ucdt" originalKey="1938811">增加 280 發的武器總彈藥容量。</str>
   <str key="2000996-ucdt" type="ucdt" originalKey="2000996">TR TMG-50 + 證書點</str>
   <str key="2025683-ucdt" type="ucdt" originalKey="2025683">剝皮者：金質勳章</str>
   <str key="2133224-ucdt" type="ucdt" originalKey="2133224">新聯邦的完美霰彈槍</str>
   <str key="2250465-ucdt" type="ucdt" originalKey="2250465">為你的工蟻加裝裝飾附件。所有陣營均可使用此裝備。</str>
-  <str key="2280696-ugdt" type="ugdt" originalKey="2280696">Sensor Shield 3</str>
-  <str key="2434666-ucdt" type="ucdt" originalKey="2434666">为Dervish挡风玻璃添加个性化涂装。仅供NSO使用。</str>
-  <str key="2525758-ucdt" type="ucdt" originalKey="2525758">剩余时间：[*Time*]</str>
-  <str key="2638246-ucdt" type="ucdt" originalKey="2638246">自动持续恢复生命。受到伤害后几秒内无法自动恢复。</str>
-  <str key="2639296-ucdt" type="ucdt" originalKey="2639296">MG-A1勁弩：銅質勳章</str>
+  <str key="2280696-ugdt" type="ugdt" originalKey="2280696">探測屏蔽 3 級</str>
+  <str key="2434666-ucdt" type="ucdt" originalKey="2434666">為苦行僧的駕駛艙玻璃添加裝飾效果。 僅限納能特工使用。</str>
+  <str key="2525758-ucdt" type="ucdt" originalKey="2525758">剩餘時間: [*Time*]</str>
+  <str key="2638246-ucdt" type="ucdt" originalKey="2638246">一段時間後自動修複。受到攻擊會中斷修複數秒。</str>
+  <str key="2639296-ucdt" type="ucdt" originalKey="2639296">MG-A1 勁弩：銅質勳章</str>
   <str key="2675904-ucdt" type="ucdt" originalKey="2675904">蜜獾載具貼花</str>
   <str key="2829572-ugdt" type="ugdt" originalKey="2829572">科摩耶 - 測試槍</str>
-  <str key="2938536-ucdt" type="ucdt" originalKey="2938536">武器的裝彈時間減少0.2秒。</str>
-  <str key="3067516-ucdt" type="ucdt" originalKey="3067516">检索数据。</str>
-  <str key="3073012-ucdt" type="ucdt" originalKey="3073012">占坑武器名</str>
-  <str key="3351148-ucdt" type="ucdt" originalKey="3351148">专家发射器旗帜</str>
+  <str key="2938536-ucdt" type="ucdt" originalKey="2938536">武器的裝彈時間減少 0.2 秒。</str>
+  <str key="3067516-ucdt" type="ucdt" originalKey="3067516">檢索數據。</str>
+  <str key="3073012-ucdt" type="ucdt" originalKey="3073012">武器名佔位符</str>
+  <str key="3351148-ucdt" type="ucdt" originalKey="3351148">火箭發射器專家背景橫幅</str>
   <str key="3361867-ucdt" type="ucdt" originalKey="3361867">為你的載具添加貼花。僅限新聯邦使用。</str>
-  <str key="3372743-ucdt" type="ucdt" originalKey="3372743">NS-15 "Endeavor"机枪</str>
-  <str key="3421238-ucdt" type="ucdt" originalKey="3421238">強化水準轉向速率、滾轉速率以及敏捷性。（比上一級更高效）</str>
-  <str key="3423464-ucdt" type="ucdt" originalKey="3423464">炮手擊殺共用 - 空投艙</str>
-  <str key="3505127-ucdt" type="ucdt" originalKey="3505127">小隊領導力</str>
+  <str key="3372743-ucdt" type="ucdt" originalKey="3372743">NS-15 “奮進號” 機槍</str>
+  <str key="3421238-ucdt" type="ucdt" originalKey="3421238">強化水平轉向速率、滾轉速率以及敏捷性。（比上一級更高效）</str>
+  <str key="3423464-ucdt" type="ucdt" originalKey="3423464">炮手擊殺共享 - 空投艙</str>
+  <str key="3505127-ucdt" type="ucdt" originalKey="3505127">小隊領袖</str>
+  <str key="3547643-ugdt" type="ugdt" originalKey="3547643">奧星聖誕節：哈德利</str>
   <str key="3566505-ucdt" type="ucdt" originalKey="3566505">得分</str>
-  <str key="3822220-ucdt" type="ucdt" originalKey="3822220">F.U.S.E.（反步兵） 的攜帶量增加1枚。</str>
-  <str key="3916918-ucdt" type="ucdt" originalKey="3916918">NS-60火焰噴射器：銅質勳章</str>
-  <str key="4234178-ucdt" type="ucdt" originalKey="4234178">ACE工具 - 炮臺：銅質勳章</str>
+  <str key="3822220-ucdt" type="ucdt" originalKey="3822220">F.U.S.E.（反步兵） 的攜帶量增加 1 枚。</str>
+  <str key="3916918-ucdt" type="ucdt" originalKey="3916918">NS-60 火焰噴射器：銅質勳章</str>
+  <str key="4234178-ucdt" type="ucdt" originalKey="4234178">先進構築工具 - 炮臺：銅質勳章</str>
   <str key="4376735-ucdt" type="ucdt" originalKey="4376735">重力平臺可以讓你上下移動，速度非常快。只要站到平臺上，你就可以沿著粒子流動的方向向上或向下移動了。</str>
-  <str key="4377775-ucdt" type="ucdt" originalKey="4377775">艾美瑞什樹叢載具迷彩</str>
+  <str key="4377775-ucdt" type="ucdt" originalKey="4377775">艾美瑞什灌木載具迷彩</str>
   <str key="4387352-ugdt" type="ugdt" originalKey="4387352">靜態苔原武器迷彩</str>
   <str key="4392764-ucdt" type="ucdt" originalKey="4392764">地區</str>
-  <str key="4414651-ugdt" type="ugdt" originalKey="4414651">灰色猛虎載具迷彩</str>
+  <str key="4414651-ugdt" type="ugdt" originalKey="4414651">餘燼之虎載具迷彩</str>
   <str key="4547595-ucdt" type="ucdt" originalKey="4547595">一種具有複雜導電特性的稀有類液態物質。</str>
-  <str key="4573804-ucdt" type="ucdt" originalKey="4573804">10%經驗加成</str>
+  <str key="4573804-ucdt" type="ucdt" originalKey="4573804">10% 經驗加成</str>
   <str key="4593374-ucdt" type="ucdt" originalKey="4593374">提升/降低成員等級</str>
   <str key="4614870-ucdt" type="ucdt" originalKey="4614870">&lt;font color="#7FF4FF"&gt;[/re]gionsay &lt;/font&gt; - 向你所在的地區內的友方玩家發送一條文字消息。你目前所在的地區將顯示在主介面左邊，地圖的上方。</str>
-  <str key="4669484-ucdt" type="ucdt" originalKey="4669484">武器的裝彈時間減少0.5秒。</str>
+  <str key="4669484-ucdt" type="ucdt" originalKey="4669484">武器的裝彈時間減少 0.5 秒。</str>
   <str key="4720349-ucdt" type="ucdt" originalKey="4720349">正圓迷彩</str>
   <str key="4826084-ucdt" type="ucdt" originalKey="4826084">為你的載具添加貼花。所有陣營均可使用此貼花。</str>
-  <str key="5042024-ucdt" type="ucdt" originalKey="5042024">All Access會員</str>
-  <str key="5045836-ucdt" type="ucdt" originalKey="5045836">用这个特别礼包来庆祝《PlanetSide 2》八周年。注意：礼包中包含面向所有帝国的武器和装饰品。加成仅对购买礼包的角色生效。</str>
-  <str key="5100230-ucdt" type="ucdt" originalKey="5100230">NS-66 Punisher：[#COPPER_MEDAL#]</str>
-  <str key="5392687-ucdt" type="ucdt" originalKey="5392687">纳能自动修复系统 1</str>
-  <str key="5404723-ucdt" type="ucdt" originalKey="5404723">狙擊手：輸出50,000點傷害</str>
-  <str key="5408011-ucdt" type="ucdt" originalKey="5408011">工程兵：战术装备</str>
-  <str key="5692652-ucdt" type="ucdt" originalKey="5692652">擊殺敵人有12%幾率使你和25米內的隊友在4秒內最小射擊散佈角減小30%。MAX可裝備並觸發此外掛程式，但自身無法享受該收益。</str>
-  <str key="5730971-ucdt" type="ucdt" originalKey="5730971">用奧星纖維編制而成的喜慶藍色帽子。&lt;br&gt;&lt;font color="#2af72a"&gt;穿戴後經驗加成+50%&lt;/font&gt;&lt;br&gt;&lt;font color="#FF0000"&gt;此物品只能在寒冬節日季期間使用。&lt;/font&gt;</str>
-  <str key="5746893-ugdt" type="ugdt" originalKey="5746893">O2-7 (7x)</str>
+  <str key="4841895-ugdt" type="ugdt" originalKey="4841895">風暴浮標</str>
+  <str key="5042024-ucdt" type="ucdt" originalKey="5042024">All Access 會員</str>
+  <str key="5045836-ucdt" type="ucdt" originalKey="5045836">用這個特別的禮包來慶祝行星邊際二的八周年紀念日。註意：禮包內所有飾品和武器全陣營可用。但是加成卡只會出現在購買該禮包的角色上。</str>
+  <str key="5100230-ucdt" type="ucdt" originalKey="5100230">NS-66 懲罰者：銅質勳章</str>
+  <str key="5392687-ucdt" type="ucdt" originalKey="5392687">納能自動修複系統 1 級</str>
+  <str key="5404723-ucdt" type="ucdt" originalKey="5404723">狙擊手：輸出50,000 點傷害</str>
+  <str key="5408011-ucdt" type="ucdt" originalKey="5408011">工程師：戰術裝備</str>
+  <str key="5692652-ucdt" type="ucdt" originalKey="5692652">擊殺敵人有 12% 幾率使你和 25 米內的隊友在 4 秒內最小射擊散布角減小 30%。MAX 可裝備並觸發此插件，但自身無法享受該收益。</str>
+  <str key="5730971-ucdt" type="ucdt" originalKey="5730971">用奧星纖維編製而成的喜慶藍色帽子。&lt;br&gt;&lt;font color="#2af72a"&gt;穿戴後經驗加成+50%&lt;/font&gt;&lt;br&gt;&lt;font color="#FF0000"&gt;此物品仅能在寒冬節日季期間使用。&lt;/font&gt;</str>
+  <str key="5746893-ugdt" type="ugdt" originalKey="5746893">O2-7（7 倍）</str>
   <str key="5785670-ucdt" type="ucdt" originalKey="5785670">火力風暴</str>
-  <str key="5827656-ucdt" type="ucdt" originalKey="5827656">感谢你成为会员！你现在可以每天接受%0个任务。非会员可以接受%1个。</str>
-  <str key="5890435-ucdt" type="ucdt" originalKey="5890435">需要軍團忠誠度 - 10級</str>
-  <str key="5919759-ucdt" type="ucdt" originalKey="5919759">5年解放護甲貼花</str>
-  <str key="5939547-ucdt" type="ucdt" originalKey="5939547">武器能夠攜帶的最大彈藥數量增加17發。</str>
-  <str key="6081400-ucdt" type="ucdt" originalKey="6081400">NC12清道夫：金質勳章</str>
-  <str key="6256017-ucdt" type="ucdt" originalKey="6256017">殺戮印記載具貼花</str>
-  <str key="6266753-ucdt" type="ucdt" originalKey="6266753">裝彈速率 4</str>
-  <str key="6301696-ugdt" type="ugdt" originalKey="6301696">Mosquito Death From Above Glass Decal</str>
-  <str key="6329828-ucdt" type="ucdt" originalKey="6329828">天空衛士機槍</str>
-  <str key="6457191-ucdt" type="ucdt" originalKey="6457191">&lt;font color="#00FFAA"&gt;Knightly：&lt;/font&gt;那时候，我们不关心战争武器的研发，只关心怎么让人民的意志更加强大。也许我只是在怀念过去吧。</str>
-  <str key="6704529-ucdt" type="ucdt" originalKey="6704529">震盪手雷</str>
-  <str key="6987405-ucdt" type="ucdt" originalKey="6987405">重新装弹速度3</str>
+  <str key="5827656-ucdt" type="ucdt" originalKey="5827656">感謝您成為我們的會員。您現在可以獲取會員專屬任務獎勵了。</str>
+  <str key="5890435-ucdt" type="ucdt" originalKey="5890435">需要軍團忠誠度 - 10 級</str>
+  <str key="5919759-ucdt" type="ucdt" originalKey="5919759">自由五周年裝甲貼花</str>
+  <str key="5939547-ucdt" type="ucdt" originalKey="5939547">武器能夠攜帶的最大彈藥數量增加 17 發。</str>
+  <str key="6081400-ucdt" type="ucdt" originalKey="6081400">NC12 清道夫：金質勳章</str>
+  <str key="6256017-ucdt" type="ucdt" originalKey="6256017">擊殺標誌載具貼花</str>
+  <str key="6266753-ucdt" type="ucdt" originalKey="6266753">裝彈速度 4 級</str>
+  <str key="6301696-ugdt" type="ugdt" originalKey="6301696">死從天降蚊式戰機駕駛艙貼花</str>
+  <str key="6329828-ucdt" type="ucdt" originalKey="6329828">天空衛士</str>
+  <str key="6457191-ucdt" type="ucdt" originalKey="6457191">&lt;font color="#00FFAA"&gt;奈特利:&lt;/font&gt; 我們沒那麼關心軍火，而是更關心強化我們人民的意誌。又或者，可能我只是懷念曾經的樣子吧。</str>
+  <str key="6704529-ucdt" type="ucdt" originalKey="6704529">震撼手雷</str>
+  <str key="6987405-ucdt" type="ucdt" originalKey="6987405">裝彈速度 3 級</str>
   <str key="7092567-ugdt" type="ugdt" originalKey="7092567">TX4 暴君</str>
-  <str key="7180888-ugdt" type="ugdt" originalKey="7180888">MACS Armor Decal</str>
-  <str key="7199127-ucdt" type="ucdt" originalKey="7199127">武器能夠攜帶的最大炮彈數量增加14發。</str>
+  <str key="7180888-ugdt" type="ugdt" originalKey="7180888">MACS 裝甲貼花</str>
+  <str key="7199127-ucdt" type="ucdt" originalKey="7199127">武器能夠攜帶的最大炮彈數量增加 14 發。</str>
   <str key="7376076-ucdt" type="ucdt" originalKey="7376076">解放霍森</str>
-  <str key="7396785-ucdt" type="ucdt" originalKey="7396785">你獲取&lt;font color="#7FF4FF"&gt;經驗值&lt;/font&gt;時，也將同時獲得&lt;font color="#E88127"&gt;證書點數&lt;/font&gt;</str>
-  <str key="7511375-ugdt" type="ugdt" originalKey="7511375">FOG Vehicle Decal</str>
-  <str key="7597971-ugdt" type="ugdt" originalKey="7597971">M20-W Appaloosa</str>
+  <str key="7396785-ucdt" type="ucdt" originalKey="7396785">當你獲取&lt;font color="#7FF4FF"&gt;經驗值&lt;/font&gt;時，也將同時獲得&lt;font color="#E88127"&gt;證書點&lt;/font&gt;</str>
+  <str key="7511375-ugdt" type="ugdt" originalKey="7511375">FOG 載具貼花</str>
+  <str key="7597971-ugdt" type="ugdt" originalKey="7597971">M20-W 阿帕盧薩</str>
   <str key="7734604-ucdt" type="ucdt" originalKey="7734604">載具測試物品：備用。</str>
-  <str key="7782577-ugdt" type="ugdt" originalKey="7782577">軍校生 1 塗裝</str>
-  <str key="7872131-ucdt" type="ucdt" originalKey="7872131">资源</str>
-  <str key="7970252-ucdt" type="ucdt" originalKey="7970252">2015年1月參與粉碎世界紀錄活動的玩家，可獲得此頭銜。</str>
-  <str key="7978361-ucdt" type="ucdt" originalKey="7978361">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;嘿，机灵鬼。你要陪那个Dustypants指挥官一起去Oshur旅游吗？这对咱们来说都是好消息啊，又开心又能赚钱！说得具体点，开心的是你，赚钱的是我，但事实就是这样。</str>
+  <str key="7782577-ugdt" type="ugdt" originalKey="7782577">軍校生 1 貼花</str>
+  <str key="7872131-ucdt" type="ucdt" originalKey="7872131">資源</str>
+  <str key="7970252-ucdt" type="ucdt" originalKey="7970252">2015 年1月參與粉碎世界紀錄活動的玩家，可獲得此頭銜。</str>
+  <str key="7978361-ucdt" type="ucdt" originalKey="7978361">&lt;font color="#00FFAA"&gt;FL-34:&lt;/font&gt; 你好啊，小機靈鬼。那麼你正在為髒褲子協調員在歐夏爾的小小遠征出力？這真的是太棒了，咱倆都能一邊玩一邊賺大錢了，當然總的來說是我拿錢你開心，不過事情不就該是這樣子的嘛。</str>
   <str key="8005190-ucdt" type="ucdt" originalKey="8005190">海盜戰機貼花</str>
-  <str key="8045133-ucdt" type="ucdt" originalKey="8045133">受到來自破片手雷和常規爆炸物的傷害降低50%。</str>
-  <str key="8059506-ucdt" type="ucdt" originalKey="8059506">VS相移VX-S + 證書點</str>
+  <str key="8045133-ucdt" type="ucdt" originalKey="8045133">受到來自破片手雷和常規爆炸物的傷害降低 50%。</str>
+  <str key="8059506-ucdt" type="ucdt" originalKey="8059506">VS VX-S 相移 + 證書點</str>
   <str key="8074851-ucdt" type="ucdt" originalKey="8074851">在你的載具上添加因達爾灌木迷彩圖案。所有陣營均可使用此裝備。</str>
-  <str key="8103574-ucdt" type="ucdt" originalKey="8103574">手持近戰武器擊殺一名敵人會回復200點生命值，快速出刀不會觸發此效果。</str>
-  <str key="8326486-ucdt" type="ucdt" originalKey="8326486">AF-18追獵者AE：銀質勳章</str>
-  <str key="8432929-ucdt" type="ucdt" originalKey="8432929">变电站Coral</str>
-  <str key="8514859-ucdt" type="ucdt" originalKey="8514859">作為一款設計精良的武器系統，NS-11A通過裝配不同配件，幾乎可以適用於所有場合。這款衍生型號在黑色底面上印有雅致的火焰圖案。所有陣營均可使用納能集團的武器。</str>
-  <str key="8580020-ugdt" type="ugdt" originalKey="8580020">Prowler Horn of Liberty</str>
-  <str key="8606739-ucdt" type="ucdt" originalKey="8606739">心宿二LC：奧星勳章</str>
-  <str key="8657503-ucdt" type="ucdt" originalKey="8657503">瞭解地球共和國對秩序的探索。</str>
-  <str key="8698698-ucdt" type="ucdt" originalKey="8698698">&lt;font color="#00FFAA"&gt;Knightly现场专员&lt;/font&gt;在Esamir的Biolab被摧毁之后，要赶在这么多植物枯萎之前把它们送到我们的研究者手里真是一场后勤噩梦。</str>
-  <str key="8801686-ucdt" type="ucdt" originalKey="8801686">讓滲透兵可以偵測到敵人的爆炸物，並將消息發佈給附近的友方士兵。</str>
+  <str key="8103574-ucdt" type="ucdt" originalKey="8103574">手持近戰武器擊殺一名敵人會回複 200 點生命值，快速出刀不會觸發此效果。</str>
+  <str key="8326486-ucdt" type="ucdt" originalKey="8326486">AF-18 追獵者 年度紀念版：銀質勳章</str>
+  <str key="8432929-ucdt" type="ucdt" originalKey="8432929">珊瑚變電站</str>
+  <str key="8514859-ucdt" type="ucdt" originalKey="8514859">作為一款設計精良的武器系統，NS-11A 通過裝配不同配件，幾乎可以適用於所有場合。這款衍生型號在黑色漆面上印有雅致的火焰圖案。所有陣營均可使用納能集團的武器。</str>
+  <str key="8580020-ugdt" type="ugdt" originalKey="8580020">徘徊者解放號角</str>
+  <str key="8606739-ucdt" type="ucdt" originalKey="8606739">LC 心宿二：奧星勳章</str>
+  <str key="8657503-ucdt" type="ucdt" originalKey="8657503">了解地球共和國對秩序的追求。</str>
+  <str key="8698698-ucdt" type="ucdt" originalKey="8698698">&lt;font color="#00FFAA"&gt;戰區長官奈特利&lt;/font&gt;伊薩米爾的生物實驗室被摧毀後，如何將這些植物在其枯萎之前送到我們的研究人員手上讓後勤苦不堪言。</str>
+  <str key="8801686-ucdt" type="ucdt" originalKey="8801686"> 允許滲透者標記敵方爆炸物並將標記同步給周圍的友軍。</str>
   <str key="8804133-ugdt" type="ugdt" originalKey="8804133">Daum標題5</str>
   <str key="8834800-ucdt" type="ucdt" originalKey="8834800">乙小隊路標點</str>
-  <str key="8936270-ucdt" type="ucdt" originalKey="8936270">以驚喜優惠價獲取女武神武器及裝飾品！</str>
-  <str key="8999486-ucdt" type="ucdt" originalKey="8999486">消灭控制点附近的所有敌人！</str>
-  <str key="9003593-ucdt" type="ucdt" originalKey="9003593">激光瞄准器可使玩家的扫射精准度提高33%。</str>
-  <str key="9171317-ucdt" type="ucdt" originalKey="9171317">按住[%s]鍵破解門鎖</str>
-  <str key="9175067-ucdt" type="ucdt" originalKey="9175067">輕型突擊兵：殺死250名敵人的步兵</str>
+  <str key="8936270-ucdt" type="ucdt" originalKey="8936270">以驚喜優惠價獲取精選的女武神武器及裝飾品！</str>
+  <str key="8999486-ucdt" type="ucdt" originalKey="8999486">消滅控製點周圍的敵人！</str>
+  <str key="9003593-ucdt" type="ucdt" originalKey="9003593">鐳射瞄準器使腰射時的精準度提升 33%。</str>
+  <str key="9171317-ucdt" type="ucdt" originalKey="9171317">按住[%s]鍵駭入門鎖</str>
+  <str key="9175067-ucdt" type="ucdt" originalKey="9175067">輕型突擊兵：殺死250 名敵人的步兵</str>
   <str key="9206774-ucdt" type="ucdt" originalKey="9206774">彈藥包：金質勳章</str>
-  <str key="9232416-ucdt" type="ucdt" originalKey="9232416">从终端重生一辆Colossus坦克。</str>
-  <str key="9414314-ucdt" type="ucdt" originalKey="9414314">体贴的</str>
-  <str key="9558623-ucdt" type="ucdt" originalKey="9558623">作为载具炮手行进的米数。</str>
+  <str key="9232416-ucdt" type="ucdt" originalKey="9232416">使用終端生成一輛巨像重型坦克。</str>
+  <str key="9414314-ucdt" type="ucdt" originalKey="9414314">體貼的</str>
+  <str key="9558623-ucdt" type="ucdt" originalKey="9558623">作為載具炮手行進的米數。</str>
   <str key="9566403-ugdt" type="ugdt" originalKey="9566403">伊薩米爾之心裝甲迷彩</str>
   <str key="9740375-ucdt" type="ucdt" originalKey="9740375">黑鱗銥礦場</str>
-  <str key="9748355-ucdt" type="ucdt" originalKey="9748355">使用多种战术模块来强化你的玩家自建基地。解锁具备产生护盾、维修、发出警报等功能的建筑设计图。</str>
-  <str key="9788928-ucdt" type="ucdt" originalKey="9788928">敌方车队正在离开[*warpgate*]以增援[*facility*]。</str>
+  <str key="9748355-ucdt" type="ucdt" originalKey="9748355">使用各種戰術模塊特化玩家製造的基地。解鎖生成護盾、維修、發出警報等功能的建築示意圖。</str>
+  <str key="9788928-ucdt" type="ucdt" originalKey="9788928">敵軍車隊正從[*warpgate*]出發增援[*facility*]。</str>
   <str key="9827891-ucdt" type="ucdt" originalKey="9827891">EREOF</str>
-  <str key="9857909-ucdt" type="ucdt" originalKey="9857909">彈藥攜帶量 4</str>
-  <str key="9882052-ucdt" type="ucdt" originalKey="9882052">Sunderer警告喇叭</str>
-  <str key="9917213-ucdt" type="ucdt" originalKey="9917213">將電磁騎士的獲取時間間隔減少720秒</str>
+  <str key="9857909-ucdt" type="ucdt" originalKey="9857909">備彈數量 4 級</str>
+  <str key="9882052-ucdt" type="ucdt" originalKey="9882052">決裂者警告喇叭</str>
+  <str key="9917213-ucdt" type="ucdt" originalKey="9917213">將電磁騎士的獲取時間間隔減少 720 秒。</str>
   <str key="9961268-ucdt" type="ucdt" originalKey="9961268">渡鴉：奧星勳章</str>
   <str key="10016439-ucdt" type="ucdt" originalKey="10016439">炸彈車標</str>
-  <str key="10036557-ugdt" type="ugdt" originalKey="10036557">駕駛艙：青色金屬塗裝</str>
-  <str key="10039025-ucdt" type="ucdt" originalKey="10039025">弹药携带量2</str>
+  <str key="10036557-ugdt" type="ugdt" originalKey="10036557">駕駛艙：青色金屬貼花</str>
+  <str key="10039025-ucdt" type="ucdt" originalKey="10039025">備彈數量 2 級</str>
   <str key="10206614-ucdt" type="ucdt" originalKey="10206614">大熊座：奧星勳章</str>
-  <str key="10220348-ucdt" type="ucdt" originalKey="10220348">VS粗啞語音包</str>
+  <str key="10220348-ucdt" type="ucdt" originalKey="10220348">瓦努主權國粗啞低沈語音包</str>
   <str key="10445747-ucdt" type="ucdt" originalKey="10445747">半近戰</str>
-  <str key="10532064-ugdt" type="ugdt" originalKey="10532064">PS1 車標</str>
-  <str key="10583549-ucdt" type="ucdt" originalKey="10583549">考斯輪轂罩</str>
-  <str key="10678998-ucdt" type="ucdt" originalKey="10678998">&lt;font color="#00FFAA"&gt;安全设备&lt;/font&gt; - Esamir爆炸的好处之一，就是来自它的防护设备和载具装甲。我们的装备足以快速进出能量涡流，但这是个大任务，所以我们需要足够的防护设备，才能支持长达数月的行动。</str>
+  <str key="10532064-ugdt" type="ugdt" originalKey="10532064">《行星邊際 1》車標</str>
+  <str key="10583549-ucdt" type="ucdt" originalKey="10583549">考斯輪轂罩(勿翻譯)</str>
+  <str key="10626093-ugdt" type="ugdt" originalKey="10626093">廢棄的電力中心</str>
+  <str key="10678998-ucdt" type="ucdt" originalKey="10678998">&lt;font color="#00FFAA"&gt;安全設備&lt;/font&gt; - 伊薩米爾爆炸的好處之一是防護設備和車輛鍍層。我們有足夠的裝備來快速進出能量漩渦，但這是一項艱巨的任務，因此我們需要足夠的防護設備來繼續運營數月。</str>
   <str key="10727597-ucdt" type="ucdt" originalKey="10727597">喇叭</str>
-  <str key="10859176-ucdt" type="ucdt" originalKey="10859176">震盪手雷：奧星勳章</str>
+  <str key="10859176-ucdt" type="ucdt" originalKey="10859176">震撼手雷：奧星勳章</str>
   <str key="10897857-ucdt" type="ucdt" originalKey="10897857">檢測到未知錯誤。</str>
   <str key="10916576-ucdt" type="ucdt" originalKey="10916576">定位</str>
-  <str key="10974908-ucdt" type="ucdt" originalKey="10974908">沿著路標前進。</str>
+  <str key="10974908-ucdt" type="ucdt" originalKey="10974908">沿著路標點前進。</str>
   <str key="11069320-ucdt" type="ucdt" originalKey="11069320">解散軍團</str>
-  <str key="11125478-ucdt" type="ucdt" originalKey="11125478">預設彈匣的彈藥容量增加6發。</str>
-  <str key="11136766-ugdt" type="ugdt" originalKey="11136766">Rx1 (1x) - T-Dot</str>
-  <str key="11205534-ugdt" type="ugdt" originalKey="11205534">"W" 車標</str>
-  <str key="11338385-ucdt" type="ucdt" originalKey="11338385">The9 Placeholder</str>
-  <str key="11422026-ugdt" type="ugdt" originalKey="11422026">Afterfire Rebreather Helmet</str>
-  <str key="11507078-ucdt" type="ucdt" originalKey="11507078">Terran Republic（友方）</str>
-  <str key="11535759-ucdt" type="ucdt" originalKey="11535759">脈衝星VS1</str>
-  <str key="11551428-ucdt" type="ucdt" originalKey="11551428">武器能够携带的最大弹药数量增加600。</str>
+  <str key="11125478-ucdt" type="ucdt" originalKey="11125478">默認彈匣的彈藥容量增加 6 發。</str>
+  <str key="11136766-ugdt" type="ugdt" originalKey="11136766">Rx1（1 倍）-T 形點</str>
+  <str key="11205534-ugdt" type="ugdt" originalKey="11205534">“W” 車標</str>
+  <str key="11338385-ucdt" type="ucdt" originalKey="11338385">第九佔位符</str>
+  <str key="11422026-ugdt" type="ugdt" originalKey="11422026">複燃呼吸器頭盔</str>
+  <str key="11507078-ucdt" type="ucdt" originalKey="11507078">地球共和國（友軍）</str>
+  <str key="11535759-ucdt" type="ucdt" originalKey="11535759">VS1 脈沖星</str>
+  <str key="11551428-ucdt" type="ucdt" originalKey="11551428">武器彈藥最大攜帶量增加 600 發。</str>
   <str key="11588918-ucdt" type="ucdt" originalKey="11588918">請求</str>
   <str key="11848663-ucdt" type="ucdt" originalKey="11848663">銀河載具貼花</str>
-  <str key="11917812-ucdt" type="ucdt" originalKey="11917812">裝彈速率 3</str>
-  <str key="12236340-ugdt" type="ugdt" originalKey="12236340">火花 Pipe Organ Horn</str>
-  <str key="12407691-ugdt" type="ugdt" originalKey="12407691">NSX Tengu</str>
+  <str key="11917812-ucdt" type="ucdt" originalKey="11917812">裝彈速度 3 級</str>
+  <str key="12236340-ugdt" type="ugdt" originalKey="12236340">火花管風琴喇叭</str>
+  <str key="12407691-ugdt" type="ugdt" originalKey="12407691">NSX 天狗</str>
   <str key="12475761-ucdt" type="ucdt" originalKey="12475761">你已成為火力小組組長！</str>
-  <str key="12593078-ucdt" type="ucdt" originalKey="12593078">腐蝕煙霧 4</str>
-  <str key="12771382-ugdt" type="ugdt" originalKey="12771382">幻影VA23</str>
-  <str key="12839057-ucdt" type="ucdt" originalKey="12839057">VS蠻勇語音包</str>
-  <str key="12865932-ucdt" type="ucdt" originalKey="12865932">風霜印記護甲迷彩</str>
+  <str key="12593078-ucdt" type="ucdt" originalKey="12593078">腐蝕煙霧 4 級</str>
+  <str key="12771382-ugdt" type="ugdt" originalKey="12771382">VA23 幻影</str>
+  <str key="12839057-ucdt" type="ucdt" originalKey="12839057">瓦努主權國悍勇無畏語音包</str>
+  <str key="12865932-ucdt" type="ucdt" originalKey="12865932">風霜印記裝甲迷彩</str>
   <str key="12929569-ucdt" type="ucdt" originalKey="12929569">陣營士氣</str>
-  <str key="12946961-ucdt" type="ucdt" originalKey="12946961">分</str>
-  <str key="12967438-ucdt" type="ucdt" originalKey="12967438">開啟後5秒內可以修覆載具15%的耐久。如果啟用此裝置時載具已經著火，可以立即撲滅火焰。每22秒可以啟用一次。</str>
+  <str key="12946961-ucdt" type="ucdt" originalKey="12946961">分鍾</str>
+  <str key="12967438-ucdt" type="ucdt" originalKey="12967438">開啓後 5 秒內可以修複載具 15% 的耐久。如果啓用此裝置時載具已經著火，可以立即撲滅火焰。每 22 秒可以啓用一次。</str>
   <str key="13038543-ucdt" type="ucdt" originalKey="13038543">設置</str>
-  <str key="13142877-ucdt" type="ucdt" originalKey="13142877">武器能夠攜帶的最大火箭彈數量增加24發。</str>
-  <str key="13234026-ucdt" type="ucdt" originalKey="13234026">武器能夠攜帶的最大炸彈數量增加12枚。</str>
-  <str key="13355389-ucdt" type="ucdt" originalKey="13355389">顱骨頭盔讓不幸面對它的對手在心底裡感到恐懼。僅限瓦努主權國使用。</str>
+  <str key="13142877-ucdt" type="ucdt" originalKey="13142877">武器能夠攜帶的最大火箭彈數量增加 24 發。</str>
+  <str key="13234026-ucdt" type="ucdt" originalKey="13234026">武器能夠攜帶的最大炸彈數量增加 12 枚。</str>
+  <str key="13355389-ucdt" type="ucdt" originalKey="13355389">顱骨頭盔讓不幸面對它的對手在心底裏感到恐懼。僅限瓦努主權國使用。</str>
   <str key="13363165-ucdt" type="ucdt" originalKey="13363165">漫畫書</str>
   <str key="13792876-ucdt" type="ucdt" originalKey="13792876">輸入軍團消息……</str>
-  <str key="13837614-ucdt" type="ucdt" originalKey="13837614">擊殺50米內的載具能為你或你的載具補充一輪彈藥，並為你的載具回復最大生命值的10%。&lt;font color="#dc9c36"&gt;在載具中也生效。&lt;/font&gt;</str>
-  <str key="13927811-ucdt" type="ucdt" originalKey="13927811">納米編織護甲 4</str>
-  <str key="14071264-ucdt" type="ucdt" originalKey="14071264">預言者 5</str>
+  <str key="13837614-ucdt" type="ucdt" originalKey="13837614">擊殺 50 米內的載具能為你或你的載具補充一輪彈藥，並為你的載具回複最大生命值的 10%。&lt;font color="#dc9c36"&gt;在載具中也生效。&lt;/font&gt;</str>
+  <str key="13927811-ucdt" type="ucdt" originalKey="13927811">納米編織裝甲 4 級</str>
+  <str key="14071264-ucdt" type="ucdt" originalKey="14071264">先知 5</str>
   <str key="14150532-ugdt" type="ugdt" originalKey="14150532">光波武器迷彩</str>
   <str key="14168072-ucdt" type="ucdt" originalKey="14168072">快速使用</str>
-  <str key="14252909-ucdt" type="ucdt" originalKey="14252909">銀河：松樹林</str>
-  <str key="14286702-ucdt" type="ucdt" originalKey="14286702">“遊騎兵” G40-F是一種非常有威懾力的防空火炮。它的垂直射程很高，可以使用40毫米口徑防空炮彈，接近敵機時爆炸。所有陣營均可使用此武器。</str>
-  <str key="14342849-ucdt" type="ucdt" originalKey="14342849">手持近戰武器擊殺一名敵人會回復250點生命值，快速出刀不會觸發此效果。</str>
-  <str key="14433228-ucdt" type="ucdt" originalKey="14433228">納能加成 - 30分鐘</str>
+  <str key="14252909-ucdt" type="ucdt" originalKey="14252909">銀河：鬆樹林</str>
+  <str key="14286702-ucdt" type="ucdt" originalKey="14286702">G40-F 遊騎兵是一種非常有威懾力的防空火炮。它的垂直射程很高，可以使用 40 公釐口徑防空炮彈，接近敵機時爆炸。所有陣營均可使用此武器。</str>
+  <str key="14342849-ucdt" type="ucdt" originalKey="14342849">手持近戰武器擊殺一名敵人會回複 250 點生命值，快速出刀不會觸發此效果。</str>
+  <str key="14433228-ucdt" type="ucdt" originalKey="14433228">納能加成 - 30 分鍾</str>
   <str key="14465903-ugdt" type="ugdt" originalKey="14465903">羅馬短劍</str>
-  <str key="14522607-ucdt" type="ucdt" originalKey="14522607">奧納莎附屬重生點A</str>
-  <str key="14551584-ugdt" type="ugdt" originalKey="14551584">Modus Helmet</str>
+  <str key="14522607-ucdt" type="ucdt" originalKey="14522607">奧娜莎衛星重生點 A</str>
+  <str key="14551584-ugdt" type="ugdt" originalKey="14551584">作案頭盔</str>
   <str key="14552153-ucdt" type="ucdt" originalKey="14552153">在突襲者的車身下面安裝藍色的底盤燈光。僅限地球共和國使用。</str>
-  <str key="14762947-ucdt" type="ucdt" originalKey="14762947">&lt;font color="#00FFAA"&gt;Nalla代表：&lt;/font&gt;哈喽，特工。我很想念以前的车队任务，可以在各个地点自由穿梭。现在我每天的工作都是协调采矿任务，分发便携式采矿激光器。你愿意帮我录一段你在地面驾驶载具狂飙的视频吗？</str>
-  <str key="14820257-ugdt" type="ugdt" originalKey="14820257">勇敢頭盔</str>
+  <str key="14762947-ucdt" type="ucdt" originalKey="14762947">&lt;font color="#00FFAA"&gt;納拉代錶：&lt;/font&gt;你好，特工。我懷念曾經負責運送任務的日子。我所做的便是協調採礦工作並分發便攜式採礦鐳射器。介意錄一段你開著你喜歡的車在路上狂飆的視頻嗎?</str>
+  <str key="14820257-ugdt" type="ugdt" originalKey="14820257">無畏者頭盔 </str>
   <str key="14861919-ugdt" type="ugdt" originalKey="14861919">忠誠士兵迷彩</str>
   <str key="14897638-ugdt" type="ugdt" originalKey="14897638">碧綠條紋</str>
   <str key="14936075-ucdt" type="ucdt" originalKey="14936075">深山鍬甲頭盔</str>
   <str key="14940602-ucdt" type="ucdt" originalKey="14940602">駕駛艙：粉色座艙玻璃</str>
-  <str key="14979495-ucdt" type="ucdt" originalKey="14979495">在你的護甲上添加氣泡迷彩圖案。僅限新聯邦使用。</str>
+  <str key="14979495-ucdt" type="ucdt" originalKey="14979495">在你的裝甲上添加氣泡迷彩圖案。僅限新聯邦使用。</str>
   <str key="15001163-ucdt" type="ucdt" originalKey="15001163">一套精製的存放系統，讓使用者能更快地拔槍和收槍。</str>
-  <str key="15096864-ucdt" type="ucdt" originalKey="15096864">狩獵女神VX26</str>
+  <str key="15096864-ucdt" type="ucdt" originalKey="15096864">VX26 狩獵女神</str>
   <str key="15326226-ugdt" type="ugdt" originalKey="15326226">電線武器迷彩</str>
   <str key="15335924-ucdt" type="ucdt" originalKey="15335924">閒置計時器 9</str>
   <str key="15449551-ucdt" type="ucdt" originalKey="15449551">為你的載具添加貼花。僅限新聯邦使用。</str>
-  <str key="15672847-ucdt" type="ucdt" originalKey="15672847">精確轟炸機機身15707196	ucdn</str>
-  <str key="15743342-ucdt" type="ucdt" originalKey="15743342">在你的護甲上添加水花迷彩圖案。僅限地球共和國使用。</str>
-  <str key="15770477-ucdt" type="ucdt" originalKey="15770477">[*time*]內[*message*]。</str>
-  <str key="15837630-ucdt" type="ucdt" originalKey="15837630">REUSE</str>
-  <str key="15902630-ugdt" type="ugdt" originalKey="15902630">空中制動 1</str>
-  <str key="15917805-ugdt" type="ugdt" originalKey="15917805">占星師頭盔</str>
-  <str key="16038114-ucdt" type="ucdt" originalKey="16038114">蚊式戰機滾轉速率 - 5級</str>
-  <str key="16104159-ucdt" type="ucdt" originalKey="16104159">斑紋護甲迷彩</str>
-  <str key="16136885-ucdt" type="ucdt" originalKey="16136885">在你的載具上添加一次性的伊薩米爾冰原迷彩圖案。僅限瓦努主權國使用。一次性迷彩只能在本角色的一套配置中應用一次。</str>
+  <str key="15672847-ucdt" type="ucdt" originalKey="15672847">精確轟炸機機身</str>
+  <str key="15743342-ucdt" type="ucdt" originalKey="15743342">在你的裝甲上添加水花迷彩圖案。僅限地球共和國使用。</str>
+  <str key="15770477-ucdt" type="ucdt" originalKey="15770477">[*time*] 後[*message*]。</str>
+  <str key="15837630-ucdt" type="ucdt" originalKey="15837630">重複使用</str>
+  <str key="15902630-ugdt" type="ugdt" originalKey="15902630">空氣製動減速 1 級</str>
+  <str key="15917805-ugdt" type="ugdt" originalKey="15917805">佔星師頭盔</str>
+  <str key="16038114-ucdt" type="ucdt" originalKey="16038114">蚊式戰機滾轉速度 - 5 級</str>
+  <str key="16104159-ucdt" type="ucdt" originalKey="16104159">斑紋裝甲迷彩</str>
+  <str key="16136885-ucdt" type="ucdt" originalKey="16136885">在你的載具上添加一次性的伊薩米爾冰原迷彩圖案。僅限瓦努主權國使用。一次性迷彩仅能在本角色的一套配置中應用一次。</str>
   <str key="16242309-ucdt" type="ucdt" originalKey="16242309">RAMS .50M：銀質勳章</str>
-  <str key="16245389-ucdt" type="ucdt" originalKey="16245389">啟用一鍵購買模式</str>
+  <str key="16245389-ucdt" type="ucdt" originalKey="16245389">啓用 “一鍵購買” 功能</str>
   <str key="16246512-ugdt" type="ugdt" originalKey="16246512">淺棕單色迷彩</str>
-  <str key="16303167-ucdt" type="ucdt" originalKey="16303167">VS004輪轂罩</str>
-  <str key="16389272-ucdt" type="ucdt" originalKey="16389272">伊蒲賽龍偵察兵頭盔</str>
-  <str key="16516292-ugdt" type="ugdt" originalKey="16516292">Combat Chassis</str>
-  <str key="16526581-ugdt" type="ugdt" originalKey="16526581">特級上士 3 塗裝</str>
-  <str key="16778736-ucdt" type="ucdt" originalKey="16778736">所有非MAX職業均可裝備。僅限新聯邦使用。</str>
-  <str key="16938632-ucdt" type="ucdt" originalKey="16938632">在你的載具上添加艾美瑞什森林V2迷彩圖案。所有陣營均可使用此裝備。</str>
+  <str key="16303167-ucdt" type="ucdt" originalKey="16303167">VS004輪轂罩(勿翻譯)</str>
+  <str key="16389272-ucdt" type="ucdt" originalKey="16389272">伊普西龍偵察兵頭盔</str>
+  <str key="16516292-ugdt" type="ugdt" originalKey="16516292">戰鬥底盤</str>
+  <str key="16526581-ugdt" type="ugdt" originalKey="16526581">特級上士 3 貼花</str>
+  <str key="16778736-ucdt" type="ucdt" originalKey="16778736">所有非 MAX 職業均可穿戴。僅限新聯邦使用。</str>
+  <str key="16938632-ucdt" type="ucdt" originalKey="16938632">在你的載具上添加艾美瑞什森林 v2 迷彩圖案。所有陣營均可使用此裝備。</str>
   <str key="17026904-ucdt" type="ucdt" originalKey="17026904">切換到手槍，永遠比主武器重新裝彈要快。</str>
   <str key="17173216-ucdt" type="ucdt" originalKey="17173216">銀河假日小精靈喇叭</str>
-  <str key="17265748-ucdt" type="ucdt" originalKey="17265748">武器能夠攜帶的最大炮彈數量增加25發。</str>
-  <str key="17294819-ucdt" type="ucdt" originalKey="17294819">NC雄鷹載具貼花</str>
+  <str key="17265748-ucdt" type="ucdt" originalKey="17265748">武器能夠攜帶的最大炮彈數量增加 25 發。</str>
+  <str key="17294819-ucdt" type="ucdt" originalKey="17294819">新聯邦雄鷹載具貼花</str>
   <str key="17311565-ucdt" type="ucdt" originalKey="17311565">選擇</str>
   <str key="17473378-ucdt" type="ucdt" originalKey="17473378">火花丘比特喇叭</str>
-  <str key="17549041-ucdt" type="ucdt" originalKey="17549041">火箭筒專家背景橫幅</str>
-  <str key="17587018-ucdt" type="ucdt" originalKey="17587018">在電磁騎士的車身下麵安裝青色的底盤燈光。僅限瓦努主權國使用。</str>
+  <str key="17549041-ucdt" type="ucdt" originalKey="17549041">火箭發射器專家背景橫幅</str>
+  <str key="17587018-ucdt" type="ucdt" originalKey="17587018">在電磁騎士的車身下面安裝青色的底盤燈光。僅限瓦努主權國使用。</str>
   <str key="17590492-ucdt" type="ucdt" originalKey="17590492">近衛軍 2 貼花</str>
   <str key="17620477-ucdt" type="ucdt" originalKey="17620477">附加的合成外飾能幫你的工程兵改善形象。僅限瓦努主權國使用。</str>
-  <str key="17904405-ucdt" type="ucdt" originalKey="17904405">描述</str>
+  <str key="17904405-ucdt" type="ucdt" originalKey="17904405">一級維生系統描述(14050) (勿翻譯)</str>
   <str key="17953461-ucdt" type="ucdt" originalKey="17953461">重生</str>
   <str key="18043913-ucdt" type="ucdt" originalKey="18043913">十字劍：奧星勳章</str>
   <str key="18059147-ucdt" type="ucdt" originalKey="18059147">天鵝座：銅質勳章</str>
-  <str key="18187134-ucdt" type="ucdt" originalKey="18187134">DIGT載具貼花</str>
-  <str key="18314000-ugdt" type="ugdt" originalKey="18314000">Salvage 5</str>
-  <str key="18368059-ucdt" type="ucdt" originalKey="18368059">[*faction*]已連結至西北折躍門 +[*points*]戰果！</str>
-  <str key="18369188-ucdt" type="ucdt" originalKey="18369188">包含長柄刀IPC、軌道打擊發信站和增援部署模組的設計圖。解鎖後全陣營可用。</str>
-  <str key="18492427-ucdt" type="ucdt" originalKey="18492427">受到來自輕武器、重機槍和加特林機槍的傷害降低20%。</str>
+  <str key="18187134-ucdt" type="ucdt" originalKey="18187134">DIGT 載具貼花</str>
+  <str key="18314000-ugdt" type="ugdt" originalKey="18314000">回收 5 級</str>
+  <str key="18368059-ucdt" type="ucdt" originalKey="18368059">[*faction*]已鏈接至西北折躍門 +[*points*] 戰果！</str>
+  <str key="18369188-ucdt" type="ucdt" originalKey="18369188">包含長柄刀 IPC、軌道打擊訊號基站和支援模塊的設計圖。解鎖後全陣營可用。</str>
+  <str key="18492427-ucdt" type="ucdt" originalKey="18492427">受到來自輕武器、重機槍和加特林機槍的傷害降低 20%。</str>
   <str key="18523361-ucdt" type="ucdt" originalKey="18523361">你真就這麼放棄麼？</str>
-  <str key="18529533-ucdt" type="ucdt" originalKey="18529533">武器的最大彈藥容量增至750發。</str>
+  <str key="18529533-ucdt" type="ucdt" originalKey="18529533">武器的備彈數量增至 750 發。</str>
   <str key="18536477-ucdt" type="ucdt" originalKey="18536477">中士 1 貼花</str>
   <str key="18557678-ucdt" type="ucdt" originalKey="18557678">CAS 14-E：銅質勳章</str>
-  <str key="18687921-ucdt" type="ucdt" originalKey="18687921">工程兵護甲</str>
+  <str key="18687921-ucdt" type="ucdt" originalKey="18687921">工程兵裝甲</str>
   <str key="18731223-ucdt" type="ucdt" originalKey="18731223">v0.4.6</str>
-  <str key="18811314-ucdt" type="ucdt" originalKey="18811314">將電磁騎士的最高速度提高2公里/小時。</str>
-  <str key="18929381-ugdt" type="ugdt" originalKey="18929381">海盜戰機黃色閃光座艙玻璃塗裝</str>
+  <str key="18811314-ucdt" type="ucdt" originalKey="18811314">將電磁騎士的最高速度提高 2 公裏/小時。</str>
+  <str key="18929381-ugdt" type="ugdt" originalKey="18929381">海盜戰機黃色閃光座艙玻璃貼花</str>
   <str key="19066050-ucdt" type="ucdt" originalKey="19066050">通過守衛要塞，你可獲得此勤務綬帶。</str>
-  <str key="19207156-ucdt" type="ucdt" originalKey="19207156">納米護甲隱形 2</str>
-  <str key="19223297-ucdt" type="ucdt" originalKey="19223297">在外掛程式鑄造室中，你可以用ISO-4來製造出你當前所沒有的1級外掛程式。ISO-4能通過參與活動和警報來贏取，還能靠分解從外掛程式包得來的重複外掛程式來獲取。</str>
-  <str key="19243868-ucdt" type="ucdt" originalKey="19243868">英諾華占坑標題49描述</str>
-  <str key="19327711-ucdt" type="ucdt" originalKey="19327711">&lt;font color="#00FFAA"&gt;Campner引导师：&lt;/font&gt;任务完成，特工。等你附近的暴乱平息后，我们需要你去调查热信号，已经给你标在地图上了。</str>
-  <str key="19339270-ucdt" type="ucdt" originalKey="19339270">個性化你的地面載具，加裝金色決裂者標誌車標</str>
-  <str key="19462964-ucdt" type="ucdt" originalKey="19462964">在Chimera的车架下面安装底盘灯光。仅供NSO使用。&lt;font color="#dc9c36"&gt;灯光颜色取决于你当前所在的阵营。&lt;/font&gt;</str>
-  <str key="19536949-ucdt" type="ucdt" originalKey="19536949">可以在Sanctuary的了望甲板桥上找到Umatherin执政官。</str>
-  <str key="19547341-ucdt" type="ucdt" originalKey="19547341">調整將遠處物體的低精度模型轉變為高精度模型的距離與品質。</str>
-  <str key="19567075-ucdt" type="ucdt" originalKey="19567075">NSX村正</str>
-  <str key="19573567-ucdt" type="ucdt" originalKey="19573567">“血族” 卡賓槍在扣下扳機後短時間內能快速射出大口徑子彈，之後逐漸恢復到穩定射速。僅限地球共和國使用。</str>
+  <str key="19207156-ucdt" type="ucdt" originalKey="19207156">納米裝甲隱形 2 級</str>
+  <str key="19223297-ucdt" type="ucdt" originalKey="19223297">在插件鑄造室中，你可以用 ISO-4 來製造出你當前所沒有的 1 級插件。ISO-4 能通過參與活動和警報來贏取，還能靠分解從插件包得來的重複插件來獲取。</str>
+  <str key="19243868-ucdt" type="ucdt" originalKey="19243868">英諾華佔坑標題49 描述</str>
+  <str key="19327711-ucdt" type="ucdt" originalKey="19327711">&lt;font color="#00FFAA"&gt;協作者坎普納：&lt;/font&gt; 任務完成，特工。一旦你附近的戰鬥停止，就需要你來調查現在標記在地圖上的熱源訊號。</str>
+  <str key="19339270-ucdt" type="ucdt" originalKey="19339270">個性化你的地面載具，加裝金色決裂者車標。</str>
+  <str key="19462964-ucdt" type="ucdt" originalKey="19462964">在奇美拉的車身下面安裝底盤燈光。僅納能特工可用。&lt;font color="#dc9c36"&gt;底盤燈顔色根據陣營顔色改變。&lt;/font&gt;</str>
+  <str key="19536949-ucdt" type="ucdt" originalKey="19536949">執政官烏瑪瑟林位於庇護所最下層區域的瓦努主權國大使館中。</str>
+  <str key="19547341-ucdt" type="ucdt" originalKey="19547341">調整將遠處物體的低精度模型轉變為高精度模型的距離與質量。</str>
+  <str key="19567075-ucdt" type="ucdt" originalKey="19567075">NSX 村正</str>
+  <str key="19573567-ucdt" type="ucdt" originalKey="19573567">“血族” 卡賓槍在扣下扳機後短時間內能快速射出大口徑子彈，之後逐漸恢複到穩定射速。僅限地球共和國使用。</str>
   <str key="19594485-ucdt" type="ucdt" originalKey="19594485">不適宜的名字</str>
   <str key="19606686-ucdt" type="ucdt" originalKey="19606686">無效命令 /[*command*]</str>
-  <str key="19723789-ucdt" type="ucdt" originalKey="19723789">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;我们需要你帮忙弄到一些设计图，就藏在敌人的设施里面。最好能在遭遇战期间搞定，以免引起其他的注意，但具体怎么做你说了算。</str>
-  <str key="19955469-ucdt" type="ucdt" originalKey="19955469">增加攜帶震盪手雷的總量</str>
-  <str key="20038202-ucdt" type="ucdt" originalKey="20038202">裝彈速率 1</str>
+  <str key="19723789-ucdt" type="ucdt" originalKey="19723789">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;我們需要你在幾個敵方據點中收集一些結構圖。最好是在一場小沖突中行動，以免引起額外的註意，但這些細節部分留給你來決定。</str>
+  <str key="19955469-ucdt" type="ucdt" originalKey="19955469">增加震撼手雷的總攜帶量</str>
+  <str key="20038202-ucdt" type="ucdt" originalKey="20038202">裝彈速度 1 級</str>
   <str key="20066131-ucdt" type="ucdt" originalKey="20066131">海盜戰機藍色閃光座艙玻璃貼花</str>
-  <str key="20072115-ucdt" type="ucdt" originalKey="20072115">這款陣營專屬版納能集團的HS/HV瞄準鏡儘管沒有放大效果，但能用高對比高亮顯示附近的士兵。在灰暗或濃煙環境下效果拔群。</str>
-  <str key="20152766-ucdt" type="ucdt" originalKey="20152766">一次性松樹林武器迷彩</str>
-  <str key="20181099-ucdt" type="ucdt" originalKey="20181099">NC-9阿特羅斯：綬帶</str>
-  <str key="20287522-ucdt" type="ucdt" originalKey="20287522">M2截斷者（右手）</str>
+  <str key="20072115-ucdt" type="ucdt" originalKey="20072115">這款陣營專屬版納能集團的 HS/NV 夜視目鏡盡管沒有放大效果，但能用高對比度高亮顯示附近的士兵。</str>
+  <str key="20152766-ucdt" type="ucdt" originalKey="20152766">一次性鬆樹林武器迷彩</str>
+  <str key="20181099-ucdt" type="ucdt" originalKey="20181099">NC-9 阿特羅斯：綬帶</str>
+  <str key="20287522-ucdt" type="ucdt" originalKey="20287522">M2 截斷者（右手）</str>
   <str key="20458171-ucdt" type="ucdt" originalKey="20458171">說實在的，這真的是一次很給力的大特賣！</str>
   <str key="20469087-ucdt" type="ucdt" originalKey="20469087">你附近沒有玩家。</str>
   <str key="20469931-ucdt" type="ucdt" originalKey="20469931">閃電炫光鑲邊3</str>
-  <str key="20622791-ugdt" type="ugdt" originalKey="20622791">Covert Drop 4</str>
+  <str key="20622791-ugdt" type="ugdt" originalKey="20622791">隱蔽空降 4 級</str>
   <str key="20649913-ucdt" type="ucdt" originalKey="20649913">總統：綬帶</str>
-  <str key="20663112-ucdt" type="ucdt" originalKey="20663112">進一步降低電磁脈衝干擾器使用的間隔時間。</str>
+  <str key="20663112-ucdt" type="ucdt" originalKey="20663112">進一步降低電磁脈沖幹擾器的使用間隔時間。</str>
   <str key="20707009-ucdt" type="ucdt" originalKey="20707009">流星：金質勳章</str>
-  <str key="20775581-ucdt" type="ucdt" originalKey="20775581">10%經驗加成</str>
+  <str key="20775581-ucdt" type="ucdt" originalKey="20775581">10% 經驗加成</str>
   <str key="20794311-ucdt" type="ucdt" originalKey="20794311">E</str>
-  <str key="20825818-ucdt" type="ucdt" originalKey="20825818">VOGU護甲貼花</str>
-  <str key="20931694-ucdt" type="ucdt" originalKey="20931694">分日VE2：銅質勳章</str>
+  <str key="20825818-ucdt" type="ucdt" originalKey="20825818">VOGU 裝甲貼花</str>
+  <str key="20931694-ucdt" type="ucdt" originalKey="20931694">VE2 分日：銅質勳章</str>
   <str key="20939405-ucdt" type="ucdt" originalKey="20939405">因達爾高原</str>
-  <str key="20992380-ucdt" type="ucdt" originalKey="20992380">銀河A30漫步者[頂部武器]</str>
-  <str key="21217439-ucdt" type="ucdt" originalKey="21217439">在決裂者的車身下麵安裝白色的底盤燈光。</str>
-  <str key="21263459-ucdt" type="ucdt" originalKey="21263459">狂熱者超載引擎 2</str>
-  <str key="21322184-ucdt" type="ucdt" originalKey="21322184">PSA-01錘頭AMR：金質勳章</str>
+  <str key="20992380-ucdt" type="ucdt" originalKey="20992380">銀河 A30 漫步者 [頂部武器]</str>
+  <str key="21217439-ucdt" type="ucdt" originalKey="21217439">在決裂者的車身下面安裝白色的底盤燈光。</str>
+  <str key="21263459-ucdt" type="ucdt" originalKey="21263459">狂熱者過載引擎 2 級</str>
+  <str key="21322184-ucdt" type="ucdt" originalKey="21322184">PSA-01 錘頭鯊 反器材步槍：金質勳章</str>
   <str key="21458326-ucdt" type="ucdt" originalKey="21458326">小隊邀請已不再有效。</str>
   <str key="21483383-ucdt" type="ucdt" originalKey="21483383">獲得 &gt;</str>
   <str key="21535440-ucdt" type="ucdt" originalKey="21535440">讓周圍所有人知道，乘坐你的銀河可以媲美一次奢華郵輪之旅。</str>
-  <str key="21541810-ugdt" type="ugdt" originalKey="21541810">Legacy - Enhanced Targeting 2</str>
+  <str key="21541810-ugdt" type="ugdt" originalKey="21541810">遺留-增強目標2</str>
   <str key="21579138-ucdt" type="ucdt" originalKey="21579138">阿爾卡利倉庫</str>
   <str key="21604125-ucdt" type="ucdt" originalKey="21604125">CRSEL</str>
-  <str key="21851736-ucdt" type="ucdt" originalKey="21851736">胡峰專為運輸MAX機甲和存儲氪金而定制，並獲得了多項性能改進。</str>
-  <str key="21852658-ucdt" type="ucdt" originalKey="21852658">脈衝星LSW：銀質勳章</str>
+  <str key="21851736-ucdt" type="ucdt" originalKey="21851736">胡蜂專為存儲鈳金而改造，並獲得了多項性能改進。</str>
+  <str key="21852658-ucdt" type="ucdt" originalKey="21852658">LSW 脈沖星：銀質勳章</str>
   <str key="21855711-ucdt" type="ucdt" originalKey="21855711">反載具手雷：金質勳章</str>
-  <str key="21872050-ucdt" type="ucdt" originalKey="21872050">集成式能量單元能使所有類型噴射背包的燃料上限提高40%，伏擊手噴射背包的冷卻時間縮短1秒。</str>
-  <str key="21879686-ugdt" type="ugdt" originalKey="21879686">Amerish Fieldplate</str>
+  <str key="21872050-ucdt" type="ucdt" originalKey="21872050">集成式能量單元能使所有類型噴氣背包的燃料上限提高 40%，伏擊者噴氣背包的冷卻時間縮短 1 秒。</str>
+  <str key="21879686-ugdt" type="ugdt" originalKey="21879686">艾美瑞什戰地裝甲</str>
   <str key="21918297-ucdt" type="ucdt" originalKey="21918297">遊戲測試 - 薩爾瓦 - 瓦努主權國</str>
   <str key="21972085-ucdt" type="ucdt" originalKey="21972085">管理員：軌道打擊槍</str>
   <str key="22228643-ucdt" type="ucdt" originalKey="22228643">志願兵 1 貼花</str>
-  <str key="22321427-ucdt" type="ucdt" originalKey="22321427">在入水前发出巨大声浪劈开水面，或者在水下跟踪敌人时发出声纳。这个喇叭在水上和水下会发出不同的声音。所有阵营均可使用此装备。</str>
-  <str key="22396785-ucdt" type="ucdt" originalKey="22396785">彈藥攜帶量 8</str>
-  <str key="22441232-ucdt" type="ucdt" originalKey="22441232">P2-120穿甲炮裝載了高速的AP穿甲彈，對付裝甲目標效果更好，但爆炸威力不如其他彈藥。僅限地球共和國使用。</str>
-  <str key="22461335-ucdt" type="ucdt" originalKey="22461335">反坦克地雷 2</str>
-  <str key="22529979-ucdt" type="ucdt" originalKey="22529979">銀河M20幼龍[機尾武器]</str>
-  <str key="22596717-ucdt" type="ucdt" originalKey="22596717">启动后，在5秒内修复25%载具生命值。如果载具在启动时已经着火，会立即熄灭火焰。每55秒可以启动一次。</str>
+  <str key="22321427-ucdt" type="ucdt" originalKey="22321427">在入水前發出巨大聲浪劈開水面，或在水下追蹤敵人時發出聲呐訊號。該喇叭在水上和水下時會發出不同音效。所有陣營均可使用該裝備。</str>
+  <str key="22396785-ucdt" type="ucdt" originalKey="22396785">備彈數量 8 級</str>
+  <str key="22441232-ucdt" type="ucdt" originalKey="22441232">P2-120 穿甲炮裝載了高速的 AP 穿甲彈，對付裝甲目標效果更好，但爆炸威力不如其他彈藥。僅限地球共和國使用。</str>
+  <str key="22461335-ucdt" type="ucdt" originalKey="22461335">反坦克地雷 2 級</str>
+  <str key="22529979-ucdt" type="ucdt" originalKey="22529979">銀河 M20 幼龍 [機尾武器]</str>
+  <str key="22596717-ucdt" type="ucdt" originalKey="22596717">開啓後 5 秒內可以修複載具 25% 的耐久。如果啓用此裝置時載具已經著火，可以立即撲滅火焰。每 55 秒可以啓用一次。</str>
   <str key="22626718-ucdt" type="ucdt" originalKey="22626718">公告牌 3</str>
   <str key="22759069-ucdt" type="ucdt" originalKey="22759069">士兵</str>
-  <str key="22809581-ucdt" type="ucdt" originalKey="22809581">警告：蜂巢護盾正遭受攻擊，護盾完整性低於100%！</str>
-  <str key="22823094-ucdt" type="ucdt" originalKey="22823094">解鎖VE-A蠍虎座及其全套附件。僅限瓦努主權國使用。</str>
-  <str key="22827089-ucdt" type="ucdt" originalKey="22827089">[#SUNDERER#]运输车</str>
-  <str key="23071606-ugdt" type="ugdt" originalKey="23071606">Neutral Angular Camo</str>
-  <str key="23094985-ucdt" type="ucdt" originalKey="23094985">武器能夠攜帶的最大彈藥數量增加15發。</str>
+  <str key="22809581-ucdt" type="ucdt" originalKey="22809581">警告：蜂巢護盾正遭受攻擊，護盾完整性低於 100%！</str>
+  <str key="22823094-ucdt" type="ucdt" originalKey="22823094">解鎖 VE-A 蠍虎座及其全套附件。僅限瓦努主權國使用。</str>
+  <str key="22827089-ucdt" type="ucdt" originalKey="22827089">運送決裂者</str>
+  <str key="23071606-ugdt" type="ugdt" originalKey="23071606">中性棱角迷彩</str>
+  <str key="23094985-ucdt" type="ucdt" originalKey="23094985">武器能夠攜帶的最大彈藥數量增加 15 發。</str>
   <str key="23174382-ucdt" type="ucdt" originalKey="23174382">殺手：銅質勳章</str>
-  <str key="23334549-ucdt" type="ucdt" originalKey="23334549">打擊者AE</str>
+  <str key="23334549-ucdt" type="ucdt" originalKey="23334549">撞針 年度紀念版</str>
   <str key="23351020-ucdt" type="ucdt" originalKey="23351020">為你的駕駛艙增添個性化裝飾，在座艙玻璃處加上黃色貼花。僅限新聯邦使用。</str>
   <str key="23480730-ucdt" type="ucdt" originalKey="23480730">v0.3.9</str>
   <str key="23508430-ucdt" type="ucdt" originalKey="23508430">艾美瑞什基地佔領狀態</str>
   <str key="23547096-ugdt" type="ugdt" originalKey="23547096">漢堡坦克</str>
-  <str key="23554129-ucdt" type="ucdt" originalKey="23554129">MGR-A1征服者：金質勳章</str>
+  <str key="23554129-ucdt" type="ucdt" originalKey="23554129">MGR-A1 征服者：金質勳章</str>
   <str key="23585010-ugdt" type="ugdt" originalKey="23585010">5000 ISO-4</str>
   <str key="23637006-ucdt" type="ucdt" originalKey="23637006">近程伏擊手</str>
-  <str key="23680351-ucdt" type="ucdt" originalKey="23680351">凍原迷彩</str>
-  <str key="23713110-ucdt" type="ucdt" originalKey="23713110">竞争优势</str>
-  <str key="24052747-ucdt" type="ucdt" originalKey="24052747">NS-30汪達爾 + 證書點</str>
-  <str key="24113681-ucdt" type="ucdt" originalKey="24113681">鞭笞者X2：銅質勳章</str>
-  <str key="24120964-ucdt" type="ucdt" originalKey="24120964">開啟後，一層快速衰減的護盾能量網會圍繞士兵，並吸收最多450點傷害；每當士兵擊殺一名敵軍，可以回復41%的能量。護盾能量會在36秒內回滿。</str>
-  <str key="24192718-ucdt" type="ucdt" originalKey="24192718">加入小队</str>
-  <str key="24432722-ucdt" type="ucdt" originalKey="24432722">希爾赫斯基地</str>
-  <str key="24546631-ucdt" type="ucdt" originalKey="24546631">风暴虹吸：</str>
-  <str key="24575688-ucdt" type="ucdt" originalKey="24575688">[#TERRAN_REPUBLIC#]向你表示最热烈的欢迎，因为[#AMERISH#]大陆目前正遭受[#NEW_CONGLOMERATE#]和[#VANU_SOVEREIGNTY#]的攻击。我将向你展示如何使用指挥表&lt;br&gt;&lt;br&gt;&lt;i&gt;加入战斗&lt;/i&gt;，它会将你送到我们需要你去的地方。使用指挥表即可开始&lt;br&gt;&lt;br&gt;&lt;i&gt;加入战斗&lt;/i&gt;程序。</str>
+  <str key="23680351-ucdt" type="ucdt" originalKey="23680351">苔原迷彩</str>
+  <str key="23713110-ucdt" type="ucdt" originalKey="23713110">競爭優勢</str>
+  <str key="24052747-ucdt" type="ucdt" originalKey="24052747">NS-30 汪達爾 + 證書點</str>
+  <str key="24113681-ucdt" type="ucdt" originalKey="24113681">X2 鞭笞者：銅質勳章</str>
+  <str key="24120964-ucdt" type="ucdt" originalKey="24120964">開啓後，一層快速衰減的護盾能量網會覆蓋在身上，可以吸收最多 450 點傷害。擊殺敵人後，可以立刻恢複護盾能量最大值的 23%。護盾完全恢複需要 36 秒的時間。</str>
+  <str key="24192718-ucdt" type="ucdt" originalKey="24192718">加入一個小隊</str>
+  <str key="24432722-ucdt" type="ucdt" originalKey="24432722">希爾赫斯小型基地</str>
+  <str key="24546631-ucdt" type="ucdt" originalKey="24546631">風暴虹吸： </str>
+  <str key="24575688-ucdt" type="ucdt" originalKey="24575688">//// 地球共和國戰場指揮官 歡迎來到艾美瑞什。</str>
   <str key="24656946-ucdt" type="ucdt" originalKey="24656946">投擲</str>
-  <str key="24916434-ucdt" type="ucdt" originalKey="24916434">長沙發迷彩</str>
+  <str key="24916434-ucdt" type="ucdt" originalKey="24916434">撞牆迷彩</str>
   <str key="25082896-ucdt" type="ucdt" originalKey="25082896">發現新聯邦！</str>
-  <str key="25141321-ugdt" type="ugdt" originalKey="25141321">孤注一擲載具迷彩</str>
+  <str key="25141321-ugdt" type="ugdt" originalKey="25141321">孤註一擲載具迷彩</str>
   <str key="25155014-ucdt" type="ucdt" originalKey="25155014">黑色雄鹿貼花</str>
-  <str key="25178703-ugdt" type="ugdt" originalKey="25178703">NC堅定語音包</str>
-  <str key="25220681-ugdt" type="ugdt" originalKey="25220681">1-3YE Helmet</str>
+  <str key="25178703-ugdt" type="ugdt" originalKey="25178703">新聯邦堅韌不屈語音包</str>
+  <str key="25220681-ugdt" type="ugdt" originalKey="25220681">1-3YE 頭盔</str>
   <str key="25227965-ucdt" type="ucdt" originalKey="25227965">霰彈槍發射器附件描述</str>
-  <str key="25461434-ugdt" type="ugdt" originalKey="25461434">Sleighbell Tire Trails</str>
+  <str key="25461434-ugdt" type="ugdt" originalKey="25461434">雪橇鈴輪胎尾跡</str>
   <str key="25499113-ucdt" type="ucdt" originalKey="25499113">這輛載具的駕駛員已掉線！</str>
   <str key="25664499-ucdt" type="ucdt" originalKey="25664499">為你的突襲者加裝漂移者風格輪轂罩。僅限新聯邦使用。</str>
   <str key="25931792-ugdt" type="ugdt" originalKey="25931792">持印者</str>
   <str key="25974313-ucdt" type="ucdt" originalKey="25974313">科技優勢禮包</str>
   <str key="25988157-ucdt" type="ucdt" originalKey="25988157">希爾赫斯.小型哨所.1</str>
   <str key="26020253-ucdt" type="ucdt" originalKey="26020253">小隊後勤系統</str>
-  <str key="26036868-ucdt" type="ucdt" originalKey="26036868">&lt;font color="#00FFAA"&gt;Umatherin：&lt;/font&gt;你的侦察工作做得真是不错，助手。这些东西也许不像你习惯的那样让人眼前一亮，但依然很有价值。</str>
-  <str key="26053482-ugdt" type="ugdt" originalKey="26053482">Innova Placeholder Title 14</str>
+  <str key="26036868-ucdt" type="ucdt" originalKey="26036868">&lt;font color="#00FFAA"&gt;烏瑪瑟林：&lt;/font&gt;追隨者，你的偵探工作做得不錯。也許不像你習慣的那樣充滿激情，但仍然很有價值。</str>
+  <str key="26053482-ugdt" type="ugdt" originalKey="26053482">14 號標題 因諾華佔位符</str>
   <str key="26113619-ugdt" type="ugdt" originalKey="26113619">充能器</str>
-  <str key="26122902-ucdt" type="ucdt" originalKey="26122902">NS-60火焰噴射器：銅質勳章</str>
+  <str key="26122902-ucdt" type="ucdt" originalKey="26122902">NS-60 火焰噴射器：銅質勳章</str>
   <str key="26324002-ucdt" type="ucdt" originalKey="26324002">彈跳貝蒂：銅質勳章</str>
   <str key="26380568-ucdt" type="ucdt" originalKey="26380568">彈藥包：奧星勳章</str>
-  <str key="26384072-ugdt" type="ugdt" originalKey="26384072">Lumine Edge</str>
-  <str key="26467803-ucdt" type="ucdt" originalKey="26467803">为你的战术配置槽解锁避雷器。避雷器使用&lt;font color="#ACE1E5"&gt;&lt;u&gt;战役&lt;/u&gt;&lt;/font&gt;货币进行补给。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;一次性消耗品。两次补给之间，在战场上可携带1个。&lt;/font&gt;&lt;br&gt;部署一个可以改变附近的雷击方向并吸收它们的设备。被吸收的闪电不会对除了设备本身以外的任何东西造成伤害。一次只能有1个避雷器处于活跃状态。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;该物品将在战役结束时失效。&lt;/font&gt;</str>
+  <str key="26384072-ugdt" type="ugdt" originalKey="26384072">啓示之鋒</str>
+  <str key="26467803-ucdt" type="ucdt" originalKey="26467803">為你的戰術裝備欄解鎖避雷器。該裝置通過消耗 &lt;font color="#ACE1E5"&gt;&lt;u&gt;戰役&lt;/u&gt;&lt;/font&gt; 貨幣來補充。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;一次性物品。最多可攜帶 1臺。&lt;/font&gt;&lt;br&gt;避雷器放置後可引導並吸收附近的雷擊。被吸收的雷擊不會對裝置之外的物體造成傷害。每次雷擊只有一臺避雷器生效。 &lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;該物品將在戰役結束後失效。&lt;/font&gt;</str>
   <str key="26506270-ugdt" type="ugdt" originalKey="26506270">金色笑臉車標</str>
-  <str key="26601005-ugdt" type="ugdt" originalKey="26601005">裝甲艦武器迷彩</str>
+  <str key="26601005-ugdt" type="ugdt" originalKey="26601005">鐵甲艦武器迷彩</str>
   <str key="26631788-ucdt" type="ucdt" originalKey="26631788">擊殺瓦努主權國敵軍</str>
   <str key="26642336-ucdt" type="ucdt" originalKey="26642336">拳師</str>
-  <str key="26781616-ucdt" type="ucdt" originalKey="26781616">60毫米：金質勳章</str>
+  <str key="26781616-ucdt" type="ucdt" originalKey="26781616">60 公釐：金質勳章</str>
   <str key="26781661-ugdt" type="ugdt" originalKey="26781661">中校</str>
-  <str key="26788724-ugdt" type="ugdt" originalKey="26788724">Centauri Medic Armor</str>
-  <str key="26855343-ucdt" type="ucdt" originalKey="26855343">晋升至[#BATTLE_RANK#]19 级后解锁</str>
-  <str key="26857586-ucdt" type="ucdt" originalKey="26857586">裝備終端同樣可以用來切換職業。操作裝備終端，在功能表裡選擇你想要使用的職業。點擊 “裝備” 按鈕，切換到該職業。</str>
-  <str key="26904912-ucdt" type="ucdt" originalKey="26904912">納能愛國者煙花槍可以發射各種類型和顏色的煙花。所有陣營均可使用此武器。</str>
-  <str key="26918898-ucdt" type="ucdt" originalKey="26918898">決裂者亞瑟王聖劍輪輞</str>
+  <str key="26788724-ugdt" type="ugdt" originalKey="26788724">半人馬座醫療兵裝甲</str>
+  <str key="26855343-ucdt" type="ucdt" originalKey="26855343">等級達到 19 級時解鎖</str>
+  <str key="26857586-ucdt" type="ucdt" originalKey="26857586">裝備終端同樣可以用來切換職業。
+操作裝備終端，在菜單裏選擇你想要使用的職業。
+點擊 “裝備” 按鈕，切換到該職業。</str>
+  <str key="26904912-ucdt" type="ucdt" originalKey="26904912">納能愛國者煙花槍可以發射各種類型和顔色的煙花。所有陣營均可使用此武器。</str>
+  <str key="26918898-ucdt" type="ucdt" originalKey="26918898">決裂者亞瑟王聖劍輪圈</str>
   <str key="27058421-ucdt" type="ucdt" originalKey="27058421">為海盜戰機加裝炫光鑲邊。僅限新聯邦使用。</str>
-  <str key="27487580-ucdt" type="ucdt" originalKey="27487580">織網護甲迷彩</str>
-  <str key="27569131-ugdt" type="ugdt" originalKey="27569131">上尉 3 塗裝</str>
+  <str key="27487580-ucdt" type="ucdt" originalKey="27487580">織網裝甲迷彩</str>
+  <str key="27569131-ugdt" type="ugdt" originalKey="27569131">上尉 3 貼花</str>
   <str key="27573659-ucdt" type="ucdt" originalKey="27573659">精選物品</str>
   <str key="27579189-ucdt" type="ucdt" originalKey="27579189">因特爾禮包</str>
-  <str key="27587516-ucdt" type="ucdt" originalKey="27587516">日本瓦努主權國守護者的貼花</str>
+  <str key="27587516-ucdt" type="ucdt" originalKey="27587516">日本瓦努主權國守護者貼花</str>
   <str key="27589011-ucdt" type="ucdt" originalKey="27589011">M77-B：銀質勳章</str>
-  <str key="27716972-ugdt" type="ugdt" originalKey="27716972">裝彈速度 3</str>
-  <str key="27870553-ugdt" type="ugdt" originalKey="27870553">Title: Bounty Hunter</str>
-  <str key="27900811-ucdt" type="ucdt" originalKey="27900811">變色龍模組</str>
-  <str key="27942056-ucdt" type="ucdt" originalKey="27942056">手持近戰武器擊殺一名敵人會回復250點生命值，快速出刀不會觸發此效果。</str>
-  <str key="27948694-ucdt" type="ucdt" originalKey="27948694">彈藥攜帶量 3</str>
+  <str key="27716972-ugdt" type="ugdt" originalKey="27716972">裝彈速度 3 級</str>
+  <str key="27870553-ugdt" type="ugdt" originalKey="27870553">頭銜：賞金獵人</str>
+  <str key="27900811-ucdt" type="ucdt" originalKey="27900811">變色龍模塊</str>
+  <str key="27942056-ucdt" type="ucdt" originalKey="27942056">手持近戰武器擊殺一名敵人會回複 250 點生命值，快速出刀不會觸發此效果。</str>
+  <str key="27948694-ucdt" type="ucdt" originalKey="27948694">備彈數量 3 級</str>
   <str key="28166130-ucdt" type="ucdt" originalKey="28166130">藍移：銀質勳章</str>
   <str key="28266309-ucdt" type="ucdt" originalKey="28266309">飛行載具</str>
   <str key="28294374-ucdt" type="ucdt" originalKey="28294374">開/關加入戰鬥倒計時</str>
-  <str key="28352220-ucdt" type="ucdt" originalKey="28352220">利用納能持續進行修理，每5秒修復8.33%的耐久。受到傷害後8秒內無法進行自動修復。</str>
-  <str key="28436706-ucdt" type="ucdt" originalKey="28436706">帶有地球共和國標誌的喜慶紅色帽子。&lt;br&gt;&lt;font color="#2af72a"&gt;穿戴後經驗加成+50%&lt;/font&gt;&lt;br&gt;&lt;font color="#FF0000"&gt;此物品只能在寒冬節日季期間使用。&lt;/font&gt;</str>
-  <str key="28555222-ucdt" type="ucdt" originalKey="28555222">預設彈匣的彈藥容量增加15發。</str>
-  <str key="28851023-ucdt" type="ucdt" originalKey="28851023">&lt;font color="#00FFAA"&gt;Hadley：&lt;/font&gt;我没看到有什么损坏的地方，只有一些涂鸦。启用诊断系统后，需要人工维修的区域应该会被高亮显示。</str>
-  <str key="28871811-ucdt" type="ucdt" originalKey="28871811">提高增壓加力燃料的恢復速度。燃料耗盡後將在22.5秒內完全恢復。</str>
-  <str key="29013835-ugdt" type="ugdt" originalKey="29013835">聯邦準將</str>
-  <str key="29338155-ugdt" type="ugdt" originalKey="29338155">偵察衛兵</str>
+  <str key="28352220-ucdt" type="ucdt" originalKey="28352220">利用納能持續進行修理，每 5 秒修複 8.33% 的耐久。受到傷害後 8 秒內無法進行自動修複。</str>
+  <str key="28436706-ucdt" type="ucdt" originalKey="28436706">帶有地球共和國標誌的喜慶紅色帽子。&lt;br&gt;&lt;font color="#2af72a"&gt;穿戴後經驗加成+50%&lt;/font&gt;&lt;br&gt;&lt;font color="#FF0000"&gt;此物品仅能在寒冬節日季期間使用。&lt;/font&gt;</str>
+  <str key="28555222-ucdt" type="ucdt" originalKey="28555222">默認彈匣的彈藥容量增加 15 發。</str>
+  <str key="28851023-ucdt" type="ucdt" originalKey="28851023">&lt;font color="#00FFAA"&gt;哈德利：&lt;/font&gt;我沒看到任何損壞，只有塗鴉。啓動診斷系統應該會顯示出需要人工維修的地方。</str>
+  <str key="28871811-ucdt" type="ucdt" originalKey="28871811">提高渦輪增壓燃料的恢複速度。燃料耗盡後將在 22.5 秒內完全恢複。</str>
+  <str key="29013835-ugdt" type="ugdt" originalKey="29013835">準將</str>
+  <str key="29338155-ugdt" type="ugdt" originalKey="29338155">偵察兵護欄</str>
   <str key="29443278-ucdt" type="ucdt" originalKey="29443278">個性化你的地面載具，加裝鉻色手槍車標。僅限新聯邦使用。</str>
-  <str key="29531896-ucdt" type="ucdt" originalKey="29531896">為你的護甲添加貼花。僅限新聯邦使用。</str>
+  <str key="29531896-ucdt" type="ucdt" originalKey="29531896">為你的裝甲添加貼花。僅限新聯邦使用。</str>
   <str key="29555704-ucdt" type="ucdt" originalKey="29555704">黑色浪潮</str>
-  <str key="29589979-ucdt" type="ucdt" originalKey="29589979">武器能夠攜帶的最大彈藥數量增加600發。</str>
+  <str key="29589979-ucdt" type="ucdt" originalKey="29589979">武器能夠攜帶的最大彈藥數量增加 600 發。</str>
   <str key="29622779-ucdt" type="ucdt" originalKey="29622779">SR-200：綬帶</str>
   <str key="29757664-ugdt" type="ugdt" originalKey="29757664">黑色數碼武器迷彩</str>
-  <str key="29781970-ucdt" type="ucdt" originalKey="29781970">玩家 “[*target*]” 不線上。</str>
+  <str key="29781970-ucdt" type="ucdt" originalKey="29781970">玩家 “[*target*] ” 不在線。</str>
   <str key="29784673-ucdt" type="ucdt" originalKey="29784673">雪絨花車標</str>
-  <str key="29843708-ugdt" type="ugdt" originalKey="29843708">金色甲殼塗裝</str>
+  <str key="29843708-ugdt" type="ugdt" originalKey="29843708">金色甲殼外飾</str>
   <str key="29907536-ucdt" type="ucdt" originalKey="29907536">授權使用多種武器附件</str>
   <str key="30003759-ucdt" type="ucdt" originalKey="30003759">伊薩米爾：佔據領土</str>
-  <str key="30044864-ucdt" type="ucdt" originalKey="30044864">武器能夠攜帶的最大彈藥數量增加210發。</str>
+  <str key="30044864-ucdt" type="ucdt" originalKey="30044864">武器能夠攜帶的最大彈藥數量增加 210 發。</str>
   <str key="30073334-ucdt" type="ucdt" originalKey="30073334">駕駛艙：石藍色貼花</str>
   <str key="30235731-ucdt" type="ucdt" originalKey="30235731">生成載具需要消耗資源。</str>
   <str key="30313273-ucdt" type="ucdt" originalKey="30313273">為你的裝甲添加貼花。所有陣營均可使用。</str>
-  <str key="30536640-ucdt" type="ucdt" originalKey="30536640">再次与档案管理员Dolan对话</str>
+  <str key="30536640-ucdt" type="ucdt" originalKey="30536640">再次與檔案管理員多蘭交談</str>
   <str key="30560964-ucdt" type="ucdt" originalKey="30560964">雷霆齒輪載具貼花</str>
   <str key="30765222-ucdt" type="ucdt" originalKey="30765222">解放者剃刀翼</str>
-  <str key="30802801-ucdt" type="ucdt" originalKey="30802801">武器能夠攜帶的最大彈藥數量增加21發。</str>
-  <str key="30926702-ucdt" type="ucdt" originalKey="30926702">彈藥印表機</str>
-  <str key="30953560-ucdt" type="ucdt" originalKey="30953560">MANA反步兵炮臺：奧星勳章</str>
-  <str key="30999365-ucdt" type="ucdt" originalKey="30999365">武器能夠攜帶的最大彈藥數量增加300發。</str>
-  <str key="31016306-ucdt" type="ucdt" originalKey="31016306">提升標槍的漂移和滑行能力，並且在地面啟動後燃器時能提供額外的升力。</str>
-  <str key="31058667-ucdt" type="ucdt" originalKey="31058667">堅韌護盾 4</str>
-  <str key="31066987-ucdt" type="ucdt" originalKey="31066987">占领Indar</str>
-  <str key="31304622-ucdt" type="ucdt" originalKey="31304622">鳳凰AE：奧星勳章</str>
-  <str key="31357571-ucdt" type="ucdt" originalKey="31357571">蚊式戰機垂直推力 - 4級</str>
+  <str key="30802801-ucdt" type="ucdt" originalKey="30802801">武器能夠攜帶的最大彈藥數量增加 21 發。</str>
+  <str key="30926702-ucdt" type="ucdt" originalKey="30926702">彈藥打印機</str>
+  <str key="30953560-ucdt" type="ucdt" originalKey="30953560">MANA 反步兵炮臺：奧星勳章</str>
+  <str key="30999365-ucdt" type="ucdt" originalKey="30999365">武器能夠攜帶的最大彈藥數量增加 300 發。</str>
+  <str key="31016306-ucdt" type="ucdt" originalKey="31016306">提升標槍的漂移和滑行能力。</str>
+  <str key="31058667-ucdt" type="ucdt" originalKey="31058667">堅韌護盾 4 級</str>
+  <str key="31066987-ucdt" type="ucdt" originalKey="31066987">征服因達爾</str>
+  <str key="31304622-ucdt" type="ucdt" originalKey="31304622">鳳凰 年度紀念版：奧星勳章</str>
+  <str key="31357571-ucdt" type="ucdt" originalKey="31357571">蚊式戰機垂直推力 - 4 級</str>
   <str key="31381705-ucdt" type="ucdt" originalKey="31381705">六周年喇叭</str>
-  <str key="31749292-ucdt" type="ucdt" originalKey="31749292">在你的武器上添加一次性艾美瑞什森林V2迷彩圖案。僅限地球共和國使用。一次性迷彩只能在本角色的一套配置中應用一次。</str>
-  <str key="31768226-ucdt" type="ucdt" originalKey="31768226">瓦努主權國</str>
+  <str key="31749292-ucdt" type="ucdt" originalKey="31749292">在你的武器上添加一次性艾美瑞什森林 v2 迷彩圖案。僅限地球共和國使用。一次性迷彩仅能在本角色的一套配置中應用一次。</str>
+  <str key="31768226-ucdt" type="ucdt" originalKey="31768226">瓦努主權國-自動手槍-中-V3 描述（刪除Me-BB）</str>
   <str key="31807863-ucdt" type="ucdt" originalKey="31807863">提升飛機的轉彎速率。</str>
-  <str key="31831828-ugdt" type="ugdt" originalKey="31831828">Scythe Darkstar Plating</str>
-  <str key="32368168-ucdt" type="ucdt" originalKey="32368168">遊戲測試生物實驗室地球共和國</str>
-  <str key="32371236-ucdt" type="ucdt" originalKey="32371236">耀斑VE6：銀質勳章</str>
-  <str key="32498109-ucdt" type="ucdt" originalKey="32498109">2019奧星耶誕節</str>
+  <str key="31831828-ugdt" type="ugdt" originalKey="31831828">鐮刀戰機暗星外飾</str>
+  <str key="32368168-ucdt" type="ucdt" originalKey="32368168">遊戲測試地球共和國生物實驗室</str>
+  <str key="32371236-ucdt" type="ucdt" originalKey="32371236">VE6 耀斑：銀質勳章</str>
+  <str key="32498109-ucdt" type="ucdt" originalKey="32498109">2019 奧星聖誕節</str>
   <str key="32498577-ucdt" type="ucdt" originalKey="32498577">你覺得這是難以置信的好買賣？要是你也是個納能鄉巴佬，沒啥不可能的。</str>
-  <str key="32616132-ucdt" type="ucdt" originalKey="32616132">在战场上部署一个临时的跳跃强化，持续30秒。它附近的队友跳跃高度大幅增加。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;一次性消耗品。每次补给最多携带2个。该物品将在战役结束时失效。&lt;/font&gt;</str>
-  <str key="32752637-ucdt" type="ucdt" originalKey="32752637">增加軍團資源貢獻，持續1天。此加成隻可用於本角色。</str>
-  <str key="32769396-ugdt" type="ugdt" originalKey="32769396">手雷掛袋 3</str>
+  <str key="32616132-ucdt" type="ucdt" originalKey="32616132">在戰場上部署一個臨時的跳躍助推器，持續 30 秒。助推器附近的友軍能顯著增加跳躍高度。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;一次性消耗品。在補給前每次最多攜帶 2 個。該物品在戰役結束時到期。&lt;/font&gt;</str>
+  <str key="32752637-ucdt" type="ucdt" originalKey="32752637">增加軍團資源貢獻，持續 1 天。此加成僅可用於本角色。</str>
+  <str key="32769396-ugdt" type="ugdt" originalKey="32769396">手雷掛袋 3 級</str>
   <str key="32882379-ucdt" type="ucdt" originalKey="32882379">在你的載具上添加蜂巢迷彩圖案。僅限新聯邦使用。</str>
-  <str key="32929276-ucdt" type="ucdt" originalKey="32929276">4倍瞄準鏡附件 01 描述</str>
-  <str key="33184855-ucdt" type="ucdt" originalKey="33184855">在脫離戰鬥10秒後，每秒恢復35點生命值。</str>
-  <str key="33230082-ugdt" type="ugdt" originalKey="33230082">Mosquito Holiday Sleigh Bells Horn</str>
-  <str key="33295072-ucdt" type="ucdt" originalKey="33295072">受到來自反坦克地雷的傷害降低55%。</str>
+  <str key="32929276-ucdt" type="ucdt" originalKey="32929276">4 倍瞄準鏡附件 01 描述</str>
+  <str key="33184855-ucdt" type="ucdt" originalKey="33184855">在脫離戰鬥 10 秒後，每秒恢複 35 點生命值。</str>
+  <str key="33230082-ugdt" type="ugdt" originalKey="33230082">蚊式戰機假日雪橇鈴喇叭</str>
+  <str key="33295072-ucdt" type="ucdt" originalKey="33295072">受到來自反坦克地雷的傷害降低 55%。</str>
   <str key="33379107-ucdt" type="ucdt" originalKey="33379107">OEM_自動</str>
-  <str key="33409859-ucdt" type="ucdt" originalKey="33409859">早在很久以前，Auraxis就是一片战火绵延的景象，因此士兵在面对冲突初期无法获得的技术时也显得很淡然。在重生矩阵出现之前，死亡意味着终结。那些在撤退时倒在Oshur的人被留在了那里太久。现在时候带他们回家了。</str>
-  <str key="33488138-ugdt" type="ugdt" originalKey="33488138">Valkyrie Cyan Lumifiber Digital Trim</str>
+  <str key="33409859-ucdt" type="ucdt" originalKey="33409859">奧拉西斯的戰爭持續時間之久，超過了大多數人記憶的盡頭，這使得士兵們理所當然地使用在戰爭初期還未面世的技術。在重生矩陣出現之前，死亡是永久性的。而那些在撤離過程中倒在歐夏爾上的人已被留下了太長時間。是時候讓他們回家了。</str>
+  <str key="33488138-ugdt" type="ugdt" originalKey="33488138">女武神青色數碼炫光鑲邊</str>
   <str key="33673405-ucdt" type="ucdt" originalKey="33673405">桑格雷主重生室</str>
-  <str key="33758739-ucdt" type="ucdt" originalKey="33758739">装备避雷器</str>
-  <str key="33910254-ucdt" type="ucdt" originalKey="33910254">载具在风暴中停留太久将会导致暴风雨能量过载，最终导致载具爆炸。载具被部署后即与地面接触，因此会持续承受伤害，而不是直接被摧毁。</str>
-  <str key="33961837-ucdt" type="ucdt" originalKey="33961837">一個裝滿餅乾、糖果和彈藥的可部署的小盒子，獻給奧星上所有優秀的士兵。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;僅能在奧星耶誕節期間使用。&lt;/font&gt;</str>
-  <str key="34120774-ucdt" type="ucdt" originalKey="34120774">&lt;font color="#00FFAA"&gt;Ayla代表：&lt;/font&gt; “在被遗忘的土地上的永恒战争。只为了那些终将化为灰烬和腐朽的战利品。依旧屹立在山巅。为了权力或希望。以免祖辈的牺牲化为徒劳。” 好悲伤好优美的诗句啊。谢谢你，特工。</str>
-  <str key="34134705-ucdt" type="ucdt" originalKey="34134705">&lt;font color="#00FFAA"&gt;Tolland协调官：&lt;/font&gt; 嘿，小鬼，这种技术通常是用来挖矿的……只要你遵照说明书使用，不把它当武器用，就不会出问题。</str>
-  <str key="34203364-ucdt" type="ucdt" originalKey="34203364">女武神是用於近空支援及運輸的6人飛機。它的機組包括了1名駕駛員和1名前向炮手。</str>
-  <str key="34215744-ucdt" type="ucdt" originalKey="34215744">排名</str>
-  <str key="34269505-ucdt" type="ucdt" originalKey="34269505">NS-60火焰噴射器：銀質勳章</str>
+  <str key="33758739-ucdt" type="ucdt" originalKey="33758739">裝備避雷器</str>
+  <str key="33910254-ucdt" type="ucdt" originalKey="33910254">當載具長時間停留在閃電風暴中時，它會因為吸收了風暴能量而發生過載，最終會導致載具爆炸爆炸。部署狀態下的載具被視為 “接地” ，該狀態下不會因過載而爆炸，但會遭受一些爆發傷害。</str>
+  <str key="33961837-ucdt" type="ucdt" originalKey="33961837">一個裝滿餅乾、糖果和彈藥的可部署的小盒子，獻給奧星上所有優秀的士兵。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;僅能在奧星聖誕節期間使用。&lt;/font&gt;</str>
+  <str key="34120774-ucdt" type="ucdt" originalKey="34120774">&lt;font color="#00FFAA"&gt;艾拉代錶：&lt;/font&gt; “遺忘之地，戰火不息。兵戈交徵，敗絮瘡痍。拔峻攀峰，攘權奪利。先輩遺願，為吾所繼。” 多麼悲壯而美麗。謝謝你，特工。</str>
+  <str key="34134705-ucdt" type="ucdt" originalKey="34134705">&lt;font color="#00FFAA"&gt;先遣遠征協調員托蘭：&lt;/font&gt;嘿，小子。通常這種技術是為採礦探險保留的……但只要你遵守指示並且不會殺掉任何人的話，一切應該沒什麼問題。</str>
+  <str key="34203364-ucdt" type="ucdt" originalKey="34203364">女武神是一種可供六人乘坐的飛機，用於近距離空中支援與運輸。機組成員包括一名飛行員和一名前方炮手。</str>
+  <str key="34215744-ucdt" type="ucdt" originalKey="34215744">等級</str>
+  <str key="34269505-ucdt" type="ucdt" originalKey="34269505">NS-60 火焰噴射器：銀質勳章</str>
   <str key="34380354-ucdt" type="ucdt" originalKey="34380354">左手</str>
   <str key="34426394-ucdt" type="ucdt" originalKey="34426394">綠色底盤燈光</str>
-  <str key="34450581-ucdt" type="ucdt" originalKey="34450581">動量遮罩 1</str>
-  <str key="34476555-ucdt" type="ucdt" originalKey="34476555">受到來自防空炮的傷害降低6%。</str>
-  <str key="34543121-ucdt" type="ucdt" originalKey="34543121">&lt;font color="#00FFAA"&gt;Knightly现场专员：&lt;/font&gt;嗯，肯定是没有足够的力量组装空中载具。但我们可以由此推测出逃离被淹基地的研究人员的大概位置，那就是Oshur。 现在就起飞，找到他。</str>
+  <str key="34450581-ucdt" type="ucdt" originalKey="34450581">動量屏蔽 1</str>
+  <str key="34476555-ucdt" type="ucdt" originalKey="34476555">降低 6%來自防空炮的傷害。</str>
+  <str key="34543121-ucdt" type="ucdt" originalKey="34543121">&lt;font color="#00FFAA"&gt;戰區長官奈特利：&lt;/font&gt;嗯……一定沒有足夠的力量組裝飛行器的。 但它為我們提供了逃離被淹基地的研究人員的大致位置。 那個位置就在歐夏爾。 飛到天上去找到他們吧。</str>
   <str key="34976242-ucdt" type="ucdt" originalKey="34976242">測試物品 1</str>
-  <str key="35047227-ucdt" type="ucdt" originalKey="35047227">納能自動修復系統 5</str>
+  <str key="35047227-ucdt" type="ucdt" originalKey="35047227">納能自動修複系統 5 級</str>
   <str key="35074013-ucdt" type="ucdt" originalKey="35074013">黃色電磁騎士底盤燈光</str>
-  <str key="35298697-ucdt" type="ucdt" originalKey="35298697">瓦努主權國噴氣背包技能3</str>
+  <str key="35298697-ucdt" type="ucdt" originalKey="35298697">瓦努主權國噴氣背包技能 3</str>
   <str key="35397036-ugdt" type="ugdt" originalKey="35397036">伊薩米爾登山家裝甲迷彩</str>
-  <str key="35417607-ugdt" type="ugdt" originalKey="35417607">Victory Over Internet Protocol Vehicle Decal</str>
-  <str key="35498888-ucdt" type="ucdt" originalKey="35498888">&lt;font color="#00FFAA"&gt;Campner引导师：&lt;/font&gt;我听说你表现得很出色，有资格获得一（1）个重新制备的Skylance重力转子。这件物品被部署在Sanctuary的一棵树下。</str>
+  <str key="35417607-ugdt" type="ugdt" originalKey="35417607">戰勝網路協議載具貼花</str>
+  <str key="35498888-ucdt" type="ucdt" originalKey="35498888">&lt;font color="#00FFAA"&gt;協作者坎普納：&lt;/font&gt; 我已被告知，你的行動使你有資格獲得一臺改裝的空矛重力轉子。這件物品已被放置在庇護所的一棵樹下。</str>
   <str key="35584143-ucdt" type="ucdt" originalKey="35584143">3日特賣</str>
-  <str key="35699712-ugdt" type="ugdt" originalKey="35699712">新聯邦女性滲透兵</str>
-  <str key="35904686-ucdt" type="ucdt" originalKey="35904686">可別忘了，瓦努科學家最近往你的重生母體裡，加上了全新的成就追蹤功能。今後你重生時將能記錄到額外的成就。</str>
+  <str key="35699712-ugdt" type="ugdt" originalKey="35699712">新聯邦女性滲透者 </str>
+  <str key="35904686-ucdt" type="ucdt" originalKey="35904686">可別忘了，瓦努科學家最近在你的重生矩陣裏加入了全新的成就追蹤功能。今後你重生時將能記錄到額外的成就。</str>
   <str key="35952621-ucdt" type="ucdt" originalKey="35952621">哈瓦爾</str>
   <str key="35998047-ugdt" type="ugdt" originalKey="35998047">忍術煙遁</str>
-  <str key="36332792-ucdt" type="ucdt" originalKey="36332792">NC05鑿岩機</str>
+  <str key="36332792-ucdt" type="ucdt" originalKey="36332792">NC05 鑿岩機</str>
   <str key="36489265-ucdt" type="ucdt" originalKey="36489265">這款黑色版毀滅者專為純粹的威力而設計，它對敵軍載具和步兵的破壞力無與倫比。所有陣營均可使用納能集團的武器。</str>
   <str key="36528031-ucdt" type="ucdt" originalKey="36528031">右手武器</str>
   <str key="36951106-ucdt" type="ucdt" originalKey="36951106">為你的載具添加貼花。僅限瓦努主權國使用。</str>
-  <str key="37058432-ucdt" type="ucdt" originalKey="37058432">為鐮式戰機加裝炫光鑲邊。僅限瓦努主權國使用。</str>
-  <str key="37124653-ucdt" type="ucdt" originalKey="37124653">黑色NS-10B轟天雷</str>
-  <str key="37155504-ucdt" type="ucdt" originalKey="37155504">O2-6（6倍）</str>
-  <str key="37222466-ucdt" type="ucdt" originalKey="37222466">暗光戰術手電筒</str>
+  <str key="37058432-ucdt" type="ucdt" originalKey="37058432">為鐮刀戰機加裝炫光鑲邊。僅限瓦努主權國使用。</str>
+  <str key="37124653-ucdt" type="ucdt" originalKey="37124653">NS-10 轟天雷 黑色版</str>
+  <str key="37155504-ucdt" type="ucdt" originalKey="37155504">O2-6（6 倍）</str>
+  <str key="37222466-ucdt" type="ucdt" originalKey="37222466">暗光戰術手電</str>
+  <str key="37327233-ugdt" type="ugdt" originalKey="37327233">1000 ISO-4</str>
   <str key="37427943-ucdt" type="ucdt" originalKey="37427943">搏擊者：綬帶</str>
-  <str key="37539860-ucdt" type="ucdt" originalKey="37539860">突擊步槍：分日VE2（可調版）</str>
+  <str key="37539860-ucdt" type="ucdt" originalKey="37539860">突擊步槍：VE2 分日（可調版）</str>
   <str key="37597037-ucdt" type="ucdt" originalKey="37597037">駕駛艙：笑臉貼花</str>
-  <str key="37898134-ucdt" type="ucdt" originalKey="37898134">個人獲得的軍功及經驗增加50%。</str>
-  <str key="37917192-ucdt" type="ucdt" originalKey="37917192">在上空生成一張鐳射網，能重傷穿過它的敵軍步兵。僅限地球共和國。</str>
-  <str key="37975846-ucdt" type="ucdt" originalKey="37975846">熾天使護盾 2</str>
-  <str key="38028419-ucdt" type="ucdt" originalKey="38028419">敵方鎖定此載具所需的時間增加1秒，並防止載具在敵人小地圖上被自動偵測到。</str>
-  <str key="38074991-ucdt" type="ucdt" originalKey="38074991">空中飛人：銀質勳章</str>
+  <str key="37898134-ucdt" type="ucdt" originalKey="37898134">個人獲得的軍功及經驗增加 50%。</str>
+  <str key="37917192-ucdt" type="ucdt" originalKey="37917192">在上空生成一張鐳射網，能重傷穿過它的敵軍步兵。僅限地球共和國使用。</str>
+  <str key="37975846-ucdt" type="ucdt" originalKey="37975846">熾天使護盾 2 級</str>
+  <str key="38028419-ucdt" type="ucdt" originalKey="38028419">敵方鎖定此載具所需的時間增加 1 秒，並防止載具在敵人小地圖上被自動偵測到。</str>
+  <str key="38074991-ucdt" type="ucdt" originalKey="38074991">代達羅斯：銀質勳章</str>
+  <str key="38089629-ugdt" type="ugdt" originalKey="38089629">標槍莫莉馬隆喇叭</str>
   <str key="38143243-ucdt" type="ucdt" originalKey="38143243">溫帶森林載具迷彩</str>
-  <str key="38188351-ugdt" type="ugdt" originalKey="38188351">FAZE Famous Zealots Vehicle Decal</str>
-  <str key="38209139-ugdt" type="ugdt" originalKey="38209139">溫帶灌叢</str>
-  <str key="38245844-ucdt" type="ucdt" originalKey="38245844">FAC.拱形護盾.技術工廠</str>
+  <str key="38188351-ugdt" type="ugdt" originalKey="38188351">FAZE 出名狂徒載具貼花</str>
+  <str key="38209139-ugdt" type="ugdt" originalKey="38209139">溫帶叢林</str>
+  <str key="38245844-ucdt" type="ucdt" originalKey="38245844">FAC.拱形護盾.科技工廠</str>
   <str key="38278514-ucdt" type="ucdt" originalKey="38278514">懸停穩定性機身</str>
   <str key="38331252-ucdt" type="ucdt" originalKey="38331252">男性</str>
-  <str key="38401619-ucdt" type="ucdt" originalKey="38401619">右手主武器：防空：黑色NS-10B轟天雷</str>
-  <str key="38477143-ucdt" type="ucdt" originalKey="38477143">在你的武器上添加艾美瑞什樹叢迷彩圖案。所有陣營均可使用此裝備。</str>
+  <str key="38401619-ucdt" type="ucdt" originalKey="38401619">右手主武器：防空：NS-10 轟天雷 黑色版</str>
+  <str key="38477143-ucdt" type="ucdt" originalKey="38477143">在你的武器上添加艾美瑞什灌木迷彩圖案。所有陣營均可使用此裝備。</str>
   <str key="38492857-ucdt" type="ucdt" originalKey="38492857">乎拉坎安全存儲點</str>
-  <str key="38588024-ugdt" type="ugdt" originalKey="38588024">Heroic Boost - 6 Month (Account Grant)</str>
-  <str key="38619927-ugdt" type="ugdt" originalKey="38619927">PS1 金色車標</str>
-  <str key="38698136-ucdt" type="ucdt" originalKey="38698136">Foster代表</str>
-  <str key="38727709-ugdt" type="ugdt" originalKey="38727709">Harasser Venom Windshield</str>
+  <str key="38588024-ugdt" type="ugdt" originalKey="38588024">英雄加成 - 6 個月（全賬號獲取）</str>
+  <str key="38619927-ugdt" type="ugdt" originalKey="38619927">《行星邊際 1》金色車標</str>
+  <str key="38698136-ucdt" type="ucdt" originalKey="38698136">福斯特代錶</str>
+  <str key="38727709-ugdt" type="ugdt" originalKey="38727709">突襲者毒液風擋</str>
   <str key="38764221-ucdt" type="ucdt" originalKey="38764221">海盜戰機描述</str>
-  <str key="38807292-ucdt" type="ucdt" originalKey="38807292">聚焦 “質子” AP穿甲炮是一種強火力穿甲等離子炮，可以對目標造成重大傷害。要有效使用這武器需要有很高的射擊精准度。</str>
+  <str key="38807292-ucdt" type="ucdt" originalKey="38807292">聚焦 “質子” AP 穿甲炮是一種強火力穿甲等離子炮，可以對目標造成重大傷害。要有效使用這武器需要很高的射擊精準度。</str>
   <str key="38832645-ucdt" type="ucdt" originalKey="38832645">為你的駕駛艙增添個性化裝飾，在座艙玻璃處加上紅色金屬貼花。僅限地球共和國使用。</str>
+  <str key="38855635-ugdt" type="ugdt" originalKey="38855635">遠望 LRO（6 倍）</str>
   <str key="38922439-ucdt" type="ucdt" originalKey="38922439">誘餌手雷</str>
-  <str key="39068980-ugdt" type="ugdt" originalKey="39068980">Exarch Helmet</str>
-  <str key="39624369-ugdt" type="ugdt" originalKey="39624369">Forgotten Warmachine Camo</str>
-  <str key="39795506-ucdt" type="ucdt" originalKey="39795506">TX1-FB連發槍：銅質勳章</str>
+  <str key="39068980-ugdt" type="ugdt" originalKey="39068980">主教頭盔</str>
+  <str key="39624369-ugdt" type="ugdt" originalKey="39624369">遺忘戰械迷彩</str>
+  <str key="39795506-ucdt" type="ucdt" originalKey="39795506">TX1-FB 連發槍：銅質勳章</str>
   <str key="39809539-ucdt" type="ucdt" originalKey="39809539">PAYPAL</str>
-  <str key="39822183-ucdt" type="ucdt" originalKey="39822183">The9 Placeholder</str>
+  <str key="39822183-ucdt" type="ucdt" originalKey="39822183">第九佔位符</str>
   <str key="39897693-ucdt" type="ucdt" originalKey="39897693">小鍵盤 5</str>
-  <str key="39931042-ucdt" type="ucdt" originalKey="39931042">金色納能男爵G5描述</str>
+  <str key="39931042-ucdt" type="ucdt" originalKey="39931042">金色納能男爵 G5 描述</str>
   <str key="40168669-ucdt" type="ucdt" originalKey="40168669">武器</str>
-  <str key="40221327-ucdt" type="ucdt" originalKey="40221327">鉻色拼貼外飾</str>
+  <str key="40221327-ucdt" type="ucdt" originalKey="40221327">鉻色拚貼外飾</str>
   <str key="40297664-ugdt" type="ugdt" originalKey="40297664">紅色照明球</str>
-  <str key="40468891-ucdt" type="ucdt" originalKey="40468891">在任何一個大陸上佔據9個資源點</str>
-  <str key="40518942-ucdt" type="ucdt" originalKey="40518942">彈藥攜帶量 10</str>
+  <str key="40468891-ucdt" type="ucdt" originalKey="40468891">在任何一個大陸上佔據 9 個資源點</str>
+  <str key="40518942-ucdt" type="ucdt" originalKey="40518942">備彈數量 10 級</str>
   <str key="40534759-ugdt" type="ugdt" originalKey="40534759">毒蛇武器迷彩</str>
-  <str key="40582263-ucdt" type="ucdt" originalKey="40582263">武器能够携带的最大弹药数量增加450发。</str>
+  <str key="40582263-ucdt" type="ucdt" originalKey="40582263">武器能夠攜帶的最大彈藥數量增加 450 發。</str>
   <str key="40766779-ucdt" type="ucdt" originalKey="40766779">軌道打擊</str>
-  <str key="40768076-ucdt" type="ucdt" originalKey="40768076">相對於標配的護甲，納米編織護甲能夠更有效地吸收傷害</str>
-  <str key="40769121-ucdt" type="ucdt" originalKey="40769121">2016假日倒計時第14天</str>
-  <str key="40920576-ucdt" type="ucdt" originalKey="40920576">VSH4哈迪斯</str>
-  <str key="40934248-ucdt" type="ucdt" originalKey="40934248">&lt;font color="#00FFAA"&gt;Umatherin：&lt;/font&gt;由于一个庞大的能量屏障阻挡，前往Oshur的尝试都以失败告终。他们无法冲过屏障，于是就和Nascent Expeditions签订合同，帮助他们达成目的。这里就存在着机会。</str>
-  <str key="40940113-ucdt" type="ucdt" originalKey="40940113">幻像VE33</str>
+  <str key="40768076-ucdt" type="ucdt" originalKey="40768076">相對於標配的裝甲，納米編織裝甲能夠更有效地吸收傷害</str>
+  <str key="40769121-ucdt" type="ucdt" originalKey="40769121">2016 假日倒計時第 14 天</str>
+  <str key="40920576-ucdt" type="ucdt" originalKey="40920576">VSH4 哈迪斯</str>
+  <str key="40934248-ucdt" type="ucdt" originalKey="40934248">&lt;font color="#00FFAA"&gt;烏瑪瑟林：&lt;/font&gt;由於存在巨大的能量屏障，前幾次前往歐夏爾的嘗試失敗了。 因為他們無法突破，所以他們與先遣遠征隊簽約以協助工作。 這裏面便蘊藏著一個機會。</str>
+  <str key="40940113-ucdt" type="ucdt" originalKey="40940113">VE33 幻像 </str>
   <str key="41302383-ucdt" type="ucdt" originalKey="41302383">獎勵禮包</str>
   <str key="41629338-ucdt" type="ucdt" originalKey="41629338">“C” 車標</str>
   <str key="41688339-ucdt" type="ucdt" originalKey="41688339">正在尋找戰鬥嗎？</str>
-  <str key="41696956-ugdt" type="ugdt" originalKey="41696956">Penguin Platoon Vehicle Decal</str>
+  <str key="41696956-ugdt" type="ugdt" originalKey="41696956">企鵝大隊載具貼花</str>
   <str key="41700906-ucdt" type="ucdt" originalKey="41700906">證書附件</str>
   <str key="41702717-ucdt" type="ucdt" originalKey="41702717">在決裂者前方安裝暮色破碎者頭燈，可以照亮前方的戰場。所有陣營均可使用此裝備。</str>
-  <str key="41714271-ucdt" type="ucdt" originalKey="41714271">武器的裝彈時間減少0.1秒。</str>
+  <str key="41714271-ucdt" type="ucdt" originalKey="41714271">武器的裝彈時間減少 0.1 秒。</str>
   <str key="41908725-ucdt" type="ucdt" originalKey="41908725">蚊式戰機神雕外飾</str>
-  <str key="41958997-ugdt" type="ugdt" originalKey="41958997">Liberator Cepheus Cockpit</str>
-  <str key="41990058-ucdt" type="ucdt" originalKey="41990058">將先驅的最高速度提高2公里/小時。</str>
-  <str key="42001458-ucdt" type="ucdt" originalKey="42001458">強化減速、水準轉向以及滾轉性能。（比上一級更高效）</str>
-  <str key="42083860-ucdt" type="ucdt" originalKey="42083860">伏擊手噴射背包 3</str>
-  <str key="42094114-ucdt" type="ucdt" originalKey="42094114">&lt;font color="#00FFAA"&gt;Foster：&lt;/font&gt;我们对子空间密码的研究解开了最后一个谜题，最后一个待解答的问题。</str>
-  <str key="42322991-ugdt" type="ugdt" originalKey="42322991">NSX Daimyo</str>
+  <str key="41958997-ugdt" type="ugdt" originalKey="41958997">解放者仙王座駕駛艙</str>
+  <str key="41990058-ucdt" type="ucdt" originalKey="41990058">將先驅的最高速度提高 2 公裏/小時。</str>
+  <str key="42001458-ucdt" type="ucdt" originalKey="42001458">強化製動、水平轉向以及滾轉性能。（比上一級更高效）</str>
+  <str key="42072654-ugdt" type="ugdt" originalKey="42072654">JVN-X3 九頭蛇</str>
+  <str key="42083860-ucdt" type="ucdt" originalKey="42083860">伏擊手噴氣背包 3 級</str>
+  <str key="42094114-ucdt" type="ucdt" originalKey="42094114">&lt;font color="#00FFAA"&gt;福斯特：&lt;/font&gt; 我們對子空間密碼的研究揭示了最後一個謎題，最後一個，懸而未決的問題。</str>
+  <str key="42322991-ugdt" type="ugdt" originalKey="42322991">NSX 大名</str>
   <str key="42396152-ucdt" type="ucdt" originalKey="42396152">完成最高等級的成就，將會獎勵你一套絕密的&lt;font color="#7ff4ff"&gt;奧星鍍層武器或裝備&lt;/font&gt;。</str>
   <str key="42461035-ucdt" type="ucdt" originalKey="42461035">燃燒彈</str>
   <str key="42610373-ucdt" type="ucdt" originalKey="42610373">執行官：奧星勳章</str>
-  <str key="42829610-ucdt" type="ucdt" originalKey="42829610">四聯炮120毫米自行反坦克炮</str>
-  <str key="42967762-ucdt" type="ucdt" originalKey="42967762">瑪尼生物實驗室已被[*faction*]佔領。</str>
-  <str key="42992443-ucdt" type="ucdt" originalKey="42992443">一位友軍指揮官放置了這枚煙霧信標，以提醒戰友注意特定區域。如果你不確定收到的命令，務必向指揮官詢問目標的詳細資訊。</str>
-  <str key="43312432-ucdt" type="ucdt" originalKey="43312432">為你的載具添加迷彩圖案。僅限地球共和國使用。</str>
-  <str key="43419006-ugdt" type="ugdt" originalKey="43419006">Agility Chassis</str>
-  <str key="43483024-ucdt" type="ucdt" originalKey="43483024">你每天獲得的前5個綬帶能帶來雙倍的綬帶經驗獎勵。</str>
+  <str key="42829610-ucdt" type="ucdt" originalKey="42829610">四聯炮120 公釐自行反坦克炮</str>
+  <str key="42967762-ucdt" type="ucdt" originalKey="42967762">尖端基因實驗室已被[*faction*]佔領。</str>
+  <str key="42992443-ucdt" type="ucdt" originalKey="42992443">一位友軍指揮官放置了這枚煙霧信標，以提醒戰友註意特定區域。如果你不確定收到的命令，務必向指揮官詢問目標的詳細信息。</str>
+  <str key="43312432-ucdt" type="ucdt" originalKey="43312432">在你的載具上添加迷彩圖案。僅限地球共和國使用。</str>
+  <str key="43419006-ugdt" type="ugdt" originalKey="43419006">敏捷底盤</str>
+  <str key="43483024-ucdt" type="ucdt" originalKey="43483024">你每天獲得的前 5 個綬帶能帶來雙倍的綬帶經驗獎勵。</str>
   <str key="43546748-ucdt" type="ucdt" originalKey="43546748">決裂者：防禦插槽</str>
-  <str key="43623280-ucdt" type="ucdt" originalKey="43623280">滲透兵：使用一個C-4炸彈擊殺至少3名玩家</str>
-  <str key="43628027-ucdt" type="ucdt" originalKey="43628027">減小因武器後坐力導致的準星水準方向的晃動。</str>
+  <str key="43623280-ucdt" type="ucdt" originalKey="43623280">滲透者：使用一枚 C-4 炸藥擊殺至少 3 名玩家</str>
+  <str key="43628027-ucdt" type="ucdt" originalKey="43628027">減小因武器後坐力導致的準星水平方向的晃動。</str>
   <str key="43631079-ucdt" type="ucdt" originalKey="43631079">這兒需要修理！</str>
   <str key="43691011-ucdt" type="ucdt" originalKey="43691011">督察 3</str>
   <str key="43781416-ucdt" type="ucdt" originalKey="43781416">地球共和國：偵察步槍貼花</str>
-  <str key="43782081-ugdt" type="ugdt" originalKey="43782081">將軍 5 塗裝</str>
+  <str key="43782081-ugdt" type="ugdt" originalKey="43782081">上將 5 貼花</str>
   <str key="43794960-ucdt" type="ucdt" originalKey="43794960">卡賓槍專家背景橫幅</str>
   <str key="43922044-ucdt" type="ucdt" originalKey="43922044">亡命徒綬帶</str>
   <str key="43964573-ucdt" type="ucdt" originalKey="43964573">渡鴉（左手）：金質勳章</str>
   <str key="44243892-ucdt" type="ucdt" originalKey="44243892">授權使用其他的射擊模式</str>
-  <str key="44291005-ucdt" type="ucdt" originalKey="44291005">載具-女武神-武器06-60毫米-彈藥-彈藥攜帶量 10</str>
-  <str key="44325738-ucdt" type="ucdt" originalKey="44325738">武器能夠攜帶的最大榴彈數量增加8發。</str>
-  <str key="44379053-ucdt" type="ucdt" originalKey="44379053">黑色NS-61B密使銅質勳章</str>
-  <str key="44517814-ucdt" type="ucdt" originalKey="44517814">地球共和國：衝鋒槍五角形貼花</str>
-  <str key="44542357-ugdt" type="ugdt" originalKey="44542357">VS Combat Medic Shield 2 Placeholder</str>
-  <str key="44613354-ugdt" type="ugdt" originalKey="44613354">Holiday II Banner</str>
-  <str key="44726772-ucdt" type="ucdt" originalKey="44726772">VE-A蠍虎座</str>
-  <str key="44859752-ucdt" type="ucdt" originalKey="44859752">强化空中悬停、制动和垂直推力。（相比上一级更为高效）</str>
-  <str key="44893705-ucdt" type="ucdt" originalKey="44893705">為你的護甲添加軍團貼花。僅供本角色使用。</str>
+  <str key="44291005-ucdt" type="ucdt" originalKey="44291005">載具-女武神-武器 06-60 公釐-彈藥-十級備彈數量</str>
+  <str key="44325738-ucdt" type="ucdt" originalKey="44325738">武器能夠攜帶的最大榴彈數量增加 8 發。</str>
+  <str key="44379053-ucdt" type="ucdt" originalKey="44379053">NS-61 密使 黑色版 銅質勳章</str>
+  <str key="44517814-ucdt" type="ucdt" originalKey="44517814">地球共和國：沖鋒槍五角形貼花</str>
+  <str key="44542357-ugdt" type="ugdt" originalKey="44542357">瓦努主權國戰鬥醫療兵護盾2佔位符</str>
+  <str key="44613354-ugdt" type="ugdt" originalKey="44613354">假日 II 背景橫幅</str>
+  <str key="44726772-ucdt" type="ucdt" originalKey="44726772">VE-A 蠍虎座</str>
+  <str key="44859752-ucdt" type="ucdt" originalKey="44859752">強化懸停、空氣製動減速和垂直推力。（比上一級更高效）</str>
+  <str key="44893705-ucdt" type="ucdt" originalKey="44893705">為你的裝甲添加軍團貼花。僅供本角色使用。</str>
   <str key="45026780-ucdt" type="ucdt" originalKey="45026780">僅限今天！深棕單色迷彩上架！</str>
-  <str key="45043352-ucdt" type="ucdt" originalKey="45043352">在你的載具上添加芒果迷彩圖案。僅限地球共和國使用。</str>
+  <str key="45043352-ucdt" type="ucdt" originalKey="45043352">在你的載具上添加芒果斑點迷彩圖案。僅限地球共和國使用。</str>
   <str key="45044679-ucdt" type="ucdt" originalKey="45044679">掠奪者</str>
-  <str key="45082946-ucdt" type="ucdt" originalKey="45082946">AF-18追獵者AE：銅質勳章</str>
-  <str key="45093605-ugdt" type="ugdt" originalKey="45093605">M20 Wyvern</str>
+  <str key="45082946-ucdt" type="ucdt" originalKey="45082946">AF-18 追獵者 年度紀念版：銅質勳章</str>
+  <str key="45093605-ugdt" type="ugdt" originalKey="45093605">M20 雙足飛龍</str>
   <str key="45176332-ucdt" type="ucdt" originalKey="45176332">傳送艙使你能在要塞內部快速轉移。只要你走進傳送艙，就會自動被傳送到另一座對應的傳送艙上。</str>
   <str key="45211201-ucdt" type="ucdt" originalKey="45211201">v1.0.9</str>
-  <str key="45227362-ucdt" type="ucdt" originalKey="45227362">M8捶擊者脫殼穿甲炮：銅質勳章</str>
-  <str key="45270491-ucdt" type="ucdt" originalKey="45270491">武器的最大彈藥容量增至130發。</str>
-  <str key="45275415-ugdt" type="ugdt" originalKey="45275415">執政官 3 塗裝</str>
-  <str key="45351300-ucdt" type="ucdt" originalKey="45351300">顱骨頭盔讓不幸面對它的對手在心底裡感到恐懼。僅限地球共和國使用。</str>
-  <str key="45391427-ucdt" type="ucdt" originalKey="45391427">Rocket Launcher lock-on Angle Skill Line Description</str>
+  <str key="45227362-ucdt" type="ucdt" originalKey="45227362">M8 捶擊者脫殼穿甲炮：銅質勳章</str>
+  <str key="45270491-ucdt" type="ucdt" originalKey="45270491">武器能夠攜帶的最大彈藥數量增加至 130 發。</str>
+  <str key="45275415-ugdt" type="ugdt" originalKey="45275415">執政官 3 貼花</str>
+  <str key="45351300-ucdt" type="ucdt" originalKey="45351300">顱骨頭盔讓不幸面對它的對手在心底裏感到恐懼。僅限地球共和國使用。</str>
+  <str key="45391427-ucdt" type="ucdt" originalKey="45391427">火箭發射器鎖定角度技能線描述</str>
   <str key="45661093-ucdt" type="ucdt" originalKey="45661093">彈夾01</str>
-  <str key="45846049-ucdt" type="ucdt" originalKey="45846049">多向噴射 4</str>
-  <str key="45865442-ucdt" type="ucdt" originalKey="45865442">啊，共和国忠诚的士兵，是吗？走近些，士兵。我有一个紧急任务要和你商量。</str>
-  <str key="46102489-ucdt" type="ucdt" originalKey="46102489">空投舱个性化</str>
-  <str key="46146667-ucdt" type="ucdt" originalKey="46146667">友方控制點能提升護盾容量</str>
-  <str key="46280377-ucdt" type="ucdt" originalKey="46280377">&lt;font color="#00FFAA"&gt;Dolan：&lt;/font&gt;可惜Foster不能亲眼目睹这一切。</str>
-  <str key="46347937-ucdt" type="ucdt" originalKey="46347937">輕機槍：耀斑VE6（可調版）</str>
-  <str key="46355128-ucdt" type="ucdt" originalKey="46355128">海盜戰機爆炸盾牌座艙玻璃貼花</str>
-  <str key="46367265-ucdt" type="ucdt" originalKey="46367265">宙斯盾 2</str>
+  <str key="45846049-ucdt" type="ucdt" originalKey="45846049">多向噴射 4 級</str>
+  <str key="45865442-ucdt" type="ucdt" originalKey="45865442">啊，一名忠誠的共和國戰士，嗯？出列，士兵。我要和你討論一項緊急任務。</str>
+  <str key="46102489-ucdt" type="ucdt" originalKey="46102489">客製化空投艙外觀</str>
+  <str key="46146667-ucdt" type="ucdt" originalKey="46146667">友方控製點能提升護盾容量</str>
+  <str key="46280377-ucdt" type="ucdt" originalKey="46280377">&lt;font color="#00FFAA"&gt;檔案管理員多蘭 ：&lt;/font&gt; 遺憾的是福斯特不能來親眼看看。</str>
+  <str key="46347937-ucdt" type="ucdt" originalKey="46347937">輕機槍：VE6 耀斑（可調版）</str>
+  <str key="46355128-ucdt" type="ucdt" originalKey="46355128">海盜戰機防爆護盾座艙玻璃貼花</str>
+  <str key="46367265-ucdt" type="ucdt" originalKey="46367265">宙斯盾 2 級</str>
   <str key="46430589-ucdt" type="ucdt" originalKey="46430589">檢測到未知錯誤。</str>
-  <str key="46462237-ucdt" type="ucdt" originalKey="46462237">警衛部隊戰鬥醫療兵護甲</str>
-  <str key="46658132-ucdt" type="ucdt" originalKey="46658132">R85火箭筒在對抗重型裝甲目標時是理想的選擇。</str>
-  <str key="46661150-ucdt" type="ucdt" originalKey="46661150">MASC系统提供了一个隐形护盾层，能够生成至多100点额外的有效生命值。只要该护盾层没有被摧毁，隐形效果就可以一直处于活跃状态，不过必须先完全充能，才能再次激活。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;该物品将在战役结束时失效。&lt;/font&gt;</str>
-  <str key="46711295-ugdt" type="ugdt" originalKey="46711295">Galaxy Vulture Cockpit</str>
-  <str key="46826478-ucdt" type="ucdt" originalKey="46826478">鐳射瞄準器使腰射時的精准度提升33%。</str>
-  <str key="46903786-ucdt" type="ucdt" originalKey="46903786">MAX無法使用小隊部署。可以重新部署，或在裝備終端處切換職業，再實施小隊部署。</str>
-  <str key="47194942-ucdt" type="ucdt" originalKey="47194942">魂鬥羅衝鋒者頭盔</str>
-  <str key="47201002-ucdt" type="ucdt" originalKey="47201002">瑞士護甲貼花</str>
+  <str key="46462237-ucdt" type="ucdt" originalKey="46462237">警衛部隊戰鬥醫療兵裝甲</str>
+  <str key="46658132-ucdt" type="ucdt" originalKey="46658132">R85火箭發射器在對抗重型裝甲目標時是理想的選擇</str>
+  <str key="46661150-ucdt" type="ucdt" originalKey="46661150">MASC 系統提供隱形防護層，最多可額外産生 100 點有效生命值。 只要防護層沒有被破壞，就可以保持在隱身狀態，並且必須完全充電後才能重新激活。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;該物品在戰役結束後失效。&lt;/font&gt;</str>
+  <str key="46711295-ugdt" type="ugdt" originalKey="46711295">銀河禿鷲駕駛艙</str>
+  <str key="46826478-ucdt" type="ucdt" originalKey="46826478">鐳射瞄準器使腰射時的精準度提升 33%。</str>
+  <str key="46903786-ucdt" type="ucdt" originalKey="46903786">MAX 無法使用小隊部署。可以重新部署，或在裝備終端處切換職業，再實施小隊部署。</str>
+  <str key="47194942-ucdt" type="ucdt" originalKey="47194942">反抗者沖鋒手頭盔</str>
+  <str key="47201002-ucdt" type="ucdt" originalKey="47201002">瑞士裝甲貼花</str>
   <str key="47215298-ucdt" type="ucdt" originalKey="47215298">T5 AMC：金質勳章</str>
-  <str key="47374953-ucdt" type="ucdt" originalKey="47374953">主武器2：防空：XS轟天雷</str>
-  <str key="47380077-ucdt" type="ucdt" originalKey="47380077">鐮式戰機笑臉座艙玻璃貼花</str>
-  <str key="47393583-ucdt" type="ucdt" originalKey="47393583">為乘員自動恢復彈藥</str>
-  <str key="47452368-ucdt" type="ucdt" originalKey="47452368">武器的裝彈時間減少0.3秒。</str>
-  <str key="47710316-ucdt" type="ucdt" originalKey="47710316">所有假日帽經驗獎勵提高10%！請務必重新裝備你的帽子。&lt;br&gt;&lt;br&gt;&lt;font color="#FF0000"&gt;僅對購買的假日帽有效&lt;/font&gt;</str>
-  <str key="47712849-ucdt" type="ucdt" originalKey="47712849">将轰炸护盾的基础伤害抗性从50%增加至57%&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;在部署为Skylance Battery模式后可生成轰炸护盾。更多信息可以在 “Colossus证书点”下的“部署：Skylance Battery” 被动系统页面查看。&lt;/font&gt; </str>
-  <str key="47874068-ucdt" type="ucdt" originalKey="47874068">從75米內的高度墜落將不再受到傷害，最小致命墜落高度接近230米，並且當你被載具撞擊時受到的傷害降低20%。&lt;font color="#dc9c36"&gt;MAX機甲也可裝備。&lt;/font&gt;</str>
-  <str key="47907301-ugdt" type="ugdt" originalKey="47907301">TR-E001單兵護盾裝備</str>
+  <str key="47374953-ucdt" type="ucdt" originalKey="47374953">主武器 2：防空：XS 轟天雷</str>
+  <str key="47380077-ucdt" type="ucdt" originalKey="47380077">鐮刀戰機笑臉座艙玻璃貼花</str>
+  <str key="47393583-ucdt" type="ucdt" originalKey="47393583">為乘員自動恢複彈藥</str>
+  <str key="47452368-ucdt" type="ucdt" originalKey="47452368">武器的裝彈時間減少 0.3 秒。</str>
+  <str key="47710316-ucdt" type="ucdt" originalKey="47710316">所有假日帽經驗獎勵提高 10%！請務必記得重新裝備你的帽子。&lt;br&gt;&lt;br&gt;&lt;font color="#FF0000"&gt;僅對購買獲得的假日帽有效&lt;/font&gt;</str>
+  <str key="47712849-ucdt" type="ucdt" originalKey="47712849">將轟炸護盾的基礎傷害抗性從 50% 增加至 57%&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;在部署為空矛火炮模式後可生成轟炸護盾。詳細信息請見 “巨像證書”中的“部署：空矛火炮” 被動系統。&lt;/font&gt;</str>
+  <str key="47874068-ucdt" type="ucdt" originalKey="47874068">從 75 米內的高度墜落將不再受到傷害，最小致命墜落高度接近 230 米，並且當你被載具撞擊時受到的傷害降低 20%。&lt;font color="#dc9c36"&gt;MAX 機甲也可裝備。&lt;/font&gt;</str>
+  <str key="47907301-ugdt" type="ugdt" originalKey="47907301">TR-E001 單兵護盾裝備</str>
   <str key="48031490-ucdt" type="ucdt" originalKey="48031490">喇叭</str>
   <str key="48125287-ucdt" type="ucdt" originalKey="48125287">地球共和國卡賓槍分組</str>
-  <str key="48125526-ugdt" type="ugdt" originalKey="48125526">Combat Medic Scout Rifle Access</str>
-  <str key="48438950-ucdt" type="ucdt" originalKey="48438950">武器能夠攜帶的最大彈藥數量增加490發。</str>
+  <str key="48125526-ugdt" type="ugdt" originalKey="48125526">戰鬥醫療兵偵察步槍使用權</str>
+  <str key="48364910-ugdt" type="ugdt" originalKey="48364910">精通 3.4 紅點</str>
+  <str key="48438950-ucdt" type="ucdt" originalKey="48438950">武器能夠攜帶的最大彈藥數量增加 490 發。</str>
   <str key="48526290-ucdt" type="ucdt" originalKey="48526290">T4 AMP：金質勳章</str>
-  <str key="48566343-ucdt" type="ucdt" originalKey="48566343">納能男爵G5：奧星勳章</str>
-  <str key="48568102-ucdt" type="ucdt" originalKey="48568102">英諾華占坑標題20描述</str>
-  <str key="48621708-ucdt" type="ucdt" originalKey="48621708">武器能夠攜帶的最大彈藥數量增加400發。</str>
-  <str key="48755754-ucdt" type="ucdt" originalKey="48755754">載具的生命值總量提升18%。</str>
+  <str key="48566343-ucdt" type="ucdt" originalKey="48566343">納能男爵 G5：奧星勳章</str>
+  <str key="48568102-ucdt" type="ucdt" originalKey="48568102">英諾華佔坑標題20 描述</str>
+  <str key="48621708-ucdt" type="ucdt" originalKey="48621708">武器能夠攜帶的最大彈藥數量增加 400 發。</str>
+  <str key="48755754-ucdt" type="ucdt" originalKey="48755754">載具的生命值總量提升 18%。</str>
   <str key="49034992-ucdt" type="ucdt" originalKey="49034992">離開連隊</str>
-  <str key="49334622-ugdt" type="ugdt" originalKey="49334622">Revolver Armor Decal</str>
-  <str key="49516656-ucdt" type="ucdt" originalKey="49516656">MAX裝備著載具級的動力裝甲，並擁有各種模組化的武器系統，可分別用於反步兵、反載具和防空。</str>
-  <str key="49525517-ucdt" type="ucdt" originalKey="49525517">武器的裝彈時間減少0.4秒。</str>
-  <str key="49690880-ucdt" type="ucdt" originalKey="49690880">這裡是測試伺服器。此伺服器與正式伺服器不同，可能包含未知的問題以及不穩定的維護時間。同時在此伺服器上，你可以體驗許多正式伺服器尚未啟用的功能與改動，玩家有機會進行實際操作，並提供回饋。</str>
+  <str key="49334622-ugdt" type="ugdt" originalKey="49334622">左輪手槍裝甲貼花</str>
+  <str key="49516656-ucdt" type="ucdt" originalKey="49516656">MAX 裝備著載具級的動力裝甲，並擁有各種模塊化的武器系統，可分別用於反步兵、反載具和防空。</str>
+  <str key="49525517-ucdt" type="ucdt" originalKey="49525517">武器的裝彈時間減少 0.4 秒。</str>
+  <str key="49690880-ucdt" type="ucdt" originalKey="49690880">這裏是測試服務器。此服務器與正式服務器不同，可能包含未知的問題以及不穩定的維護時間。同時在此服務器上，你可以體驗許多正式服務器尚未啓用的功能與改動，玩家有機會進行實際操作，並提供反饋。</str>
   <str key="49798202-ucdt" type="ucdt" originalKey="49798202">%0排隊</str>
   <str key="49948258-ucdt" type="ucdt" originalKey="49948258">高階信徒 2 貼花</str>
-  <str key="50181156-ucdt" type="ucdt" originalKey="50181156">預設彈匣的彈藥容量增加5發。</str>
+  <str key="50181156-ucdt" type="ucdt" originalKey="50181156">默認彈匣的彈藥容量增加 5 發。</str>
   <str key="50225450-ucdt" type="ucdt" originalKey="50225450">典雅迷彩</str>
-  <str key="50437192-ucdt" type="ucdt" originalKey="50437192">預設彈匣的彈藥容量增加25發。</str>
-  <str key="50481224-ucdt" type="ucdt" originalKey="50481224">1小時內可以縮短切換射擊模式的時間</str>
-  <str key="50593596-ucdt" type="ucdt" originalKey="50593596">武器能夠攜帶的最大彈藥數量增加1000發。</str>
-  <str key="50814598-ucdt" type="ucdt" originalKey="50814598">分日VE2（可調版）：銀質勳章</str>
-  <str key="50850183-ucdt" type="ucdt" originalKey="50850183">維修勇士護甲貼花</str>
-  <str key="50869540-ucdt" type="ucdt" originalKey="50869540">武器能夠攜帶的最大彈藥數量增加8發。</str>
-  <str key="50952820-ucdt" type="ucdt" originalKey="50952820">高斯SPR：奧星勳章</str>
-  <str key="51155659-ugdt" type="ugdt" originalKey="51155659">And One To Grow On Vehicle Decal</str>
-  <str key="51305748-ucdt" type="ucdt" originalKey="51305748">啟蒙者 2 貼花</str>
+  <str key="50348639-ugdt" type="ugdt" originalKey="50348639">回歸炫光鑲邊</str>
+  <str key="50437192-ucdt" type="ucdt" originalKey="50437192">默認彈匣的彈藥容量增加 25 發。</str>
+  <str key="50481224-ucdt" type="ucdt" originalKey="50481224">1 小時內可以縮短切換射擊模式的時間。</str>
+  <str key="50593596-ucdt" type="ucdt" originalKey="50593596">武器能夠攜帶的最大彈藥數量增加 1000 發。</str>
+  <str key="50814598-ucdt" type="ucdt" originalKey="50814598">VE2 分日（可調版）：銀質勳章</str>
+  <str key="50850183-ucdt" type="ucdt" originalKey="50850183">維修勇士裝甲貼花</str>
+  <str key="50869540-ucdt" type="ucdt" originalKey="50869540">武器能夠攜帶的最大彈藥數量增加 8 發。</str>
+  <str key="50952820-ucdt" type="ucdt" originalKey="50952820">高斯 SPR：奧星勳章</str>
+  <str key="51155659-ugdt" type="ugdt" originalKey="51155659">另一個小可愛載具貼花</str>
+  <str key="51305748-ucdt" type="ucdt" originalKey="51305748">啓蒙者 2 貼花</str>
   <str key="51389102-ucdt" type="ucdt" originalKey="51389102">重新部署選項位於地圖左側。</str>
-  <str key="51390001-ucdt" type="ucdt" originalKey="51390001">豐富的測試外掛程式</str>
-  <str key="51703511-ucdt" type="ucdt" originalKey="51703511">NS-60火焰噴射器：銀質勳章</str>
+  <str key="51390001-ucdt" type="ucdt" originalKey="51390001">豐富的測試插件</str>
+  <str key="51703511-ucdt" type="ucdt" originalKey="51703511">NS-60 火焰噴射器：銀質勳章</str>
   <str key="52090946-ucdt" type="ucdt" originalKey="52090946">新聯邦炸彈：銀質勳章</str>
   <str key="52096782-ucdt" type="ucdt" originalKey="52096782">堡壘：加油備彈</str>
   <str key="52153380-ucdt" type="ucdt" originalKey="52153380">金色徘徊者車標</str>
-  <str key="52188367-ucdt" type="ucdt" originalKey="52188367">120毫米雙筒穿甲炮發射出的穿甲彈可以對裝甲目標造成最大殺傷</str>
+  <str key="52188367-ucdt" type="ucdt" originalKey="52188367">120 公釐雙筒穿甲炮發射出的穿甲彈可以對裝甲目標造成最大殺傷</str>
   <str key="52248992-ucdt" type="ucdt" originalKey="52248992">建造</str>
-  <str key="52259527-ucdt" type="ucdt" originalKey="52259527">起初BAR-100被认为是一个失败的项目，直到公司发现制造商为了削减生产成本而在制造过程中使用了一种更加便宜且异常轻盈的材料。大部分原型武器都已被销毁，但还是有少数流入了收藏家之手。</str>
-  <str key="52469954-ucdt" type="ucdt" originalKey="52469954">瓦努守住了達哈卡！</str>
-  <str key="52492349-ucdt" type="ucdt" originalKey="52492349">M60-A鬥牛犬：奧星勳章</str>
-  <str key="52588073-ucdt" type="ucdt" originalKey="52588073">你探索风暴肆虐的Esamir时获得的纪念品，这把饱经风霜的镐是打破紧张的完美工具。</str>
+  <str key="52259527-ucdt" type="ucdt" originalKey="52259527">最初的 BAR-100 被認為是一個失敗的項目，後來公司發現製造商通過在其結構中使用更便宜（但極為輕巧）的材料來削減生産成本。大多數原型槍被丟棄了，但仍有一些可能在收藏家手中找到。</str>
+  <str key="52469954-ucdt" type="ucdt" originalKey="52469954">瓦努主權國守住了達哈卡！</str>
+  <str key="52492349-ucdt" type="ucdt" originalKey="52492349">M60-A 鬥牛犬：奧星勳章</str>
+  <str key="52588073-ucdt" type="ucdt" originalKey="52588073">作為你探索被風暴蹂躪的伊薩米爾的紀念品，這個被霜凍磨損的鎬是打破僵局的完美工具。</str>
   <str key="52689984-ucdt" type="ucdt" originalKey="52689984">生化顱骨載具貼花</str>
   <str key="52821503-ucdt" type="ucdt" originalKey="52821503">監察隊員 4</str>
-  <str key="52946748-ucdt" type="ucdt" originalKey="52946748">装弹速度 1</str>
-  <str key="53002076-ucdt" type="ucdt" originalKey="53002076">武器能够携带的最大弹药数量增加14发。</str>
+  <str key="52946748-ucdt" type="ucdt" originalKey="52946748">裝彈速度 1 級</str>
+  <str key="53002076-ucdt" type="ucdt" originalKey="53002076">武器能夠攜帶的最大炮彈數量增加 14 發。</str>
   <str key="53056558-ucdt" type="ucdt" originalKey="53056558">希爾赫斯.小型哨所.12</str>
-  <str key="53103783-ucdt" type="ucdt" originalKey="53103783">解放者的尾部機炮可以保護飛機的後方區域，它由3號座位的乘員操控。</str>
-  <str key="53234489-ucdt" type="ucdt" originalKey="53234489">希爾赫斯基地</str>
-  <str key="53260544-ucdt" type="ucdt" originalKey="53260544">狙擊手火力套裝</str>
+  <str key="53103783-ucdt" type="ucdt" originalKey="53103783">解放者的尾部機炮可以保護飛機的後方區域，它由 3 號座位的乘員操控。</str>
+  <str key="53234489-ucdt" type="ucdt" originalKey="53234489">希爾赫斯小型基地</str>
+  <str key="53260544-ucdt" type="ucdt" originalKey="53260544">第九佔位符</str>
   <str key="53476397-ugdt" type="ugdt" originalKey="53476397">VS_01</str>
   <str key="53486867-ucdt" type="ucdt" originalKey="53486867">手槍專家背景橫幅</str>
-  <str key="53545517-ucdt" type="ucdt" originalKey="53545517">在你的武器上添加灰色天平迷彩圖案。所有陣營均可使用此裝備。</str>
-  <str key="53652281-ucdt" type="ucdt" originalKey="53652281">蓝色航迹云</str>
+  <str key="53545517-ucdt" type="ucdt" originalKey="53545517">在你的武器上添加灰色鱗片迷彩圖案。所有陣營均可使用此裝備。</str>
+  <str key="53652281-ucdt" type="ucdt" originalKey="53652281">藍色航跡雲</str>
   <str key="53683223-ucdt" type="ucdt" originalKey="53683223">部署一座可由友軍操縱的雙刃劍反步兵方陣炮塔。</str>
   <str key="53857791-ucdt" type="ucdt" originalKey="53857791">防禦插槽</str>
-  <str key="53876123-ucdt" type="ucdt" originalKey="53876123">武器能夠攜帶的最大彈藥數量增加120發。</str>
-  <str key="53975696-ucdt" type="ucdt" originalKey="53975696">击中友方目标将被扣分。</str>
+  <str key="53876123-ucdt" type="ucdt" originalKey="53876123">武器能夠攜帶的最大彈藥數量增加 120 發。</str>
+  <str key="53975696-ucdt" type="ucdt" originalKey="53975696">如果你對友軍目標開火，你的點數就會減少。</str>
   <str key="54162014-ucdt" type="ucdt" originalKey="54162014">下降</str>
-  <str key="54288086-ucdt" type="ucdt" originalKey="54288086">解锁XMG-155和全套附件。仅供NSO使用。</str>
-  <str key="54433878-ucdt" type="ucdt" originalKey="54433878">&lt;font color="#00FFAA"&gt;Hadley督察官：&lt;/font&gt;很好，士兵。信号的源头应该就在附近。使用信号扫描器的发射功能测算你离目标位置的距离。</str>
-  <str key="54521057-ucdt" type="ucdt" originalKey="54521057">高斯緊湊型（點射版）：銅質勳章</str>
-  <str key="54722685-ucdt" type="ucdt" originalKey="54722685">共和國佔領了阿拉圖！</str>
+  <str key="54288086-ucdt" type="ucdt" originalKey="54288086">解鎖 XMG-155 及其全套附件。僅限納能特工使用。</str>
+  <str key="54433878-ucdt" type="ucdt" originalKey="54433878">&lt;font color="#00FFAA"&gt;監察官 哈德利：&lt;/font&gt;很好，士兵。傳輸的源頭應該就在附近。拿出你的訊號掃描器，使用主要開火鍵來測量距離目標的距離。</str>
+  <str key="54521057-ucdt" type="ucdt" originalKey="54521057">AF-20 惡棍：銅質勳章</str>
+  <str key="54722685-ucdt" type="ucdt" originalKey="54722685">地球共和國佔領了阿拉圖！</str>
   <str key="54840958-ucdt" type="ucdt" originalKey="54840958">致命頭盔</str>
-  <str key="54936606-ucdt" type="ucdt" originalKey="54936606">將銀河的獲取時間間隔減少至11分鐘。</str>
+  <str key="54936606-ucdt" type="ucdt" originalKey="54936606">將銀河的獲取時間間隔減少至 11 分鍾。</str>
   <str key="55155074-ucdt" type="ucdt" originalKey="55155074">宙斯盾方陣炮臺：奧星勳章</str>
-  <str key="55313793-ucdt" type="ucdt" originalKey="55313793">HPR反射型（1倍）-三角</str>
+  <str key="55313793-ucdt" type="ucdt" originalKey="55313793">HPR 反射型（1 倍）-三角</str>
   <str key="55340135-ucdt" type="ucdt" originalKey="55340135">為你的載具添加貼花。僅限瓦努主權國使用。</str>
-  <str key="55445092-ucdt" type="ucdt" originalKey="55445092">頂部武器：E540長戟-H</str>
-  <str key="55478182-ucdt" type="ucdt" originalKey="55478182">C-4的攜帶量增加1枚。</str>
+  <str key="55445092-ucdt" type="ucdt" originalKey="55445092">頂部武器：E540 長戟-H</str>
+  <str key="55478182-ucdt" type="ucdt" originalKey="55478182">C-4 的攜帶量增加 1 枚。</str>
   <str key="55504896-ucdt" type="ucdt" originalKey="55504896">地球共和國手槍分組</str>
   <str key="55534388-ucdt" type="ucdt" originalKey="55534388">在你的武器上添加火焰迷彩圖案。僅限瓦努主權國使用。</str>
-  <str key="55534391-ucdt" type="ucdt" originalKey="55534391">開發人員、QA、以及破曉工作室其他的工作人員會經常登錄這個伺服器。他們可能會徵求您的幫助測試某些具體的遊戲內容。&lt;br&gt;&lt;br&gt;如果您發現任何遊戲問題，可以通過遊戲內的bug彙報工具報告，也可以在測試服的論壇上發帖提出。&lt;br&gt;&lt;br&gt;測試服上的角色及行為不會對正式伺服器產生影響，反之亦然。&lt;br&gt;&lt;br&gt;遊戲中獲取的經驗值與正式伺服器有著很大的差別，每個新角色登錄測試服後都可以獲得大量的證書點數以供測試。&lt;br&gt;&lt;br&gt;如有必要，測試服上的角色可能會被清除。&lt;br&gt;&lt;br&gt;測試服不提供客戶服務，也不開放真實貨幣交易。&lt;br&gt;&lt;br&gt;如果您想瞭解更多關於測試服的資訊，請仔細閱讀論壇上的《測試伺服器條款》。</str>
-  <str key="55687394-ucdt" type="ucdt" originalKey="55687394">武器能夠攜帶的最大導彈數量增加5發。</str>
+  <str key="55534391-ucdt" type="ucdt" originalKey="55534391">開發人員、QA、以及破曉工作室其他的工作人員會經常登錄這個服務器。他們可能會要求您的幫助以測試某些具體的遊戲內容。&lt;br&gt;&lt;br&gt;如果您發現任何遊戲問題，可以通過遊戲內的 bug 匯報工具報告，也可以在測試服的論壇上發帖提出。&lt;br&gt;&lt;br&gt;測試服上的角色及行為不會對正式服務器産生影響，反之亦然。&lt;br&gt;&lt;br&gt;遊戲中獲取的經驗值與正式服務器有著很大的差別，每個新角色登錄測試服後都可以獲得大量的證書點以供測試。&lt;br&gt;&lt;br&gt;如有必要，測試服上的角色可能會被清除。&lt;br&gt;&lt;br&gt;測試服不提供客戶服務，也不開放真實貨幣交易。&lt;br&gt;&lt;br&gt;如果您想了解更多關於測試服的信息，請仔細閱讀論壇上的《測試服務器條款》</str>
+  <str key="55687394-ucdt" type="ucdt" originalKey="55687394">武器能夠攜帶的最大導彈數量增加 5 發。</str>
   <str key="55767426-ucdt" type="ucdt" originalKey="55767426">霰彈槍專家背景橫幅</str>
-  <str key="55879901-ucdt" type="ucdt" originalKey="55879901">武器能夠攜帶的最大彈藥數量增加675發。</str>
-  <str key="55943874-ucdt" type="ucdt" originalKey="55943874">滲透兵炫光護甲</str>
+  <str key="55879901-ucdt" type="ucdt" originalKey="55879901">武器能夠攜帶的最大彈藥數量增加 675 發。</str>
+  <str key="55943874-ucdt" type="ucdt" originalKey="55943874">滲透者炫光裝甲</str>
   <str key="56059243-ucdt" type="ucdt" originalKey="56059243">你可以在地圖上點擊右鍵，來為你和小隊設定路標點。</str>
-  <str key="56070511-ucdt" type="ucdt" originalKey="56070511">數字 “2” 貼花</str>
-  <str key="56079639-ugdt" type="ugdt" originalKey="56079639">Harasser Devourer Hubcaps</str>
+  <str key="56070511-ucdt" type="ucdt" originalKey="56070511">2 字貼花</str>
+  <str key="56079639-ugdt" type="ugdt" originalKey="56079639">突襲者吞噬者輪轂罩</str>
   <str key="56109527-ucdt" type="ucdt" originalKey="56109527">粉碎者</str>
-  <str key="56126358-ucdt" type="ucdt" originalKey="56126358">武器能夠攜帶的最大彈藥數量增加480發。</str>
-  <str key="56139842-ucdt" type="ucdt" originalKey="56139842">新聯邦手槍</str>
-  <str key="56140789-ugdt" type="ugdt" originalKey="56140789">The Schnoz</str>
+  <str key="56126358-ucdt" type="ucdt" originalKey="56126358">武器能夠攜帶的最大彈藥數量增加 480 發。</str>
+  <str key="56139842-ucdt" type="ucdt" originalKey="56139842">新聯邦手槍-中-v8 描述（刪除Me -BB）</str>
+  <str key="56140789-ugdt" type="ugdt" originalKey="56140789">大鼻子</str>
   <str key="56188901-ucdt" type="ucdt" originalKey="56188901">個性化你的地面載具，加裝岩石之手車標。所有陣營均可使用此裝備。</str>
-  <str key="56302301-ucdt" type="ucdt" originalKey="56302301">衝力：奧星勳章</str>
+  <str key="56302301-ucdt" type="ucdt" originalKey="56302301">沖力：奧星勳章</str>
   <str key="56304770-ucdt" type="ucdt" originalKey="56304770">成功設置小隊長。</str>
   <str key="56338120-ucdt" type="ucdt" originalKey="56338120">載具貼花包</str>
-  <str key="56389264-ugdt" type="ugdt" originalKey="56389264">王牌</str>
-  <str key="56461067-ugdt" type="ugdt" originalKey="56461067">Eye of Freedom Armor Decal</str>
-  <str key="56486857-ucdt" type="ucdt" originalKey="56486857">武器的裝彈時間減少0.2秒。</str>
-  <str key="56609210-ucdt" type="ucdt" originalKey="56609210">用這款金色拼貼外飾來個性化你的電磁騎士。僅限瓦努主權國使用。</str>
+  <str key="56389264-ugdt" type="ugdt" originalKey="56389264">王牌 </str>
+  <str key="56461067-ugdt" type="ugdt" originalKey="56461067">自由之眼裝甲貼花</str>
+  <str key="56486857-ucdt" type="ucdt" originalKey="56486857">武器的裝彈時間減少 0.2 秒。</str>
+  <str key="56609210-ucdt" type="ucdt" originalKey="56609210">用這款金色拚貼外飾來個性化你的電磁騎士。僅限瓦努主權國使用。</str>
   <str key="56628891-ugdt" type="ugdt" originalKey="56628891">捕蟹者</str>
   <str key="56669159-ugdt" type="ugdt" originalKey="56669159">艾美瑞什樹葉迷彩</str>
-  <str key="56743059-ucdt" type="ucdt" originalKey="56743059">將你的單兵護盾恢復速度提升38%。</str>
-  <str key="56842171-ucdt" type="ucdt" originalKey="56842171">4倍瞄準鏡附件 01 描述</str>
-  <str key="57172831-ucdt" type="ucdt" originalKey="57172831">斜坡護甲迷彩</str>
-  <str key="57204561-ucdt" type="ucdt" originalKey="57204561">突襲者</str>
-  <str key="57226451-ucdt" type="ucdt" originalKey="57226451">M20幼龍：奧星勳章</str>
-  <str key="57230616-ucdt" type="ucdt" originalKey="57230616">瓦努守住了拉什努！</str>
-  <str key="57393421-ugdt" type="ugdt" originalKey="57393421">ANT Fuel Cans</str>
-  <str key="57419050-ucdt" type="ucdt" originalKey="57419050">前往Stillwater Watch Ruins</str>
-  <str key="57453631-ucdt" type="ucdt" originalKey="57453631">提升閃電的前進極速和加速度。</str>
-  <str key="57479077-ucdt" type="ucdt" originalKey="57479077">在商城中點擊 “獲取DBC破曉幣” 也可以享受同樣的優惠。</str>
-  <str key="57494145-ucdt" type="ucdt" originalKey="57494145">TR-M001單兵護盾裝備</str>
-  <str key="57542347-ucdt" type="ucdt" originalKey="57542347">运送者原型机炮手击杀奖励</str>
-  <str key="57585087-ucdt" type="ucdt" originalKey="57585087">美國航空護甲貼花</str>
-  <str key="57701752-ucdt" type="ucdt" originalKey="57701752">按[%s]收集数据</str>
+  <str key="56743059-ucdt" type="ucdt" originalKey="56743059">將你的單兵護盾恢複速度提升 38%。</str>
+  <str key="56842171-ucdt" type="ucdt" originalKey="56842171">4 倍瞄準鏡附件 01 描述</str>
+  <str key="57172831-ucdt" type="ucdt" originalKey="57172831">斜坡裝甲迷彩</str>
+  <str key="57204561-ucdt" type="ucdt" originalKey="57204561">突襲者擋泥板 TR005</str>
+  <str key="57226451-ucdt" type="ucdt" originalKey="57226451">M20 幼龍：奧星勳章</str>
+  <str key="57230616-ucdt" type="ucdt" originalKey="57230616">瓦努主權國守住了拉什努！</str>
+  <str key="57393421-ugdt" type="ugdt" originalKey="57393421">工蟻燃料罐</str>
+  <str key="57419050-ucdt" type="ucdt" originalKey="57419050">前往靜水灣觀測站廢墟</str>
+  <str key="57453631-ucdt" type="ucdt" originalKey="57453631">提升閃電的前進最高時速及加速性能。</str>
+  <str key="57479077-ucdt" type="ucdt" originalKey="57479077">在商城中點擊 “獲取 DBC 破曉幣” 也可以享受同樣的優惠</str>
+  <str key="57494145-ucdt" type="ucdt" originalKey="57494145">TR-M001 單兵護盾裝備</str>
+  <str key="57542347-ucdt" type="ucdt" originalKey="57542347">炮手運送者原型機擊殺獎勵</str>
+  <str key="57585087-ucdt" type="ucdt" originalKey="57585087">太空美國裝甲貼花</str>
+  <str key="57645487-ugdt" type="ugdt" originalKey="57645487">NS-1999 派對手槍</str>
+  <str key="57701752-ucdt" type="ucdt" originalKey="57701752">按[%s]鍵收集數據</str>
   <str key="57714882-ucdt" type="ucdt" originalKey="57714882">SAW-M：奧星勳章</str>
   <str key="57789494-ucdt" type="ucdt" originalKey="57789494">大禮包</str>
   <str key="57825247-ucdt" type="ucdt" originalKey="57825247">描述</str>
-  <str key="57840156-ucdt" type="ucdt" originalKey="57840156">氪金礦石在奧拉西斯星球各處源源不斷地生成；礦石的體積越大，可開採的氪金越多！</str>
-  <str key="57899093-ucdt" type="ucdt" originalKey="57899093">將磁力發動機的充能速率提高15%，並且推進器啟動時仍能保持橫向機動能力。</str>
-  <str key="57915671-ucdt" type="ucdt" originalKey="57915671">金色NS-44G軍政委</str>
+  <str key="57840156-ucdt" type="ucdt" originalKey="57840156">鈳金礦石在奧拉西斯星球各處源源不斷地生成；礦石的體積越大，可採集的鈳金越多！</str>
+  <str key="57899093-ucdt" type="ucdt" originalKey="57899093">將磁力發動機的充能速率提高 15%，並且推進器激活時仍能保持橫向機動能力。</str>
+  <str key="57915671-ucdt" type="ucdt" originalKey="57915671">NS-44 軍政委 金色版</str>
   <str key="58000613-ucdt" type="ucdt" originalKey="58000613">光子空對空導彈艙</str>
-  <str key="58007925-ucdt" type="ucdt" originalKey="58007925">英諾華占坑標題28描述</str>
-  <str key="58073914-ucdt" type="ucdt" originalKey="58073914">彈藥攜帶量 4</str>
-  <str key="58100371-ucdt" type="ucdt" originalKey="58100371">获得180单位的Elysium</str>
-  <str key="58186699-ucdt" type="ucdt" originalKey="58186699">將突襲者的獲取時間間隔減少120秒。</str>
-  <str key="58207758-ucdt" type="ucdt" originalKey="58207758">Hopeswell Beachhead</str>
+  <str key="58007925-ucdt" type="ucdt" originalKey="58007925">英諾華佔坑標題28 描述</str>
+  <str key="58073914-ucdt" type="ucdt" originalKey="58073914">備彈數量 4 級</str>
+  <str key="58100371-ucdt" type="ucdt" originalKey="58100371">獲取180單位的極晶</str>
+  <str key="58186699-ucdt" type="ucdt" originalKey="58186699">將突襲者的獲取時間間隔減少 120 秒。</str>
+  <str key="58207758-ucdt" type="ucdt" originalKey="58207758">霍普斯維爾灘頭堡</str>
   <str key="58229906-ucdt" type="ucdt" originalKey="58229906">完成狙擊手描述</str>
-  <str key="58240255-ucdt" type="ucdt" originalKey="58240255">新聯邦狙擊步槍</str>
-  <str key="58250922-ucdt" type="ucdt" originalKey="58250922">赫尔墨斯隐身 5</str>
-  <str key="58318991-ucdt" type="ucdt" originalKey="58318991">武器能夠攜帶的最大炮彈數量增加4發。</str>
-  <str key="58434285-ucdt" type="ucdt" originalKey="58434285">步兵渲染距离设置。这个选项将影响步行的对象能够渲染的最远距离。设置范围为300米至6000米（默认为4000米）。</str>
-  <str key="58487306-ucdt" type="ucdt" originalKey="58487306">類星體VM1：奧星勳章</str>
-  <str key="58513451-ucdt" type="ucdt" originalKey="58513451">自由烈焰護甲貼花</str>
+  <str key="58240255-ucdt" type="ucdt" originalKey="58240255">新聯邦狙擊步槍-遠射-v2 描述（刪除Me-BB）</str>
+  <str key="58250922-ucdt" type="ucdt" originalKey="58250922">赫爾墨斯隱形 5 級</str>
+  <str key="58318991-ucdt" type="ucdt" originalKey="58318991">武器能夠攜帶的最大炮彈數量增加 4 發。</str>
+  <str key="58434285-ucdt" type="ucdt" originalKey="58434285">步兵渲染距離設置。 該項指定步兵單位步行狀態下物體渲染的最遠距離。 可設置的範圍在 300 米 到 6000 米 （默認 4000 米）</str>
+  <str key="58487306-ucdt" type="ucdt" originalKey="58487306">VM1 類星體：奧星勳章</str>
+  <str key="58513451-ucdt" type="ucdt" originalKey="58513451">自由烈焰裝甲貼花</str>
   <str key="58544557-ucdt" type="ucdt" originalKey="58544557">亂舞迷彩</str>
   <str key="58607839-ucdt" type="ucdt" originalKey="58607839">風霜印記武器迷彩</str>
-  <str key="58716028-ucdt" type="ucdt" originalKey="58716028">在你的載具上添加紫色鉻金迷彩圖案。</str>
-  <str key="58797777-ucdt" type="ucdt" originalKey="58797777">拜访你的阵营大使馆</str>
-  <str key="58899986-ucdt" type="ucdt" originalKey="58899986">女性面部04</str>
-  <str key="58923255-ucdt" type="ucdt" originalKey="58923255">勝利者雙份外掛程式包</str>
+  <str key="58674296-ugdt" type="ugdt" originalKey="58674296">SR-100</str>
+  <str key="58716028-ucdt" type="ucdt" originalKey="58716028">在你的載具上添加紫鉻色迷彩圖案。</str>
+  <str key="58797777-ucdt" type="ucdt" originalKey="58797777">前往你所屬陣營的使館</str>
+  <str key="58899986-ucdt" type="ucdt" originalKey="58899986">04 號女性面部</str>
+  <str key="58923255-ucdt" type="ucdt" originalKey="58923255">勝利者雙份插件包</str>
   <str key="59052186-ucdt" type="ucdt" originalKey="59052186">申請</str>
-  <str key="59075113-ugdt" type="ugdt" originalKey="59075113">遮罩熱感應 III</str>
+  <str key="59075113-ugdt" type="ugdt" originalKey="59075113">熱源隱形 III</str>
   <str key="59364637-ucdt" type="ucdt" originalKey="59364637">高強度粒子場可以保護使用者免於傷害。在沒有受到攻擊的情況下，粒子場可以隨著時間而自我再生。</str>
   <str key="59645260-ucdt" type="ucdt" originalKey="59645260">黑心十字弩：金質勳章</str>
-  <str key="59650712-ucdt" type="ucdt" originalKey="59650712">在你的載具上添加一次性斑馬迷彩圖案。僅限新聯邦使用。一次性迷彩只能在本角色的一套配置中應用一次。</str>
-  <str key="59778086-ucdt" type="ucdt" originalKey="59778086">武器的裝彈時間減少0.1秒。</str>
-  <str key="59900622-ucdt" type="ucdt" originalKey="59900622">玩家区域测试目标</str>
-  <str key="59976400-ucdt" type="ucdt" originalKey="59976400">&lt;font color="#00FFAA"&gt;钻头协调员：&lt;/font&gt;钻头已启用。钻头最长寿命：5分钟。</str>
-  <str key="60046285-ucdt" type="ucdt" originalKey="60046285">竞速者高速底盘</str>
-  <str key="60083061-ucdt" type="ucdt" originalKey="60083061">占领Cobalt地质[#OUTPOST#]。</str>
-  <str key="60119041-ucdt" type="ucdt" originalKey="60119041">偵察雷達可以探測到200米內敵人的動向。</str>
+  <str key="59650712-ucdt" type="ucdt" originalKey="59650712">在你的載具上添加一次性斑馬迷彩圖案。僅限新聯邦使用。一次性迷彩仅能在本角色的一套配置中應用一次。</str>
+  <str key="59778086-ucdt" type="ucdt" originalKey="59778086">武器的裝彈時間減少 0.1 秒。</str>
+  <str key="59900622-ucdt" type="ucdt" originalKey="59900622">玩家分區測試目標</str>
+  <str key="59976400-ucdt" type="ucdt" originalKey="59976400">&lt;font color="#00FFAA"&gt;鑽機協調員：&lt;/font&gt; 鑽機已啓動。最大運行時長設定為 5 分鍾。</str>
+  <str key="60046285-ucdt" type="ucdt" originalKey="60046285">競速者高速底盤</str>
+  <str key="60083061-ucdt" type="ucdt" originalKey="60083061">佔領柯伯特地質基地。</str>
+  <str key="60119041-ucdt" type="ucdt" originalKey="60119041">偵察雷達可以探測到 200 米內敵人的動向。</str>
   <str key="60121033-ucdt" type="ucdt" originalKey="60121033">你並不在一個連隊中。</str>
-  <str key="60216189-ucdt" type="ucdt" originalKey="60216189">&lt;font color="#00FFAA"&gt;Knightly现场专员：&lt;/font&gt;干得好，士兵。你的努力会得到回报。</str>
-  <str key="60231114-ucdt" type="ucdt" originalKey="60231114">米</str>
-  <str key="60319678-ucdt" type="ucdt" originalKey="60319678">將突襲者的獲取時間間隔減少240秒。</str>
-  <str key="60336695-ucdt" type="ucdt" originalKey="60336695">在你的載具上添加一次性非洲森林迷彩圖案。僅限新聯邦使用。一次性迷彩只能在本角色的一套配置中應用一次。</str>
+  <str key="60216189-ucdt" type="ucdt" originalKey="60216189">&lt;font color="#00FFAA"&gt;戰區長官奈特利：&lt;/font&gt; 幹得好，士兵。你的付出會得到回報。</str>
+  <str key="60231114-ucdt" type="ucdt" originalKey="60231114">公尺</str>
+  <str key="60319678-ucdt" type="ucdt" originalKey="60319678">將突襲者的獲取時間間隔減少 240 秒。</str>
+  <str key="60336695-ucdt" type="ucdt" originalKey="60336695">在你的載具上添加一次性非洲森林迷彩圖案。僅限新聯邦使用。一次性迷彩仅能在本角色的一套配置中應用一次。</str>
   <str key="60408552-ucdt" type="ucdt" originalKey="60408552">用這款時尚的金色虎翼來個性化你的飛機。僅限瓦努主權國使用。</str>
-  <str key="60431141-ucdt" type="ucdt" originalKey="60431141">NSX風神：金質勳章</str>
-  <str key="60552465-ucdt" type="ucdt" originalKey="60552465">送给：HADLEY</str>
-  <str key="60611700-ucdt" type="ucdt" originalKey="60611700">原型运送者击杀</str>
-  <str key="60624068-ucdt" type="ucdt" originalKey="60624068">在Sanctuary处重生</str>
-  <str key="60678805-ucdt" type="ucdt" originalKey="60678805">授權使用遠距離8倍信天翁A-8狙擊瞄準鏡。</str>
-  <str key="60735422-ucdt" type="ucdt" originalKey="60735422">&lt;font color="#00FFAA"&gt;Hadley督察官：&lt;/font&gt;这是设施内的遗物室。为了防止更有价值的文物被盗走，这里部署了一些额外的安全措施。</str>
+  <str key="60431141-ucdt" type="ucdt" originalKey="60431141">NSX 風神：金質勳章</str>
+  <str key="60552465-ucdt" type="ucdt" originalKey="60552465">發送至：哈德利</str>
+  <str key="60611700-ucdt" type="ucdt" originalKey="60611700">運送者原型機擊殺</str>
+  <str key="60624068-ucdt" type="ucdt" originalKey="60624068">在庇護所重生</str>
+  <str key="60678805-ucdt" type="ucdt" originalKey="60678805">授權使用遠距離 8 倍信天翁-8 狙擊瞄準鏡。</str>
+  <str key="60735422-ucdt" type="ucdt" originalKey="60735422">&lt;font color="#00FFAA"&gt;監察官哈德利：&lt;/font&gt; 這就是該設施的聖物箱。這裏設置了額外的屏障以防止一些更有價值的藏物從這裏被移走。</str>
   <str key="60749472-ucdt" type="ucdt" originalKey="60749472">GD-17 “流亡” 的設計目標是提供簡單可控的武器，可以毫不費力地用來攻擊遠距離目標。</str>
-  <str key="60907775-ucdt" type="ucdt" originalKey="60907775">Northwind轮胎尾迹</str>
+  <str key="60907775-ucdt" type="ucdt" originalKey="60907775">北風輪胎尾跡</str>
   <str key="60981254-ucdt" type="ucdt" originalKey="60981254">QA中立區域</str>
-  <str key="61016797-ucdt" type="ucdt" originalKey="61016797">标准的[#MAX#]单位能够每分钟执行一次紧急修复，修复自身遭受到的伤害。此外还有其他装备选项可供探索，根据[#MAX#]所属的[#EMPIRE#]不同，有些选项会有所不同。</str>
-  <str key="61228403-ucdt" type="ucdt" originalKey="61228403">大鼻子眼鏡</str>
-  <str key="61417467-ucdt" type="ucdt" originalKey="61417467">爆炸盾牌座艙玻璃貼花</str>
-  <str key="61451238-ucdt" type="ucdt" originalKey="61451238">武器的裝彈時間減少0.4秒。</str>
-  <str key="61528695-ugdt" type="ugdt" originalKey="61528695">Shiny</str>
+  <str key="61016797-ucdt" type="ucdt" originalKey="61016797">標準的 MAX 單位每分鍾可以進行一次緊急維修，修複他們遭受的部分損害。還有其他選項可供探索，根據 MAX 的陣營而有所不同。</str>
+  <str key="61228403-ucdt" type="ucdt" originalKey="61228403">大鼻子</str>
+  <str key="61417467-ucdt" type="ucdt" originalKey="61417467">防爆護盾座艙玻璃貼花</str>
+  <str key="61451238-ucdt" type="ucdt" originalKey="61451238">武器的裝彈時間減少 0.4 秒。</str>
+  <str key="61528695-ugdt" type="ugdt" originalKey="61528695">閃耀的</str>
   <str key="61540019-ucdt" type="ucdt" originalKey="61540019">上校 1 貼花</str>
-  <str key="61616784-ucdt" type="ucdt" originalKey="61616784">NC重型突擊兵A. 15M</str>
+  <str key="61616784-ucdt" type="ucdt" originalKey="61616784">新聯邦重型突擊兵A. 15M</str>
   <str key="61668421-ugdt" type="ugdt" originalKey="61668421">新聯邦噴氣背包技能</str>
   <str key="61954176-ucdt" type="ucdt" originalKey="61954176">彈夾附件 1</str>
-  <str key="61996151-ucdt" type="ucdt" originalKey="61996151">控制中心附近發現敵軍</str>
+  <str key="61996151-ucdt" type="ucdt" originalKey="61996151">控製中心附近發現敵軍。</str>
   <str key="61996945-ucdt" type="ucdt" originalKey="61996945">外觀</str>
-  <str key="62092283-ucdt" type="ucdt" originalKey="62092283">個性化你的地面載具，加裝瓦努主權國標誌車標。僅限瓦努主權國使用。</str>
+  <str key="62092283-ucdt" type="ucdt" originalKey="62092283">個性化你的地面載具，加裝瓦努主權國車標。僅限瓦努主權國使用。</str>
   <str key="62115167-ucdt" type="ucdt" originalKey="62115167">閃光顱骨頭盔禮包</str>
   <str key="62277005-ucdt" type="ucdt" originalKey="62277005">持印者 1 貼花</str>
-  <str key="62313638-ucdt" type="ucdt" originalKey="62313638">反步兵MANA炮臺</str>
+  <str key="62313638-ucdt" type="ucdt" originalKey="62313638">反步兵 MANA 炮臺</str>
   <str key="62390005-ugdt" type="ugdt" originalKey="62390005">v0.6.0</str>
   <str key="62467627-ucdt" type="ucdt" originalKey="62467627">通用火箭筒</str>
-  <str key="62508757-ucdt" type="ucdt" originalKey="62508757">敵方士兵將在此重生管道重生</str>
-  <str key="62558793-ucdt" type="ucdt" originalKey="62558793">英諾華占坑標題16描述</str>
+  <str key="62508757-ucdt" type="ucdt" originalKey="62508757">敵方士兵將在此重生艙重生</str>
+  <str key="62558793-ucdt" type="ucdt" originalKey="62558793">英諾華佔坑標題16 描述</str>
   <str key="62581510-ucdt" type="ucdt" originalKey="62581510">v0.9.1</str>
-  <str key="62600358-ucdt" type="ucdt" originalKey="62600358">長戟-H SE：銅質勳章</str>
+  <str key="62600358-ucdt" type="ucdt" originalKey="62600358">長戟-H 特別限定版：銅質勳章</str>
   <str key="62732018-ucdt" type="ucdt" originalKey="62732018">白色載具迷彩</str>
   <str key="62852348-ucdt" type="ucdt" originalKey="62852348">伊薩米爾-地球共和國折躍門</str>
   <str key="62858053-ucdt" type="ucdt" originalKey="62858053">進入</str>
   <str key="62898762-ucdt" type="ucdt" originalKey="62898762">百夫長 2 貼花</str>
   <str key="62909216-ucdt" type="ucdt" originalKey="62909216">為你的載具添加貼花。僅限新聯邦使用。</str>
-  <str key="62996454-ucdt" type="ucdt" originalKey="62996454">Pilay Interlink</str>
-  <str key="63008510-ucdt" type="ucdt" originalKey="63008510">炮手堡壘部件擊殺獎勵</str>
-  <str key="63102522-ugdt" type="ugdt" originalKey="63102522">新聯邦：鑿岩機霰彈槍塗裝</str>
+  <str key="62996454-ucdt" type="ucdt" originalKey="62996454">皮雷聯絡站</str>
+  <str key="63008510-ucdt" type="ucdt" originalKey="63008510">炮手航空堡壘組件擊殺獎勵</str>
+  <str key="63102522-ugdt" type="ugdt" originalKey="63102522">新聯邦：鑿岩機霰彈槍貼花</str>
+  <str key="63118903-ugdt" type="ugdt" originalKey="63118903">彈藥虹吸 5 級</str>
   <str key="63124568-ucdt" type="ucdt" originalKey="63124568">地球共和國標準輕型突擊兵頭盔的改型。</str>
   <str key="63211580-ucdt" type="ucdt" originalKey="63211580">隱藏離線玩家</str>
-  <str key="63247939-ucdt" type="ucdt" originalKey="63247939">用這款輕巧的部署設備來向一切的起源——《行星邊際1》致敬。此物品只能在PS1紀念活動期間使用。</str>
-  <str key="63260127-ucdt" type="ucdt" originalKey="63260127">同步治療 5</str>
-  <str key="63311662-ucdt" type="ucdt" originalKey="63311662">利用納能持續進行修理，每1秒修復4%的耐久。受到傷害後12秒內無法進行自動修復。</str>
+  <str key="63247939-ucdt" type="ucdt" originalKey="63247939">用這款輕巧的部署物來向一切的起源——《行星邊際 1》致敬。此物品仅能在 PS1 紀念活動期間使用。</str>
+  <str key="63260127-ucdt" type="ucdt" originalKey="63260127">同步治療 5 級</str>
+  <str key="63311662-ucdt" type="ucdt" originalKey="63311662">利用納能持續進行修理，每秒修複 4% 的耐久。受到傷害後 12 秒內無法進行自動修複。</str>
   <str key="63397326-ucdt" type="ucdt" originalKey="63397326">SABR-13</str>
   <str key="63581202-ucdt" type="ucdt" originalKey="63581202">心弦十字弩：金質勳章</str>
-  <str key="63606594-ucdt" type="ucdt" originalKey="63606594">武器能夠攜帶的最大彈藥數量增加32發。</str>
-  <str key="63648922-ugdt" type="ugdt" originalKey="63648922">Spartan Rat</str>
-  <str key="63701743-ucdt" type="ucdt" originalKey="63701743">武器能夠攜帶的最大炮彈數量增加90發。</str>
+  <str key="63606594-ucdt" type="ucdt" originalKey="63606594">武器能夠攜帶的最大彈藥數量增加 32 發。</str>
+  <str key="63648922-ugdt" type="ugdt" originalKey="63648922">斯巴達鼠</str>
+  <str key="63701743-ucdt" type="ucdt" originalKey="63701743">武器能夠攜帶的最大炮彈數量增加 90 發。</str>
   <str key="63983616-ucdt" type="ucdt" originalKey="63983616">闊劍地雷：銅質勳章</str>
   <str key="64133957-ucdt" type="ucdt" originalKey="64133957">因達爾灌木迷彩</str>
   <str key="64195145-ucdt" type="ucdt" originalKey="64195145">目標追蹤取消</str>
-  <str key="64326194-ucdt" type="ucdt" originalKey="64326194">武器能夠攜帶的最大彈藥數量增加540發。</str>
-  <str key="64490169-ucdt" type="ucdt" originalKey="64490169">醫療兵複合護甲禮包描述</str>
-  <str key="64503485-ucdt" type="ucdt" originalKey="64503485">武器能夠攜帶的最大彈藥數量增加480發。</str>
+  <str key="64326194-ucdt" type="ucdt" originalKey="64326194">武器能夠攜帶的最大彈藥數量增加 540 發。</str>
+  <str key="64490169-ucdt" type="ucdt" originalKey="64490169">醫療兵複合裝甲禮包描述</str>
+  <str key="64503485-ucdt" type="ucdt" originalKey="64503485">武器能夠攜帶的最大彈藥數量增加 480 發。</str>
   <str key="64529652-ucdt" type="ucdt" originalKey="64529652">小鍵盤 1</str>
-  <str key="64605301-ucdt" type="ucdt" originalKey="64605301">副武器 - 質子II PPA脈衝炮</str>
-  <str key="64713931-ucdt" type="ucdt" originalKey="64713931">用這款特別禮包來慶祝《行星邊際》品牌的16周年。這款禮包為瓦努主權國、新聯邦和地球共和國都提供了裝飾品。</str>
-  <str key="64943676-ucdt" type="ucdt" originalKey="64943676">MAX巨像頭盔</str>
-  <str key="64957109-ucdt" type="ucdt" originalKey="64957109">TR T7轉管機槍 + 證書點</str>
-  <str key="65049695-ucdt" type="ucdt" originalKey="65049695">附近有敵軍的狙擊手</str>
-  <str key="65076533-ucdt" type="ucdt" originalKey="65076533">描述</str>
+  <str key="64605301-ucdt" type="ucdt" originalKey="64605301">副武器 - 質子 II PPA 脈沖炮</str>
+  <str key="64713931-ucdt" type="ucdt" originalKey="64713931">用這款特別禮包來慶祝《行星邊際》係列的 16 周年。這款禮包為瓦努主權國、新聯邦和地球共和國都提供了裝飾品。</str>
+  <str key="64943676-ucdt" type="ucdt" originalKey="64943676">MAX 巨像頭盔</str>
+  <str key="64957109-ucdt" type="ucdt" originalKey="64957109">TR T7 轉管機槍 + 證書點</str>
+  <str key="65049695-ucdt" type="ucdt" originalKey="65049695">附近有敵軍的狙擊手。</str>
+  <str key="65076533-ucdt" type="ucdt" originalKey="65076533">增援迷彩1 號描述（14009）（勿翻譯）</str>
   <str key="65099134-ucdt" type="ucdt" originalKey="65099134">修理</str>
-  <str key="65219671-ucdt" type="ucdt" originalKey="65219671">A30漫步者：銀質勳章</str>
-  <str key="65243084-ucdt" type="ucdt" originalKey="65243084">改良纳能护盾</str>
-  <str key="65367777-ucdt" type="ucdt" originalKey="65367777">英諾華占坑標題8</str>
-  <str key="65445913-ucdt" type="ucdt" originalKey="65445913">為你的決裂者加裝外飾板。所有陣營均可使用此裝備。</str>
+  <str key="65219671-ucdt" type="ucdt" originalKey="65219671">A30 漫步者：銀質勳章</str>
+  <str key="65243084-ucdt" type="ucdt" originalKey="65243084">高級納能護盾</str>
+  <str key="65367777-ucdt" type="ucdt" originalKey="65367777">英諾華佔坑標題8</str>
+  <str key="65445913-ucdt" type="ucdt" originalKey="65445913">為你的決裂者加裝外飾闆。所有陣營均可使用此裝備。</str>
   <str key="65507806-ucdt" type="ucdt" originalKey="65507806">死從天降貼花</str>
   <str key="65525557-ucdt" type="ucdt" originalKey="65525557">在隱形後下蹲移動過程中，感應地雷和其他工具都無法探測到使用者。</str>
   <str key="65598618-ucdt" type="ucdt" originalKey="65598618">定位</str>
   <str key="65612536-ucdt" type="ucdt" originalKey="65612536">克萊斯農場</str>
   <str key="65635356-ucdt" type="ucdt" originalKey="65635356">奧星通信網路中心</str>
-  <str key="65705964-ucdt" type="ucdt" originalKey="65705964">為30米內的友軍載具提供彈藥。</str>
+  <str key="65705964-ucdt" type="ucdt" originalKey="65705964">為 30 米內的友軍載具提供彈藥。</str>
   <str key="65724363-ucdt" type="ucdt" originalKey="65724363">為你的載具添加貼花。所有陣營均可使用。</str>
   <str key="65934136-ucdt" type="ucdt" originalKey="65934136">藍移：銅質勳章</str>
   <str key="65981250-ucdt" type="ucdt" originalKey="65981250">在你的決裂者後面加裝備胎。</str>
-  <str key="66004032-ucdt" type="ucdt" originalKey="66004032">瓦努主權國滲透兵護甲</str>
+  <str key="66004032-ucdt" type="ucdt" originalKey="66004032">瓦努主權國滲透者裝甲</str>
   <str key="66013581-ucdt" type="ucdt" originalKey="66013581">功能插槽</str>
-  <str key="66134928-ucdt" type="ucdt" originalKey="66134928">Dingo ML-6</str>
-  <str key="66147056-ugdt" type="ugdt" originalKey="66147056">DEPRECATED Implant: Cert Point Boost 7</str>
-  <str key="66166028-ucdt" type="ucdt" originalKey="66166028">透明球載具迷彩</str>
-  <str key="66181376-ucdt" type="ucdt" originalKey="66181376">AVA II型頭盔</str>
-  <str key="66237416-ucdt" type="ucdt" originalKey="66237416">彈藥攜帶量 2</str>
+  <str key="66134928-ucdt" type="ucdt" originalKey="66134928">ML-6 澳洲犬</str>
+  <str key="66147056-ugdt" type="ugdt" originalKey="66147056">廢棄插件：證書加成 7</str>
+  <str key="66166028-ucdt" type="ucdt" originalKey="66166028">液化物載具迷彩</str>
+  <str key="66181376-ucdt" type="ucdt" originalKey="66181376">AVA II 型頭盔</str>
+  <str key="66237416-ucdt" type="ucdt" originalKey="66237416">備彈數量 2 級</str>
   <str key="66308158-ugdt" type="ugdt" originalKey="66308158">金色沃克斯車標</str>
-  <str key="66384827-ucdt" type="ucdt" originalKey="66384827">用轻型突击兵开火十次</str>
+  <str key="66384827-ucdt" type="ucdt" originalKey="66384827">作為輕型突擊兵開火10 次</str>
   <str key="66389925-ucdt" type="ucdt" originalKey="66389925">水培種植場</str>
-  <str key="66424910-ucdt" type="ucdt" originalKey="66424910">武器的裝彈時間減少6.25%</str>
-  <str key="66524078-ucdt" type="ucdt" originalKey="66524078">一次性艾美瑞什森林V2載具迷彩</str>
+  <str key="66424910-ucdt" type="ucdt" originalKey="66424910">武器的裝彈時間減少 6.25%</str>
+  <str key="66524078-ucdt" type="ucdt" originalKey="66524078">一次性艾美瑞什森林 v2 載具迷彩</str>
   <str key="66592689-ucdt" type="ucdt" originalKey="66592689">三角花紋迷彩</str>
-  <str key="66652868-ucdt" type="ucdt" originalKey="66652868">威嚇之神VX86</str>
-  <str key="66658000-ucdt" type="ucdt" originalKey="66658000">防護力場生成器正在遭受攻擊</str>
+  <str key="66652868-ucdt" type="ucdt" originalKey="66652868">VX86 威嚇之神</str>
+  <str key="66658000-ucdt" type="ucdt" originalKey="66658000">護盾發電機正在遭受攻擊。</str>
   <str key="66675097-ucdt" type="ucdt" originalKey="66675097">主武器：WLT-大顎</str>
-  <str key="66724993-ugdt" type="ugdt" originalKey="66724993">"J" 車標</str>
-  <str key="66832913-ucdt" type="ucdt" originalKey="66832913">Cortium回收器</str>
-  <str key="66902277-ucdt" type="ucdt" originalKey="66902277">閃光手雷在爆炸後，能將爆炸半徑內的步兵短暫致盲，震聾，並降低其射擊精度。在突破重兵把守的房間時，它是完美的解決方案。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;引信延時3秒。&lt;/font&gt;</str>
-  <str key="66937024-ucdt" type="ucdt" originalKey="66937024">部署型戰場補給終端可以反復給隊友提供支援</str>
-  <str key="67050242-ucdt" type="ucdt" originalKey="67050242">充能 “質子” PPA脈衝炮是一種強火力脈衝粒子加速（PPA——pulsed particle acceleration）等離子炮。它提升了射速的同時，降低了對裝甲的穿透能力。這門炮再次發射之前需要充能。</str>
-  <str key="67143911-ucdt" type="ucdt" originalKey="67143911">头衔：英勇的</str>
+  <str key="66724993-ugdt" type="ugdt" originalKey="66724993">“J” 車標</str>
+  <str key="66832913-ucdt" type="ucdt" originalKey="66832913">鈳金回收器</str>
+  <str key="66866422-ugdt" type="ugdt" originalKey="66866422">奧星聖誕節禮物</str>
+  <str key="66902277-ucdt" type="ucdt" originalKey="66902277">閃光手雷在爆炸後，能將爆炸半徑內的步兵短暫致盲，震聾，並降低其射擊精度。在突破重兵把守的房間時，它是完美的解決方案。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;引信延時 3 秒。&lt;/font&gt;</str>
+  <str key="66937024-ucdt" type="ucdt" originalKey="66937024">部署型戰場補給終端可以為友軍提供補給</str>
+  <str key="67050242-ucdt" type="ucdt" originalKey="67050242">充能 “質子” PPA 脈沖炮是一種強火力脈沖粒子加速（PPA——pulsed particle acceleration）等離子炮。它提升了射速的同時，降低了對裝甲的穿透能力。這門炮再次發射之前需要充能。</str>
+  <str key="67143911-ucdt" type="ucdt" originalKey="67143911">頭銜：英勇的</str>
   <str key="67159679-ucdt" type="ucdt" originalKey="67159679">獲取更多</str>
-  <str key="67301554-ucdt" type="ucdt" originalKey="67301554">技術宅護甲迷彩</str>
-  <str key="67360339-ucdt" type="ucdt" originalKey="67360339">聯邦準將 4 貼花</str>
-  <str key="67398192-ucdt" type="ucdt" originalKey="67398192">武器過熱前最小連續射擊數增加4發，但武器被動散熱速率降低25%。</str>
+  <str key="67301554-ucdt" type="ucdt" originalKey="67301554">技術宅裝甲迷彩</str>
+  <str key="67360339-ucdt" type="ucdt" originalKey="67360339">準將 4 貼花</str>
+  <str key="67398192-ucdt" type="ucdt" originalKey="67398192">武器過熱前最小連續射擊數增加 4 發，但武器被動散熱速率降低 25%。</str>
   <str key="67399968-ugdt" type="ugdt" originalKey="67399968">v0.4.9</str>
-  <str key="67445582-ucdt" type="ucdt" originalKey="67445582">將鐮式戰機的閒置時間延長至30分鐘。</str>
+  <str key="67445582-ucdt" type="ucdt" originalKey="67445582">將鐮刀戰機的閒置時間延長至 30 分鍾。</str>
   <str key="67461591-ucdt" type="ucdt" originalKey="67461591">決裂者輪狀大輪子</str>
-  <str key="67495148-ucdt" type="ucdt" originalKey="67495148">MR12破城者：綬帶</str>
-  <str key="67597776-ucdt" type="ucdt" originalKey="67597776">在非戰鬥狀態下，減少恢復生命值前的等待時間。</str>
-  <str key="67960639-ugdt" type="ugdt" originalKey="67960639">Nanite Mesh Generator 5</str>
-  <str key="68109833-ucdt" type="ucdt" originalKey="68109833">爆頭擊殺會在3秒內提高上膛速度50%；連續爆頭能累積最高8秒的上膛速度增益。此外，擊殺70米外的目標也會觸發該效果。&lt;font color="#dc9c36"&gt;僅對狙擊步槍有效。&lt;/font&gt;</str>
+  <str key="67495148-ucdt" type="ucdt" originalKey="67495148">MR12 破城者：綬帶</str>
+  <str key="67597776-ucdt" type="ucdt" originalKey="67597776">在非戰鬥狀態下，減少恢複生命值前的等待時間。</str>
+  <str key="67960639-ugdt" type="ugdt" originalKey="67960639">納能網生成器 5 級</str>
+  <str key="68109833-ucdt" type="ucdt" originalKey="68109833">爆頭擊殺會在 3 秒內提高上膛速度 50%；連續爆頭能纍積最高 8 秒的上膛速度增益。此外，擊殺 70 米外的目標也會觸發該效果。&lt;font color="#dc9c36"&gt;僅對狙擊步槍有效。&lt;/font&gt;</str>
   <str key="68152664-ucdt" type="ucdt" originalKey="68152664">金色包覆武器迷彩</str>
   <str key="68196156-ucdt" type="ucdt" originalKey="68196156">在你的武器上添加正交數碼迷彩圖案。僅限地球共和國使用。</str>
   <str key="68196866-ucdt" type="ucdt" originalKey="68196866">v0.7.1</str>
   <str key="68206978-ucdt" type="ucdt" originalKey="68206978">反載具炮臺擊殺</str>
-  <str key="68256719-ucdt" type="ucdt" originalKey="68256719">在閃電的車身下麵安裝橙色的底盤燈光。僅限新聯邦使用。</str>
-  <str key="68281479-ugdt" type="ugdt" originalKey="68281479">Failsafe 4</str>
+  <str key="68256719-ucdt" type="ucdt" originalKey="68256719">在閃電的車身下面安裝橙色的底盤燈光。僅限新聯邦使用。</str>
+  <str key="68281479-ugdt" type="ugdt" originalKey="68281479">破損保險 4 級</str>
   <str key="68299626-ucdt" type="ucdt" originalKey="68299626">交流</str>
   <str key="68440567-ucdt" type="ucdt" originalKey="68440567">[B] 赫尤卡露天礦</str>
   <str key="68451281-ucdt" type="ucdt" originalKey="68451281">傳令兵</str>
   <str key="68547267-ucdt" type="ucdt" originalKey="68547267">過熱</str>
-  <str key="68604006-ugdt" type="ugdt" originalKey="68604006">Race Track</str>
-  <str key="68614799-ucdt" type="ucdt" originalKey="68614799">摄人心魄</str>
+  <str key="68604006-ugdt" type="ugdt" originalKey="68604006">跑道</str>
+  <str key="68614799-ucdt" type="ucdt" originalKey="68614799">攝人心魄</str>
   <str key="68700690-ucdt" type="ucdt" originalKey="68700690">裂變：金質勳章</str>
-  <str key="68701607-ucdt" type="ucdt" originalKey="68701607">企鵝軍團護甲貼花</str>
+  <str key="68701607-ucdt" type="ucdt" originalKey="68701607">企鵝大隊裝甲貼花</str>
   <str key="68742517-ucdt" type="ucdt" originalKey="68742517">附件</str>
-  <str key="68757286-ucdt" type="ucdt" originalKey="68757286">魂鬥羅醫療兵頭盔</str>
+  <str key="68757286-ucdt" type="ucdt" originalKey="68757286">反抗者醫療兵頭盔</str>
   <str key="68782964-ucdt" type="ucdt" originalKey="68782964">提供治療</str>
-  <str key="68846613-ugdt" type="ugdt" originalKey="68846613">Prowler Obsidian Trim</str>
-  <str key="68971429-ucdt" type="ucdt" originalKey="68971429">&lt;font color="#dc9c36"&gt;已失效，分解為ISO-4。&lt;br&gt;&lt;/font&gt;當敵軍使用非消音武器命中或擊殺你時，他將被自動報位。</str>
-  <str key="69143896-ucdt" type="ucdt" originalKey="69143896">炮手擊殺共用 - 建築物核心</str>
-  <str key="69145250-ucdt" type="ucdt" originalKey="69145250">擊殺敵人有20%幾率使你和25米內的隊友在4秒內最小射擊散佈角減小30%。MAX可裝備並觸發此外掛程式，但自身無法享受該收益。</str>
-  <str key="69223803-ucdt" type="ucdt" originalKey="69223803">占领敌方科技工厂。</str>
+  <str key="68846613-ugdt" type="ugdt" originalKey="68846613">徘徊者黑曜石鑲邊</str>
+  <str key="68971429-ucdt" type="ucdt" originalKey="68971429">&lt;font color="#dc9c36"&gt;已失效，分解為 ISO-4。&lt;br&gt;&lt;/font&gt;當敵軍使用非消音武器命中或擊殺你時，他將被自動報位。</str>
+  <str key="69143896-ucdt" type="ucdt" originalKey="69143896">炮手擊殺共享 - 建築物核心 </str>
+  <str key="69145250-ucdt" type="ucdt" originalKey="69145250">擊殺敵人有 20% 幾率使你和 25 米內的隊友在 4 秒內最小射擊散布角減小 30%。MAX 可裝備並觸發此插件，但自身無法享受該收益。</str>
+  <str key="69223803-ucdt" type="ucdt" originalKey="69223803">佔領敵方科技工廠。</str>
   <str key="69242804-ucdt" type="ucdt" originalKey="69242804">電磁騎士納能集團行囊</str>
   <str key="69481064-ucdt" type="ucdt" originalKey="69481064">顯示離線玩家</str>
-  <str key="69560166-ucdt" type="ucdt" originalKey="69560166">使载具的Cortium存储总量被动增加1500</str>
-  <str key="69576116-ucdt" type="ucdt" originalKey="69576116">高級鐳射瞄準器使腰射時的精准度提升40%。</str>
-  <str key="69594100-ucdt" type="ucdt" originalKey="69594100">建造中基地β “貝塔” </str>
-  <str key="69659819-ugdt" type="ugdt" originalKey="69659819">退伍軍人頭盔</str>
-  <str key="69757131-ucdt" type="ucdt" originalKey="69757131">完成装弹后的1.5秒内，你的冲刺速度提高10%，跳跃高度大幅增加，并且你可以极快地开始冲刺。用武器射击会导致效果提前结束。</str>
-  <str key="69825956-ucdt" type="ucdt" originalKey="69825956">24小時內，減少鐮式戰機的獲取時間間隔。需要達到8級軍銜</str>
-  <str key="69884383-ucdt" type="ucdt" originalKey="69884383">武器能夠攜帶的最大彈藥數量增加480發。</str>
-  <str key="69900127-ucdt" type="ucdt" originalKey="69900127">M20-W阿帕盧薩：金質勳章</str>
-  <str key="70353839-ugdt" type="ugdt" originalKey="70353839">駕駛艙：黃色座艙玻璃塗裝</str>
-  <str key="70372625-ugdt" type="ugdt" originalKey="70372625">伊卡洛斯噴射背包 4</str>
+  <str key="69560166-ucdt" type="ucdt" originalKey="69560166">被動增加載具 1500 最大鈳金儲存量。</str>
+  <str key="69576116-ucdt" type="ucdt" originalKey="69576116">高級鐳射瞄準器使腰射時的精準度提升 40%。</str>
+  <str key="69594100-ucdt" type="ucdt" originalKey="69594100">建築工地 β “貝塔”</str>
+  <str key="69659819-ugdt" type="ugdt" originalKey="69659819">軍團士兵頭盔</str>
+  <str key="69757131-ucdt" type="ucdt" originalKey="69757131">重新裝彈後的 1.5 秒內，你的沖刺速度提升 10%，跳躍高度顯著提高，且能夠幾乎立刻進入沖刺狀態。使用武器開火會使該效果提前結束。</str>
+  <str key="69825956-ucdt" type="ucdt" originalKey="69825956">1 小時內，減少鐮刀戰機的獲取時間間隔。需要等級達到 8 級。</str>
+  <str key="69884383-ucdt" type="ucdt" originalKey="69884383">武器能夠攜帶的最大彈藥數量增加 480 發。</str>
+  <str key="69900127-ucdt" type="ucdt" originalKey="69900127">M20-W 阿帕盧薩：金質勳章</str>
+  <str key="70353839-ugdt" type="ugdt" originalKey="70353839">駕駛艙：黃色座艙玻璃貼花</str>
+  <str key="70372625-ugdt" type="ugdt" originalKey="70372625">伊卡洛斯噴氣背包 4 級</str>
+  <str key="70483137-ugdt" type="ugdt" originalKey="70483137">U-100 終結</str>
   <str key="70519789-ucdt" type="ucdt" originalKey="70519789">解放者金色座艙玻璃貼花</str>
-  <str key="70560290-ucdt" type="ucdt" originalKey="70560290">MASC原型设计图（渗透者）</str>
-  <str key="70620688-ucdt" type="ucdt" originalKey="70620688">Chimera突击工具包</str>
-  <str key="70710807-ucdt" type="ucdt" originalKey="70710807">PMG-200 - 全副武装礼包</str>
-  <str key="70975089-ucdt" type="ucdt" originalKey="70975089">Iron Quay已被[*faction*]占领。</str>
-  <str key="70986792-ucdt" type="ucdt" originalKey="70986792">運輸隱形 2</str>
+  <str key="70560290-ucdt" type="ucdt" originalKey="70560290">MASC原型圖紙（滲透者）</str>
+  <str key="70620688-ucdt" type="ucdt" originalKey="70620688">奇美拉突擊部件</str>
+  <str key="70710807-ucdt" type="ucdt" originalKey="70710807">PMG-200 - 全副武裝禮包</str>
+  <str key="70975089-ucdt" type="ucdt" originalKey="70975089">鐵港被[*faction*]佔領。</str>
+  <str key="70986792-ucdt" type="ucdt" originalKey="70986792">運輸隱形 2 級</str>
   <str key="71249443-ucdt" type="ucdt" originalKey="71249443">徘徊者狂戰士裝甲</str>
-  <str key="71480041-ucdt" type="ucdt" originalKey="71480041">在你的載具上添加一次性因達爾峽谷V2迷彩圖案。僅限地球共和國使用。一次性迷彩只能在本角色的一套配置中應用一次。</str>
-  <str key="71500249-ucdt" type="ucdt" originalKey="71500249">反載具MANA炮臺</str>
-  <str key="71595099-ucdt" type="ucdt" originalKey="71595099">西格瑪滲透兵護甲</str>
+  <str key="71480041-ucdt" type="ucdt" originalKey="71480041">在你的載具上添加一次性因達爾峽谷 v2 迷彩圖案。僅限地球共和國使用。一次性迷彩仅能在本角色的一套配置中應用一次。</str>
+  <str key="71500249-ucdt" type="ucdt" originalKey="71500249">反載具 MANA 炮臺</str>
+  <str key="71595099-ucdt" type="ucdt" originalKey="71595099">西格瑪滲透者裝甲</str>
   <str key="71642242-ucdt" type="ucdt" originalKey="71642242">教程開始</str>
-  <str key="71651612-ucdt" type="ucdt" originalKey="71651612">受到來自輕武器的傷害降低20%。</str>
+  <str key="71651612-ucdt" type="ucdt" originalKey="71651612">受到來自輕武器的傷害降低 20%。</str>
   <str key="71706590-ucdt" type="ucdt" originalKey="71706590">遠征：聚合星燼 - 中</str>
-  <str key="71770877-ucdt" type="ucdt" originalKey="71770877">用20點&lt;font color="#5CA8DD"&gt;合成源液&lt;/font&gt;換取84點&lt;font color="#4BBA59"&gt;奧能&lt;/font&gt;。&lt;font color="#CC200D"&gt;&lt;br&gt;&lt;br&gt;使用軍團武器庫中的資源。&lt;/font&gt;</str>
-  <str key="71832541-ucdt" type="ucdt" originalKey="71832541">VE-C地平線：銀質勳章</str>
-  <str key="72290037-ugdt" type="ugdt" originalKey="72290037">Victory Over Internet Protocol Armor Decal</str>
-  <str key="72350521-ucdt" type="ucdt" originalKey="72350521">超級MHS頭盔</str>
+  <str key="71770877-ucdt" type="ucdt" originalKey="71770877">用 20 點&lt;font color="#5CA8DD"&gt;合成源液&lt;/font&gt;換取 84 點&lt;font color="#4BBA59"&gt;奧能&lt;/font&gt;。&lt;font color="#CC200D"&gt;&lt;br&gt;&lt;br&gt;使用軍團武器庫中的資源。&lt;/font&gt;</str>
+  <str key="71832541-ucdt" type="ucdt" originalKey="71832541">VE-C 地平線：銀質勳章</str>
+  <str key="72290037-ugdt" type="ugdt" originalKey="72290037">戰勝網路協議裝甲貼花</str>
+  <str key="72350521-ucdt" type="ucdt" originalKey="72350521">超級 MHS 頭盔</str>
   <str key="72353667-ucdt" type="ucdt" originalKey="72353667">今天還可以獲取的綬帶獎勵。&lt;br&gt;&lt;br&gt;綬帶獎勵可以讓你在獲得任何勤務綬帶後獲得額外的經驗。</str>
-  <str key="72400415-ugdt" type="ugdt" originalKey="72400415">TR粗魯語音包</str>
-  <str key="72524733-ucdt" type="ucdt" originalKey="72524733">響尾蛇</str>
-  <str key="72578411-ucdt" type="ucdt" originalKey="72578411">反偵察 3</str>
+  <str key="72400415-ugdt" type="ugdt" originalKey="72400415">地球共和國兇蠻粗魯語音包</str>
+  <str key="72524733-ucdt" type="ucdt" originalKey="72524733">菱斑響尾蛇</str>
+  <str key="72578411-ucdt" type="ucdt" originalKey="72578411">反情報 3 級</str>
   <str key="72657198-ucdt" type="ucdt" originalKey="72657198">T5 AMC</str>
-  <str key="72786508-ucdt" type="ucdt" originalKey="72786508">鉑金NS-11CP：奧星勳章</str>
+  <str key="72786508-ucdt" type="ucdt" originalKey="72786508">NS-11C 鉑金版：奧星勳章</str>
   <str key="72818068-ucdt" type="ucdt" originalKey="72818068">重生載具貼花</str>
-  <str key="72860250-ucdt" type="ucdt" originalKey="72860250">路由尖塔</str>
+  <str key="72860250-ucdt" type="ucdt" originalKey="72860250">傳送尖塔</str>
   <str key="73068153-ucdt" type="ucdt" originalKey="73068153">上傳中</str>
-  <str key="73499760-ugdt" type="ugdt" originalKey="73499760">Response Jacket 1</str>
-  <str key="73680886-ucdt" type="ucdt" originalKey="73680886">武器的裝彈時間減少0.1秒。</str>
-  <str key="73804246-ucdt" type="ucdt" originalKey="73804246">武器能夠攜帶的最大彈藥數量增加800發。</str>
+  <str key="73499760-ugdt" type="ugdt" originalKey="73499760">反應夾克 1 級</str>
+  <str key="73680886-ucdt" type="ucdt" originalKey="73680886">武器的裝彈時間減少 0.1 秒。</str>
+  <str key="73804246-ucdt" type="ucdt" originalKey="73804246">武器能夠攜帶的最大彈藥數量增加 800 發。</str>
   <str key="73819799-ucdt" type="ucdt" originalKey="73819799">敵方建築</str>
-  <str key="73879706-ucdt" type="ucdt" originalKey="73879706">為你的護甲添加貼花。所有陣營均可使用。</str>
+  <str key="73879706-ucdt" type="ucdt" originalKey="73879706">為你的裝甲添加貼花。所有陣營均可使用。</str>
   <str key="73922820-ucdt" type="ucdt" originalKey="73922820">使用裝備終端來切換職業。</str>
-  <str key="73937527-ucdt" type="ucdt" originalKey="73937527">和其他步兵不同，[#MAX#]单位没有个人护盾，所以在受到伤害后必须像载具一样进行修复。[#Engineer#]的工具可以修复[#MAX#]，而倒下的[#MAX#]必须由[#COMBAT_MEDIC#]来复生。&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;外骨骼装甲很笨重，妨碍了机动性，使[#MAX#]无法乘坐大多数非专用运输工具。&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;和标准步兵不一样，[#MAX#]无法影响控制点。</str>
+  <str key="73937527-ucdt" type="ucdt" originalKey="73937527">MAX 沒有像其他步兵那樣的個人護盾。其受到傷害後必須像載具一樣進行維修。工程兵的工具可以維修 MAX。&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;外骨骼裝甲很笨重，令機動性大幅受限，也使得 MAX 無法乘坐許多非專用運輸工具。&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;與普通步兵不同，MAX 無法影響控製點。</str>
   <str key="74011138-ucdt" type="ucdt" originalKey="74011138">將頻道解除靜音</str>
-  <str key="74054593-ucdt" type="ucdt" originalKey="74054593">武器能夠攜帶的最大導彈數量增加2發。</str>
+  <str key="74054593-ucdt" type="ucdt" originalKey="74054593">武器能夠攜帶的最大導彈數量增加 2 發。</str>
   <str key="74082086-ucdt" type="ucdt" originalKey="74082086">HUD（平視顯示器）模式</str>
-  <str key="74226807-ugdt" type="ugdt" originalKey="74226807">Gold-dust Panel Camo</str>
+  <str key="74226807-ugdt" type="ugdt" originalKey="74226807">金塵錶面迷彩</str>
   <str key="74255174-ucdt" type="ucdt" originalKey="74255174">全色盲</str>
-  <str key="74367754-ucdt" type="ucdt" originalKey="74367754">M2截斷者：銀質勳章</str>
+  <str key="74367754-ucdt" type="ucdt" originalKey="74367754">M2 截斷者：銀質勳章</str>
   <str key="74370667-ucdt" type="ucdt" originalKey="74370667">銀河假日歡歌喇叭</str>
-  <str key="74374003-ucdt" type="ucdt" originalKey="74374003">XMG-ARX Galilei铜质勋章</str>
+  <str key="74374003-ucdt" type="ucdt" originalKey="74374003">XMG-ARX 伽利略 銅質勳章</str>
   <str key="74474575-ucdt" type="ucdt" originalKey="74474575">防空</str>
-  <str key="74500999-ucdt" type="ucdt" originalKey="74500999">NS-44軍政委：金質勳章</str>
+  <str key="74500999-ucdt" type="ucdt" originalKey="74500999">NS-44 軍政委：金質勳章</str>
   <str key="74563297-ucdt" type="ucdt" originalKey="74563297">穩定性</str>
   <str key="74689193-ucdt" type="ucdt" originalKey="74689193">卡賓槍使用權</str>
   <str key="74750810-ucdt" type="ucdt" originalKey="74750810">希爾赫斯.大型哨所.3</str>
   <str key="74840706-ucdt" type="ucdt" originalKey="74840706">為電磁騎士加裝炫光鑲邊。僅限瓦努主權國使用。</str>
-  <str key="74842779-ucdt" type="ucdt" originalKey="74842779">預設彈匣的彈藥容量增加5發。</str>
-  <str key="74898110-ucdt" type="ucdt" originalKey="74898110">我很抱歉</str>
-  <str key="74972636-ucdt" type="ucdt" originalKey="74972636">潘朵拉VX25</str>
-  <str key="75053698-ucdt" type="ucdt" originalKey="75053698">把神秘礼物送给Sanctuary的节日无人机</str>
-  <str key="75081465-ucdt" type="ucdt" originalKey="75081465">武器能够携带的最大弹药数量增加120发。</str>
-  <str key="75145416-ucdt" type="ucdt" originalKey="75145416">灰色護甲迷彩</str>
+  <str key="74842779-ucdt" type="ucdt" originalKey="74842779">默認彈匣的彈藥容量增加 5 發。</str>
+  <str key="74898110-ucdt" type="ucdt" originalKey="74898110">我很抱歉。</str>
+  <str key="74972636-ucdt" type="ucdt" originalKey="74972636">VX25 潘多拉</str>
+  <str key="75053698-ucdt" type="ucdt" originalKey="75053698">給庇護所裏的節日無人機送上神秘禮物</str>
+  <str key="75081465-ucdt" type="ucdt" originalKey="75081465">武器能夠攜帶的最大彈藥數量增加 120 發。</str>
+  <str key="75145416-ucdt" type="ucdt" originalKey="75145416">灰色裝甲迷彩</str>
   <str key="75210092-ugdt" type="ugdt" originalKey="75210092">v0.5.6</str>
-  <str key="75291204-ucdt" type="ucdt" originalKey="75291204">工作进行中II旗帜</str>
+  <str key="75291204-ucdt" type="ucdt" originalKey="75291204">工作進行中 II 背景橫幅</str>
   <str key="75384539-ucdt" type="ucdt" originalKey="75384539">突襲者吞噬者保險杠</str>
   <str key="75493461-ucdt" type="ucdt" originalKey="75493461">上校 5 貼花</str>
-  <str key="75505433-ucdt" type="ucdt" originalKey="75505433">地球共和國陣營選擇主題曲</str>
-  <str key="75596303-ucdt" type="ucdt" originalKey="75596303">5年啟蒙護甲貼花</str>
-  <str key="75630244-ucdt" type="ucdt" originalKey="75630244">武器能够携带的最大弹药数量增加240发。</str>
+  <str key="75505433-ucdt" type="ucdt" originalKey="75505433">地球共和國陣營選擇音樂</str>
+  <str key="75596303-ucdt" type="ucdt" originalKey="75596303">啓迪五周年裝甲貼花</str>
+  <str key="75630244-ucdt" type="ucdt" originalKey="75630244">武器能夠攜帶的最大彈藥數量增加 240 發。</str>
   <str key="75665443-ugdt" type="ugdt" originalKey="75665443">核能</str>
-  <str key="75680392-ucdt" type="ucdt" originalKey="75680392">解鎖MG-H1守望者及其全套附件。僅限地球共和國使用。</str>
-  <str key="75801198-ugdt" type="ugdt" originalKey="75801198">Lightning Failsauce Horn</str>
-  <str key="75888665-ucdt" type="ucdt" originalKey="75888665">在你的護甲上添加一次性伊薩米爾冰原迷彩圖案。僅限新聯邦使用。一次性迷彩只能在本角色的一套配置中應用一次。</str>
+  <str key="75680392-ucdt" type="ucdt" originalKey="75680392">解鎖 MG-H1 守望者及其全套附件。僅限地球共和國使用。</str>
+  <str key="75801198-ugdt" type="ugdt" originalKey="75801198">閃電挫敗喇叭</str>
+  <str key="75888665-ucdt" type="ucdt" originalKey="75888665">在你的裝甲上添加一次性伊薩米爾冰原迷彩圖案。僅限新聯邦使用。一次性迷彩仅能在本角色的一套配置中應用一次。</str>
   <str key="75914847-ucdt" type="ucdt" originalKey="75914847">詭計頭盔</str>
-  <str key="76000950-ucdt" type="ucdt" originalKey="76000950">武器的装弹时间减少10%</str>
+  <str key="76000950-ucdt" type="ucdt" originalKey="76000950">武器的裝彈時間減少 10%。</str>
   <str key="76036585-ugdt" type="ugdt" originalKey="76036585">因達爾沙丘</str>
-  <str key="76229507-ugdt" type="ugdt" originalKey="76229507">Venator 3 塗裝</str>
+  <str key="76229507-ugdt" type="ugdt" originalKey="76229507">異端獵手 3 貼花</str>
   <str key="76237563-ucdt" type="ucdt" originalKey="76237563">米其斯-地球共和國要塞</str>
-  <str key="76241651-ucdt" type="ucdt" originalKey="76241651">武器的最大彈藥容量增至980發。</str>
-  <str key="76255254-ucdt" type="ucdt" originalKey="76255254">M20茶隼：銀質勳章</str>
+  <str key="76241651-ucdt" type="ucdt" originalKey="76241651">武器的備彈數量增至 980 發。</str>
+  <str key="76255254-ucdt" type="ucdt" originalKey="76255254">M20 茶隼：銀質勳章</str>
   <str key="76287952-ucdt" type="ucdt" originalKey="76287952">NS-357 IA：銅質勳章</str>
-  <str key="76288523-ucdt" type="ucdt" originalKey="76288523">隱形狀態或裝備MAX機甲時無法佔領據點。</str>
+  <str key="76288523-ucdt" type="ucdt" originalKey="76288523">裝備 MAX 機甲時無法佔領據點。</str>
   <str key="76450887-ucdt" type="ucdt" originalKey="76450887">決裂者防暴裝甲</str>
-  <str key="76477768-ucdt" type="ucdt" originalKey="76477768">&lt;font color="#7FF4FF"&gt;300%&lt;/font&gt; 被動證書點數獲取</str>
+  <str key="76477768-ucdt" type="ucdt" originalKey="76477768">&lt;font color="#7FF4FF"&gt;300%&lt;/font&gt; 被動證書點獲取</str>
   <str key="76527084-ucdt" type="ucdt" originalKey="76527084">提供彈藥補給</str>
-  <str key="76531422-ucdt" type="ucdt" originalKey="76531422">装弹速度 4</str>
+  <str key="76531422-ucdt" type="ucdt" originalKey="76531422">裝彈速度 4 級</str>
   <str key="76630086-ucdt" type="ucdt" originalKey="76630086">更正</str>
-  <str key="76673582-ucdt" type="ucdt" originalKey="76673582">擊殺敵人有20%幾率使你和25米內的隊友在4秒內最小射擊散佈角減小30%。此外，每當獲得經驗時有2%幾率觸發此外掛程式。MAX可裝備並觸發此外掛程式，但自身無法享受該收益。</str>
+  <str key="76673582-ucdt" type="ucdt" originalKey="76673582">擊殺敵人有 20% 幾率使你和 25 米內的隊友在 4 秒內最小腰射射擊散布角減小 30%。此外，每當獲得經驗時有 2% 幾率觸發此插件。MAX 可裝備並觸發此插件，但自身無法享受該收益。</str>
   <str key="76689708-ucdt" type="ucdt" originalKey="76689708">對使用者提供更充分的保護，卻並沒有因此而增添負重效果</str>
   <str key="76766646-ucdt" type="ucdt" originalKey="76766646">十</str>
-  <str key="76784329-ucdt" type="ucdt" originalKey="76784329">對決戰鬥底盤 3</str>
-  <str key="76818565-ugdt" type="ugdt" originalKey="76818565">Pirate Flag Armor Decal</str>
+  <str key="76784329-ucdt" type="ucdt" originalKey="76784329">對決戰鬥底盤 3 級</str>
+  <str key="76818565-ugdt" type="ugdt" originalKey="76818565">海盜旗裝甲貼花</str>
   <str key="77039854-ucdt" type="ucdt" originalKey="77039854">使決裂者可以部署成為高級移動基站（AMS——Advanced Mobile Station），高級移動基站可以作為友方士兵的重生點。</str>
   <str key="77122517-ucdt" type="ucdt" originalKey="77122517">彈夾描述</str>
-  <str key="77236289-ucdt" type="ucdt" originalKey="77236289">2014伺服器對抗賽冠軍載具貼花</str>
-  <str key="77237094-ucdt" type="ucdt" originalKey="77237094">刺兒頭護甲貼花</str>
-  <str key="77316264-ugdt" type="ugdt" originalKey="77316264">Engineer's Union Vehicle Decal</str>
+  <str key="77236289-ucdt" type="ucdt" originalKey="77236289">2014 服務器對抗賽冠軍載具貼花</str>
+  <str key="77237094-ucdt" type="ucdt" originalKey="77237094">刺兒頭裝甲貼花</str>
+  <str key="77316264-ugdt" type="ugdt" originalKey="77316264">工程兵聯盟裝甲貼花</str>
   <str key="77333834-ucdt" type="ucdt" originalKey="77333834">[命令]</str>
   <str key="77414759-ucdt" type="ucdt" originalKey="77414759">佔領據點</str>
-  <str key="77424721-ucdt" type="ucdt" originalKey="77424721">高載彈量的TX2 “帝皇” 已在軍隊服役超過200年，是深受地球共和國士兵喜愛的一款佩槍。僅限地球共和國使用。</str>
+  <str key="77424721-ucdt" type="ucdt" originalKey="77424721">高載彈量的 TX2 “帝皇” 已在軍隊服役超過 200 年，是深受地球共和國士兵喜愛的一款佩槍。僅限地球共和國使用。</str>
   <str key="77461363-ucdt" type="ucdt" originalKey="77461363">瓦努主權國醫療兵單兵護盾 等級 1</str>
-  <str key="77527604-ucdt" type="ucdt" originalKey="77527604">炮臺可持續射擊直到過熱的時間延長到9秒。</str>
-  <str key="77576478-ucdt" type="ucdt" originalKey="77576478">還剩[*count*][*name*]可爭取資格77785805	ucdn</str>
-  <str key="78040455-ucdt" type="ucdt" originalKey="78040455">敵方鎖定此載具所需的時間增加1秒，並防止載具在敵人小地圖上被自動偵測到。</str>
-  <str key="78092071-ucdt" type="ucdt" originalKey="78092071">道裡奇倉庫</str>
+  <str key="77527604-ucdt" type="ucdt" originalKey="77527604">炮臺可持續射擊直到過熱的時間延長到 9 秒。</str>
+  <str key="77576478-ucdt" type="ucdt" originalKey="77576478">還剩 [*count*][*name*] 達標</str>
+  <str key="78040455-ucdt" type="ucdt" originalKey="78040455">敵方鎖定此載具所需的時間增加 1 秒，並防止載具在敵人小地圖上被自動偵測到。</str>
+  <str key="78092071-ucdt" type="ucdt" originalKey="78092071">道裏奇倉庫</str>
   <str key="78122174-ucdt" type="ucdt" originalKey="78122174">消音器</str>
-  <str key="78140693-ucdt" type="ucdt" originalKey="78140693">受到來自反坦克地雷的傷害降低71%。</str>
-  <str key="78258609-ucdt" type="ucdt" originalKey="78258609">死神VE70：銀質勳章</str>
-  <str key="78279969-ucdt" type="ucdt" originalKey="78279969">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;你好呀，朋友。你要用这个数据终端来换老东西SPRK-33的短路终端吗？完全没这个必要。不过下次你来买东西的时候我可以给你打个折。但也可能不会。谁知道呢？</str>
-  <str key="78289166-ucdt" type="ucdt" originalKey="78289166">冠军</str>
-  <str key="78333118-ucdt" type="ucdt" originalKey="78333118">H-V45 AE：奧星勳章</str>
-  <str key="78376373-ucdt" type="ucdt" originalKey="78376373">使用者發射的小型爆炸裝置</str>
-  <str key="78477197-ucdt" type="ucdt" originalKey="78477197">為你的護甲添加貼花。僅限新聯邦使用。</str>
+  <str key="78140693-ucdt" type="ucdt" originalKey="78140693">受到來自反坦克地雷的傷害降低 71%。</str>
+  <str key="78258609-ucdt" type="ucdt" originalKey="78258609">VE70 死神：銀質勳章</str>
+  <str key="78279969-ucdt" type="ucdt" originalKey="78279969">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt; 哈，旁友！一塊數據闆，用來替換 SPRK-33 短路的那個？你沒必要這麼做，但是，嘿，下次買東西的時候我可能會給你打個折扣。也許不會。誰知道呢?</str>
+  <str key="78289166-ucdt" type="ucdt" originalKey="78289166">冠軍賽</str>
+  <str key="78333118-ucdt" type="ucdt" originalKey="78333118">H-V45 年度紀念版：奧星勳章</str>
+  <str key="78376373-ucdt" type="ucdt" originalKey="78376373">使用者發射的小型爆炸裝置。</str>
+  <str key="78477197-ucdt" type="ucdt" originalKey="78477197">為你的裝甲添加貼花。僅限新聯邦使用。</str>
   <str key="78496058-ugdt" type="ugdt" originalKey="78496058">SASR-7</str>
   <str key="78602363-ucdt" type="ucdt" originalKey="78602363">附加的合成外飾能幫你的士兵改善形象。僅限新聯邦使用。</str>
-  <str key="78607440-ucdt" type="ucdt" originalKey="78607440">無法在那個地區部署戰略物資。</str>
-  <str key="78761509-ugdt" type="ugdt" originalKey="78761509">Killer Whale Armor Decal</str>
-  <str key="78814891-ucdt" type="ucdt" originalKey="78814891">MANA反載具炮臺：金質勳章</str>
+  <str key="78607440-ucdt" type="ucdt" originalKey="78607440">此地區無法部署戰略物資。</str>
+  <str key="78761509-ugdt" type="ugdt" originalKey="78761509">虎鯨裝甲貼花</str>
+  <str key="78814891-ucdt" type="ucdt" originalKey="78814891">MANA 反載具炮臺：金質勳章</str>
 </root>
