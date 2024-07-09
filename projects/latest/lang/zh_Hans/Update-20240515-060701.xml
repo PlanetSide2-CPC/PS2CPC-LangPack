@@ -1,206 +1,207 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <root>
+  <str key="1688983-ucdt" type="ucdt" originalKey="1688983">捕鱼</str>
+  <str key="54281219-ucdt" type="ucdt" originalKey="54281219">部署一个功能站，为附近 30 米内的友军载具补充弹药。每 60 秒可放置一次。</str>
+  <str key="70021527-ucdt" type="ucdt" originalKey="70021527">部署一个功能站，在激活状态下干扰载具护盾，允许任何载具通过。冷却时间 60 秒。</str>
+  <str key="70606036-ucdt" type="ucdt" originalKey="70606036">每侧可单次抵挡以下类型的伤害：重型爆炸物、反坦克地雷、轻型反载具武器、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头。每个护盾都会独立地随着时间的推移重新生成。 可以通过过量维修的方式加速护盾的生成，其优先顺序为前部、左侧、右侧、后部、顶部和底部。</str>
+  <str key="86676153-ucdt" type="ucdt" originalKey="86676153">将护盾重新生成时间降低至 55 秒</str>
+  <str key="88383849-ucdt" type="ucdt" originalKey="88383849">在部署时生成一个可以吸收伤害的穹顶护盾。 护盾被摧毁前会持续恢复生命值。护盾被摧毁后需要一段时间才能重新生成。</str>
+  <str key="116192337-ucdt" type="ucdt" originalKey="116192337">FIRE SPRSN</str>
+  <str key="215725432-ucdt" type="ucdt" originalKey="215725432">将护盾生命值增加至 3350 点，回复能力提升至 80 点，并将重启延时缩短至 24 秒</str>
+  <str key="221692315-ucdt" type="ucdt" originalKey="221692315">将护盾重新生成时间降低至 45 秒</str>
+  <str key="264654104-ugdt" type="ugdt" originalKey="264654104">工程兵职业贴花</str>
   <str key="312523874-ucdt" type="ucdt" originalKey="312523874">快来抢购会员专属饰品吧！整个 9 月期间均可购买！</str>
+  <str key="319693470-ugdt" type="ugdt" originalKey="319693470">纳能装甲 1 级</str>
+  <str key="349225059-ucdt" type="ucdt" originalKey="349225059">感应雷达 描述</str>
+  <str key="349257834-ucdt" type="ucdt" originalKey="349257834">持续修复决裂者。可通过激活的方式爆发修复一定生命值并扑灭火焰。</str>
   <str key="350808323-ucdt" type="ucdt" originalKey="350808323">快来抢购会员专属饰品吧！整个 12 月期间均可购买！</str>
+  <str key="381295293-ucdt" type="ucdt" originalKey="381295293">点防御 1 级</str>
   <str key="422140288-ucdt" type="ucdt" originalKey="422140288">战斗医疗兵职业横幅边框</str>
   <str key="425291320-ucdt" type="ucdt" originalKey="425291320">工程兵职业背景横幅</str>
+  <str key="427762410-ucdt" type="ucdt" originalKey="427762410">恢复速度提升至每秒 175 点生命值。爆发修复提升至 2625 点。恢复延迟降低至 45 秒，冷却时间降低至 60 秒。</str>
+  <str key="450170597-ucdt" type="ucdt" originalKey="450170597">以每秒 100 点生命值的速度持续修复决裂者。可通过激活的方式爆发修复 1500 点生命值并扑灭火焰，但会在 60 秒内禁用持续修复功能。75 秒后可再次激活</str>
   <str key="455966915-ucdt" type="ucdt" originalKey="455966915">快来抢购会员专属饰品吧！整个 6 月期间均可购买！</str>
+  <str key="460753059-ucdt" type="ucdt" originalKey="460753059">部署一个雷达站，探测附近 40 米内的敌军并与友军共享信息。每 60 秒可放置一次。</str>
+  <str key="463787367-ucdt" type="ucdt" originalKey="463787367">弹速加成提升至 90%，射速加成提升至 30% 并且减少 40% 装弹时间</str>
+  <str key="464017681-ucdt" type="ucdt" originalKey="464017681">护盾干扰器</str>
+  <str key="476788201-ucdt" type="ucdt" originalKey="476788201">感应雷达 1 级</str>
   <str key="582448718-ucdt" type="ucdt" originalKey="582448718">纳能特工飞行员头盔</str>
+  <str key="643231927-ugdt" type="ugdt" originalKey="643231927">纳能特工飞行员头盔</str>
+  <str key="649787409-ucdt" type="ucdt" originalKey="649787409">恢复速度提升至每秒 150点生命值。爆发修复提升至 2250 点。恢复延迟降低至 50 秒，冷却时间降低至 65 秒。</str>
   <str key="663250752-ucdt" type="ucdt" originalKey="663250752">11 月会员礼包 I</str>
+  <str key="665924365-ucdt" type="ucdt" originalKey="665924365">维修站 3 级</str>
+  <str key="666429523-ugdt" type="ugdt" originalKey="666429523">炫目耀眼迷彩</str>
+  <str key="728421781-ucdt" type="ucdt" originalKey="728421781">弹药架 4 级</str>
   <str key="729338770-ucdt" type="ucdt" originalKey="729338770">11 月会员礼包 II</str>
+  <str key="764777687-ucdt" type="ucdt" originalKey="764777687">维修站</str>
   <str key="781817981-ucdt" type="ucdt" originalKey="781817981">2 月会员礼包 I</str>
+  <str key="789827803-ugdt" type="ugdt" originalKey="789827803">头衔：飞行员</str>
+  <str key="839391796-ucdt" type="ucdt" originalKey="839391796">维修站 1 级</str>
+  <str key="866922572-ugdt" type="ugdt" originalKey="866922572">点防御 4 级</str>
+  <str key="890590558-ucdt" type="ucdt" originalKey="890590558">对下列伤害类型的抗性提升：重型爆炸物、反坦克地雷、轻型反载具武器、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头、反器材步枪、空对空导弹</str>
   <str key="923938405-ucdt" type="ucdt" originalKey="923938405">你的阵营未参与进攻，无法获取点数</str>
   <str key="924668836-ucdt" type="ucdt" originalKey="924668836">成就礼包：2024 情人节</str>
+  <str key="951511797-ucdt" type="ucdt" originalKey="951511797">对下列伤害类型的抗性提升 25%：重型爆炸物、反坦克地雷、轻型反载具武器、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头、反器材步枪
+</str>
   <str key="999869936-ucdt" type="ucdt" originalKey="999869936">快来抢购会员专属饰品吧！整个 10 月期间均可购买！</str>
+  <str key="1000861953-ugdt" type="ugdt" originalKey="1000861953">维修站 4 级</str>
+  <str key="1009779382-ucdt" type="ucdt" originalKey="1009779382">强化镀层 1 级</str>
+  <str key="1051532243-ucdt" type="ucdt" originalKey="1051532243">反应装甲 1 级</str>
+  <str key="1096093157-ugdt" type="ugdt" originalKey="1096093157">护盾干扰器 3 级</str>
+  <str key="1261007180-ucdt" type="ucdt" originalKey="1261007180">冷却时间减少至 55 秒</str>
+  <str key="1261022930-ucdt" type="ucdt" originalKey="1261022930">点防御</str>
+  <str key="1263709401-ucdt" type="ucdt" originalKey="1263709401">反应装甲 4 级</str>
+  <str key="1286429053-ucdt" type="ucdt" originalKey="1286429053">将护盾重新生成时间降低至 50 秒</str>
+  <str key="1294396308-ugdt" type="ugdt" originalKey="1294396308">工程兵职业横幅边框</str>
+  <str key="1323615415-ucdt" type="ucdt" originalKey="1323615415">弹速加成提升至 100%，射速加成提升至 40% 并且减少 50% 装弹时间</str>
   <str key="1349566389-ucdt" type="ucdt" originalKey="1349566389">战斗医疗兵职业贴花</str>
   <str key="1363966415-ucdt" type="ucdt" originalKey="1363966415">快来抢购会员专属饰品吧！整个 5 月期间均可购买！</str>
   <str key="1398417838-ucdt" type="ucdt" originalKey="1398417838">NS-44 “精制青金石” 军政委：银质勋章</str>
+  <str key="1399068159-ucdt" type="ucdt" originalKey="1399068159">抗性提升至 40%</str>
+  <str key="1402771484-ucdt" type="ucdt" originalKey="1402771484">抗性提升至 35%</str>
   <str key="1404223508-ucdt" type="ucdt" originalKey="1404223508">NS-44 “精制青金石” 军政委：铜质勋章</str>
+  <str key="1414735876-ugdt" type="ugdt" originalKey="1414735876">部署穹顶 4 级</str>
+  <str key="1482204314-ugdt" type="ugdt" originalKey="1482204314">战斗医疗兵职业背景横幅</str>
+  <str key="1525176265-ugdt" type="ugdt" originalKey="1525176265">纳能装甲 3 级</str>
+  <str key="1553194351-ucdt" type="ucdt" originalKey="1553194351">探测范围提升至 100 米，冷却时间减少至 45 秒。</str>
+  <str key="1553965388-ucdt" type="ucdt" originalKey="1553965388">纳能装甲 3 级</str>
   <str key="1584224741-ucdt" type="ucdt" originalKey="1584224741">所有职业均可穿戴。仅限纳能特工使用。</str>
+  <str key="1592895143-ucdt" type="ucdt" originalKey="1592895143">部署后，武器的弹速提升 70%，射速提升 10%，并且减少 20% 装弹时间，但武器射程缩短 60%</str>
   <str key="1601284633-ucdt" type="ucdt" originalKey="1601284633">NS-44 “精制青金石” 军政委</str>
   <str key="1619855974-ucdt" type="ucdt" originalKey="1619855974">成就礼包：2023 奥星圣诞节</str>
+  <str key="1623000915-ucdt" type="ucdt" originalKey="1623000915">将护盾生命值增加至 4000 点，回复能力提升至 100 点，并将重启延时缩短至 20 秒</str>
+  <str key="1636250314-ugdt" type="ugdt" originalKey="1636250314">弹药架 3 级</str>
+  <str key="1638600239-ucdt" type="ucdt" originalKey="1638600239">部署后，武器的弹速及射速均可获得提升 ，但射程缩短</str>
+  <str key="1638827215-ucdt" type="ucdt" originalKey="1638827215">冷却时间减少至 45 秒</str>
+  <str key="1654219647-ucdt" type="ucdt" originalKey="1654219647">工具电池</str>
+  <str key="1690483668-ugdt" type="ugdt" originalKey="1690483668">塞尔维亚装甲贴花</str>
   <str key="1718869895-ucdt" type="ucdt" originalKey="1718869895">4 月会员礼包 I</str>
+  <str key="1725732132-ugdt" type="ugdt" originalKey="1725732132">部署穹顶 2 级</str>
+  <str key="1745155879-ucdt" type="ucdt" originalKey="1745155879">FIRE SPRSN</str>
+  <str key="1827971227-ucdt" type="ucdt" originalKey="1827971227">将维修速度提升至每秒 150 点生命值，冷却时间减少至 45 秒。</str>
+  <str key="1835427167-ucdt" type="ucdt" originalKey="1835427167">点防御 4 级</str>
   <str key="1837170038-ucdt" type="ucdt" originalKey="1837170038">快来抢购会员专属饰品吧！整个 11 月期间均可购买！</str>
+  <str key="1871331489-ucdt" type="ucdt" originalKey="1871331489">反应装甲</str>
+  <str key="1872727130-ucdt" type="ucdt" originalKey="1872727130">护盾干扰器 1 级</str>
+  <str key="1924994320-ucdt" type="ucdt" originalKey="1924994320">FIRE SPRSN</str>
+  <str key="1935063809-ucdt" type="ucdt" originalKey="1935063809">这款头盔由废旧回收物和灵心巧手打造而成，展现了地面上和海浪下不被暴政束缚的自由斗士之魂。所有职业均可穿戴。仅限新联邦使用。</str>
+  <str key="1958337191-ucdt" type="ucdt" originalKey="1958337191">提升决裂者的护甲值</str>
+  <str key="2014085489-ugdt" type="ugdt" originalKey="2014085489">强化镀层 3 级</str>
+  <str key="2018545228-ugdt" type="ugdt" originalKey="2018545228">反应装甲 3 级</str>
+  <str key="2070963318-ugdt" type="ugdt" originalKey="2070963318">反应装甲 4 级</str>
+  <str key="2092344909-ucdt" type="ucdt" originalKey="2092344909">吸引子</str>
   <str key="2095993698-ucdt" type="ucdt" originalKey="2095993698">获取 “飞行员” 前缀头衔。</str>
+  <str key="2096889647-ucdt" type="ucdt" originalKey="2096889647">维修站 2 级</str>
+  <str key="2102640262-ugdt" type="ugdt" originalKey="2102640262">工程兵职业背景横幅</str>
+  <str key="2107355371-ucdt" type="ucdt" originalKey="2107355371">强化镀层 4 级</str>
   <str key="2117403263-ucdt" type="ucdt" originalKey="2117403263">会员专属</str>
   <str key="2118542614-ucdt" type="ucdt" originalKey="2118542614">纳能集团制造的标准规格飞行员头盔。配备一个兼容大部分飞行器的高级索敌面板。此外，该头盔还有一个先进的辅助呼吸装置，在飞行员失去意识时就会启动。所有职业均可穿戴。所有阵营均可使用该装备。</str>
+  <str key="2124328831-ugdt" type="ugdt" originalKey="2124328831">部署穹顶 3 级</str>
+  <str key="2125004117-ucdt" type="ucdt" originalKey="2125004117">反应装甲 3 级</str>
+  <str key="2125042225-ucdt" type="ucdt" originalKey="2125042225">铸造探头</str>
+  <str key="2201271933-ugdt" type="ugdt" originalKey="2201271933">弹药架 2 级</str>
   <str key="2228561339-ucdt" type="ucdt" originalKey="2228561339">5 月会员礼包 I</str>
+  <str key="2231189245-ucdt" type="ucdt" originalKey="2231189245">弹药架 1 级</str>
   <str key="2257125242-ucdt" type="ucdt" originalKey="2257125242">战斗医疗兵职业背景横幅</str>
+  <str key="2298917927-ugdt" type="ugdt" originalKey="2298917927">纳能装甲 4 级</str>
+  <str key="2303440559-ucdt" type="ucdt" originalKey="2303440559">护盾干扰器 4 级</str>
+  <str key="2316062882-ucdt" type="ucdt" originalKey="2316062882">弹药架 2 级</str>
   <str key="2317230787-ucdt" type="ucdt" originalKey="2317230787">7 月会员礼包 I</str>
   <str key="2324715891-ucdt" type="ucdt" originalKey="2324715891">10 月会员礼包 I</str>
+  <str key="2330093490-ucdt" type="ucdt" originalKey="2330093490">距离增加至 36 米，冷却时间降低至 50 秒</str>
+  <str key="2369101157-ucdt" type="ucdt" originalKey="2369101157">感应雷达 2 级</str>
+  <str key="2373173770-ugdt" type="ugdt" originalKey="2373173770">反应装甲 1 级</str>
   <str key="2389625437-ucdt" type="ucdt" originalKey="2389625437">工程兵职业贴花</str>
+  <str key="2418116274-ucdt" type="ucdt" originalKey="2418116274">维修站 4 级</str>
   <str key="2420008599-ucdt" type="ucdt" originalKey="2420008599">1 月会员礼包 I</str>
+  <str key="2440753610-ugdt" type="ugdt" originalKey="2440753610">护盾干扰器 2 级</str>
   <str key="2449711862-ucdt" type="ucdt" originalKey="2449711862">NS-44 “精制青金石” 军政委：金质勋章</str>
+  <str key="2462362198-ugdt" type="ugdt" originalKey="2462362198">护盾干扰器 1 级</str>
+  <str key="2488251471-ucdt" type="ucdt" originalKey="2488251471">在部署时生成一个最多可吸收 3000 点伤害的穹顶护盾。 护盾被摧毁前以每秒 70 点的速度持续恢复生命值。护盾被摧毁后需要 26 秒才能重新生成。</str>
+  <str key="2500232060-ucdt" type="ucdt" originalKey="2500232060">FIRE SPRSN</str>
   <str key="2540162531-ucdt" type="ucdt" originalKey="2540162531">NS-44 “精制青金石” 军政委：奥星勋章</str>
+  <str key="2615373333-ucdt" type="ucdt" originalKey="2615373333">护盾干扰器 2 级</str>
   <str key="2634775000-ucdt" type="ucdt" originalKey="2634775000">快来抢购会员专属饰品吧！整个 2 月期间均可购买！</str>
   <str key="2639082068-ucdt" type="ucdt" originalKey="2639082068">飞行员</str>
+  <str key="2641904155-ucdt" type="ucdt" originalKey="2641904155">维修站 1 级</str>
+  <str key="2643595004-ucdt" type="ucdt" originalKey="2643595004">强化镀层 3 级</str>
+  <str key="2760450347-ucdt" type="ucdt" originalKey="2760450347">发射者</str>
   <str key="2761884922-ucdt" type="ucdt" originalKey="2761884922">成就礼包：2023 纳能行尸走肉</str>
   <str key="2766876284-ucdt" type="ucdt" originalKey="2766876284">已锁定</str>
   <str key="2769011483-ucdt" type="ucdt" originalKey="2769011483">快来抢购会员专属饰品吧！整个 1 月期间均可购买！</str>
   <str key="2772743014-ucdt" type="ucdt" originalKey="2772743014">12 月会员礼包 I</str>
+  <str key="2773084993-ucdt" type="ucdt" originalKey="2773084993">将维修速度提升至每秒 125 点生命值，冷却时间减少至 50 秒。</str>
+  <str key="2788541609-ugdt" type="ugdt" originalKey="2788541609">点防御 2 级</str>
   <str key="2825753484-ucdt" type="ucdt" originalKey="2825753484">快来抢购会员专属饰品吧！整个 3 月期间均可购买！</str>
+  <str key="2830085328-ucdt" type="ucdt" originalKey="2830085328">感应雷达 3 级</str>
+  <str key="2877656779-ucdt" type="ucdt" originalKey="2877656779">将护盾生命值增加至 3700 点，回复能力提升至 90 点，并将重启延时缩短至 22 秒</str>
+  <str key="2922418186-ugdt" type="ugdt" originalKey="2922418186">点防御 1 级</str>
+  <str key="2937771218-ucdt" type="ucdt" originalKey="2937771218">在部署时生成一个最多可吸收 3000 点伤害的穹顶护盾。 护盾被摧毁前以每秒 70 点的速度持续恢复生命值。护盾被摧毁后需要 26 秒才能重新生成。</str>
   <str key="2965579391-ucdt" type="ucdt" originalKey="2965579391">快来抢购会员专属饰品吧！整个 7 月期间均可购买！</str>
+  <str key="2995194965-ugdt" type="ugdt" originalKey="2995194965">弹药架 4 级</str>
   <str key="3004338695-ucdt" type="ucdt" originalKey="3004338695">限定版 “精制青金石” NS-44 军政委精确左轮手枪，让你光芒闪耀。所有阵营均可使用此武器。</str>
+  <str key="3006249072-ucdt" type="ucdt" originalKey="3006249072">护盾干扰器 3 级</str>
+  <str key="3006800897-ucdt" type="ucdt" originalKey="3006800897">点防御 2 级</str>
+  <str key="3007116602-ucdt" type="ucdt" originalKey="3007116602">NE 扫描仪器</str>
   <str key="3008221407-ucdt" type="ucdt" originalKey="3008221407">快来抢购会员专属饰品吧！整个 4 月期间均可购买！</str>
   <str key="3042955241-ucdt" type="ucdt" originalKey="3042955241">此礼包包含先前成就活动的物品，若你与之前的奖励失之交臂，这次就抓住机会！会员专属。</str>
   <str key="3043449261-ucdt" type="ucdt" originalKey="3043449261">塞尔维亚装甲贴花</str>
+  <str key="3161601329-ucdt" type="ucdt" originalKey="3161601329">冷却时间减少至 50 秒</str>
+  <str key="3166990483-ucdt" type="ucdt" originalKey="3166990483">感应雷达</str>
+  <str key="3167402134-ucdt" type="ucdt" originalKey="3167402134">纳能装甲 4 级</str>
   <str key="3185670906-ucdt" type="ucdt" originalKey="3185670906">9 月会员礼包 I</str>
+  <str key="3186333182-ucdt" type="ucdt" originalKey="3186333182">点防御 3 级</str>
+  <str key="3187867568-ucdt" type="ucdt" originalKey="3187867568">弹药架 3 级</str>
+  <str key="3188811185-ucdt" type="ucdt" originalKey="3188811185">部署一个功能站，在激活状态下干扰载具护盾，允许任何载具通过。</str>
+  <str key="3189438257-ucdt" type="ucdt" originalKey="3189438257">感应雷达</str>
+  <str key="3197022553-ucdt" type="ucdt" originalKey="3197022553">弹速加成提升至 80%，射速加成提升至 20% 并且减少 30% 装弹时间</str>
+  <str key="3263690031-ucdt" type="ucdt" originalKey="3263690031">每侧可单次抵挡以下类型的伤害：重型爆炸物、反坦克地雷、轻型反载具武器、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头。每个护盾都会独立地在 60 秒后重新生成。 可以通过过量维修的方式加速护盾的生成，其优先顺序为前部、左侧、右侧、后部、顶部和底部。</str>
+  <str key="3284122593-ugdt" type="ugdt" originalKey="3284122593">反应装甲 2 级</str>
+  <str key="3310033296-ugdt" type="ugdt" originalKey="3310033296">维修站 3 级</str>
+  <str key="3331102164-ugdt" type="ugdt" originalKey="3331102164">纳能装甲 2 级</str>
   <str key="3339748849-ucdt" type="ucdt" originalKey="3339748849">炫目耀眼迷彩</str>
+  <str key="3346575647-ugdt" type="ugdt" originalKey="3346575647">强化镀层 2 级</str>
+  <str key="3412604591-ugdt" type="ugdt" originalKey="3412604591">强化镀层 4 级</str>
+  <str key="3417647569-ucdt" type="ucdt" originalKey="3417647569">恢复速度提升至每秒 125 点生命值。爆发修复提升至 1875 点。恢复延迟降低至 55 秒，冷却时间降低至 70 秒。</str>
+  <str key="3481247533-ugdt" type="ugdt" originalKey="3481247533">NS-44 “精制青金石” 军政委</str>
+  <str key="3533096689-ugdt" type="ugdt" originalKey="3533096689">部署穹顶 1 级</str>
+  <str key="3555622157-ucdt" type="ucdt" originalKey="3555622157">将维修速度提升至每秒 100 点生命值，冷却时间减少至 55 秒。</str>
+  <str key="3556533572-ucdt" type="ucdt" originalKey="3556533572">纳能装甲 1 级</str>
+  <str key="3593332660-ucdt" type="ucdt" originalKey="3593332660">捕鱼扫描器</str>
+  <str key="3637493653-ugdt" type="ugdt" originalKey="3637493653">维修站 1 级</str>
   <str key="3681265988-ucdt" type="ucdt" originalKey="3681265988">工程兵职业横幅边框</str>
   <str key="3708691911-ucdt" type="ucdt" originalKey="3708691911">快来抢购会员专属饰品吧！整个 8 月期间均可购买！</str>
   <str key="3729368334-ucdt" type="ucdt" originalKey="3729368334">纳能飞行员头盔</str>
+  <str key="3765302135-ugdt" type="ugdt" originalKey="3765302135">纳能飞行员头盔</str>
   <str key="3785633907-ucdt" type="ucdt" originalKey="3785633907">票券</str>
   <str key="3786537799-ucdt" type="ucdt" originalKey="3786537799">3 月会员礼包 I</str>
-  <str key="3824852116-ucdt" type="ucdt" originalKey="3824852116">为纳能特工打造的标准规格飞行员头部组件，配备一个辅助 “黑匣子” 和适配大部分现代飞行器的多种内置传感器和索敌系统。所有职业均可穿戴。仅限纳能特工使用。</str>
-  <str key="3960090957-ucdt" type="ucdt" originalKey="3960090957">8 月会员礼包 I</str>
-  <str key="4110427178-ucdt" type="ucdt" originalKey="4110427178">头衔：飞行员</str>
-  <str key="4149819950-ucdt" type="ucdt" originalKey="4149819950">6 月会员礼包 I</str>
-  <str key="4252428641-ucdt" type="ucdt" originalKey="4252428641">每月会员礼包</str>
-  <str key="264654104-ugdt" type="ugdt" originalKey="264654104">工程兵职业贴花</str>
-  <str key="643231927-ugdt" type="ugdt" originalKey="643231927">纳能特工飞行员头盔</str>
-  <str key="666429523-ugdt" type="ugdt" originalKey="666429523">炫目耀眼迷彩</str>
-  <str key="1690483668-ugdt" type="ugdt" originalKey="1690483668">塞尔维亚装甲贴花</str>
-  <str key="2102640262-ugdt" type="ugdt" originalKey="2102640262">工程兵职业背景横幅</str>
-  <str key="3007116602-ucdt" type="ucdt" originalKey="3007116602">NE 扫描仪器</str>
-  <str key="3765302135-ugdt" type="ugdt" originalKey="3765302135">纳能飞行员头盔</str>
-  <str key="3593332660-ucdt" type="ucdt" originalKey="3593332660">捕鱼扫描器</str>
-  <str key="4037485560-ugdt" type="ugdt" originalKey="4037485560">战斗医疗兵职业横幅边框</str>
-  <str key="4155912241-ugdt" type="ugdt" originalKey="4155912241">战斗医疗兵职业贴花</str>
-  <str key="789827803-ugdt" type="ugdt" originalKey="789827803">头衔：飞行员</str>
-  <str key="1294396308-ugdt" type="ugdt" originalKey="1294396308">工程兵职业横幅边框</str>
-  <str key="1482204314-ugdt" type="ugdt" originalKey="1482204314">战斗医疗兵职业背景横幅</str>
-  <str key="3481247533-ugdt" type="ugdt" originalKey="3481247533">NS-44 “精制青金石” 军政委</str>
-  <str key="1935063809-ucdt" type="ucdt" originalKey="1935063809">这款头盔由废旧回收物和灵心巧手打造而成，展现了地面上和海浪下不被暴政束缚的自由斗士之魂。所有职业均可穿戴。仅限新联邦使用。</str>
-  <str key="1688983-ucdt" type="ucdt" originalKey="1688983">捕鱼</str>
-  <str key="54281219-ucdt" type="ucdt" originalKey="54281219">部署一个功能站，为附近 30 米内的友军载具补充弹药。每 60 秒可放置一次。</str>
-  <str key="70021527-ucdt" type="ucdt" originalKey="70021527">部署一个功能站，在激活状态下干扰载具护盾，允许任何载具通过。冷却时间 60 秒。</str>
-  <str key="86676153-ucdt" type="ucdt" originalKey="86676153">将护盾重新生成时间降低至 55 秒</str>
-  <str key="116192337-ucdt" type="ucdt" originalKey="116192337">FIRE SPRSN</str>
-  <str key="215725432-ucdt" type="ucdt" originalKey="215725432">将护盾生命值增加至 3350 点，回复能力提升至 80 点，并将重启延时缩短至 24 秒</str>
-  <str key="88383849-ucdt" type="ucdt" originalKey="88383849">在部署时生成一个可以吸收伤害的穹顶护盾。 护盾被摧毁前会持续恢复生命值。护盾被摧毁后需要一段时间才能重新生成。</str>
-  <str key="221692315-ucdt" type="ucdt" originalKey="221692315">将护盾重新生成时间降低至 45 秒</str>
-  <str key="349225059-ucdt" type="ucdt" originalKey="349225059">感应雷达 描述</str>
-  <str key="349257834-ucdt" type="ucdt" originalKey="349257834">持续修复决裂者。可通过激活的方式爆发修复一定生命值并扑灭火焰。</str>
-  <str key="427762410-ucdt" type="ucdt" originalKey="427762410">恢复速度提升至每秒 175 点生命值。爆发修复提升至 2625 点。恢复延迟降低至 45 秒，冷却时间降低至 60 秒。</str>
-  <str key="450170597-ucdt" type="ucdt" originalKey="450170597">以每秒 100 点生命值的速度持续修复决裂者。可通过激活的方式爆发修复 1500 点生命值并扑灭火焰，但会在 60 秒内禁用持续修复功能。75 秒后可再次激活</str>
-  <str key="463787367-ucdt" type="ucdt" originalKey="463787367">弹速加成提升至 90%，射速加成提升至 30% 并且减少 40% 装弹时间</str>
-  <str key="460753059-ucdt" type="ucdt" originalKey="460753059">部署一个雷达站，探测附近 40 米内的敌军并与友军共享信息。每 60 秒可放置一次。</str>
-  <str key="381295293-ucdt" type="ucdt" originalKey="381295293">点防御 1 级</str>
-  <str key="319693470-ugdt" type="ugdt" originalKey="319693470">纳能装甲 1 级</str>
-  <str key="464017681-ucdt" type="ucdt" originalKey="464017681">护盾干扰器</str>
-  <str key="476788201-ucdt" type="ucdt" originalKey="476788201">感应雷达 1 级</str>
-  <str key="649787409-ucdt" type="ucdt" originalKey="649787409">恢复速度提升至每秒 150点生命值。爆发修复提升至 2250 点。恢复延迟降低至 50 秒，冷却时间降低至 65 秒。</str>
-  <str key="665924365-ucdt" type="ucdt" originalKey="665924365">维修站 3 级</str>
-  <str key="764777687-ucdt" type="ucdt" originalKey="764777687">维修站</str>
-  <str key="728421781-ucdt" type="ucdt" originalKey="728421781">弹药架 4 级</str>
-  <str key="1096093157-ugdt" type="ugdt" originalKey="1096093157">护盾干扰器 3 级</str>
-  <str key="1261007180-ucdt" type="ucdt" originalKey="1261007180">冷却时间减少至 55 秒</str>
-  <str key="866922572-ugdt" type="ugdt" originalKey="866922572">点防御 4 级</str>
-  <str key="839391796-ucdt" type="ucdt" originalKey="839391796">维修站 1 级</str>
-  <str key="1000861953-ugdt" type="ugdt" originalKey="1000861953">维修站 4 级</str>
-  <str key="951511797-ucdt" type="ucdt" originalKey="951511797">对下列伤害类型的抗性提升 25%：重型爆炸物、反坦克地雷、轻型反载具武器、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头、反器材步枪
-</str>
-  <str key="1009779382-ucdt" type="ucdt" originalKey="1009779382">强化镀层 1 级</str>
-  <str key="1051532243-ucdt" type="ucdt" originalKey="1051532243">反应装甲 1 级</str>
-  <str key="1286429053-ucdt" type="ucdt" originalKey="1286429053">将护盾重新生成时间降低至 50 秒</str>
-  <str key="1261022930-ucdt" type="ucdt" originalKey="1261022930">点防御</str>
-  <str key="1263709401-ucdt" type="ucdt" originalKey="1263709401">反应装甲 4 级</str>
-  <str key="1323615415-ucdt" type="ucdt" originalKey="1323615415">弹速加成提升至 100%，射速加成提升至 40% 并且减少 50% 装弹时间</str>
-  <str key="1553194351-ucdt" type="ucdt" originalKey="1553194351">探测范围提升至 100 米，冷却时间减少至 45 秒。</str>
-  <str key="1399068159-ucdt" type="ucdt" originalKey="1399068159">抗性提升至 40%</str>
-  <str key="1402771484-ucdt" type="ucdt" originalKey="1402771484">抗性提升至 35%</str>
-  <str key="1414735876-ugdt" type="ugdt" originalKey="1414735876">部署穹顶 4 级</str>
-  <str key="1525176265-ugdt" type="ugdt" originalKey="1525176265">纳能装甲 3 级</str>
-  <str key="1553965388-ucdt" type="ucdt" originalKey="1553965388">纳能装甲 3 级</str>
-  <str key="1623000915-ucdt" type="ucdt" originalKey="1623000915">将护盾生命值增加至 4000 点，回复能力提升至 100 点，并将重启延时缩短至 20 秒</str>
-  <str key="1638827215-ucdt" type="ucdt" originalKey="1638827215">冷却时间减少至 45 秒</str>
-  <str key="1872727130-ucdt" type="ucdt" originalKey="1872727130">护盾干扰器 1 级</str>
-  <str key="1835427167-ucdt" type="ucdt" originalKey="1835427167">点防御 4 级</str>
-  <str key="1827971227-ucdt" type="ucdt" originalKey="1827971227">将维修速度提升至每秒 150 点生命值，冷却时间减少至 45 秒。</str>
-  <str key="1636250314-ugdt" type="ugdt" originalKey="1636250314">弹药架 3 级</str>
-  <str key="2014085489-ugdt" type="ugdt" originalKey="2014085489">强化镀层 3 级</str>
-  <str key="1871331489-ucdt" type="ucdt" originalKey="1871331489">反应装甲</str>
-  <str key="1725732132-ugdt" type="ugdt" originalKey="1725732132">部署穹顶 2 级</str>
-  <str key="1638600239-ucdt" type="ucdt" originalKey="1638600239">部署后，武器的弹速及射速均可获得提升 ，但射程缩短</str>
-  <str key="1654219647-ucdt" type="ucdt" originalKey="1654219647">工具电池</str>
-  <str key="1745155879-ucdt" type="ucdt" originalKey="1745155879">FIRE SPRSN</str>
-  <str key="1924994320-ucdt" type="ucdt" originalKey="1924994320">FIRE SPRSN</str>
-  <str key="1958337191-ucdt" type="ucdt" originalKey="1958337191">提升决裂者的护甲值</str>
-  <str key="2070963318-ugdt" type="ugdt" originalKey="2070963318">反应装甲 4 级</str>
-  <str key="2092344909-ucdt" type="ucdt" originalKey="2092344909">吸引子</str>
-  <str key="2096889647-ucdt" type="ucdt" originalKey="2096889647">维修站 2 级</str>
-  <str key="2107355371-ucdt" type="ucdt" originalKey="2107355371">强化镀层 4 级</str>
-  <str key="2125004117-ucdt" type="ucdt" originalKey="2125004117">反应装甲 3 级</str>
-  <str key="2124328831-ugdt" type="ugdt" originalKey="2124328831">部署穹顶 3 级</str>
-  <str key="2303440559-ucdt" type="ucdt" originalKey="2303440559">护盾干扰器 4 级</str>
-  <str key="2440753610-ugdt" type="ugdt" originalKey="2440753610">护盾干扰器 2 级</str>
-  <str key="2462362198-ugdt" type="ugdt" originalKey="2462362198">护盾干扰器 1 级</str>
-  <str key="2369101157-ucdt" type="ucdt" originalKey="2369101157">感应雷达 2 级</str>
-  <str key="2418116274-ucdt" type="ucdt" originalKey="2418116274">维修站 4 级</str>
-  <str key="2201271933-ugdt" type="ugdt" originalKey="2201271933">弹药架 2 级</str>
-  <str key="2231189245-ucdt" type="ucdt" originalKey="2231189245">弹药架 1 级</str>
-  <str key="2316062882-ucdt" type="ucdt" originalKey="2316062882">弹药架 2 级</str>
-  <str key="2330093490-ucdt" type="ucdt" originalKey="2330093490">距离增加至 36 米，冷却时间降低至 50 秒</str>
-  <str key="2373173770-ugdt" type="ugdt" originalKey="2373173770">反应装甲 1 级</str>
-  <str key="2298917927-ugdt" type="ugdt" originalKey="2298917927">纳能装甲 4 级</str>
-  <str key="2125042225-ucdt" type="ucdt" originalKey="2125042225">铸造探头</str>
-  <str key="2615373333-ucdt" type="ucdt" originalKey="2615373333">护盾干扰器 2 级</str>
-  <str key="2877656779-ucdt" type="ucdt" originalKey="2877656779">将护盾生命值增加至 3700 点，回复能力提升至 90 点，并将重启延时缩短至 22 秒</str>
-  <str key="2830085328-ucdt" type="ucdt" originalKey="2830085328">感应雷达 3 级</str>
-  <str key="2788541609-ugdt" type="ugdt" originalKey="2788541609">点防御 2 级</str>
-  <str key="2641904155-ucdt" type="ucdt" originalKey="2641904155">维修站 1 级</str>
-  <str key="2773084993-ucdt" type="ucdt" originalKey="2773084993">将维修速度提升至每秒 125 点生命值，冷却时间减少至 50 秒。</str>
-  <str key="2643595004-ucdt" type="ucdt" originalKey="2643595004">强化镀层 3 级</str>
-  <str key="2488251471-ucdt" type="ucdt" originalKey="2488251471">在部署时生成一个最多可吸收 3000 点伤害的穹顶护盾。 护盾被摧毁前以每秒 70 点的速度持续恢复生命值。护盾被摧毁后需要 26 秒才能重新生成。</str>
-  <str key="2500232060-ucdt" type="ucdt" originalKey="2500232060">FIRE SPRSN</str>
-  <str key="2760450347-ucdt" type="ucdt" originalKey="2760450347">发射者</str>
-  <str key="3006249072-ucdt" type="ucdt" originalKey="3006249072">护盾干扰器 3 级</str>
-  <str key="2922418186-ugdt" type="ugdt" originalKey="2922418186">点防御 1 级</str>
-  <str key="3006800897-ucdt" type="ucdt" originalKey="3006800897">点防御 2 级</str>
-  <str key="2995194965-ugdt" type="ugdt" originalKey="2995194965">弹药架 4 级</str>
-  <str key="2937771218-ucdt" type="ucdt" originalKey="2937771218">在部署时生成一个最多可吸收 3000 点伤害的穹顶护盾。 护盾被摧毁前以每秒 70 点的速度持续恢复生命值。护盾被摧毁后需要 26 秒才能重新生成。</str>
-  <str key="3161601329-ucdt" type="ucdt" originalKey="3161601329">冷却时间减少至 50 秒</str>
-  <str key="3188811185-ucdt" type="ucdt" originalKey="3188811185">部署一个功能站，在激活状态下干扰载具护盾，允许任何载具通过。</str>
-  <str key="3417647569-ucdt" type="ucdt" originalKey="3417647569">恢复速度提升至每秒 125 点生命值。爆发修复提升至 1875 点。恢复延迟降低至 55 秒，冷却时间降低至 70 秒。</str>
-  <str key="3189438257-ucdt" type="ucdt" originalKey="3189438257">感应雷达</str>
-  <str key="3186333182-ucdt" type="ucdt" originalKey="3186333182">点防御 3 级</str>
-  <str key="3310033296-ugdt" type="ugdt" originalKey="3310033296">维修站 3 级</str>
-  <str key="3166990483-ucdt" type="ucdt" originalKey="3166990483">感应雷达</str>
-  <str key="3187867568-ucdt" type="ucdt" originalKey="3187867568">弹药架 3 级</str>
-  <str key="3346575647-ugdt" type="ugdt" originalKey="3346575647">强化镀层 2 级</str>
-  <str key="3412604591-ugdt" type="ugdt" originalKey="3412604591">强化镀层 4 级</str>
-  <str key="3284122593-ugdt" type="ugdt" originalKey="3284122593">反应装甲 2 级</str>
-  <str key="3197022553-ucdt" type="ucdt" originalKey="3197022553">弹速加成提升至 80%，射速加成提升至 20% 并且减少 30% 装弹时间</str>
-  <str key="3533096689-ugdt" type="ugdt" originalKey="3533096689">部署穹顶 1 级</str>
-  <str key="3167402134-ucdt" type="ucdt" originalKey="3167402134">纳能装甲 4 级</str>
-  <str key="3918553844-ugdt" type="ugdt" originalKey="3918553844">点防御 3 级</str>
-  <str key="3637493653-ugdt" type="ugdt" originalKey="3637493653">维修站 1 级</str>
-  <str key="3875379008-ugdt" type="ugdt" originalKey="3875379008">维修站 2 级</str>
   <str key="3807713501-ugdt" type="ugdt" originalKey="3807713501">弹药架 1 级</str>
-  <str key="3958359207-ucdt" type="ucdt" originalKey="3958359207">距离增加至 33 米，冷却时间降低至 55 秒</str>
+  <str key="3824852116-ucdt" type="ucdt" originalKey="3824852116">为纳能特工打造的标准规格飞行员头部组件，配备一个辅助 “黑匣子” 和适配大部分现代飞行器的多种内置传感器和索敌系统。所有职业均可穿戴。仅限纳能特工使用。</str>
   <str key="3838219949-ugdt" type="ugdt" originalKey="3838219949">强化镀层 1 级</str>
-  <str key="3556533572-ucdt" type="ucdt" originalKey="3556533572">纳能装甲 1 级</str>
-  <str key="4130168948-ucdt" type="ucdt" originalKey="4130168948">部署一个雷达站，探测附近的敌军并与友军共享信息。</str>
-  <str key="4112949356-ucdt" type="ucdt" originalKey="4112949356">部署一个功能站，以每秒 75 点生命值的速度维修附近 30 米内的友军载具。每 60 秒可放置一次。</str>
-  <str key="4111980583-ucdt" type="ucdt" originalKey="4111980583">强化镀层 2 级</str>
-  <str key="4116680839-ucdt" type="ucdt" originalKey="4116680839">强化镀层</str>
-  <str key="4039866902-ucdt" type="ucdt" originalKey="4039866902">反应装甲 2 级</str>
-  <str key="3991688636-ucdt" type="ucdt" originalKey="3991688636">抗性提升至 30%</str>
-  <str key="4064550827-ucdt" type="ucdt" originalKey="4064550827">部署穹顶</str>
+  <str key="3875379008-ugdt" type="ugdt" originalKey="3875379008">维修站 2 级</str>
+  <str key="3918553844-ugdt" type="ugdt" originalKey="3918553844">点防御 3 级</str>
+  <str key="3958359207-ucdt" type="ucdt" originalKey="3958359207">距离增加至 33 米，冷却时间降低至 55 秒</str>
+  <str key="3960090957-ucdt" type="ucdt" originalKey="3960090957">8 月会员礼包 I</str>
   <str key="3962902022-ucdt" type="ucdt" originalKey="3962902022">纳能装甲</str>
+  <str key="3991688636-ucdt" type="ucdt" originalKey="3991688636">抗性提升至 30%</str>
   <str key="3996971799-ucdt" type="ucdt" originalKey="3996971799">持续修复决裂者。可通过激活的方式爆发修复一定生命值并扑灭火焰。</str>
+  <str key="4037485560-ugdt" type="ugdt" originalKey="4037485560">战斗医疗兵职业横幅边框</str>
+  <str key="4039866902-ucdt" type="ucdt" originalKey="4039866902">反应装甲 2 级</str>
   <str key="4061467636-ucdt" type="ucdt" originalKey="4061467636">控制探头</str>
-  <str key="4205621219-ugdt" type="ugdt" originalKey="4205621219">护盾干扰器 4 级</str>
+  <str key="4064550827-ucdt" type="ucdt" originalKey="4064550827">部署穹顶</str>
+  <str key="4110427178-ucdt" type="ucdt" originalKey="4110427178">头衔：飞行员</str>
+  <str key="4111980583-ucdt" type="ucdt" originalKey="4111980583">强化镀层 2 级</str>
+  <str key="4112949356-ucdt" type="ucdt" originalKey="4112949356">部署一个功能站，以每秒 75 点生命值的速度维修附近 30 米内的友军载具。每 60 秒可放置一次。</str>
+  <str key="4116680839-ucdt" type="ucdt" originalKey="4116680839">强化镀层</str>
+  <str key="4130168948-ucdt" type="ucdt" originalKey="4130168948">部署一个雷达站，探测附近的敌军并与友军共享信息。</str>
+  <str key="4149819950-ucdt" type="ucdt" originalKey="4149819950">6 月会员礼包 I</str>
+  <str key="4155912241-ugdt" type="ugdt" originalKey="4155912241">战斗医疗兵职业贴花</str>
+  <str key="4162994226-ucdt" type="ucdt" originalKey="4162994226">距离增加至 40 米，冷却时间降低至 45 秒</str>
   <str key="4179293219-ucdt" type="ucdt" originalKey="4179293219">探测范围提升至 80 米，冷却时间减少至 50 秒。</str>
+  <str key="4183859001-ucdt" type="ucdt" originalKey="4183859001">纳能装甲 2 级</str>
   <str key="4184972000-ucdt" type="ucdt" originalKey="4184972000">感应雷达 4 级</str>
   <str key="4197776282-ucdt" type="ucdt" originalKey="4197776282">探测范围提升至 60 米，冷却时间减少至 55 秒。</str>
-  <str key="4162994226-ucdt" type="ucdt" originalKey="4162994226">距离增加至 40 米，冷却时间降低至 45 秒</str>
-  <str key="4183859001-ucdt" type="ucdt" originalKey="4183859001">纳能装甲 2 级</str>
-  <str key="70606036-ucdt" type="ucdt" originalKey="70606036">每侧可单次抵挡以下类型的伤害：重型爆炸物、反坦克地雷、轻型反载具武器、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头。每个护盾都会独立地随着时间的推移重新生成。 可以通过过量维修的方式加速护盾的生成，其优先顺序为前部、左侧、右侧、后部、顶部和底部。</str>
-  <str key="3555622157-ucdt" type="ucdt" originalKey="3555622157">将维修速度提升至每秒 100 点生命值，冷却时间减少至 55 秒。</str>
-  <str key="890590558-ucdt" type="ucdt" originalKey="890590558">对下列伤害类型的抗性提升：重型爆炸物、反坦克地雷、轻型反载具武器、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头、反器材步枪、空对空导弹</str>
-  <str key="2018545228-ugdt" type="ugdt" originalKey="2018545228">反应装甲 3 级</str>
-  <str key="3331102164-ugdt" type="ugdt" originalKey="3331102164">纳能装甲 2 级</str>
-  <str key="1592895143-ucdt" type="ucdt" originalKey="1592895143">部署后，武器的弹速提升 70%，射速提升 10%，并且减少 20% 装弹时间，但武器射程缩短 60%</str>
-  <str key="3263690031-ucdt" type="ucdt" originalKey="3263690031">每侧可单次抵挡以下类型的伤害：重型爆炸物、反坦克地雷、轻型反载具武器、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头。每个护盾都会独立地在 60 秒后重新生成。 可以通过过量维修的方式加速护盾的生成，其优先顺序为前部、左侧、右侧、后部、顶部和底部。</str>
+  <str key="4205621219-ugdt" type="ugdt" originalKey="4205621219">护盾干扰器 4 级</str>
+  <str key="4252428641-ucdt" type="ucdt" originalKey="4252428641">每月会员礼包</str>
 </root>
