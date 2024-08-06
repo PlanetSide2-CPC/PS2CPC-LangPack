@@ -4,12 +4,12 @@
   <str key="1688983-ucdt" type="ucdt" originalKey="1688983">Fishing</str>
   <str key="54281219-ucdt" type="ucdt" originalKey="54281219">Deploys an ammo tower that replenishes ammo to nearby friendly vehicles for 40 meters.  Can be dropped once every 60 seconds.</str>
   <str key="70021527-ucdt" type="ucdt" originalKey="70021527">Deploys a cargo device that grants Gate Diffuser to nearby friendly vehicles, allowing them to pass through.  60 second cooldown</str>
-  <str key="70606036-ucdt" type="ucdt" originalKey="70606036">Stops a single instance of damage per side from the following types; Heavy Explosive, Tank Mine, Light Anti-Vehicle, Infantry Rocket Launchers, Infantry Lock-on, Tank Shells, Air-to-Ground Warheads.  Each shield regenerates independantly over time.  Regeneration can be sped up by overhealing the Sunderer which is applied to the shields in this order; Front, Left, Right, Rear, Top, Bottom</str>
-  <str key="86676153-ucdt" type="ucdt" originalKey="86676153">Stops damage from the following types; Heavy Explosive, Tank Mine, Light Anti-Vehicle, Infantry Rocket Launchers, Infantry Lock-on, Tank Shells, Air-to-Ground Warheads.  Each armor plate activates and regenerates independently, reactivating in 55 seconds.  Regeneration can be sped up by overhealing the Sunderer, applying in order; Front, Left, Right, Rear, Top</str>
+  <str key="70606036-ucdt" type="ucdt" originalKey="70606036">Stops a single instance of damage per side from the following types; Heavy Explosive, Tank Mine, Light Anti-Vehicle, Infantry Rocket Launchers, Infantry Lock-on, Tank Shells, Air-to-Ground Warheads.  Each shield regenerates independantly over time.  Regeneration can be speed up by overhealing the Sunderer which is applied to the shields in this order; Front, Left, Right, Rear, Top, Bottom</str>
+  <str key="86676153-ucdt" type="ucdt" originalKey="86676153">Stops damage from the following types; Heavy Explosive, Tank Mine, Light Anti-Vehicle, Infantry Rocket Launchers, Infantry Lock-on, Tank Shells, Air-to-Ground Warheads.  Each armor plate activates and regenerates independently, reactivating in 37 seconds.  Regeneration can be speed up by overhealing the Sunderer, applying in order; Front, Left, Right, Rear, Top</str>
   <str key="88383849-ucdt" type="ucdt" originalKey="88383849">Creates a dome shield when deployed that will absorb damage.  The shield regenerates constant health until it is destroyed.  After being destroyed it will take time to reboot.</str>
   <str key="116192337-ucdt" type="ucdt" originalKey="116192337">FIRE SPRSN</str>
   <str key="215725432-ucdt" type="ucdt" originalKey="215725432">Creates a shield dome when deployed that will absorb up to 3350 damage.  The shield regenerates 80 health per second until it is destroyed.  After being destroyed it will take 24 seconds to reboot.</str>
-  <str key="221692315-ucdt" type="ucdt" originalKey="221692315">Stops damage from the following types; Heavy Explosive, Tank Mine, Light Anti-Vehicle, Infantry Rocket Launchers, Infantry Lock-on, Tank Shells, Air-to-Ground Warheads.  Each armor plate activates and regenerates independently, reactivating in 45 seconds.  Regeneration can be sped up by overhealing the Sunderer, applying in order; Front, Left, Right, Rear, Top</str>
+  <str key="221692315-ucdt" type="ucdt" originalKey="221692315">Stops damage from the following types; Heavy Explosive, Tank Mine, Light Anti-Vehicle, Infantry Rocket Launchers, Infantry Lock-on, Tank Shells, Air-to-Ground Warheads.  Each armor plate activates and regenerates independently, reactivating in 30 seconds.  Regeneration can be speed up by overhealing the Sunderer, applying in order; Front, Left, Right, Rear, Top</str>
   <str key="264654104-ugdt" type="ugdt" originalKey="264654104">Engineer Class Decal</str>
   <str key="312523874-ucdt" type="ucdt" originalKey="312523874">Snag these Member Only cosmetics for your character! Available all through September!</str>
   <str key="319693470-ugdt" type="ugdt" originalKey="319693470">Nanite Armor 1</str>
@@ -19,8 +19,8 @@
   <str key="381295293-ucdt" type="ucdt" originalKey="381295293">Point Defense 1</str>
   <str key="422140288-ucdt" type="ucdt" originalKey="422140288">Combat Medic Class Banner Frame</str>
   <str key="425291320-ucdt" type="ucdt" originalKey="425291320">Engineer Class Banner</str>
-  <str key="427762410-ucdt" type="ucdt" originalKey="427762410">Constantly repairs the sunderer for 140 hp/s.  Can be activated to burst repair 2525 health and extinguish fires. Passive repair is disabled for the 45 second cooldown.</str>
-  <str key="450170597-ucdt" type="ucdt" originalKey="450170597">Constantly repairs the sunderer for 90 hp/s.  Can be activated to burst repair 1610 health and extinguish fires. Passive repair is disabled for the 60 second cooldown.</str>
+  <str key="427762410-ucdt" type="ucdt" originalKey="427762410">Constantly repairs the sunderer for 90 hp/s.  Can be activated to burst repair 2525 health and extinguish fires. Passive repair is disabled for the 50 second cooldown.</str>
+  <str key="450170597-ucdt" type="ucdt" originalKey="450170597">Constantly repairs the sunderer for 58 hp/s.  Can be activated to burst repair 1610 health and extinguish fires. Passive repair is disabled for the 65 second cooldown.</str>
   <str key="455966915-ucdt" type="ucdt" originalKey="455966915">Snag these Member Only cosmetics for your character! Available all through June!</str>
   <str key="460753059-ucdt" type="ucdt" originalKey="460753059">Passively detects nearby enemies for 20 meters while mounted. Activate to deploy a RADAR with a 60 meter range on a 60 second cooldown.</str>
   <str key="463787367-ucdt" type="ucdt" originalKey="463787367">When deployed improves weapon fire rate by 15%, projectile speed by 20%, and reduces reload time by 40%, but reduces weapon range by 60%</str>
@@ -28,7 +28,7 @@
   <str key="476788201-ucdt" type="ucdt" originalKey="476788201">Scout Radar 1</str>
   <str key="582448718-ucdt" type="ucdt" originalKey="582448718">NSO Aviator Helmet</str>
   <str key="643231927-ugdt" type="ugdt" originalKey="643231927">NSO Aviator Helmet</str>
-  <str key="649787409-ucdt" type="ucdt" originalKey="649787409">Constantly repairs the sunderer for 125 hp/s.  Can be activated to burst repair 2220 health and extinguish fires. Passive repair is disabled for the 50 second cooldown.</str>
+  <str key="649787409-ucdt" type="ucdt" originalKey="649787409">Constantly repairs the sunderer for 80 hp/s.  Can be activated to burst repair 2220 health and extinguish fires. Passive repair is disabled for the 55 second cooldown.</str>
   <str key="663250752-ucdt" type="ucdt" originalKey="663250752">November Members Bundle I</str>
   <str key="665924365-ucdt" type="ucdt" originalKey="665924365">Repair Station 3</str>
   <str key="666429523-ugdt" type="ugdt" originalKey="666429523">Razzle Dazzle Camo</str>
@@ -51,7 +51,7 @@
   <str key="1261007180-ucdt" type="ucdt" originalKey="1261007180">Deploys a cargo device that grants Gate Diffuser to nearby friendly vehicles, allowing them to pass through.  55 second cooldown</str>
   <str key="1261022930-ucdt" type="ucdt" originalKey="1261022930">Point Defense</str>
   <str key="1263709401-ucdt" type="ucdt" originalKey="1263709401">Reactive Armor 4</str>
-  <str key="1286429053-ucdt" type="ucdt" originalKey="1286429053">Stops damage from the following types; Heavy Explosive, Tank Mine, Light Anti-Vehicle, Infantry Rocket Launchers, Infantry Lock-on, Tank Shells, Air-to-Ground Warheads.  Each armor plate activates and regenerates independently, reactivating in 50 seconds.  Regeneration can be sped up by overhealing the Sunderer, applying in order; Front, Left, Right, Rear, Top</str>
+  <str key="1286429053-ucdt" type="ucdt" originalKey="1286429053">Stops damage from the following types; Heavy Explosive, Tank Mine, Light Anti-Vehicle, Infantry Rocket Launchers, Infantry Lock-on, Tank Shells, Air-to-Ground Warheads.  Each armor plate activates and regenerates independently, reactivating in 34 seconds.  Regeneration can be speed up by overhealing the Sunderer, applying in order; Front, Left, Right, Rear, Top</str>
   <str key="1294396308-ugdt" type="ugdt" originalKey="1294396308">Engineer Class Banner Frame</str>
   <str key="1323615415-ucdt" type="ucdt" originalKey="1323615415">When deployed improves weapon fire rate by 20%, projectile speed by 20%, and reduces reload time by 50%, but reduces weapon range by 60%</str>
   <str key="1349566389-ucdt" type="ucdt" originalKey="1349566389">Combat Medic Class Decal</str>
@@ -84,7 +84,7 @@
   <str key="1871331489-ucdt" type="ucdt" originalKey="1871331489">Reactive Armor</str>
   <str key="1872727130-ucdt" type="ucdt" originalKey="1872727130">Shield Disruptor 1</str>
   <str key="1924994320-ucdt" type="ucdt" originalKey="1924994320">FIRE SPRSN</str>
-  <str key="1935063809-ucdt" type="ucdt" originalKey="1935063809">Crafted with salvaged materials and ingenuity, this helmet reflects the spirit of freedom fighters who refuse to be shackled by tyranny, whether on land or beneath the waves. Wearable by all classes. NC use only.</str>
+  <str key="1935063809-ucdt" type="ucdt" originalKey="1935063809">Crafted with salvaged materials and ingenuity, this helmet reflects the spirit of freedom fighters who refuse to be shackled by tyranny, whether on land or beneath the waves.&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Wearable by all classes. NC use only.&lt;/font&gt;</str>
   <str key="1958337191-ucdt" type="ucdt" originalKey="1958337191">Increases armor values for the sunderer</str>
   <str key="2014085489-ugdt" type="ugdt" originalKey="2014085489">Enhanced Plating 3</str>
   <str key="2018545228-ugdt" type="ugdt" originalKey="2018545228">Reactive Armor 3</str>
@@ -155,14 +155,14 @@
   <str key="3188811185-ucdt" type="ucdt" originalKey="3188811185">Deploys a cargo device that grants Gate Diffuser to nearby friendly vehicles, allowing them to pass through.</str>
   <str key="3189438257-ucdt" type="ucdt" originalKey="3189438257">Scout Radar</str>
   <str key="3197022553-ucdt" type="ucdt" originalKey="3197022553">When deployed improves weapon fire rate by 10%, projectile speed by 20%, and reduces reload time by 30%, but reduces weapon range by 60%</str>
-  <str key="3263690031-ucdt" type="ucdt" originalKey="3263690031">Stops damage from the following types; Heavy Explosive, Tank Mine, Light Anti-Vehicle, Infantry Rocket Launchers, Infantry Lock-on, Tank Shells, Air-to-Ground Warheads.  Each armor plate activates and regenerates independently, reactivating in 60 seconds.  Regeneration can be sped up by overhealing the Sunderer, applying in order; Front, Left, Right, Rear, Top</str>
+  <str key="3263690031-ucdt" type="ucdt" originalKey="3263690031">Stops damage from the following types; Heavy Explosive, Tank Mine, Light Anti-Vehicle, Infantry Rocket Launchers, Infantry Lock-on, Tank Shells, Air-to-Ground Warheads.  Each armor plate activates and regenerates independently, reactivating in 40 seconds.  Regeneration can be speed up by overhealing the Sunderer, applying in order; Front, Left, Right, Rear, Top</str>
   <str key="3284122593-ugdt" type="ugdt" originalKey="3284122593">Reactive Armor 2</str>
   <str key="3310033296-ugdt" type="ugdt" originalKey="3310033296">Repair Station 3</str>
   <str key="3331102164-ugdt" type="ugdt" originalKey="3331102164">Nanite Armor 2</str>
   <str key="3339748849-ucdt" type="ucdt" originalKey="3339748849">Razzle Dazzle Camo</str>
   <str key="3346575647-ugdt" type="ugdt" originalKey="3346575647">Enhanced Plating 2</str>
   <str key="3412604591-ugdt" type="ugdt" originalKey="3412604591">Enhanced Plating 4</str>
-  <str key="3417647569-ucdt" type="ucdt" originalKey="3417647569">Constantly repairs the sunderer for 105 hp/s.  Can be activated to burst repair 1915 health and extinguish fires. Passive repair is disabled for the 55 second cooldown.</str>
+  <str key="3417647569-ucdt" type="ucdt" originalKey="3417647569">Constantly repairs the sunderer for 68 hp/s.  Can be activated to burst repair 1915 health and extinguish fires. Passive repair is disabled for the 60 second cooldown.</str>
   <str key="3481247533-ugdt" type="ugdt" originalKey="3481247533">NS-44 "Primed Lapis" Commissioner</str>
   <str key="3533096689-ugdt" type="ugdt" originalKey="3533096689">Deploy Dome 1</str>
   <str key="3555622157-ucdt" type="ucdt" originalKey="3555622157">Passively repairs, non-sunderer, vehicles within 20m for 23 hp/s.  Activate to deploy a station that repairs 115hp/s to vehicles within 35m with a cooldown of 70s.  Sunderers recieve reduced repair from deployed stations and none from undeployed.</str>
