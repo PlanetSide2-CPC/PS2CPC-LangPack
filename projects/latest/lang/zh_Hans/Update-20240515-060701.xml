@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <str key="1688983-ucdt" type="ucdt" originalKey="1688983">捕鱼</str>
   <str key="54281219-ucdt" type="ucdt" originalKey="54281219">部署一个弹药架，为附近 40 米内的友方载具补充弹药。每 60 秒可放置一次。</str>
   <str key="70021527-ucdt" type="ucdt" originalKey="70021527">部署一个运载设备，为附近的友方载具提供防护门力场分解器，允许他们通过防护门。部署冷却时间为 60 秒</str>
   <str key="70606036-ucdt" type="ucdt" originalKey="70606036">每侧可抵挡一次以下类型的伤害：重型爆炸物、反坦克地雷、轻型反载具武器、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头。每个护盾都会独立地随时间重新生成。 满血继续维修可以加速护盾的生成，其优先顺序为前部、左侧、右侧、后部、顶部和底部</str>
-  <str key="86676153-ucdt" type="ucdt" originalKey="86676153">抵挡以下类型的伤害：重型爆炸物、反坦克地雷、轻型反载具伤害、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头。每个部位的装甲板独立激活和再生，所需时间为 55 秒。满血继续维修可以加速装甲板的生成，其优先顺序为前部、左侧、右侧、后部、顶部</str>
+  <str key="86676153-ucdt" type="ucdt" originalKey="86676153">抵挡以下类型的伤害：重型爆炸物、反坦克地雷、轻型反载具伤害、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头。每个部位的装甲板独立激活和再生，所需时间为 37 秒。满血继续维修可以加速装甲板的生成，其优先顺序为前部、左侧、右侧、后部、顶部</str>
   <str key="88383849-ucdt" type="ucdt" originalKey="88383849">在部署时展开一面可以吸收伤害的穹顶护盾。在穹顶护盾被完全摧毁前可持续恢复生命值。在被完全摧毁后，穹顶护盾需要花费一定时间重新生成。</str>
   <str key="116192337-ucdt" type="ucdt" originalKey="116192337">FIRE SPRSN</str>
   <str key="215725432-ucdt" type="ucdt" originalKey="215725432">在部署时展开一面穹顶护盾，穹顶护盾可以吸收最多 3350 点伤害。在穹顶护盾被完全摧毁前，每秒钟可以恢复 80 点生命值。在被完全摧毁后，穹顶护盾需要 24 秒的时间重新生成。</str>
-  <str key="221692315-ucdt" type="ucdt" originalKey="221692315">抵挡以下类型的伤害：重型爆炸物、反坦克地雷、轻型反载具伤害、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头。每个部位的装甲板独立激活和再生，所需时间为 45 秒。满血继续维修可以加速装甲板的生成，其优先顺序为前部、左侧、右侧、后部、顶部</str>
+  <str key="221692315-ucdt" type="ucdt" originalKey="221692315">抵挡以下类型的伤害：重型爆炸物、反坦克地雷、轻型反载具伤害、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头。每个部位的装甲板独立激活和再生，所需时间为 30 秒。满血继续维修可以加速装甲板的生成，其优先顺序为前部、左侧、右侧、后部、顶部</str>
   <str key="264654104-ugdt" type="ugdt" originalKey="264654104">工程兵职业贴花</str>
   <str key="312523874-ucdt" type="ucdt" originalKey="312523874">快来为你的角色抢购会员专属饰品吧！整个 9 月期间均可购买！</str>
   <str key="319693470-ugdt" type="ugdt" originalKey="319693470">纳能装甲 1 级</str>
@@ -19,8 +18,8 @@
   <str key="381295293-ucdt" type="ucdt" originalKey="381295293">点防御 1 级</str>
   <str key="422140288-ucdt" type="ucdt" originalKey="422140288">战斗医疗兵职业横幅边框</str>
   <str key="425291320-ucdt" type="ucdt" originalKey="425291320">工程兵职业背景横幅</str>
-  <str key="427762410-ucdt" type="ucdt" originalKey="427762410">以每秒 165 点生命值的速度持续修理决裂者。激活后将爆发修复 2970 点生命值并且将载具起火扑灭。被动修复将进入 45 秒的冷却时间。</str>
-  <str key="450170597-ucdt" type="ucdt" originalKey="450170597">以每秒 105 点生命值的速度持续修理决裂者。激活后将爆发修复 1890 点生命值并且将载具起火扑灭。被动修复将进入 60 秒的冷却时间。</str>
+  <str key="427762410-ucdt" type="ucdt" originalKey="427762410">以每秒 90 点生命值的速度持续修理决裂者。激活后将爆发修复 2525 点生命值并且将载具起火扑灭。被动修复将进入 50 秒的冷却时间。</str>
+  <str key="450170597-ucdt" type="ucdt" originalKey="450170597">以每秒 58 点生命值的速度持续修理决裂者。激活后将爆发修复 1610 点生命值并且将载具起火扑灭。被动修复将进入 65 秒的冷却时间。</str>
   <str key="455966915-ucdt" type="ucdt" originalKey="455966915">快来为你的角色抢购会员专属饰品吧！整个 6 月期间均可购买！</str>
   <str key="460753059-ucdt" type="ucdt" originalKey="460753059">挂载后会被动探测附近 20 米内的敌军。激活后将部署一个侦测范围达 60 米的雷达。部署冷却时间为 60 秒。</str>
   <str key="463787367-ucdt" type="ucdt" originalKey="463787367">部署后，提高武器 15% 的射速、20% 弹速，并降低 40% 的武器装弹时间。但武器射程将下降 60%</str>
@@ -28,7 +27,7 @@
   <str key="476788201-ucdt" type="ucdt" originalKey="476788201">侦察雷达 1 级</str>
   <str key="582448718-ucdt" type="ucdt" originalKey="582448718">纳能特工飞行员头盔</str>
   <str key="643231927-ugdt" type="ugdt" originalKey="643231927">纳能特工飞行员头盔</str>
-  <str key="649787409-ucdt" type="ucdt" originalKey="649787409">以每秒 145 点生命值的速度持续修理决裂者。激活后将爆发修复 2610 点生命值并且将载具起火扑灭。被动修复将进入 50 秒的冷却时间。</str>
+  <str key="649787409-ucdt" type="ucdt" originalKey="649787409">以每秒 80 点生命值的速度持续修理决裂者。激活后将爆发修复 2220 点生命值并且将载具起火扑灭。被动修复将进入 55 秒的冷却时间。</str>
   <str key="663250752-ucdt" type="ucdt" originalKey="663250752">11 月会员礼包 I</str>
   <str key="665924365-ucdt" type="ucdt" originalKey="665924365">维修站 3 级</str>
   <str key="666429523-ugdt" type="ugdt" originalKey="666429523">炫目耀眼迷彩</str>
@@ -51,7 +50,7 @@
   <str key="1261007180-ucdt" type="ucdt" originalKey="1261007180">部署一个运载设备，为附近的友方载具提供防护门力场分解器，允许他们通过防护门。部署冷却时间为 55 秒</str>
   <str key="1261022930-ucdt" type="ucdt" originalKey="1261022930">点防御</str>
   <str key="1263709401-ucdt" type="ucdt" originalKey="1263709401">反应装甲 4 级</str>
-  <str key="1286429053-ucdt" type="ucdt" originalKey="1286429053">抵挡以下类型的伤害：重型爆炸物、反坦克地雷、轻型反载具伤害、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头。每个部位的装甲板独立激活和再生，所需时间为 50 秒。满血继续维修可以加速装甲板的生成，其优先顺序为前部、左侧、右侧、后部、顶部</str>
+  <str key="1286429053-ucdt" type="ucdt" originalKey="1286429053">抵挡以下类型的伤害：重型爆炸物、反坦克地雷、轻型反载具伤害、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头。每个部位的装甲板独立激活和再生，所需时间为 34 秒。满血继续维修可以加速装甲板的生成，其优先顺序为前部、左侧、右侧、后部、顶部</str>
   <str key="1294396308-ugdt" type="ugdt" originalKey="1294396308">工程兵职业横幅边框</str>
   <str key="1323615415-ucdt" type="ucdt" originalKey="1323615415">部署后，提高武器 20% 的射速、20% 弹速，并降低 50% 的武器装弹时间。但武器射程将下降 60%</str>
   <str key="1349566389-ucdt" type="ucdt" originalKey="1349566389">战斗医疗兵职业贴花</str>
@@ -84,7 +83,7 @@
   <str key="1871331489-ucdt" type="ucdt" originalKey="1871331489">反应装甲</str>
   <str key="1872727130-ucdt" type="ucdt" originalKey="1872727130">护盾干扰器 1 级</str>
   <str key="1924994320-ucdt" type="ucdt" originalKey="1924994320">FIRE SPRSN</str>
-  <str key="1935063809-ucdt" type="ucdt" originalKey="1935063809">这款头盔由废旧回收物和灵心巧手打造而成，展现了无论是地面上还是海浪下都不被暴政束缚的自由斗士之魂。所有职业均可穿戴。仅限新联邦使用。</str>
+  <str key="1935063809-ucdt" type="ucdt" originalKey="1935063809">这款头盔由废旧回收物和灵心巧手打造而成，展现了无论是地面上还是海浪下都不被暴政束缚的自由斗士之魂。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;所有职业均可穿戴。仅限新联邦使用。&lt;/font&gt;</str>
   <str key="1958337191-ucdt" type="ucdt" originalKey="1958337191">提升决裂者的护甲值</str>
   <str key="2014085489-ugdt" type="ugdt" originalKey="2014085489">强化镀层 3 级</str>
   <str key="2018545228-ugdt" type="ugdt" originalKey="2018545228">反应装甲 3 级</str>
@@ -155,14 +154,14 @@
   <str key="3188811185-ucdt" type="ucdt" originalKey="3188811185">部署一个运载设备，为附近的友方载具提供防护门力场分解器，允许他们通过防护门。</str>
   <str key="3189438257-ucdt" type="ucdt" originalKey="3189438257">侦察雷达</str>
   <str key="3197022553-ucdt" type="ucdt" originalKey="3197022553">部署后，提高武器 10% 的射速、20% 弹速，并降低 30% 的武器装弹时间。但武器射程将下降 60%</str>
-  <str key="3263690031-ucdt" type="ucdt" originalKey="3263690031">抵挡以下类型的伤害：重型爆炸物、反坦克地雷、轻型反载具伤害、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头。每个部位的装甲板独立激活和再生，所需时间为 60 秒。满血继续维修可以加速装甲板的生成，其优先顺序为前部、左侧、右侧、后部、顶部</str>
+  <str key="3263690031-ucdt" type="ucdt" originalKey="3263690031">抵挡以下类型的伤害：重型爆炸物、反坦克地雷、轻型反载具伤害、步兵火箭发射器、步兵锁定武器、坦克炮弹、空对地弹头。每个部位的装甲板独立激活和再生，所需时间为 40 秒。满血继续维修可以加速装甲板的生成，其优先顺序为前部、左侧、右侧、后部、顶部</str>
   <str key="3284122593-ugdt" type="ugdt" originalKey="3284122593">反应装甲 2 级</str>
   <str key="3310033296-ugdt" type="ugdt" originalKey="3310033296">维修站 3 级</str>
   <str key="3331102164-ugdt" type="ugdt" originalKey="3331102164">纳能装甲 2 级</str>
   <str key="3339748849-ucdt" type="ucdt" originalKey="3339748849">炫目耀眼迷彩</str>
   <str key="3346575647-ugdt" type="ugdt" originalKey="3346575647">强化镀层 2 级</str>
   <str key="3412604591-ugdt" type="ugdt" originalKey="3412604591">强化镀层 4 级</str>
-  <str key="3417647569-ucdt" type="ucdt" originalKey="3417647569">以每秒 125 点生命值的速度持续修理决裂者。激活后将爆发修复 2250 点生命值并且将载具起火扑灭。被动修复将进入 55 秒的冷却时间。</str>
+  <str key="3417647569-ucdt" type="ucdt" originalKey="3417647569">以每秒 68 点生命值的速度持续修理决裂者。激活后将爆发修复 1915 点生命值并且将载具起火扑灭。被动修复将进入 60 秒的冷却时间。</str>
   <str key="3481247533-ugdt" type="ugdt" originalKey="3481247533">NS-44 “精制青金石” 军政委</str>
   <str key="3533096689-ugdt" type="ugdt" originalKey="3533096689">部署穹顶 1 级</str>
   <str key="3555622157-ucdt" type="ucdt" originalKey="3555622157">以每秒 23 点生命值的速度被动修复 20 米内除决裂者以外的受损载具。 激活后可部署一个维修站，以每秒 115 点生命值的速度修复 35 米内的载具，冷却时间为 70 秒。 已部署的维修站对决裂者的维修效果减弱，而未部署的维修站无法对决裂者进行维修。</str>
